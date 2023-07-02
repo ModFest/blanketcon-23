@@ -1,0 +1,13 @@
+name = "Styled Sidebars"
+filename = "styled-sidebars-1.1.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3iuae0OP/versions/GcXsMF3z/styled-sidebars-1.1.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "e3d154730d399c8dbf8da695005df94d474132af"
+
+[update]
+[update.modrinth]
+mod-id = "3iuae0OP"
+version = "GcXsMF3z"

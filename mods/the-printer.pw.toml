@@ -1,0 +1,13 @@
+name = "The Printer"
+filename = "theprinter-1.4.1-HOTFIX.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u8LBQOAl/versions/GiFE1C1H/theprinter-1.4.1-HOTFIX.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "04783de9dde981744f9cfb14711db4ebaf032942"
+
+[update]
+[update.modrinth]
+mod-id = "u8LBQOAl"
+version = "GiFE1C1H"

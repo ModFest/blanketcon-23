@@ -1,0 +1,13 @@
+name = "Bovines and Buttercups (Mooblooms)"
+filename = "Bovines-And-Buttercups-Quilt-1.6.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BDg6nMn3/versions/YcRSOLym/Bovines-And-Buttercups-Quilt-1.6.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "3bfa58581ebe2bc2632e4e0dade1d4383bb308af"
+
+[update]
+[update.modrinth]
+mod-id = "BDg6nMn3"
+version = "YcRSOLym"

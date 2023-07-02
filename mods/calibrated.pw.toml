@@ -1,0 +1,13 @@
+name = "Calibrated Access"
+filename = "calibrated-1.2.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pUSRRdVF/versions/xYOShFcz/calibrated-1.2.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "1270bf3243700bfbff772661e236c5f2ac8794b6"
+
+[update]
+[update.modrinth]
+mod-id = "pUSRRdVF"
+version = "xYOShFcz"

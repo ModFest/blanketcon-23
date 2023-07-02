@@ -1,0 +1,13 @@
+name = "Advanced Networking"
+filename = "advanced-networking-2.0.0+mc.1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IF0Y4xFw/versions/gRWLyoS9/advanced-networking-2.0.0%2Bmc.1.20.1.jar"
+hash-format = "sha1"
+hash = "b89245eaff16040128ab181be9135402e683bd25"
+
+[update]
+[update.modrinth]
+mod-id = "IF0Y4xFw"
+version = "gRWLyoS9"

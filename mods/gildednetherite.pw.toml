@@ -1,0 +1,13 @@
+name = "Gilded Netherite"
+filename = "GildedNetherite-2.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/14Z3YVAP/versions/D0xyqXqN/GildedNetherite-2.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "d0ebba0c9baa7355334703a87093555a1999dae6"
+
+[update]
+[update.modrinth]
+mod-id = "14Z3YVAP"
+version = "D0xyqXqN"

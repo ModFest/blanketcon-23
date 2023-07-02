@@ -1,0 +1,13 @@
+name = "Ochetgenyo"
+filename = "ochetgenyo-1.2.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a4dha7eM/versions/aMEiNETI/ochetgenyo-1.2.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "47e48eebc24d45d76b97355a525534214f6f55ee"
+
+[update]
+[update.modrinth]
+mod-id = "a4dha7eM"
+version = "aMEiNETI"

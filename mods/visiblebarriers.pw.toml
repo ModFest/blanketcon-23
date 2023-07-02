@@ -1,0 +1,13 @@
+name = "Visible Barriers"
+filename = "visible-barriers-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ajdfGxGU/versions/ro7MjqJm/visible-barriers-2.0.4.jar"
+hash-format = "sha1"
+hash = "cd36cb3285e58488d6ed365b169a84103080fd5f"
+
+[update]
+[update.modrinth]
+mod-id = "ajdfGxGU"
+version = "ro7MjqJm"
