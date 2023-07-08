@@ -1,0 +1,13 @@
+name = "WearThat"
+filename = "wearthat-1.19.4_1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FT20RvJM/versions/SGtgZo30/wearthat-1.19.4_1.0.0.jar"
+hash-format = "sha1"
+hash = "02b3b8a3c83cbda5b2b3b11058f9c7366f458f5e"
+
+[update]
+[update.modrinth]
+mod-id = "FT20RvJM"
+version = "SGtgZo30"

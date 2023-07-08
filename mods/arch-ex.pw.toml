@@ -1,0 +1,13 @@
+name = "Architecture Extensions"
+filename = "architecture_extensions-3.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YyhsabMU/versions/PQMEuq5K/architecture_extensions-3.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "14daab577d52b501a5b067b71ea4a5e2ad634240"
+
+[update]
+[update.modrinth]
+mod-id = "YyhsabMU"
+version = "PQMEuq5K"

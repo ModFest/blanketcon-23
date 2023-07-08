@@ -1,0 +1,13 @@
+name = "Endrous Edibles"
+filename = "ended-1.1.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NtlsPMR3/versions/pG5rD3S9/ended-1.1.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "a3aed3454b70d92b5f1223a8b8c80b5fa51c38e2"
+
+[update]
+[update.modrinth]
+mod-id = "NtlsPMR3"
+version = "pG5rD3S9"
