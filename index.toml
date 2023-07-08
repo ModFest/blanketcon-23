@@ -63,11 +63,6 @@ hash = "93a929bdd2c671f7d9f88844fe412a4ea2d344e3577cba661707de3645258fbf"
 metafile = true
 
 [[files]]
-file = "mods/arachnids.pw.toml"
-hash = "6b1054fc3994a90f900a447a0d2ec5b3550a2a4311c97906eb9b5beaa24a468f"
-metafile = true
-
-[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "594f2948839bf0fe8a322f51332b0113fd51c35ca80b8e6130518f6e1408b05d"
 metafile = true
