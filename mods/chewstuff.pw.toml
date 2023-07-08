@@ -1,0 +1,13 @@
+name = "ChewStuff"
+filename = "chewstuff-1.0.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vma7ZDvU/versions/t9afjbhS/chewstuff-1.0.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "2f0ebdf263c4b294c8a834404ce7744001261fbe"
+
+[update]
+[update.modrinth]
+mod-id = "Vma7ZDvU"
+version = "t9afjbhS"

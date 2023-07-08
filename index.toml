@@ -63,6 +63,11 @@ hash = "93a929bdd2c671f7d9f88844fe412a4ea2d344e3577cba661707de3645258fbf"
 metafile = true
 
 [[files]]
+file = "mods/arachnids.pw.toml"
+hash = "6b1054fc3994a90f900a447a0d2ec5b3550a2a4311c97906eb9b5beaa24a468f"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "594f2948839bf0fe8a322f51332b0113fd51c35ca80b8e6130518f6e1408b05d"
 metafile = true
@@ -78,13 +83,28 @@ hash = "3477ce45c615dbdddf2201bed16d31ee52b7ac5fd12c13631894251313fd649a"
 metafile = true
 
 [[files]]
+file = "mods/atlas.pw.toml"
+hash = "f2166f09e4d2ee4a43dac512bf31bb5bdb9da121d11ad21940f36446afb4213a"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "9167dc261dd8a2c6695f1a218f9ca1bae7cb9e857b0fdfc542cdaa23288efbf7"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
+metafile = true
+
+[[files]]
+file = "mods/better-enchantment-boosting.pw.toml"
+hash = "7413469436ffcee67fa535473758fe597e1a43e735431ad6f8db3f1929b9d16d"
 metafile = true
 
 [[files]]
@@ -119,7 +139,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "f62f1b4ec8db1ee37f92c71cbead61d133e2d6afabc02a28911969aaf14ce21d"
+hash = "2d5625745023a392a509aba9ced8e075990ab07a655c2f330decfa641cdddfcf"
+metafile = true
+
+[[files]]
+file = "mods/chewstuff.pw.toml"
+hash = "a3947aee767a380ff212403e56edf2d6db0d2e306a36c5bbb6540038dfffd6c2"
 metafile = true
 
 [[files]]
@@ -155,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/ecotones.pw.toml"
+hash = "fabb60a79ae2594891e4aff2b2ccbae3bafb434e2b228a1204919f66fad1c845"
 metafile = true
 
 [[files]]
@@ -274,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "3d09457d4aca23b21ceb984d36f147c3b9baa3d7e316dfc2aad5fa38bfc08a5c"
+hash = "99f4e1c8ff2abaa03856050029782302cd7ab1307013ede0943b8006312b0c04"
 metafile = true
 
 [[files]]
@@ -300,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/missing-wilds.pw.toml"
 hash = "74c1d7aab647a59beec2ae8fa046965726f69d73567ccf1d10b1b8fd78f90409"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b5395c4198a3893b2c70ffdacf304a7a704b6a0c7c7c26d9046c2bc4fee1e5bd"
 metafile = true
 
 [[files]]
@@ -438,6 +473,11 @@ hash = "9b25ad1b3aee774d33ef858aa7a9daab7338560ba9f2db48480073451cd31bbc"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
 metafile = true
@@ -549,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "980bc03641a53c1928ac55fd27e7f498f512a9d7d659d945a5d34a76c6c60155"
+hash = "d33194be4aa0b3e00990d53b744267b7e6d5a642bbd9a382d9370b8a92aa8395"
 metafile = true
 
 [[files]]
@@ -580,6 +620,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
+metafile = true
+
+[[files]]
+file = "mods/yardwork.pw.toml"
+hash = "5987fb31fc067a8402d73ee41b3778ef3c4222155e2678637f6e6e8c56f1219b"
 metafile = true
 
 [[files]]
