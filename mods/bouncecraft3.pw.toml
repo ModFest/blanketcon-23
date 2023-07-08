@@ -1,0 +1,13 @@
+name = "BounceCraft3"
+filename = "bounce-craft-3-0.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nO6JnvSE/versions/glYT17qh/bounce-craft-3-0.1.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "35cdee7815bbfcb7585f5ae9a1880b02bf2e41c9"
+
+[update]
+[update.modrinth]
+mod-id = "nO6JnvSE"
+version = "glYT17qh"

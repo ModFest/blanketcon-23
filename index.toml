@@ -88,6 +88,11 @@ hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
 
 [[files]]
+file = "mods/bouncecraft3.pw.toml"
+hash = "99e6f136913208aa51ec0f9aa934a3c6a4a1ccf6a687612a6245b55165e042f6"
+metafile = true
+
+[[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
 hash = "f8372b44edcbfe7d992adde919850e5c6a98adcf75eeaadb30cc7a7a87b1cd64"
 metafile = true
@@ -105,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/calibrated.pw.toml"
 hash = "e208e14475307d0ff9a3901eab42a7df8e738cc52b4ede271bf5bd26f7e3d436"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "e3a5e1b9f5c80d1fe052fe9825e3195ffb0fde3a33fe550a832c52e41c3b5452"
 metafile = true
 
 [[files]]
@@ -203,6 +213,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/foxbox.pw.toml"
+hash = "1bd9c5acacfc3a543e1e2a70b98c1a302c66c211335fc58914a1a7544edc0694"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
@@ -253,6 +268,11 @@ hash = "3903f1a1e5d995906578f94c41036f7d04bdc2b33e1420fc3c34537c8abd4c02"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4cd28f6942c4df1618f8a9ccadc41e22666aef02b88315e0424b79c058c404cb"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "3d09457d4aca23b21ceb984d36f147c3b9baa3d7e316dfc2aad5fa38bfc08a5c"
 metafile = true
@@ -295,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "a787a62c6aa8e3175789b11c5c4d2e592cc41f2ad798fa197c982f35be04f2b5"
+metafile = true
+
+[[files]]
+file = "mods/now-playing.pw.toml"
+hash = "67d849a2fda2216ad618103a3bd32182c1e609d87e7753fc71fced63a2f5d413"
 metafile = true
 
 [[files]]
@@ -363,8 +388,18 @@ hash = "97520909fcd9e8ace14247d7bb7989cf6f6c2d48ab5c8e7638137f289050c775"
 metafile = true
 
 [[files]]
+file = "mods/polymc.pw.toml"
+hash = "ac21e4fac69479773a28b265a63029a2c99d3c803f313fa1b7adcb9eb65dc24b"
+metafile = true
+
+[[files]]
 file = "mods/power-networks.pw.toml"
 hash = "6e66e489e1fe8843762bfc04270347436af9924a7850babc76707e23313df1d8"
+metafile = true
+
+[[files]]
+file = "mods/pswg.pw.toml"
+hash = "380128ef7af0171a6bcbf0a273061045edd270b636325327e121a73fc5cec217"
 metafile = true
 
 [[files]]
@@ -453,6 +488,11 @@ hash = "3f93ba944882f89817aec28b50e6024b3edecebbd18ca231ecfc7746eb5ce22e"
 metafile = true
 
 [[files]]
+file = "mods/terrariamod.pw.toml"
+hash = "e1e94dbddfd937f5edefa55e7e1712b67f65dce12e8fe3fa783870f57f921c16"
+metafile = true
+
+[[files]]
 file = "mods/the-printer.pw.toml"
 hash = "8e6b182e6ffd3eccd71cc7b0ecb132b0b6f3e6ba965f5fae0ec2d69089fbf7b4"
 metafile = true
@@ -473,6 +513,11 @@ hash = "16a080b9c4ba7aeb83e65c7f351620d8a2cf96c60d51f86d82267cc59fc9e8dd"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
 metafile = true
@@ -485,6 +530,11 @@ metafile = true
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "892ebf2c64e6944ee1f285432f59b2292301ddb4a23300f2533557b6435e41a0"
+metafile = true
+
+[[files]]
+file = "mods/utility-belt.pw.toml"
+hash = "9a7b6e75bb50f4582625d1aaf535e1cb9dd0dd85522e08074bc192844366b115"
 metafile = true
 
 [[files]]
@@ -505,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/wandererscatalogue.pw.toml"
 hash = "3f51aa56806bee8f9e77e5c5f75a5d46d7dc15c3e5079e12bb0d9a1ba2128c14"
+metafile = true
+
+[[files]]
+file = "mods/wandering-wizardry.pw.toml"
+hash = "a63f3322653a4892ec291d58a7ad8e304f8e9faeb77c2e6ffc4e1d8466a97c4c"
 metafile = true
 
 [[files]]
