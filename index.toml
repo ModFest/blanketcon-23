@@ -153,6 +153,11 @@ hash = "a7eb649ab37308f1df71985df3c41329c1d7055ecc0946925b31c4c567295aed"
 metafile = true
 
 [[files]]
+file = "mods/datapackportals.pw.toml"
+hash = "d67a961bee7be189c779cef7650936c37ebbb0fc7154f7918f0446716bc14cf6"
+metafile = true
+
+[[files]]
 file = "mods/discarnate.pw.toml"
 hash = "896a8a210f7a987a8d6c92191c47751390dad622a00e4970fb86391be47108c8"
 metafile = true
@@ -420,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/polymc.pw.toml"
 hash = "ac21e4fac69479773a28b265a63029a2c99d3c803f313fa1b7adcb9eb65dc24b"
+metafile = true
+
+[[files]]
+file = "mods/polymcshowcase.pw.toml"
+hash = "8fe72fc4c7303283eb27405d5b50bcef15fabebcda6474e9e195797652179e54"
 metafile = true
 
 [[files]]
