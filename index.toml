@@ -473,6 +473,11 @@ hash = "c3404300710bda5fb85c0f58fba59a7bacd353059b6efa8ccc58a0ce7d1b0581"
 metafile = true
 
 [[files]]
+file = "mods/scooters.pw.toml"
+hash = "7e92e6535068bc70b30c45328739d3c97e3107f0d4ec76181a9c203e41af91be"
+metafile = true
+
+[[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "9b25ad1b3aee774d33ef858aa7a9daab7338560ba9f2db48480073451cd31bbc"
 metafile = true
