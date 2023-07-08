@@ -1,6 +1,6 @@
-name = "Adrenaline"
-author = "UltraStorm"
-version = "1.14.6+1.20.1.quilt"
+name = "blanketCon 23"
+author = "LemmaEOF, UltraStorm"
+version = "0.1.0+1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "23ea72a9b8bfc8d5454e00417884da813606a34a347c3c9af83e02d2b1bbc8a6"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.19.1"
+quilt = "0.19.2"
 
 [options]
 acceptable-game-versions = ["1.20"]
