@@ -1,0 +1,13 @@
+{
+	"inheritFromItem": [
+		"mythicmetals:gilded_midas_gold_sword"
+	],
+	"fabric:load_conditions": [
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": [
+				"mythicmetals"
+			]
+		}
+	]
+}

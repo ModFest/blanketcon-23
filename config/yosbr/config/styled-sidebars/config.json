@@ -1,0 +1,9 @@
+{
+  "config_version_dont_modify": 1,
+  "_comment": "Before changing anything, see https://github.com/Patbox/StyledSidebars#configuration",
+  "default_style": "disable",
+  "messages": {
+    "changed": "Your sidebar has been changed to: <gold>${style}</gold>",
+    "unknown": "<red>This sidebar doesn't exist!</red>"
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"inheritFromItem": [
+		"mythicmetals:stormyx_pickaxe"
+	],
+	"addItem": [
+		"mythicmetals:stormyx_shield"
+	],
+	"fabric:load_conditions": [
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": [
+				"mythicmetals"
+			]
+		}
+	]
+}

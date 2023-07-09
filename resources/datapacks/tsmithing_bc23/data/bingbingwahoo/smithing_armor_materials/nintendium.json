@@ -1,0 +1,13 @@
+{
+	"inheritFromItem": [
+		"bingbingwahoo:mysterious_cap"
+	],
+	"fabric:load_conditions": [
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": [
+				"bingbingwahoo"
+			]
+		}
+	]
+}

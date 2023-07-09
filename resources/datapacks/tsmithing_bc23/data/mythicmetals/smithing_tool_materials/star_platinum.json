@@ -1,0 +1,13 @@
+{
+	"inheritFromItem": [
+		"mythicmetals:star_platinum_pickaxe"
+	],
+	"fabric:load_conditions": [
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": [
+				"mythicmetals"
+			]
+		}
+	]
+}
