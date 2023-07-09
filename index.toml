@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
+hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
 metafile = true
 
 [[files]]
@@ -168,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "a7eb649ab37308f1df71985df3c41329c1d7055ecc0946925b31c4c567295aed"
+hash = "ad1c760cb678da4bc065a124c45bac85d47124be7b9eb267e88a73f3bbc9d13a"
 metafile = true
 
 [[files]]
@@ -308,12 +308,12 @@ metafile = true
 
 [[files]]
 file = "mods/heart-of-the-machine.pw.toml"
-hash = "ac4ea9ee16ae06a026053937223484ddc6f7f92670ec8237a9b8f58a0cfc102e"
+hash = "39f5c33441b38268642914227440741e422514db68fc4f8b50f5d4817016bc6f"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "da49262a60cebc436b9e4b7f8ab253930029ec5f9c18874a5bf7b55a4b8bc027"
+hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b5395c4198a3893b2c70ffdacf304a7a704b6a0c7c7c26d9046c2bc4fee1e5bd"
+hash = "53d52a3fe8912365ed4b31a3eba0dd1264c824b7fbcddf9f54d34b59ecfc8abc"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "e5367a59b74c283c58c5c2bc962d3b1fec97b0a6ad261b498c1cb22fd56837fa"
+hash = "0dd3750376baaf7e58b9f482c29d7d4530bbd8dd2a53399386b0701f6ea3840e"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollinators-paradise.pw.toml"
-hash = "9eee9f2f2cefda25442e5c8fe4f14f60e783bf734c75d536e2a66d22d8666d30"
+hash = "76248d2782f567fb9554c17eae149db3d8bb4ba599633734f1e3c75725bb79bc"
 metafile = true
 
 [[files]]
@@ -488,12 +488,17 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "4f5bc996ba57f18abd2dc12801f1cbb8d06d3d115232b15d27174172f4d4004f"
+hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
 file = "mods/rainglow.pw.toml"
 hash = "952bd5f72add56e7ecfce0e74dec6fcfa1b5b45eb8d69ba580998764b7ef395b"
+metafile = true
+
+[[files]]
+file = "mods/registries-can-be-warm.pw.toml"
+hash = "73b6c3db29f220ca8d258bef24148a31d5bff9e10958bf292d0b0ad1607c5277"
 metafile = true
 
 [[files]]
@@ -518,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-starminer.pw.toml"
-hash = "30013e469ba05a16f169792c8f316fd7c2d0cb58ea45f1e20aa452d03b5594c5"
+hash = "f1e92a62b8f435af8f993d92c3fc19e6407331a2cd9a6727c90047e7c6b8cfdd"
 metafile = true
 
 [[files]]
@@ -599,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "aefa51bd0d45e059bb2a60c0b1363a4a5a2832e164bdfd1e285d87293d34847a"
 metafile = true
 
 [[files]]
