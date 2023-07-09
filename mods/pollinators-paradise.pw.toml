@@ -1,13 +1,13 @@
 name = "Pollinators' Paradise"
-filename = "pollinators-paradise-1.1.0+1.20.jar"
+filename = "pollinators-paradise-1.1.2+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wkp3WGmm/versions/7dC6lSdj/pollinators-paradise-1.1.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/Wkp3WGmm/versions/5eJ7sJSQ/pollinators-paradise-1.1.2%2B1.20.jar"
 hash-format = "sha1"
-hash = "3f626017e2231a43e94701031e3aee5a511e41e4"
+hash = "90af74d8f60cbc2ba5fdfad5871783f6394dfb5e"
 
 [update]
 [update.modrinth]
 mod-id = "Wkp3WGmm"
-version = "7dC6lSdj"
+version = "5eJ7sJSQ"
