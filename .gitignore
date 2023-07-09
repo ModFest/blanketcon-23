@@ -3,3 +3,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude jetbrains IDE files
+.idea
