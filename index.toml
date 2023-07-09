@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/bc23-pack.iml"
+hash = "68b110536919ecc1e094417cd0ebbd11c625349d5c7a65fa0f5f625d300eaded"
+
+[[files]]
+file = ".idea/discord.xml"
+hash = "0f3216c34ac2703c55bb18b4661dfce5ec49d3708043d8c0aed1575f9c5606d8"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "8a971843b03bb80ad7cbd119a7475b290fee28b2fbe1be87a389636b17eb88db"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "1c83355ed88f86207140014f3209807272c12e0abf821baac5958030ee9ab26c"
+
+[[files]]
 file = "config/quilt-loader-overrides.json"
 hash = "046d7c779cd4bb987b3dc15102da646a75947869533a1b0356dd543a55ed51c3"
 
@@ -43,6 +63,10 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+
+[[files]]
+file = "config/yosbr/config/styled-sidebars/config.json"
+hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -453,6 +477,11 @@ hash = "f75b109844937ffa9d55e336828997200b1807e4b3798919cd38074ad12e2db0"
 metafile = true
 
 [[files]]
+file = "mods/qdresloader.pw.toml"
+hash = "f7cebb9f191593ed8d3aee3a1bd3ea8c400625702aea0fd5d6ffb9db0105b926"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
 metafile = true
@@ -554,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "e18cc79b00f3f43a11c2f7d83658ebfd0bc4a5cc39cec497b6de670ea7ad7f28"
+hash = "b521294497f96c00c7813a9b9712ae0601d979ba50cf058ae341a470b2f31df6"
 metafile = true
 
 [[files]]
@@ -646,3 +675,259 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/bingbingwahoo/smithing_armor_materials/nintendium.json"
+hash = "30ba16dd1b1dca28230bca1e51547cba29a36a5cbb5b76787122b4cc353f31ed"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/chewstuff/smithing_unit_costs/hard_chew.json"
+hash = "4f392f177267cb1fbf475cdca178f8871c0382ac2a92316089e4051ea148caab"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/chewstuff/smithing_unit_costs/medium_chew.json"
+hash = "4f392f177267cb1fbf475cdca178f8871c0382ac2a92316089e4051ea148caab"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/chewstuff/smithing_unit_costs/soft_chew.json"
+hash = "4f392f177267cb1fbf475cdca178f8871c0382ac2a92316089e4051ea148caab"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/geocluster/smithing_unit_costs/prospectors_pick.json"
+hash = "35b564858fb88faf242d085f7afefb0b272efc916a60c63116de8abbe5a6087c"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/gildednetherite/smithing_armor_materials/gilded_netherite_armor.json"
+hash = "79ba8a45f53fd89d6dd9c7bad109cb364dc6bbb46c39fb0fed7c688d143d727f"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/adamantite.json"
+hash = "98b0483a919ad107ddf630840caabcdd1de2109fae734d99f8a6d79dd8fc95a9"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/aquarium.json"
+hash = "b59c63fe446334cc63ac53e570a39ed829221ee12eaa0f1edf84fa25bb70189e"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/banglum.json"
+hash = "1185dd210754a6faf3855e710b7ee1283cfb9e43c28b77ece07b2f1d317004f1"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/bronze.json"
+hash = "4281bee87d17009ba225b9e96e8d71dcc6b370d2583cc9ece693d575d1bfe9c7"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/carmot.json"
+hash = "c937644b06da9d43cfa0caa9f29fda6d8ec28757fd80d148725fc79d8206ebd4"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/celestium.json"
+hash = "374b30748b4f9b6f12ea13969dfeac72eb6b594464bc0604dbdc2b69f11c4127"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/copper.json"
+hash = "90f05fa3bba399a51cfda16789eef42a0e2f194c5c225b95407f9e572c379e32"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/durasteel.json"
+hash = "5d886b1c18b7ef651963d0e9445b59d8f80e828268ce1eab5278c85c9ef19145"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/hallowed.json"
+hash = "a3be39211e631f2ae9279fbe1fda72183c86d2f36786af795a701491cf878d15"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/kyber.json"
+hash = "b52f3131512d9414bb4bc95a9eef330eb171cc0189394882dc073b030c9a8691"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/legendary_banglum.json"
+hash = "535fbb006322b02d68c031f308a6f0a6b96223b314f3b82f67e8704da179b7ba"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/metallurgium.json"
+hash = "a0678a9467a9d63cc8606da5125f4050e5e442509bad432ff8b546050d891b02"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/midas_gold.json"
+hash = "b7945f6c36c3dcf094edd5f79415812f702b41090040f96e0ff993df0ace324e"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/mythril.json"
+hash = "60a376060c02237d79c64feb6b180e2667fbf6845ac163d140316ab10db59c53"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/orichalcum.json"
+hash = "4e2bce2c0820c9c355aa562bab56e1248643e2a69252c8b713689f77fade51bf"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/osmium.json"
+hash = "ff8e2eeaf313cca4ad9032831da0292c0b07c343607aa3c8d407888d5edeeacb"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/palladium.json"
+hash = "0921dcc33d30f6e34958be2d0d05569ae2ee319ebdbe6d47df7bc860503f7ae7"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/prometheum.json"
+hash = "8ce6646933723843afa13f5a1b95c87f6ba02ddafbe1bbb9d92f08e373a4850f"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/runite.json"
+hash = "ed421729a1cb5ed827b9a79aa8d25ed0db0b3b489f77ee004a459894926d82a3"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/silver.json"
+hash = "2d82ac3783a97f5c8cbe8ce36b66eb6c0f516e9ca4f16baf553f42f9a648398d"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/star_platinum.json"
+hash = "fef48b82ef776565442b4b01baa0b1e644fc1e2ecda4cc032f49822b80385181"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/steel.json"
+hash = "081b4a9412eac1b3b90a8e4c9c6067af7085875c9e726fc8dfded3d281ed03b8"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_armor_materials/stormyx.json"
+hash = "bf39b367c2d052b4ad116bc313bb3a467a7a0cfe2955eed0df3b9e9a1c8bc253"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/adamantite.json"
+hash = "8cc074acdaa04deb1661a2749f5a2d582fbed6700bc78dbf4f09d6cd2e1a0bf3"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/aegis_red.json"
+hash = "b8ff5780325d3a36f0f15fe630a293719d1c6e8a81e7d797e8fae5178d2eae8a"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/aegis_white.json"
+hash = "50b087f5a912db593bd3c348fcb085ef58ac124d20278a24ac7a55b2d0ae1750"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/aquarium.json"
+hash = "7041a0266c651e751e52e818a6f42eb0957ad5c64fbf9a959b5a2ee35b69ca50"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/banglum.json"
+hash = "a937adb4d3e618ca350535b8d1944f9e357aa6de35040b05b199f32b66a8514e"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/bronze.json"
+hash = "8cbdd5149732afcb2ba5970d2346e3ea70b6400d0a3f5c2984b773ccb97416e0"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/carmot.json"
+hash = "784844036af9bac6eedf2b8fc30655ffe3e73c164327d2f9a070fc28a1c570aa"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/celestium.json"
+hash = "53835dcbb20f892c23b35291e56ef70734b99f890a1c5fcc62e9a6977c71867d"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/copper.json"
+hash = "dfc1acb434c4fc54c37fc53d983e520261d251777ec3b1a89c997cfedf535fd6"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/durasteel.json"
+hash = "0990b964dfe816ed548d51ae06daf731fba905f0f0a04be919b65fcb75b9a261"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/gilded_midas_gold.json"
+hash = "80fd413f666c12e4d079da976559c26e2dbc30749234ebb2949a2b6062e14c89"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/hallowed.json"
+hash = "5a9ab1f5534a27257fd87440469970ed4c02fbcfbf572f04f28276e70a53baae"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/kyber.json"
+hash = "98232206c61f9a1f5061eedcc3fbf6836acbf19191448be5ef31a0b27e7219ef"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/legendary_banglum.json"
+hash = "fa4de604285b2391d09f6801849b0e78dfd85c2cba71889f25a4db928071e55e"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/metallurgium.json"
+hash = "3a00050ad6929dd86af568c7ffc99d030a3f54986322dfa4dc0e4f6681998d85"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/midas_gold.json"
+hash = "3e53ff4d5918c4bf9d43fab7f0125a63d4644e68dc960377bf6a3e8a980e193e"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/mythril.json"
+hash = "6f679ea0db32056cca6fe5ab3000d728d793568e24e42539067572e2650170ab"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/orichalcum.json"
+hash = "2d74490d63ab81765bece03f1ec1f383ae81ce0ba8ff5f04ab2d32f53e11b0ed"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/osmium.json"
+hash = "525338aae5d5d82b336d362cced51e4283b8536da362e85dd0fa9a1345775024"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/palladium.json"
+hash = "aa2f67c6c433cd6d385ee82f1ce7c7e1b977efb54f2510d73d3f9976619e2481"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/prometheum.json"
+hash = "c0204887c677cdae547e3a38122298fd70858d1e2e870448ddfb7b6fc478d619"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/quadrillum.json"
+hash = "a868d65e1d1dcc9ddb586434810b58d268ff94c940785a036db73e763d468449"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/royal_midas_gold.json"
+hash = "7bed1e39edea83e0fcbea6b7d561a07be616e39d84cb9873f4a6a85383db0325"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/runite.json"
+hash = "fe8506000de6a364c7d108212639c850fd423943744155e05720cabdadae2725"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/star_platinum.json"
+hash = "ca982f13c9e7c2c9a9a0a1296cdde1889fa2cb5049d513cb09bf154e2ad42a95"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/steel.json"
+hash = "03e70067aad7505a8ff8daa4e7943edc03d34810e5623863a261513f339bdafe"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_tool_materials/stormyx.json"
+hash = "a8d4b072fa55f3d6a4947436e97ef5c0fc030d7d5f82ba972516bc8af3399393"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_unit_costs/celestium_elytra.json"
+hash = "9cd29c901821edbf82fd23f4f3df4b31f97782ce4d54563115bd176c71613792"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/mythicmetals/smithing_unit_costs/gilded_midas_gold_sword.json"
+hash = "d167b25d54723457c43ae4bbf319cbc4fc0172305bb2750781d80a56aceeaca6"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/pollinators_paradise/smithing_armor_materials/apiarist.json"
+hash = "bc2dfa01a9187974a30c5f36388864685f92ead8ac7438b5ce7b48fbd51c74e2"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/portalcubed/smithing_armor_materials/portal_armor.json"
+hash = "5b93665147bb8774a2f35bb558b6fa097a9400ffd45a2df2a2298e34b509a9f0"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/portalcubed/smithing_unit_costs/long_fall_boots.json"
+hash = "1aabc9bb72ae2744766964f6b0811d0a9f85cd5dc31fb331a611cd3313160eed"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/data/scooters/smithing_unit_costs/tire.json"
+hash = "29730157484df929ef0f6421b9dd1e4667996122a588df2d3345cd574d0c2836"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
+hash = "3c84739ce9ef4218794b8e7d4c246634e4dff85dfdf28bf2b59bd98854dcfb23"
+
+[[files]]
+file = "resources/datapacks/tsmithing_bc23/tsmithing_bc23.zip"
+hash = "fb89ac7ce546d24f6a82f97be5bb3b69ed458f415c9b72117f754e3cc5efa752"
