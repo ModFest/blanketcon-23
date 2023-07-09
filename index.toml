@@ -433,6 +433,11 @@ hash = "8fe72fc4c7303283eb27405d5b50bcef15fabebcda6474e9e195797652179e54"
 metafile = true
 
 [[files]]
+file = "mods/portal-cubed.pw.toml"
+hash = "eb9047d4bb77cb5eb649f3a09b7cbe8916a7275ed13d2f4252f3048bcd6842a1"
+metafile = true
+
+[[files]]
 file = "mods/power-networks.pw.toml"
 hash = "6e66e489e1fe8843762bfc04270347436af9924a7850babc76707e23313df1d8"
 metafile = true
@@ -488,11 +493,6 @@ hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
@@ -545,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/the-printer.pw.toml"
 hash = "8e6b182e6ffd3eccd71cc7b0ecb132b0b6f3e6ba965f5fae0ec2d69089fbf7b4"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
 metafile = true
 
 [[files]]
