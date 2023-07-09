@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "e5367a59b74c283c58c5c2bc962d3b1fec97b0a6ad261b498c1cb22fd56837fa"
+hash = "0dd3750376baaf7e58b9f482c29d7d4530bbd8dd2a53399386b0701f6ea3840e"
 metafile = true
 
 [[files]]
@@ -575,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "aefa51bd0d45e059bb2a60c0b1363a4a5a2832e164bdfd1e285d87293d34847a"
 metafile = true
 
 [[files]]
