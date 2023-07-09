@@ -3,3 +3,12 @@
 
 # Exclude README
 /README.md
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude jetbrains IDE files
+.idea
+
+# Exclude Mac metadata files
+.DS_Store
