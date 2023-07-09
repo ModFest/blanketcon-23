@@ -1,0 +1,13 @@
+name = "Simply Starminer"
+filename = "simply_starminer-0.1.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2qcCxsBR/versions/ZbsNx8NJ/simply_starminer-0.1.15.jar"
+hash-format = "sha1"
+hash = "179339e4954849d178004501cd8b3ac0a17d46c3"
+
+[update]
+[update.modrinth]
+mod-id = "2qcCxsBR"
+version = "ZbsNx8NJ"

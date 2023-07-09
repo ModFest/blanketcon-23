@@ -488,6 +488,11 @@ hash = "9b25ad1b3aee774d33ef858aa7a9daab7338560ba9f2db48480073451cd31bbc"
 metafile = true
 
 [[files]]
+file = "mods/simply-starminer.pw.toml"
+hash = "30013e469ba05a16f169792c8f316fd7c2d0cb58ea45f1e20aa452d03b5594c5"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
 metafile = true
@@ -500,11 +505,6 @@ metafile = true
 [[files]]
 file = "mods/sprite-arrows.pw.toml"
 hash = "9b6c816a530acfd9492ce27d2314dc4a72cc93cf8806854f5abaa6d2db12bce5"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
