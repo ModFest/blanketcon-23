@@ -1,0 +1,13 @@
+{
+	"inheritFromItem": [
+		"portalcubed:long_fall_boots"
+	],
+	"fabric:load_conditions": [
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": [
+				"portalcubed"
+			]
+		}
+	]
+}

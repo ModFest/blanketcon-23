@@ -1,0 +1,13 @@
+{
+	"inheritFromItem": [
+		"pollinators_paradise:apiarist_veil"
+	],
+	"fabric:load_conditions": [
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": [
+				"pollinators_paradise"
+			]
+		}
+	]
+}
