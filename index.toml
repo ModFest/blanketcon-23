@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "594f2948839bf0fe8a322f51332b0113fd51c35ca80b8e6130518f6e1408b05d"
+hash = "cdb18b99104e0bb0fd1eef79efa2aaed87e388dc14ae45fe3de0d63aaeba2821"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymcshowcase.pw.toml"
-hash = "8fe72fc4c7303283eb27405d5b50bcef15fabebcda6474e9e195797652179e54"
+hash = "da56de29d6dd5f9c7f27f72073403288725a4e195701c5e4df1199e6cca5b20e"
 metafile = true
 
 [[files]]
