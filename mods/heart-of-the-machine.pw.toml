@@ -1,13 +1,13 @@
 name = "Heart of the Machine"
-filename = "heart-of-the-machine-2.0.0-alpha.3+1.20.jar"
+filename = "heart-of-the-machine-2.0.0-alpha.4+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7vleuAJ9/versions/keYOoX22/heart-of-the-machine-2.0.0-alpha.3%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/7vleuAJ9/versions/v9NCxnB0/heart-of-the-machine-2.0.0-alpha.4%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "f1adbc42c301a66140aadcce90aaa7719abd1d94"
+hash = "00b99fd125edb27f0cb9892a3910c5b31892a231"
 
 [update]
 [update.modrinth]
 mod-id = "7vleuAJ9"
-version = "keYOoX22"
+version = "v9NCxnB0"

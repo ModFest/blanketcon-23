@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "ae51dadc5e322a61bdb865a9f058c2402699abb6b91f02c0821e53f423b98649"
+hash = "3a62ee245f91c27304a0b77e763cfd6e5fc3e76fb07260a361bfccad8bbc53b3"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/heart-of-the-machine.pw.toml"
-hash = "39f5c33441b38268642914227440741e422514db68fc4f8b50f5d4817016bc6f"
+hash = "d9c8198d645fd875df760202f230b4bf531174e17638735d75591e5abe90ba4c"
 metafile = true
 
 [[files]]
@@ -384,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+metafile = true
+
+[[files]]
+file = "mods/packages.pw.toml"
+hash = "e60bdf92bbd075b1d407b01304dbf6762ccff79241fa0083f0a98e07a7b4aa44"
 metafile = true
 
 [[files]]
