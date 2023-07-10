@@ -67,6 +67,11 @@ hash = "93a929bdd2c671f7d9f88844fe412a4ea2d344e3577cba661707de3645258fbf"
 metafile = true
 
 [[files]]
+file = "mods/arachne.pw.toml"
+hash = "11c5bfb09d0f65577d79df24e056715ebb41f8c0ee0e88c9556ec8cf947bcccb"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "cdb18b99104e0bb0fd1eef79efa2aaed87e388dc14ae45fe3de0d63aaeba2821"
 metafile = true
