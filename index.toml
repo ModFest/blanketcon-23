@@ -342,6 +342,11 @@ hash = "74c1d7aab647a59beec2ae8fa046965726f69d73567ccf1d10b1b8fd78f90409"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "4c91e58c06a0e7c0152728bd33aeb4d1aa7f354d29629b58f6641b1516796ee9"
 metafile = true
