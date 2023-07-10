@@ -587,6 +587,11 @@ hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
 metafile = true
 
 [[files]]
+file = "mods/tropics.pw.toml"
+hash = "27c20b17ad80d11ebf618b5a54e55618b244c6b00c298e2e643e614027a96e65"
+metafile = true
+
+[[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "aefa51bd0d45e059bb2a60c0b1363a4a5a2832e164bdfd1e285d87293d34847a"
 metafile = true
