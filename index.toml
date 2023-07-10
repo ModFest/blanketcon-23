@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "ad1c760cb678da4bc065a124c45bac85d47124be7b9eb267e88a73f3bbc9d13a"
+hash = "5407092b4c6eee163f885f0c7526357ed961499fa9acbaa73634504f03bb58dd"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/green-screen.pw.toml"
-hash = "0f36406b394b9937f78d010fa8da1a805d716a902b9d5ac935f20be7eb8423a2"
+hash = "3b353297786712c7ddaba480abed86f9bebfe919eb977bd7c81c709a28f81c74"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4c91e58c06a0e7c0152728bd33aeb4d1aa7f354d29629b58f6641b1516796ee9"
+hash = "39a7db76913916631313499eadca48f07d18d1d1f6e534ce5c87ffdc779346ec"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "eb9047d4bb77cb5eb649f3a09b7cbe8916a7275ed13d2f4252f3048bcd6842a1"
+hash = "7cde50f8294fb2908abdad4aa60a700e0e388582db75ba6171cc3c0b744c3e4a"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "b521294497f96c00c7813a9b9712ae0601d979ba50cf058ae341a470b2f31df6"
+hash = "c1d7e5a4addd2b9ca947788b26cc71faa04840967ebd9c5586bfc612f5b89ba9"
 metafile = true
 
 [[files]]

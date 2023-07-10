@@ -1,13 +1,13 @@
 name = "Green Screen"
-filename = "green_screen-1.3.0+1.20.jar"
+filename = "green_screen-1.3.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ixqupd0G/versions/9RdedxVM/green_screen-1.3.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/Ixqupd0G/versions/sBUMSSKp/green_screen-1.3.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "c88cec8487e7705597e6516892638b9c5c49d81b"
+hash = "32c96454a337dcbcb0c3984dfa4a3878b5ea6d7f"
 
 [update]
 [update.modrinth]
 mod-id = "Ixqupd0G"
-version = "9RdedxVM"
+version = "sBUMSSKp"
