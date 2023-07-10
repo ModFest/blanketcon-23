@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymcshowcase.pw.toml"
-hash = "da56de29d6dd5f9c7f27f72073403288725a4e195701c5e4df1199e6cca5b20e"
+hash = "d5655d4fd028f70128e6c4cd97d55ddde7223efb17616fef3d8bfbf6032380ce"
 metafile = true
 
 [[files]]
