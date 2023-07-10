@@ -232,6 +232,11 @@ hash = "95f07b9e7fe66b646fdd4cb1fb405ac10669391f09d8ae4628ef800732ab6ee0"
 metafile = true
 
 [[files]]
+file = "mods/fabricae-ex-nihilo.pw.toml"
+hash = "9dd53ed50672b3268312e455c36b228ef4390b2e6cdd003a825cdeb518396175"
+metafile = true
+
+[[files]]
 file = "mods/fedicraft.pw.toml"
 hash = "5496ca8ddb3ada7e4a8eee8e199fe4af746b6b208fcf08040d442ecda138d17f"
 metafile = true
