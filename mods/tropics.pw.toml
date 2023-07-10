@@ -1,13 +1,13 @@
 name = "Tropics"
-filename = "tropics-1.0.0.jar"
+filename = "tropics-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W1Paq97E/versions/VlovNaZy/tropics-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/W1Paq97E/versions/dl2wtxbs/tropics-1.0.1.jar"
 hash-format = "sha1"
-hash = "2214bb4a9dac6bf4442d854f94fd435ca1a48d5c"
+hash = "6e7ee8385315e4741bc0fd84f1e3a45a626bd341"
 
 [update]
 [update.modrinth]
 mod-id = "W1Paq97E"
-version = "VlovNaZy"
+version = "dl2wtxbs"

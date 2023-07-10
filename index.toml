@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "31c3a51e99c524508fbf7b48635197b8fa52ef47b3cb0035f2654bab8d0193ce"
+hash = "ae51dadc5e322a61bdb865a9f058c2402699abb6b91f02c0821e53f423b98649"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "53d52a3fe8912365ed4b31a3eba0dd1264c824b7fbcddf9f54d34b59ecfc8abc"
+hash = "4c91e58c06a0e7c0152728bd33aeb4d1aa7f354d29629b58f6641b1516796ee9"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/tropics.pw.toml"
-hash = "27c20b17ad80d11ebf618b5a54e55618b244c6b00c298e2e643e614027a96e65"
+hash = "6ee6c8f502bb94665123cf2ab589e51525b412a65a9d4b92ec3d9630740068b9"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "892ebf2c64e6944ee1f285432f59b2292301ddb4a23300f2533557b6435e41a0"
+hash = "6d7aa4dc575f0e53f41b119bbb97080377e740157cad085e4d2f480f4164dcb8"
 metafile = true
 
 [[files]]

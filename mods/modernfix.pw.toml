@@ -1,13 +1,13 @@
 name = "ModernFix"
-filename = "modernfix-fabric-5.2.1+mc1.20.1.jar"
+filename = "modernfix-fabric-5.2.2+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmDcB62a/versions/OFdWh7vx/modernfix-fabric-5.2.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/4ZIvpHca/modernfix-fabric-5.2.2%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "36787a44cc56120ae3ec26652a0e3a81f6194c69"
+hash = "c530fc58c9ed0b93598d80f7496070959199765a"
 
 [update]
 [update.modrinth]
 mod-id = "nmDcB62a"
-version = "OFdWh7vx"
+version = "4ZIvpHca"
