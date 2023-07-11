@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3a62ee245f91c27304a0b77e763cfd6e5fc3e76fb07260a361bfccad8bbc53b3"
+hash = "c3f1a1b50ae464543501b0be65590e43c498bcbac9196c413611b730a6c378b1"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "a95f5763a2dfb758c2e0891fca765df93a39109c6e24890d3908323114be73ca"
+hash = "bf79ad92d559bbdc715c7ec5359cae0b29171c445974ba4141f70897cafa6bae"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "c1d7e5a4addd2b9ca947788b26cc71faa04840967ebd9c5586bfc612f5b89ba9"
+hash = "0da488d2feec20d48e8a46e5532c22111d0ea2d4b7e8035ece44fe2182f135b8"
 metafile = true
 
 [[files]]
