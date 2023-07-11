@@ -613,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/tropics.pw.toml"
-hash = "6ee6c8f502bb94665123cf2ab589e51525b412a65a9d4b92ec3d9630740068b9"
+hash = "fac0a2f521a1dd8250cbfa9c8d80bd3888702e8781c59147ee945e332ea87dd1"
 metafile = true
 
 [[files]]
