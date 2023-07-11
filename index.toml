@@ -302,6 +302,11 @@ hash = "3168113150d7b8e67baa026afdc25d28a13de07f563d4cac01b21844ff608fba"
 metafile = true
 
 [[files]]
+file = "mods/honk.pw.toml"
+hash = "95db511f0f998bc252147e2397067122b121fb59e5e9e4f6b1de7eb626b6283a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
 metafile = true
@@ -453,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymcshowcase.pw.toml"
-hash = "359278b1de9c870c26e7335865af43b2f9ac203cfb97a0abb1238e621458a56d"
+hash = "70ee4134c835bd855d0fabb502f6a2dac9eae9bf71b00d964632f07540de4603"
 metafile = true
 
 [[files]]
