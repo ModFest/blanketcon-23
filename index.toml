@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/heart-of-the-machine.pw.toml"
-hash = "d9c8198d645fd875df760202f230b4bf531174e17638735d75591e5abe90ba4c"
+hash = "3168113150d7b8e67baa026afdc25d28a13de07f563d4cac01b21844ff608fba"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "3903f1a1e5d995906578f94c41036f7d04bdc2b33e1420fc3c34537c8abd4c02"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
@@ -669,6 +669,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "165a6e527e8ae4f8747e061e6f569176ff7b79c081138ab127915ac35eeeef1a"
+metafile = true
+
+[[files]]
+file = "mods/worldinajar.pw.toml"
+hash = "b6bbb04656a3033f96c56d9427b89e6e7a2c74995934612cc6a55b7602afed19"
 metafile = true
 
 [[files]]
