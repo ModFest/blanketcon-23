@@ -382,6 +382,11 @@ hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
 metafile = true
 
 [[files]]
+file = "mods/moue-milkshakes.pw.toml"
+hash = "81e20e68dd714081541086f45baef81fee780e354aa44b9af958e80555dc45dc"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "a787a62c6aa8e3175789b11c5c4d2e592cc41f2ad798fa197c982f35be04f2b5"
 metafile = true
@@ -604,6 +609,11 @@ metafile = true
 [[files]]
 file = "mods/tablesaw.pw.toml"
 hash = "3f93ba944882f89817aec28b50e6024b3edecebbd18ca231ecfc7746eb5ce22e"
+metafile = true
+
+[[files]]
+file = "mods/templates-2.pw.toml"
+hash = "f3c6587d139f1adbc62a83d41ab5a5b4e1720852b95de0d4bba6d02c7c53d7f3"
 metafile = true
 
 [[files]]
