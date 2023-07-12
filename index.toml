@@ -462,6 +462,11 @@ hash = "70ee4134c835bd855d0fabb502f6a2dac9eae9bf71b00d964632f07540de4603"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "e7d6bd663e9ecedfe481613248389c72a145a938ac1d13c677fd4ee921e2a81e"
+metafile = true
+
+[[files]]
 file = "mods/portal-cubed.pw.toml"
 hash = "7cde50f8294fb2908abdad4aa60a700e0e388582db75ba6171cc3c0b744c3e4a"
 metafile = true
