@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "1bd9c5acacfc3a543e1e2a70b98c1a302c66c211335fc58914a1a7544edc0694"
+hash = "9a598ab00ed54fd8526fa50c43ba7c74590e5afd6019b376e27b6c0a26052341"
 metafile = true
 
 [[files]]
@@ -549,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/softerpastels.pw.toml"
+hash = "911a3bc8f8080dc76043590e93ca1c5dfc8f93c811fc1b979bc547143f78421d"
 metafile = true
 
 [[files]]
