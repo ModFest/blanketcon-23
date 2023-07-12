@@ -1,13 +1,13 @@
 name = "Geocluster"
-filename = "geocluster-1.2.0+1.20.1.jar"
+filename = "geocluster-1.3.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P43RxVjo/versions/f0dioJsn/geocluster-1.2.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/P43RxVjo/versions/awd4wbFz/geocluster-1.3.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "34100fe113a916a094e87f617a0ea60886f55c9d"
+hash = "c5de522f34e94f89a5b34aea9043fa951a1819a8"
 
 [update]
 [update.modrinth]
 mod-id = "P43RxVjo"
-version = "f0dioJsn"
+version = "awd4wbFz"
