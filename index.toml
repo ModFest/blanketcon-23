@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricae-ex-nihilo.pw.toml"
-hash = "9dd53ed50672b3268312e455c36b228ef4390b2e6cdd003a825cdeb518396175"
+hash = "f3ae608185fe5a7957ade4d1889306f316ae795fcd48e40d1d31362cbf0bf7df"
 metafile = true
 
 [[files]]
@@ -529,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "9b25ad1b3aee774d33ef858aa7a9daab7338560ba9f2db48480073451cd31bbc"
+metafile = true
+
+[[files]]
+file = "mods/shadowsgate.pw.toml"
+hash = "151bfbb6e38d82d502f8a758900b09c482e5ecf283d5b6049eec8a2c61668e70"
 metafile = true
 
 [[files]]

@@ -1,0 +1,7 @@
+name = "shadowsgate"
+filename = "0.1.0"
+
+[download]
+url = "https://github.com/TheEpicBlock/ShadowsGate/releases/tag/0.1.0"
+hash-format = "sha1"
+hash = "a8e4acae7931ba8da63723c38b63987d807f17dc"
