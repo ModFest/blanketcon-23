@@ -342,6 +342,11 @@ hash = "dc14f05eb9d64572a0ab21e620eed138cf28c63ca667de18799a4a26f68a207b"
 metafile = true
 
 [[files]]
+file = "mods/mapshirts.pw.toml"
+hash = "8e529c30eaef20451124074420426d8372df3e8107fa9cecd4e1fb6acf58f2ab"
+metafile = true
+
+[[files]]
 file = "mods/milk_plus.pw.toml"
 hash = "cf605b48513a301c9fada49069b74baa958cde9efba7e1a52b762aa12ac677a2"
 metafile = true
