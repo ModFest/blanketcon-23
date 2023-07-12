@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadowsgate.pw.toml"
-hash = "151bfbb6e38d82d502f8a758900b09c482e5ecf283d5b6049eec8a2c61668e70"
+hash = "d0f89b3ff3a0c2b87c1a352bdffdf93ba1699499e1e8c287462e59fe11466835"
 metafile = true
 
 [[files]]
