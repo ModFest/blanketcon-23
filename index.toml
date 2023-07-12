@@ -112,6 +112,11 @@ hash = "7413469436ffcee67fa535473758fe597e1a43e735431ad6f8db3f1929b9d16d"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
+metafile = true
+
+[[files]]
 file = "mods/bouncecraft3.pw.toml"
 hash = "99e6f136913208aa51ec0f9aa934a3c6a4a1ccf6a687612a6245b55165e042f6"
 metafile = true
