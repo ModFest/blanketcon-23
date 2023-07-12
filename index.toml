@@ -197,6 +197,11 @@ hash = "fabb60a79ae2594891e4aff2b2ccbae3bafb434e2b228a1204919f66fad1c845"
 metafile = true
 
 [[files]]
+file = "mods/electriceel.pw.toml"
+hash = "449dc4b62779bdb361db4439ec263447393d143eb5e6166983d66b61b3830f41"
+metafile = true
+
+[[files]]
 file = "mods/elegantarmour.pw.toml"
 hash = "f69c2f62043702c9261f61f51621bbf4458529bf37b149f63f604e48094b5aaf"
 metafile = true
@@ -343,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapshirts.pw.toml"
-hash = "8e529c30eaef20451124074420426d8372df3e8107fa9cecd4e1fb6acf58f2ab"
+hash = "3e55f8a58f72eb612afdcce3a943ce1b56f245123f3f9437f0c10e6fd56d8a24"
 metafile = true
 
 [[files]]
@@ -559,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/softerpastels.pw.toml"
 hash = "911a3bc8f8080dc76043590e93ca1c5dfc8f93c811fc1b979bc547143f78421d"
+metafile = true
+
+[[files]]
+file = "mods/soulice.pw.toml"
+hash = "79f660fc34cce9a88ad9476c80ba8e4a843d3fc67515994ea02a3a4009e194da"
 metafile = true
 
 [[files]]
