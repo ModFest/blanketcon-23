@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "95db511f0f998bc252147e2397067122b121fb59e5e9e4f6b1de7eb626b6283a"
+hash = "7521ffa92e736c6497bd012d6ccea86b0d6dde381d2cea95b67830d0ca524f83"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "7cde50f8294fb2908abdad4aa60a700e0e388582db75ba6171cc3c0b744c3e4a"
+hash = "e335131fa1ce36a3f8048bc27d88bf15c4f4c56c9337dc7580a1d90c7204a80f"
 metafile = true
 
 [[files]]
