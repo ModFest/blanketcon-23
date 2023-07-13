@@ -58,12 +58,17 @@ hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "mods/advanced-networking.pw.toml"
-hash = "7f70119e73ae287115a12cc4438f7ae3243b79c2ff7408954acc69dec817f18e"
+hash = "16b740f105957b87f1a601ed9c3586f9767eb621fb66ad84e8ec3aaa70deb464"
 metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "93a929bdd2c671f7d9f88844fe412a4ea2d344e3577cba661707de3645258fbf"
+metafile = true
+
+[[files]]
+file = "mods/apoli.pw.toml"
+hash = "5e587c33628c4344bd722dd3cdf08f52d40a464cffdcdb26b22d96a334b8a977"
 metafile = true
 
 [[files]]
@@ -238,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "95f07b9e7fe66b646fdd4cb1fb405ac10669391f09d8ae4628ef800732ab6ee0"
+hash = "69daee16dac2bea91e7d9c4ee7fbd3286bd581002abf7d314215b2f1005deb7b"
 metafile = true
 
 [[files]]
@@ -493,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/power-networks.pw.toml"
-hash = "6e66e489e1fe8843762bfc04270347436af9924a7850babc76707e23313df1d8"
+hash = "8ede64ca152c3ec1becc1fff8b67c0a9fc4e67b73dcfbd5ec101c8d1df2d9a5a"
 metafile = true
 
 [[files]]

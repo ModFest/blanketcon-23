@@ -1,13 +1,13 @@
 name = "Power Networks"
-filename = "power-networks-2.0.0+mc.1.20.1.jar"
+filename = "power-networks-2.0.1+mc.1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8cCfmdw2/versions/RpsX6mEW/power-networks-2.0.0%2Bmc.1.20.1.jar"
+url = "https://cdn.modrinth.com/data/8cCfmdw2/versions/mMfjw9Yo/power-networks-2.0.1%2Bmc.1.20.1.jar"
 hash-format = "sha1"
-hash = "35d4f71284367a1d0d7c834c07d2eecc95a05a1b"
+hash = "7b0f1d3bec30fa2b48487ff8a3dbaaba07af421a"
 
 [update]
 [update.modrinth]
 mod-id = "8cCfmdw2"
-version = "RpsX6mEW"
+version = "mMfjw9Yo"
