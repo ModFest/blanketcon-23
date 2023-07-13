@@ -1,13 +1,13 @@
 name = "Discarnate"
-filename = "Discarnate-2.1.0+1.17.1-1.20.1.jar"
+filename = "Discarnate-2.1.1+1.17.1-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bEQrnLr7/versions/QObPbg4o/Discarnate-2.1.0%2B1.17.1-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/bEQrnLr7/versions/vmoWGpN5/Discarnate-2.1.1%2B1.17.1-1.20.1.jar"
 hash-format = "sha1"
-hash = "dcff4850bf4b8428bb74669eb0b9fd382fda7981"
+hash = "3b1de39796a153f03b56464382b2185e743b5194"
 
 [update]
 [update.modrinth]
 mod-id = "bEQrnLr7"
-version = "QObPbg4o"
+version = "vmoWGpN5"
