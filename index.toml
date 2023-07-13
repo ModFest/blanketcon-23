@@ -632,6 +632,11 @@ hash = "e1e94dbddfd937f5edefa55e7e1712b67f65dce12e8fe3fa783870f57f921c16"
 metafile = true
 
 [[files]]
+file = "mods/the-mighty-architectury.pw.toml"
+hash = "f3167bb94707d44321e0c850ec758272c7ae700e48c7d7588f2926dedd966064"
+metafile = true
+
+[[files]]
 file = "mods/the-printer.pw.toml"
 hash = "8e6b182e6ffd3eccd71cc7b0ecb132b0b6f3e6ba965f5fae0ec2d69089fbf7b4"
 metafile = true
@@ -723,7 +728,12 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "165a6e527e8ae4f8747e061e6f569176ff7b79c081138ab127915ac35eeeef1a"
+hash = "414fc5c2253924a4a03a6613cb7b3cbd06562f23ca1cdffd7fc88597d85b6518"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
