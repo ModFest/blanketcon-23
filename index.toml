@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "cdb18b99104e0bb0fd1eef79efa2aaed87e388dc14ae45fe3de0d63aaeba2821"
+hash = "57d2b85c2c93dab8a0d0a870ea2522fe371e043e0048ca69236daa9cfc826f34"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/fedicraft.pw.toml"
-hash = "5496ca8ddb3ada7e4a8eee8e199fe4af746b6b208fcf08040d442ecda138d17f"
+hash = "07760ba2a154732052b6ea58749566377fe38112b2f190b100e25a60ad0d71ae"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
+hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
@@ -708,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "a63f3322653a4892ec291d58a7ad8e304f8e9faeb77c2e6ffc4e1d8466a97c4c"
+hash = "806e17ac38c615bf4421a0e82deaab937e17280ca96ccca2a6998b317fe9fad5"
 metafile = true
 
 [[files]]
