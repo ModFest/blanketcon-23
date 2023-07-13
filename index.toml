@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/discarnate.pw.toml"
-hash = "896a8a210f7a987a8d6c92191c47751390dad622a00e4970fb86391be47108c8"
+hash = "b7882bc211ebd4dc135a4d7ee5a0431ad684470445d16565290502ec6ae870e4"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/now-playing.pw.toml"
-hash = "67d849a2fda2216ad618103a3bd32182c1e609d87e7753fc71fced63a2f5d413"
+hash = "d9120db8ec9210078ad3a981aab2af62b8261d35822e9ce578fc097c54d89742"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.pw.toml"
-hash = "79f660fc34cce9a88ad9476c80ba8e4a843d3fc67515994ea02a3a4009e194da"
+hash = "7db1bdb8874134601a2f39ab8907a9ad8a7a606895967eeb095be8839fea929b"
 metafile = true
 
 [[files]]
@@ -693,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/visiblebarriers.pw.toml"
-hash = "3acb4186f48a764f8ea84d5d3d4845483083b9b9c9c5b7c28e7e7ecad61b4432"
+hash = "d695c1fcc3c6df535d86d39e98605bff7bdc6a978c40e6b4274ba7ec2544471d"
 metafile = true
 
 [[files]]
