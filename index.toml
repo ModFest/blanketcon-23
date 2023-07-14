@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "5f086e00767e8f66b58bc6a85e295cdf8e0c17e3be0cb7f2cb0120400296523d"
+hash = "61b91977d3f30117020543dfa91e4e1bd3f202b7176f49a23256de9ceb9e7295"
 metafile = true
 
 [[files]]
