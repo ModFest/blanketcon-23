@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c3f1a1b50ae464543501b0be65590e43c498bcbac9196c413611b730a6c378b1"
+hash = "adb7d5422c876a0983e7d0019a6da7e2485525b56d841733bf7fc8ee49a301e8"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "74c1d7aab647a59beec2ae8fa046965726f69d73567ccf1d10b1b8fd78f90409"
+hash = "e4379ed8fc0bbfb177f21a72301a491c581a45401de416e8bb14cdee1a88b8b8"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "39a7db76913916631313499eadca48f07d18d1d1f6e534ce5c87ffdc779346ec"
+hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
 metafile = true
 
 [[files]]
