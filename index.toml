@@ -237,6 +237,11 @@ hash = "3bcc41bbf506ae472e016d0d6123689a79b28e7c05d7fa12b74a655bbddeb4f4"
 metafile = true
 
 [[files]]
+file = "mods/enchantery.pw.toml"
+hash = "10d878811da75437eb75f71972d9cb9347033b3276d689e93dd7109e20af7a2e"
+metafile = true
+
+[[files]]
 file = "mods/ended.pw.toml"
 hash = "9208709303f472309fcffd96f73bfd42ca3e3abdda7fba0852e447cd7a4f6a98"
 metafile = true
