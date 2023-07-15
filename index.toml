@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "adb7d5422c876a0983e7d0019a6da7e2485525b56d841733bf7fc8ee49a301e8"
+hash = "24ed98f0fc3e1464c1ad72eba9be54f2f8d139b1509d6ca15289add45a927809"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantery.pw.toml"
-hash = "10d878811da75437eb75f71972d9cb9347033b3276d689e93dd7109e20af7a2e"
+hash = "b2be0e7b7e63d6d284a4f3ef23efbbd05063ca631e401a0299caddf2da633b10"
 metafile = true
 
 [[files]]
