@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/suspicious-shapes.pw.toml"
-hash = "3fbe8e578beb5fc9139492661aad878740c3a36ed3aea63d66e725160590a26e"
+hash = "ec3298a2b17c834b3226b53589fbe356e580dbe3bd912180e4dab5a581911073"
 metafile = true
 
 [[files]]
@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+hash = "5266f479ada8def6f0913d79b57f1dbf52058df1690e3702a3a3608e6a80c796"
 metafile = true
 
 [[files]]
