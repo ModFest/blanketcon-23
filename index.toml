@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "9167dc261dd8a2c6695f1a218f9ca1bae7cb9e857b0fdfc542cdaa23288efbf7"
+hash = "7d9a59fee9ce605fd38794f8ce8f0c3f42c00ee3e4818281d538920ef98d18d9"
 metafile = true
 
 [[files]]
@@ -233,12 +233,12 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "3bcc41bbf506ae472e016d0d6123689a79b28e7c05d7fa12b74a655bbddeb4f4"
+hash = "22dbfb5f39c51da07e417caf35278f6ef5cabf00b00b5d1b3afe74511cf23b8b"
 metafile = true
 
 [[files]]
 file = "mods/enchantery.pw.toml"
-hash = "b2be0e7b7e63d6d284a4f3ef23efbbd05063ca631e401a0299caddf2da633b10"
+hash = "84c4681e18735d5de07f2ee9e6dcbfbfcd00cfd2b97ecf45905dc3abf56b4e5d"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "7521ffa92e736c6497bd012d6ccea86b0d6dde381d2cea95b67830d0ca524f83"
+hash = "0ed6fd07bb145e4dfa2033573cf02717fede08a3b79b93e27d52b2ea4832fcf4"
 metafile = true
 
 [[files]]

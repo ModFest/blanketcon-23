@@ -2,6 +2,6 @@ name = "enchantery"
 filename = "enchantery-1.20.1-0.0.2-fabric.jar"
 
 [download]
-url = "https://github.com/AstralOrdana/Enchantery/releases/download/releases/enchantery-1.20.1-0.0.2-fabric.jar"
-hash-format = "sha256"
-hash = "b887055aced9a14e204568bee542a0a803d75abc4a3caa442d89c258357ec4d3"
+url = "https://github.com/AstralOrdana/Enchantery/releases/download/v.0.0.2/enchantery-1.20.1-0.0.2-fabric.jar"
+hash-format = "sha1"
+hash = "09d3cafe349e696c3d48b085cbd798a3806291ba"
