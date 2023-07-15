@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/conventional-cubes.pw.toml"
-hash = "f925e9ab389f2801b62e209eac7d13d00d507db5e1f05dfc702d6d9f520c8170"
+hash = "578e23b3cbbc2a5968d69a42531d2029a0a753645e3da14fab045f4f0bb82933"
 metafile = true
 
 [[files]]
@@ -277,11 +277,6 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "bf79ad92d559bbdc715c7ec5359cae0b29171c445974ba4141f70897cafa6bae"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -328,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/heart-of-the-machine.pw.toml"
-hash = "3168113150d7b8e67baa026afdc25d28a13de07f563d4cac01b21844ff608fba"
+hash = "6ddc51b7b6b2c79f9d209968e330209d9507404d7bd10f3c457c1bcb626099a1"
 metafile = true
 
 [[files]]
@@ -683,7 +678,12 @@ metafile = true
 
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
-hash = "16a080b9c4ba7aeb83e65c7f351620d8a2cf96c60d51f86d82267cc59fc9e8dd"
+hash = "3c0bbec7a2dd63f7b1af1241b669230d8f1843d6b640e6c1d29f450f5d251d98"
+metafile = true
+
+[[files]]
+file = "mods/tree-hollows.pw.toml"
+hash = "edac8b4c05234ebd2609ab8abb0ba4ad425d8a6d3777e20528dc6712607d896c"
 metafile = true
 
 [[files]]
