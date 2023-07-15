@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "93a929bdd2c671f7d9f88844fe412a4ea2d344e3577cba661707de3645258fbf"
+hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
 metafile = true
 
 [[files]]
@@ -172,8 +172,18 @@ hash = "6f6700ec1170d64907372f36b98abf151bd47809419bcfaf619698fb76a90cd0"
 metafile = true
 
 [[files]]
+file = "mods/conventional-cubes.pw.toml"
+hash = "f925e9ab389f2801b62e209eac7d13d00d507db5e1f05dfc702d6d9f520c8170"
+metafile = true
+
+[[files]]
 file = "mods/datapackportals.pw.toml"
 hash = "d67a961bee7be189c779cef7650936c37ebbb0fc7154f7918f0446716bc14cf6"
+metafile = true
+
+[[files]]
+file = "mods/demobox.pw.toml"
+hash = "08a78452c5ee2ce29126fe7c72c142af04fd84bf361d867a369dfca127418e4a"
 metafile = true
 
 [[files]]
@@ -398,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "a787a62c6aa8e3175789b11c5c4d2e592cc41f2ad798fa197c982f35be04f2b5"
+hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
 metafile = true
 
 [[files]]

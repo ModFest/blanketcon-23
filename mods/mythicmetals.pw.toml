@@ -1,13 +1,13 @@
 name = "Mythic Metals"
-filename = "mythicmetals-0.18.1+1.20-hotfix.jar"
+filename = "mythicmetals-0.18.2+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bAWzYNRd/versions/1BG0jTpW/mythicmetals-0.18.1%2B1.20-hotfix.jar"
+url = "https://cdn.modrinth.com/data/bAWzYNRd/versions/TIjrw9LW/mythicmetals-0.18.2%2B1.20.jar"
 hash-format = "sha1"
-hash = "f715d382d8119d807fc97c160b9504ac58304798"
+hash = "767204647e5dc9dc0bc058bc90081bc86b6e261a"
 
 [update]
 [update.modrinth]
 mod-id = "bAWzYNRd"
-version = "1BG0jTpW"
+version = "TIjrw9LW"

@@ -1,0 +1,13 @@
+name = "Conventional Cubes"
+filename = "ConventionalCubes-0.8.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi9fDDRj/versions/Yf7tSV0Z/ConventionalCubes-0.8.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "90366a772d1968aa916f9c176d149d4aef2d07c0"
+
+[update]
+[update.modrinth]
+mod-id = "hi9fDDRj"
+version = "Yf7tSV0Z"
