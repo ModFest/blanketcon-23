@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "57d2b85c2c93dab8a0d0a870ea2522fe371e043e0048ca69236daa9cfc826f34"
+hash = "1aee53015482dd4001abf60732c6cd7608fb3c58600ce6aa23003360c2cc6730"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
-hash = "f8372b44edcbfe7d992adde919850e5c6a98adcf75eeaadb30cc7a7a87b1cd64"
+hash = "431890b90157ee13c052cb8b8a34b573f638be3ce20ae59dcf97d9eac83c4044"
 metafile = true
 
 [[files]]
