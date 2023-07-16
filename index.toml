@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "22dbfb5f39c51da07e417caf35278f6ef5cabf00b00b5d1b3afe74511cf23b8b"
+hash = "57b485223a60951b90e44a531091536604e87b7cda1aa9d35346ac57660593a6"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/packages.pw.toml"
-hash = "e60bdf92bbd075b1d407b01304dbf6762ccff79241fa0083f0a98e07a7b4aa44"
+hash = "8d7b1f8b6989bf82fc15ffececc3a9602c509026c4f46fcf0caefb8893a6cb95"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-hollows.pw.toml"
-hash = "edac8b4c05234ebd2609ab8abb0ba4ad425d8a6d3777e20528dc6712607d896c"
+hash = "296e3f2e3c15578b2149631e304893940b736c9ca051ced00ec964bbee4935df"
 metafile = true
 
 [[files]]
