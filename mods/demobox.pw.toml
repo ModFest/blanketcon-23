@@ -1,7 +1,13 @@
-name = "demobox"
+name = "DemoBox"
 filename = "DemoBox-1.0.0-beta.1.jar"
+side = "both"
 
 [download]
-url = "https://github.com/MattiDragon/DemoBox/releases/download/1.0.0-beta.1%2Bmc.1.20.1/DemoBox-1.0.0-beta.1.jar"
+url = "https://cdn.modrinth.com/data/b2SVO5sB/versions/AzTuKVJv/DemoBox-1.0.0-beta.1.jar"
 hash-format = "sha1"
 hash = "c1dbba81bf574342830562236f89c82204c682c4"
+
+[update]
+[update.modrinth]
+mod-id = "b2SVO5sB"
+version = "AzTuKVJv"

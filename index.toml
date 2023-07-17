@@ -58,7 +58,7 @@ hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "mods/advanced-networking.pw.toml"
-hash = "16b740f105957b87f1a601ed9c3586f9767eb621fb66ad84e8ec3aaa70deb464"
+hash = "9a6b893e1d6842d5c9eddc612074a1b04f891e5f3405fd543a46e8feea287a2f"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/demobox.pw.toml"
-hash = "08a78452c5ee2ce29126fe7c72c142af04fd84bf361d867a369dfca127418e4a"
+hash = "16d1945964bbd4f3c17e3161d8e60bd1e8eb44c4b40c1bb546aaf0ad93304dc4"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "69daee16dac2bea91e7d9c4ee7fbd3286bd581002abf7d314215b2f1005deb7b"
+hash = "af8f9129d996c1ffccfe52e3308badc0989452ca09c58ca5471e05bd7344d40e"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8a6291569b96ca9ea1a5cad6e806463049581ae09e6c9f5f6ade1c7666937fb2"
+hash = "dbadd730e364bc8210edac3d1d2f8c530f16f11728e3c978c8b17a1f377c9128"
 metafile = true
 
 [[files]]
