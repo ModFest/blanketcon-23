@@ -1,0 +1,6 @@
+{
+	"origins": [
+	],
+    "allow_random": false,
+    "default_origin": "origins:human"
+}

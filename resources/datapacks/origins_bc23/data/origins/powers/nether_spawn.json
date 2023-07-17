@@ -1,0 +1,11 @@
+{
+    "loading_priority": 1,
+    "type": "origins:simple",
+    "badges": [
+        {
+            "type": "origins:tooltip",
+            "sprite": "origins:textures/gui/badge/info.png",
+            "text": "This power does not function inside Blanketcon."
+        }
+    ]
+}

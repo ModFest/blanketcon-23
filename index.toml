@@ -787,6 +787,18 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
+file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
+hash = "90433c0da76bdac8e7589f38c81a085b0c50dec69694da10fd202a295b13be4a"
+
+[[files]]
+file = "resources/datapacks/origins_bc23/data/origins/powers/nether_spawn.json"
+hash = "1ee4fc2127dd9cc3e876e0bb492e4d909df0729d962201986d85a3f9955e5717"
+
+[[files]]
+file = "resources/datapacks/origins_bc23/pack.mcmeta"
+hash = "da4a55de14fbd2663a5f947d2d522fabc62280c47aa134d9fffbc5dc4b572f9b"
+
+[[files]]
 file = "resources/datapacks/tsmithing_bc23/data/bingbingwahoo/smithing_armor_materials/nintendium.json"
 hash = "6e9e122e1c345affacf641432e2e55716f96cbeceb89184d69148b85113d5858"
 
