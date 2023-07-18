@@ -4,3 +4,5 @@ includeMangroveRoots = true
 
 [modCompatibility]
 minecraft = true
+create = false
+templates = false
