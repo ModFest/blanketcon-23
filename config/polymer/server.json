@@ -1,0 +1,14 @@
+{
+  "_c7": "Displays vanilla/modded creatives tabs in /polymer creative",
+  "displayNonPolymerCreativeTabs": true,
+  "_c9": "Makes server send additional block updates around clicked area",
+  "sendBlocksAroundClicked": true,
+  "_c11": "Makes polymer report time it's handshake took",
+  "logHandshakeTime": false,
+  "_c12": "Enables logging of BlockState ids rebuilds",
+  "logBlockStateRebuilds": true,
+  "_c1": "Enables syncing of non-polymer entries as polymer ones, when PolyMc is present",
+  "polyMcSyncModdedEntries": false,
+  "_c2": "Delay from last light updates to syncing it to clients, in ticks",
+  "lightUpdateTickDelay": 1
+}
