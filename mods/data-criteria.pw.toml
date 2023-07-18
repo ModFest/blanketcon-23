@@ -1,0 +1,13 @@
+name = "Data Criteria"
+filename = "datacriteria-1.0.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbvSY1VI/versions/D07esTxD/datacriteria-1.0.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "96f190c657c6ea4047f35aa36452478bb96bf7f8"
+
+[update]
+[update.modrinth]
+mod-id = "bbvSY1VI"
+version = "D07esTxD"

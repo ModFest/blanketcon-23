@@ -181,6 +181,11 @@ hash = "578e23b3cbbc2a5968d69a42531d2029a0a753645e3da14fab045f4f0bb82933"
 metafile = true
 
 [[files]]
+file = "mods/data-criteria.pw.toml"
+hash = "dfc8cfe6dce791885c1055486d88ab09cbea377bd5aa2050f6a303736fc75f40"
+metafile = true
+
+[[files]]
 file = "mods/datapackportals.pw.toml"
 hash = "d67a961bee7be189c779cef7650936c37ebbb0fc7154f7918f0446716bc14cf6"
 metafile = true
@@ -371,11 +376,6 @@ hash = "dc14f05eb9d64572a0ab21e620eed138cf28c63ca667de18799a4a26f68a207b"
 metafile = true
 
 [[files]]
-file = "mods/mapshirts.pw.toml"
-hash = "3e55f8a58f72eb612afdcce3a943ce1b56f245123f3f9437f0c10e6fd56d8a24"
-metafile = true
-
-[[files]]
 file = "mods/milk_plus.pw.toml"
 hash = "cf605b48513a301c9fada49069b74baa958cde9efba7e1a52b762aa12ac677a2"
 metafile = true
@@ -408,11 +408,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
-metafile = true
-
-[[files]]
-file = "mods/moue-milkshakes.pw.toml"
-hash = "81e20e68dd714081541086f45baef81fee780e354aa44b9af958e80555dc45dc"
 metafile = true
 
 [[files]]

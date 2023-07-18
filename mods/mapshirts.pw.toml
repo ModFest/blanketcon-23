@@ -1,7 +1,0 @@
-name = "mapshirts"
-filename = "MapShirts-0.1.0.jar"
-
-[download]
-url = "https://github.com/HyperPigeon/MapShirts/releases/download/v0.1.0/MapShirts-0.1.0.jar"
-hash-format = "sha1"
-hash = "e47e28762e22c13d375101555fe43ec153ee01ec"
