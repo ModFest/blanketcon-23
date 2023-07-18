@@ -1,0 +1,16 @@
+{
+    "loading_priority": 100,
+	"name": "Wildling",
+	"description": "Instinctual explorers.",
+	"powers": [
+		"origins_minus:energetic",
+		"origins_minus:bound",
+		"origins_minus:fall_immunity",
+		"origins_minus:bounce",
+        "origins_bc23:reset_tmo_upon_chosen"
+	],
+	"icon": {
+		"item": "minecraft:tall_grass"
+	},
+	"impact": 1
+}

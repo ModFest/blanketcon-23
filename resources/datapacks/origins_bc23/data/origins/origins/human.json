@@ -1,0 +1,13 @@
+{
+	"name": "Stranger",
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:glass"
+	},
+	"description": "The standard minecraft experience.\n\nGo to the Origins Minus booth to try other Origins!",
+	"order": 1,
+	"impact": 0,
+	"loading_priority": 200,
+	"unchoosable": false
+}

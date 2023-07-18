@@ -1,0 +1,18 @@
+{
+    "loading_priority": 100,
+	"name": "Hellspawn",
+	"description": "No strangers to heat.",
+	"powers": [
+		"origins_minus:fire_immunity",
+		"origins_minus:lava_vision",
+		"origins_minus:lava_swimming",
+		"origins_minus:fire_punch",
+		"origins_minus:lava_fall_immunity",
+		"origins:flame_particles",
+        "origins_bc23:reset_tmo_upon_chosen"
+	],
+	"icon": {
+		"item": "minecraft:blaze_powder"
+	},
+	"impact": 1
+}

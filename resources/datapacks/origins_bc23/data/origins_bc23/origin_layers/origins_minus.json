@@ -1,0 +1,20 @@
+{
+	"origins": [
+        "origins:human",
+		"origins_minus:avian",
+		"origins_minus:wildling",
+		"origins_minus:weaver",
+		"origins_minus:mer",
+		"origins_minus:hellspawn",
+		"origins_minus:voidthing",
+		"origins_minus:steadfast",
+		"origins_minus:sanguine",
+		"origins_minus:dryad"
+	],
+    "name": "Origins Minus Origin",
+    "allow_random": true,
+    "exclude_random": [
+        "origins:human"
+    ],
+    "default_origin": "origins:human"
+}

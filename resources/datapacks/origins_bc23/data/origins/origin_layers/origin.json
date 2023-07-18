@@ -1,6 +1,5 @@
 {
-	"origins": [
-	],
-    "allow_random": false,
-    "default_origin": "origins:human"
+    "loading_priority": 200,
+    "hidden": true,
+    "enabled": false
 }

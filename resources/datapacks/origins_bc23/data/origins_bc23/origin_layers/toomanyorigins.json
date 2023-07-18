@@ -1,0 +1,16 @@
+{
+	"origins": [
+        "origins_bc23:tmo_no_origin",
+        "toomanyorigins:dragonborn",
+        "toomanyorigins:hare",
+        "toomanyorigins:hisskin",
+        "toomanyorigins:swarm",
+        "toomanyorigins:withered"
+	],
+    "name": "TooManyOrigins Origin",
+    "allow_random": true,
+    "exclude_random": [
+        "origins_bc23:tmo_no_origin"
+    ],
+    "default_origin": "origins_bc23:tmo_no_origin"
+}

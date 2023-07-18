@@ -1,0 +1,19 @@
+{
+    "loading_priority": 100,
+	"name": "Mer",
+	"description": "Ocean familiars.",
+	"powers": [
+		"origins_minus:water_breathing",
+		"origins_minus:swim_speed",
+		"origins_minus:water_vision",
+		"origins_minus:aqua_affinity",
+		"origins_minus:harvest_seagrass",
+		"origins_minus:edible_seagrass",
+		"origins:like_water",
+        "origins_bc23:reset_tmo_upon_chosen"
+	],
+	"icon": {
+		"item": "minecraft:tube_coral"
+	},
+	"impact": 1
+}

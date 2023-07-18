@@ -1,0 +1,14 @@
+{
+    "loading_priority": 100,
+	"name": "Steadfast",
+	"description": "§oShow me an unstoppable force, then.§r",
+	"powers": [
+		"origins_minus:brace",
+		"origins_minus:rescue",
+        "origins_bc23:reset_tmo_upon_chosen"
+	],
+	"icon": {
+		"item": "minecraft:shield"
+	},
+	"impact": 2
+}

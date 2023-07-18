@@ -1,0 +1,15 @@
+{
+  "powers": [
+    "toomanyorigins:affliction",
+    "toomanyorigins:drainage",
+    "origins:nether_spawn",
+    "toomanyorigins:hell_raised",
+    "toomanyorigins:spirit_strider",
+    "toomanyorigins:deathly_digestion",
+    "toomanyorigins:unholy",
+    "origins_bc23:reset_minus_upon_chosen"
+  ],
+  "icon": "minecraft:wither_rose",
+  "order": 561,
+  "impact": 3
+}

@@ -1,0 +1,18 @@
+{
+    "loading_priority": 100,
+	"name": "Weaver",
+	"description": "Unafraid of the dark.",
+	"powers": [
+		"origins_minus:echolocation",
+		"origins_minus:rappel",
+		"origins_minus:suffocation_immunity",
+		"origins_minus:web_affinity",
+		"origins:master_of_webs_no_slowdown",
+        "origins_bc23:reset_tmo_upon_chosen"
+	],
+	"icon": {
+		"item": "minecraft:glow_lichen"
+	},
+	"order": 1,
+	"impact": 1
+}

@@ -1,0 +1,13 @@
+{
+	"loading_priority": 100,
+	"name": "No Origin",
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:player_head"
+	},
+	"description": "You do not have a TooManyOrigins origin.\n\nGo to the TooManyOrigins booth for more information.",
+	"order": 1,
+	"impact": 0,
+	"unchoosable": false
+}

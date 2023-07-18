@@ -1,0 +1,18 @@
+{
+    "loading_priority": 100,
+	"name": "Dryad",
+	"description": "One with the trees.",
+	"powers": [
+		"origins_minus:sunlight",
+		"origins_minus:no_hunger",
+		"origins_minus:vine_whip",
+		"origins_minus:bioluminescence",
+		"origins_minus:leaf_phasing",
+		"origins_minus:plant_fall_resistance",
+        "origins_bc23:reset_tmo_upon_chosen"
+	],
+	"icon": {
+		"item": "minecraft:vine"
+	},
+	"impact": 2
+}
