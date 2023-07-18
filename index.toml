@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/elegantarmour.pw.toml"
-hash = "951d1e706c82461e95330e5bc61c1ad1c4e1de05d039b6b73a52a95df14ac9b7"
+hash = "afb14b32290f71125e251c560386191a0eca5d2daf1860d7efcb6e7b9b707779"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantery.pw.toml"
-hash = "1f2c6d198c6d928cfccbc6a903cbfc10e5cedf1a13336d6b59f8464050d09ac4"
+hash = "26a9d4b9c3f002e7dad267aa3d7863245daa2468dc491440bc51d8966492c829"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadowsgate.pw.toml"
-hash = "1a3946365bfcdf3a555d921e4bcaffb9fdb30fa9670599de394db6dd220a3751"
+hash = "6008ea4bf5ff9d9f88f82c034467b39c05f099af6abaae2175b249553c78ad83"
 metafile = true
 
 [[files]]
@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "61b91977d3f30117020543dfa91e4e1bd3f202b7176f49a23256de9ceb9e7295"
+hash = "3fe1d17ee14be58e3293ae09767aae333455c6120fbfe3e431b2134e9700c320"
 metafile = true
 
 [[files]]

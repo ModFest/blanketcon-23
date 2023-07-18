@@ -1,13 +1,13 @@
 name = "Elegant Armour 👕"
-filename = "elegantarmour-1.0.6.jar"
+filename = "elegantarmour-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1LrBk5C6/versions/BkRHHhI7/elegantarmour-1.0.6.jar"
+url = "https://cdn.modrinth.com/data/1LrBk5C6/versions/Sggsrxw0/elegantarmour-1.0.7.jar"
 hash-format = "sha1"
-hash = "a514998631b7ce01c5c5b6688a7f2122d79dcb1d"
+hash = "1044596ebf2984d78371e72aea0363ab70f6d6e9"
 
 [update]
 [update.modrinth]
 mod-id = "1LrBk5C6"
-version = "BkRHHhI7"
+version = "Sggsrxw0"
