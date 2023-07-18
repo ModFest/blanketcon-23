@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "0ed6fd07bb145e4dfa2033573cf02717fede08a3b79b93e27d52b2ea4832fcf4"
+hash = "1db70cf95edcafe935a0d002e9479be7c5549a54d31daf721f049fe676ed0271"
 metafile = true
 
 [[files]]
