@@ -465,6 +465,11 @@ hash = "54d428d0b874d4b619b6ff0cb76561a0a97be3ddf3a6629cb90302d2746a3b7f"
 metafile = true
 
 [[files]]
+file = "mods/pineapple-mod.pw.toml"
+hash = "8b37c9b528f3b305ad85c95a8a5dbf94b1dfefe8d6e914792df0fb3ebec6a98e"
+metafile = true
+
+[[files]]
 file = "mods/plant-in-a-jar.pw.toml"
 hash = "ba4ab63d5a8a065648900f7a14d2d76f4b2ef736c38a8d580114e3e500e54dbe"
 metafile = true
