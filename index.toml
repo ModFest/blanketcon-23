@@ -410,6 +410,11 @@ hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
 metafile = true
 
 [[files]]
+file = "mods/moue-milkshakes.pw.toml"
+hash = "90533ad77b9f956c7717f64e5a9ba070fd3e2fdc5833d3508f124609e7534bdb"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
 metafile = true
