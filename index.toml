@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "2e8a04aeae7d644e4b10f9120ed9061a22c5ce1ce6447f5d6cf862dd40b851c6"
+hash = "9a598ab00ed54fd8526fa50c43ba7c74590e5afd6019b376e27b6c0a26052341"
 metafile = true
 
 [[files]]

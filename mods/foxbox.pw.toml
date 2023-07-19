@@ -1,13 +1,13 @@
 name = "foxbox"
-filename = "foxbox-1.2.2+1.20.jar"
+filename = "foxbox-1.2.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/j93Yu8fr/versions/v5fSHqYg/foxbox-1.2.2%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/j93Yu8fr/versions/ykqj5UBj/foxbox-1.2.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "88bf9c878d5cbe8fa47f306a1efe4af91c4e3c9f"
+hash = "5d6a58fb3c6dea9a7f9f84ecced2a1c78c7843a4"
 
 [update]
 [update.modrinth]
 mod-id = "j93Yu8fr"
-version = "v5fSHqYg"
+version = "ykqj5UBj"
