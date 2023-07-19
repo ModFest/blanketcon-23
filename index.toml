@@ -645,6 +645,11 @@ hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
+file = "mods/succ.pw.toml"
+hash = "166edbbd28995c213ffa4ecc2e6752fecffed5532381e7112706164774ba88f2"
+metafile = true
+
+[[files]]
 file = "mods/suspicious-shapes.pw.toml"
 hash = "ec3298a2b17c834b3226b53589fbe356e580dbe3bd912180e4dab5a581911073"
 metafile = true
