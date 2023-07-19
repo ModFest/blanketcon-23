@@ -1,13 +1,13 @@
 name = "Calibrated Access"
-filename = "calibrated-1.2.0+1.20.jar"
+filename = "calibrated-1.2.1-hotfix.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pUSRRdVF/versions/xYOShFcz/calibrated-1.2.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/pUSRRdVF/versions/r16lUWi9/calibrated-1.2.1-hotfix.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "1270bf3243700bfbff772661e236c5f2ac8794b6"
+hash = "9309620dbcf0efec9f2abed549b8a8f376c76c7d"
 
 [update]
 [update.modrinth]
 mod-id = "pUSRRdVF"
-version = "xYOShFcz"
+version = "r16lUWi9"

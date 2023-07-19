@@ -146,12 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/cactusfix.pw.toml"
-hash = "913491421324ceac4a6e71774dac2f77da9d7656b0c80b1e9f743328ec1d5b1b"
+hash = "dd98ef4c86eecd08d51223bd6bfcfebd2906695ad4c6479a57eabe737020ad2c"
 metafile = true
 
 [[files]]
 file = "mods/calibrated.pw.toml"
-hash = "e208e14475307d0ff9a3901eab42a7df8e738cc52b4ede271bf5bd26f7e3d436"
+hash = "2adb9eb9f93a979bd98ee2a9286bc77670daa8bab5aea057e2be2f4337c757c7"
 metafile = true
 
 [[files]]
@@ -182,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/conventional-cubes.pw.toml"
 hash = "578e23b3cbbc2a5968d69a42531d2029a0a753645e3da14fab045f4f0bb82933"
-metafile = true
-
-[[files]]
-file = "mods/data-criteria.pw.toml"
-hash = "dfc8cfe6dce791885c1055486d88ab09cbea377bd5aa2050f6a303736fc75f40"
 metafile = true
 
 [[files]]
@@ -296,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "9a598ab00ed54fd8526fa50c43ba7c74590e5afd6019b376e27b6c0a26052341"
+hash = "2e8a04aeae7d644e4b10f9120ed9061a22c5ce1ce6447f5d6cf862dd40b851c6"
 metafile = true
 
 [[files]]
@@ -386,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "e4379ed8fc0bbfb177f21a72301a491c581a45401de416e8bb14cdee1a88b8b8"
+hash = "d699f8097ce8d04cd8dd5d0dbfe383440e90d57b8fac1c9fbf36616f0d98c1de"
 metafile = true
 
 [[files]]
@@ -666,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-printer.pw.toml"
-hash = "8e6b182e6ffd3eccd71cc7b0ecb132b0b6f3e6ba965f5fae0ec2d69089fbf7b4"
+hash = "5fde74c9ce8e704c79a574fcb6c3deb2c7d973637c718d69d6af2ab8eea3011d"
 metafile = true
 
 [[files]]
