@@ -1,0 +1,13 @@
+name = "Pineapple"
+filename = "pineapple-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HH23ZA1P/versions/FX5qWE4G/pineapple-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "02952a9d9e787ec899e2b44a38d487a1d34f3322"
+
+[update]
+[update.modrinth]
+mod-id = "HH23ZA1P"
+version = "FX5qWE4G"

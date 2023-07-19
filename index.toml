@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "552967d81e4f24af805d75fcea6e8ae892cfe05296eaf8f5a6c136ab7e58cd1e"
+
+[[files]]
 file = "config/polymer/server.json"
 hash = "d4b1eb238389ca74b42611c2e1e7123e35d57cd0ad38bedaf9523d2b6cd48e89"
 
@@ -38,7 +42,7 @@ hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
+hash = "7a92a596e22f2bf4a4b64cda5ce614f6d3d9e02d9d2b5c8246173561515d8cc5"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
@@ -142,12 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/cactusfix.pw.toml"
-hash = "913491421324ceac4a6e71774dac2f77da9d7656b0c80b1e9f743328ec1d5b1b"
+hash = "dd98ef4c86eecd08d51223bd6bfcfebd2906695ad4c6479a57eabe737020ad2c"
 metafile = true
 
 [[files]]
 file = "mods/calibrated.pw.toml"
-hash = "e208e14475307d0ff9a3901eab42a7df8e738cc52b4ede271bf5bd26f7e3d436"
+hash = "2adb9eb9f93a979bd98ee2a9286bc77670daa8bab5aea057e2be2f4337c757c7"
 metafile = true
 
 [[files]]
@@ -371,18 +375,13 @@ hash = "dc14f05eb9d64572a0ab21e620eed138cf28c63ca667de18799a4a26f68a207b"
 metafile = true
 
 [[files]]
-file = "mods/mapshirts.pw.toml"
-hash = "3e55f8a58f72eb612afdcce3a943ce1b56f245123f3f9437f0c10e6fd56d8a24"
-metafile = true
-
-[[files]]
 file = "mods/milk_plus.pw.toml"
 hash = "cf605b48513a301c9fada49069b74baa958cde9efba7e1a52b762aa12ac677a2"
 metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "e4379ed8fc0bbfb177f21a72301a491c581a45401de416e8bb14cdee1a88b8b8"
+hash = "d699f8097ce8d04cd8dd5d0dbfe383440e90d57b8fac1c9fbf36616f0d98c1de"
 metafile = true
 
 [[files]]
@@ -408,11 +407,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
-metafile = true
-
-[[files]]
-file = "mods/moue-milkshakes.pw.toml"
-hash = "81e20e68dd714081541086f45baef81fee780e354aa44b9af958e80555dc45dc"
 metafile = true
 
 [[files]]
@@ -468,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/piercingpaxels.pw.toml"
 hash = "54d428d0b874d4b619b6ff0cb76561a0a97be3ddf3a6629cb90302d2746a3b7f"
+metafile = true
+
+[[files]]
+file = "mods/pineapple-mod.pw.toml"
+hash = "8b37c9b528f3b305ad85c95a8a5dbf94b1dfefe8d6e914792df0fb3ebec6a98e"
 metafile = true
 
 [[files]]
@@ -667,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-printer.pw.toml"
-hash = "8e6b182e6ffd3eccd71cc7b0ecb132b0b6f3e6ba965f5fae0ec2d69089fbf7b4"
+hash = "5fde74c9ce8e704c79a574fcb6c3deb2c7d973637c718d69d6af2ab8eea3011d"
 metafile = true
 
 [[files]]
