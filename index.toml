@@ -375,6 +375,11 @@ hash = "dc14f05eb9d64572a0ab21e620eed138cf28c63ca667de18799a4a26f68a207b"
 metafile = true
 
 [[files]]
+file = "mods/map-shirts.pw.toml"
+hash = "a28209649db41761238421aa80d284457de0a045cef2726ad9c9e96af8ca5ca7"
+metafile = true
+
+[[files]]
 file = "mods/milk_plus.pw.toml"
 hash = "cf605b48513a301c9fada49069b74baa958cde9efba7e1a52b762aa12ac677a2"
 metafile = true
@@ -642,6 +647,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
+metafile = true
+
+[[files]]
+file = "mods/succ.pw.toml"
+hash = "166edbbd28995c213ffa4ecc2e6752fecffed5532381e7112706164774ba88f2"
 metafile = true
 
 [[files]]
