@@ -480,6 +480,11 @@ hash = "ba4ab63d5a8a065648900f7a14d2d76f4b2ef736c38a8d580114e3e500e54dbe"
 metafile = true
 
 [[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "584ee766d6e3987f8dff88447ee283f9c29324c33704dde54b47062ba844ef70"
+metafile = true
+
+[[files]]
 file = "mods/plushables.pw.toml"
 hash = "99aef8937ad58eeedaa0dacc06a0068bbafc58af0ad61cab1742568e7abfa469"
 metafile = true
