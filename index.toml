@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "9a598ab00ed54fd8526fa50c43ba7c74590e5afd6019b376e27b6c0a26052341"
+hash = "49ef8249ac8b0f3c0f270d4cdbadeddca1607e1d2600896fcfb764ba3e666349"
 metafile = true
 
 [[files]]
@@ -396,17 +396,22 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbadd730e364bc8210edac3d1d2f8c530f16f11728e3c978c8b17a1f377c9128"
+hash = "550f9d8239073e119b62a61b4e07b5d7c5d3d331d2a9d00eade8a96f4ee88acf"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
+metafile = true
+
+[[files]]
+file = "mods/moue-milkshakes.pw.toml"
+hash = "90533ad77b9f956c7717f64e5a9ba070fd3e2fdc5833d3508f124609e7534bdb"
 metafile = true
 
 [[files]]
@@ -456,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "0dd3750376baaf7e58b9f482c29d7d4530bbd8dd2a53399386b0701f6ea3840e"
+hash = "8595242a873bbe24b8b9c2e0109952b1cd3637821ab6c730417f386cbf83e1b3"
 metafile = true
 
 [[files]]
@@ -486,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollinators-paradise.pw.toml"
-hash = "ca50b77aa1acc258ba33d659b8f7eb1c6fff78a5f9a1632f209d515ac5ff811d"
+hash = "0e6acc84c84e6211f12addab7317a156cd1a37c7470aa32eb9e39b9734723d2b"
 metafile = true
 
 [[files]]
@@ -616,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "fc281e23b3f7f341c98f488190d5f02929947ff9d33fac067604e4cca8abe23e"
+hash = "4f101cf87d3e2228c8c62e3b91ecdb1825809841041e709f9d1480d4e25fad3a"
 metafile = true
 
 [[files]]
@@ -706,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "aefa51bd0d45e059bb2a60c0b1363a4a5a2832e164bdfd1e285d87293d34847a"
+hash = "529716c2ac1dfe996facee28e4115cbeedbae36f20bee053583d77a1cd88944e"
 metafile = true
 
 [[files]]
@@ -721,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "6d7aa4dc575f0e53f41b119bbb97080377e740157cad085e4d2f480f4164dcb8"
+hash = "61f58db4a480132151e170a0939010546dd1dbe4b9e33aec4c269af76d138745"
 metafile = true
 
 [[files]]
@@ -736,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+hash = "9cd3bad1d6b4e2e1e7be989c94d075cfcc35c14cc0f70466c6d2930583241f5b"
 metafile = true
 
 [[files]]
@@ -751,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "3fe1d17ee14be58e3293ae09767aae333455c6120fbfe3e431b2134e9700c320"
+hash = "a9da2b6fb1b7269982b8af992381ddc9060c008e98f05c5148b2042df9fd77a5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Moue Milkshakes"
+filename = "moue_milkshakes+mc1.20.1-1.1.0+build.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N2F89jG0/versions/Y058DPEb/moue_milkshakes%2Bmc1.20.1-1.1.0%2Bbuild.10.jar"
+hash-format = "sha1"
+hash = "d1671fc53007402505b97402d4a750560740e3c7"
+
+[update]
+[update.modrinth]
+mod-id = "N2F89jG0"
+version = "Y058DPEb"

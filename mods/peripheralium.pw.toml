@@ -1,13 +1,7 @@
-name = "Peripheralium"
-filename = "peripheralium-fabric-1.20.1-0.6.4.jar"
-side = "both"
+name = "peripheralium"
+filename = "peripheralium-fabric-1.20.1-0.6.5-pre.2.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/vV2a9qrZ/versions/StZekdVV/peripheralium-fabric-1.20.1-0.6.4.jar"
+url = "https://github.com/SirEdvin/Peripheralium/releases/download/v1.20.1-0.6.5-pre.2/peripheralium-fabric-1.20.1-0.6.5-pre.2.jar"
 hash-format = "sha1"
-hash = "1498bc9e1ddbac8233a4e7da8d77a19e5bcb6832"
-
-[update]
-[update.modrinth]
-mod-id = "vV2a9qrZ"
-version = "StZekdVV"
+hash = "59a2a3dd9545553cc6b0430dfb2f9f8b95a5b408"
