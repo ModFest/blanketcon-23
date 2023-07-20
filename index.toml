@@ -69,6 +69,10 @@ file = "config/yosbr/options.txt"
 hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
+file = "enable_hooks.sh"
+hash = "9e5bea64c2ee7ec80b3f3f2f514dc36f5f0e27297415a19bd8a0759405730daf"
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "9a6b893e1d6842d5c9eddc612074a1b04f891e5f3405fd543a46e8feea287a2f"
 metafile = true
