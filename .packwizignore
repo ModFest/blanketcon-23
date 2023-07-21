@@ -15,4 +15,4 @@
 
 # Exclude packwiz git hooks
 git
-enable_hooks.sh
+/enable_hooks.sh
