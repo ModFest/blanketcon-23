@@ -12,3 +12,7 @@
 
 # Exclude Mac metadata files
 .DS_Store
+
+# Exclude packwiz git hooks
+git
+/enable_hooks.sh

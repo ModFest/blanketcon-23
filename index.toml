@@ -41,6 +41,10 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "7a92a596e22f2bf4a4b64cda5ce614f6d3d9e02d9d2b5c8246173561515d8cc5"
 
@@ -396,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
+hash = "fb1dd4d4b360981b8f473e5a5802d134156c785a9c3dfbc9668705a3f2d7d43f"
 metafile = true
 
 [[files]]
@@ -406,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "550f9d8239073e119b62a61b4e07b5d7c5d3d331d2a9d00eade8a96f4ee88acf"
+hash = "80c1090512a89a86f60c30a7d2d9adeb4868134e47325782b80e513b30cb61cc"
 metafile = true
 
 [[files]]
@@ -466,7 +470,12 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "8595242a873bbe24b8b9c2e0109952b1cd3637821ab6c730417f386cbf83e1b3"
+hash = "90c5d90490a16483f205c1c6bba84cdcc7ff028b21ec46c873969dd2a7cd3c09"
+metafile = true
+
+[[files]]
+file = "mods/phonos.pw.toml"
+hash = "f6dd181897d5b9d229a96d8a67bc62df0ef9044c1b2e5bc0622accfd169ce7c5"
 metafile = true
 
 [[files]]
@@ -726,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "529716c2ac1dfe996facee28e4115cbeedbae36f20bee053583d77a1cd88944e"
+hash = "3d2107c5e266e38468448f6f6aae20147856519054810e8dd9aa548e8afe45d9"
 metafile = true
 
 [[files]]
@@ -741,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "61f58db4a480132151e170a0939010546dd1dbe4b9e33aec4c269af76d138745"
+hash = "b9d457926e0a33a0e97c5880a5a42e3543d31fec46eb7067b3bdf099965edf27"
 metafile = true
 
 [[files]]
@@ -756,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "9cd3bad1d6b4e2e1e7be989c94d075cfcc35c14cc0f70466c6d2930583241f5b"
+hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
 
 [[files]]
