@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
+hash = "fb1dd4d4b360981b8f473e5a5802d134156c785a9c3dfbc9668705a3f2d7d43f"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "550f9d8239073e119b62a61b4e07b5d7c5d3d331d2a9d00eade8a96f4ee88acf"
+hash = "80c1090512a89a86f60c30a7d2d9adeb4868134e47325782b80e513b30cb61cc"
 metafile = true
 
 [[files]]
@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "9cd3bad1d6b4e2e1e7be989c94d075cfcc35c14cc0f70466c6d2930583241f5b"
+hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
 
 [[files]]
