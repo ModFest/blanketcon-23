@@ -13,10 +13,6 @@ file = "config/quilt-loader-overrides.json"
 hash = "046d7c779cd4bb987b3dc15102da646a75947869533a1b0356dd543a55ed51c3"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "93beadb849d251357dda6a301d610eeb49e5b04f6d077b5957efcde67ed65438"
-
-[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
