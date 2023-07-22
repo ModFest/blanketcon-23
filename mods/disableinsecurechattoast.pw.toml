@@ -1,0 +1,13 @@
+name = "Disable Insecure Chat Toast"
+filename = "DisableInsecureChatToast-mc1.20-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/i090SePT/versions/UGKpfpZ6/DisableInsecureChatToast-mc1.20-1.1.0.jar"
+hash-format = "sha1"
+hash = "bbe3e752e2c5ad0c958f24ddad1ff7cd2567448f"
+
+[update]
+[update.modrinth]
+mod-id = "i090SePT"
+version = "UGKpfpZ6"
