@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricae-ex-nihilo.pw.toml"
-hash = "f3ae608185fe5a7957ade4d1889306f316ae795fcd48e40d1d31362cbf0bf7df"
+hash = "d1bb023c7180acb486e06e55d1b9c00f4325e1f390f56fe6438b6998861f949d"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fb1dd4d4b360981b8f473e5a5802d134156c785a9c3dfbc9668705a3f2d7d43f"
+hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "80c1090512a89a86f60c30a7d2d9adeb4868134e47325782b80e513b30cb61cc"
+hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/moue-milkshakes.pw.toml"
-hash = "90533ad77b9f956c7717f64e5a9ba070fd3e2fdc5833d3508f124609e7534bdb"
+hash = "cfe7fe46011edecc27c94681cfb01f17d55a76796fe8f4242145816b4339706a"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "f6dd181897d5b9d229a96d8a67bc62df0ef9044c1b2e5bc0622accfd169ce7c5"
+hash = "8f6400550220cf23f121b81620ac299499b25b3400c8050b76f59b956348d35e"
 metafile = true
 
 [[files]]
@@ -680,12 +680,12 @@ metafile = true
 
 [[files]]
 file = "mods/templates-2.pw.toml"
-hash = "f3c6587d139f1adbc62a83d41ab5a5b4e1720852b95de0d4bba6d02c7c53d7f3"
+hash = "997f92d441fbe8a80bd87d59155fbe4c5c204fa9a4eb0ffd0fbe3f8310ca9245"
 metafile = true
 
 [[files]]
 file = "mods/terrariamod.pw.toml"
-hash = "e1e94dbddfd937f5edefa55e7e1712b67f65dce12e8fe3fa783870f57f921c16"
+hash = "a7b39dd058ce4719628a2e52366c1bf05f0223559fb0904702e5f7e21d19d893"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "3d2107c5e266e38468448f6f6aae20147856519054810e8dd9aa548e8afe45d9"
+hash = "561301ee6692a14fa20b43429ea78e6ada73a4d6d5b4992d95e948a342194d97"
 metafile = true
 
 [[files]]
