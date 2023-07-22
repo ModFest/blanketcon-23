@@ -1,0 +1,13 @@
+name = "Tick Stasis"
+filename = "tick-stasis-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/t6XBQ2xn/versions/37uhLGmD/tick-stasis-1.0.0.jar"
+hash-format = "sha1"
+hash = "183b424085ef73ad8191656a126ff797622a471f"
+
+[update]
+[update.modrinth]
+mod-id = "t6XBQ2xn"
+version = "37uhLGmD"

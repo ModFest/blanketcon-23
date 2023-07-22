@@ -14,7 +14,7 @@ hash = "046d7c779cd4bb987b3dc15102da646a75947869533a1b0356dd543a55ed51c3"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "cdf61af100d8a29e9bbf26cc1b7ad8ae29c82357831705a97bb1dffa8ab386fa"
+hash = "93beadb849d251357dda6a301d610eeb49e5b04f6d077b5957efcde67ed65438"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -49,6 +49,10 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "7a92a596e22f2bf4a4b64cda5ce614f6d3d9e02d9d2b5c8246173561515d8cc5"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
 file = "config/yosbr/config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
@@ -61,8 +65,12 @@ file = "config/yosbr/config/styled-sidebars/config.json"
 hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
 
 [[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "c446a2d6ed316f509a1a51234ecd0468a462c30ced0bacdde428350ef83a9a22"
+
+[[files]]
 file = "config/yosbr/config/vmp.properties"
-hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+hash = "94b8f5236dd7488d6851256816c2edaaaf7224a2be1f7337d554a1eabe475e7f"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -76,6 +84,11 @@ metafile = true
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
@@ -104,6 +117,11 @@ hash = "3477ce45c615dbdddf2201bed16d31ee52b7ac5fd12c13631894251313fd649a"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "1c03a3f5b5e061890585ecf6e41995fdc9c9b5081fff50cac3b3e9fd412c63dc"
+metafile = true
+
+[[files]]
 file = "mods/atlas.pw.toml"
 hash = "f2166f09e4d2ee4a43dac512bf31bb5bdb9da121d11ad21940f36446afb4213a"
 metafile = true
@@ -116,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "7d9a59fee9ce605fd38794f8ce8f0c3f42c00ee3e4818281d538920ef98d18d9"
+metafile = true
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
 metafile = true
 
 [[files]]
@@ -164,6 +187,21 @@ hash = "e3a5e1b9f5c80d1fe052fe9825e3195ffb0fde3a33fe550a832c52e41c3b5452"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "e024c5bace1bc14b4bf5c370aee991040e7f845a2df1a548dafcbd66588e2442"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "2d5625745023a392a509aba9ced8e075990ab07a655c2f330decfa641cdddfcf"
 metafile = true
@@ -179,8 +217,18 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "bee4f874bed7a2e61dd5b8a1c41b0d0beb6ffb3d0ef96e12cb0d8df79ed43818"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "6f6700ec1170d64907372f36b98abf151bd47809419bcfaf619698fb76a90cd0"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "318590afc60d90c39271890d5f958ffdd06a20f300353b98f064774ff1f9c042"
 metafile = true
 
 [[files]]
@@ -196,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/demobox.pw.toml"
 hash = "16d1945964bbd4f3c17e3161d8e60bd1e8eb44c4b40c1bb546aaf0ad93304dc4"
+metafile = true
+
+[[files]]
+file = "mods/disableinsecurechattoast.pw.toml"
+hash = "6e9553207ef5219bb0477052b16230369b0a33b2d6d89fe723a4bfbc68b2ee7f"
 metafile = true
 
 [[files]]
@@ -279,6 +332,11 @@ hash = "f3ae608185fe5a7957ade4d1889306f316ae795fcd48e40d1d31362cbf0bf7df"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "e4914685936668b58503aa685d970fb929ee5b74dccec730a61747b6857a32b6"
+metafile = true
+
+[[files]]
 file = "mods/fedicraft.pw.toml"
 hash = "07760ba2a154732052b6ea58749566377fe38112b2f190b100e25a60ad0d71ae"
 metafile = true
@@ -359,6 +417,16 @@ hash = "4cd28f6942c4df1618f8a9ccadc41e22666aef02b88315e0424b79c058c404cb"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "99f4e1c8ff2abaa03856050029782302cd7ab1307013ede0943b8006312b0c04"
 metafile = true
@@ -374,8 +442,18 @@ hash = "2387c4fefe70d44665f961883f9e2c120ebd9a9f8146767a546fbfdc95623d84"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "239c29cf5b51343fb798e1ba0901c6575f65f4f5fdde2c11f66335b5cec4c08f"
+metafile = true
+
+[[files]]
 file = "mods/luckyducks.pw.toml"
 hash = "dc14f05eb9d64572a0ab21e620eed138cf28c63ca667de18799a4a26f68a207b"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "ed2ff97cf59a6c5b9f4e509edbc8c48944bb3c98795f6738c8dfec353cbe350d"
 metafile = true
 
 [[files]]
@@ -426,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
@@ -584,6 +667,11 @@ hash = "73b6c3db29f220ca8d258bef24148a31d5bff9e10958bf292d0b0ad1607c5277"
 metafile = true
 
 [[files]]
+file = "mods/restart-server.pw.toml"
+hash = "9c7aed2f43b48129ee2ca30b8840ba656aadd96cf3fb3c9b7f32c6d3ecfd7520"
+metafile = true
+
+[[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
 metafile = true
@@ -601,6 +689,16 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "9b25ad1b3aee774d33ef858aa7a9daab7338560ba9f2db48480073451cd31bbc"
+metafile = true
+
+[[files]]
+file = "mods/server-controls.pw.toml"
+hash = "3ae5adfbd11f0fa87e516409892bc1151255dfbab72360a086086981add671df"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
@@ -634,8 +732,18 @@ hash = "7db1bdb8874134601a2f39ab8907a9ad8a7a606895967eeb095be8839fea929b"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
 file = "mods/sprite-arrows.pw.toml"
 hash = "9b6c816a530acfd9492ce27d2314dc4a72cc93cf8806854f5abaa6d2db12bce5"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
 metafile = true
 
 [[files]]
@@ -701,6 +809,16 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
+metafile = true
+
+[[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
@@ -794,6 +912,10 @@ hash = "414fc5c2253924a4a03a6613cb7b3cbd06562f23ca1cdffd7fc88597d85b6518"
 metafile = true
 
 [[files]]
+file = "mods/worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
@@ -816,6 +938,11 @@ metafile = true
 [[files]]
 file = "mods/yardwork.pw.toml"
 hash = "5987fb31fc067a8402d73ee41b3778ef3c4222155e2678637f6e6e8c56f1219b"
+metafile = true
+
+[[files]]
+file = "mods/yawp.pw.toml"
+hash = "80b543298a2387c2a98ebd07971684e2e31b5aed21fbad62b592f6171ccb9622"
 metafile = true
 
 [[files]]

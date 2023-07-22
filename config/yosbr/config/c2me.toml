@@ -1,16 +1,6 @@
 version = 3
 # (Default: 2) Configures the parallelism of global executor.
-globalExecutorParallelism = "1"
-
-[clientSideConfig]
-
-	[clientSideConfig.modifyMaxVDConfig]
-		# (Default: true) Whether to modify maximum view distance
-		enabled = false
-
-[noTickViewDistance]
-	# (Default: true) Whether to enable no-tick view distance
-	enabled = false
+globalExecutorParallelism = "2"
 
 [threadedWorldGen]
 	# (Default: false) Whether to enable this feature
