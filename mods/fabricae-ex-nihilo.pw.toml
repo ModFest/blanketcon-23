@@ -1,13 +1,13 @@
 name = "Fabricae Ex Nihilo"
-filename = "wraith-fabricaeexnihilo-1.0.0-beta.3+mc1.20.1.jar"
+filename = "wraith-fabricaeexnihilo-1.0.0-beta.2+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/j9JARqmz/versions/i70v7pXd/wraith-fabricaeexnihilo-1.0.0-beta.3%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/j9JARqmz/versions/uLevCNPB/wraith-fabricaeexnihilo-1.0.0-beta.2%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "49ab5241586efd84b0b050b059a51d7e04e8c962"
+hash = "584377bef8a7c4dfdb73f398624512436c0cbffc"
 
 [update]
 [update.modrinth]
 mod-id = "j9JARqmz"
-version = "i70v7pXd"
+version = "uLevCNPB"
