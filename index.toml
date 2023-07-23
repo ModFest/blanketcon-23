@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "24ed98f0fc3e1464c1ad72eba9be54f2f8d139b1509d6ca15289add45a927809"
+hash = "eeb17cac42a55c1e59eebae12fce218d65c85bfd9b247b797870dea8090e13c2"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricae-ex-nihilo.pw.toml"
-hash = "f3ae608185fe5a7957ade4d1889306f316ae795fcd48e40d1d31362cbf0bf7df"
+hash = "16a21b29a87b3af83265da45a064e683e94d36ceb3912cab528ddd70e6cf3572"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "90c5d90490a16483f205c1c6bba84cdcc7ff028b21ec46c873969dd2a7cd3c09"
+hash = "0bb3effac7f9fdd85042403eb879bbc861717039504e83c7d729f9eb22af4785"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.pw.toml"
-hash = "7db1bdb8874134601a2f39ab8907a9ad8a7a606895967eeb095be8839fea929b"
+hash = "906b17ae4a03081592887a20295f95c62aefbe149d6d2002f1100be05a84e2d5"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "b9d457926e0a33a0e97c5880a5a42e3543d31fec46eb7067b3bdf099965edf27"
+hash = "421293efb5a5c56005fa159985197313cae8ca00e7d7a71e4e0ef80a575cfac4"
 metafile = true
 
 [[files]]
