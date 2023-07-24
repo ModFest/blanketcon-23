@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrariamod.pw.toml"
-hash = "a7b39dd058ce4719628a2e52366c1bf05f0223559fb0904702e5f7e21d19d893"
+hash = "e1e94dbddfd937f5edefa55e7e1712b67f65dce12e8fe3fa783870f57f921c16"
 metafile = true
 
 [[files]]
