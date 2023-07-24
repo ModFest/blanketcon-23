@@ -703,6 +703,11 @@ hash = "6008ea4bf5ff9d9f88f82c034467b39c05f099af6abaae2175b249553c78ad83"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0f65b64253d3d258b8087e4543fab8b5a4cbe2738c388e45bf666220180285a3"
+metafile = true
+
+[[files]]
 file = "mods/simply-starminer.pw.toml"
 hash = "f1e92a62b8f435af8f993d92c3fc19e6407331a2cd9a6727c90047e7c6b8cfdd"
 metafile = true
