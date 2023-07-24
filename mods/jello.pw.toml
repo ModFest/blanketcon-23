@@ -1,0 +1,13 @@
+name = "Jello"
+filename = "jello-5.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hp38UGFB/versions/83TMyorw/jello-5.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "3933fe154057428e2089c69dd925961a0d98f817"
+
+[update]
+[update.modrinth]
+mod-id = "Hp38UGFB"
+version = "83TMyorw"
