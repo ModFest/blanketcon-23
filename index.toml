@@ -304,6 +304,11 @@ hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
 
 [[files]]
+file = "mods/gelatin.pw.toml"
+hash = "38371ad3afe0fbc56cbf3e41e4ee5c523a0237a60b549c55475c0dc69f506cae"
+metafile = true
+
+[[files]]
 file = "mods/geocluster.pw.toml"
 hash = "e6ee4a2158c15aa53f58fc603dc38c6c7420ac54995572779a5cb617597115ea"
 metafile = true
@@ -356,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4cd28f6942c4df1618f8a9ccadc41e22666aef02b88315e0424b79c058c404cb"
+metafile = true
+
+[[files]]
+file = "mods/jello.pw.toml"
+hash = "b7038358d3c469690b72661a26129a051206cdd6732eb904e4ed838be5bf02e1"
 metafile = true
 
 [[files]]
@@ -595,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/scooters.pw.toml"
-hash = "7e92e6535068bc70b30c45328739d3c97e3107f0d4ec76181a9c203e41af91be"
+hash = "26d946d758573fb253fe5dc7835692c1d5d0363c325fa0cc360d737e7500ace8"
 metafile = true
 
 [[files]]
@@ -680,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/templates-2.pw.toml"
-hash = "997f92d441fbe8a80bd87d59155fbe4c5c204fa9a4eb0ffd0fbe3f8310ca9245"
+hash = "a323ec8f4f89179d04c729260946b487dd461138ca3feaa1d438a82936df5ebc"
 metafile = true
 
 [[files]]
@@ -790,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "414fc5c2253924a4a03a6613cb7b3cbd06562f23ca1cdffd7fc88597d85b6518"
+hash = "82c917c802ee48ab23e42a2ff6f20ad7eb9c0ef45d90341b6dc8da0c35332dc9"
 metafile = true
 
 [[files]]

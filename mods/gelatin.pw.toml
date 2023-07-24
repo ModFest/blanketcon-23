@@ -1,0 +1,13 @@
+name = "Gelatin"
+filename = "gelatin-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W0GUN2sz/versions/D7D5EdZr/gelatin-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "1f96a7029770eb32c48a4e4041af15b8bb265ec3"
+
+[update]
+[update.modrinth]
+mod-id = "W0GUN2sz"
+version = "D7D5EdZr"
