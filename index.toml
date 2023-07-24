@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/gelatin.pw.toml"
-hash = "38371ad3afe0fbc56cbf3e41e4ee5c523a0237a60b549c55475c0dc69f506cae"
+hash = "bd0994e4d35d6d9fb691fa4fb7421534082dcd72709752ecd6b84846a53b0995"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/jello.pw.toml"
-hash = "b7038358d3c469690b72661a26129a051206cdd6732eb904e4ed838be5bf02e1"
+hash = "fa313c9326fbf8a65ca4f1412b70c8f2feaa1c7f4dbfed246ec9ef3bd03701ba"
 metafile = true
 
 [[files]]
