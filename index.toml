@@ -304,11 +304,6 @@ hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
 
 [[files]]
-file = "mods/gelatin.pw.toml"
-hash = "bd0994e4d35d6d9fb691fa4fb7421534082dcd72709752ecd6b84846a53b0995"
-metafile = true
-
-[[files]]
 file = "mods/geocluster.pw.toml"
 hash = "e6ee4a2158c15aa53f58fc603dc38c6c7420ac54995572779a5cb617597115ea"
 metafile = true
@@ -361,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4cd28f6942c4df1618f8a9ccadc41e22666aef02b88315e0424b79c058c404cb"
-metafile = true
-
-[[files]]
-file = "mods/jello.pw.toml"
-hash = "fa313c9326fbf8a65ca4f1412b70c8f2feaa1c7f4dbfed246ec9ef3bd03701ba"
 metafile = true
 
 [[files]]
@@ -691,11 +681,6 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "a323ec8f4f89179d04c729260946b487dd461138ca3feaa1d438a82936df5ebc"
-metafile = true
-
-[[files]]
-file = "mods/terrariamod.pw.toml"
-hash = "e1e94dbddfd937f5edefa55e7e1712b67f65dce12e8fe3fa783870f57f921c16"
 metafile = true
 
 [[files]]
