@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/scooters.pw.toml"
-hash = "7e92e6535068bc70b30c45328739d3c97e3107f0d4ec76181a9c203e41af91be"
+hash = "26d946d758573fb253fe5dc7835692c1d5d0363c325fa0cc360d737e7500ace8"
 metafile = true
 
 [[files]]
@@ -680,12 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/templates-2.pw.toml"
-hash = "997f92d441fbe8a80bd87d59155fbe4c5c204fa9a4eb0ffd0fbe3f8310ca9245"
-metafile = true
-
-[[files]]
-file = "mods/terrariamod.pw.toml"
-hash = "a7b39dd058ce4719628a2e52366c1bf05f0223559fb0904702e5f7e21d19d893"
+hash = "a323ec8f4f89179d04c729260946b487dd461138ca3feaa1d438a82936df5ebc"
 metafile = true
 
 [[files]]
@@ -790,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "414fc5c2253924a4a03a6613cb7b3cbd06562f23ca1cdffd7fc88597d85b6518"
+hash = "82c917c802ee48ab23e42a2ff6f20ad7eb9c0ef45d90341b6dc8da0c35332dc9"
 metafile = true
 
 [[files]]
