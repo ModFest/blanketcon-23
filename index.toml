@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/emogg.pw.toml"
-hash = "25d734c0e7d265b7ae35d1add4efdd8fe98f1698d9dbff39022a752430bd1ce5"
+hash = "c38a5efc46b21351f64f558dcb6af8ebdb6dd6f55ab53aa93e98772ccfcb1246"
 metafile = true
 
 [[files]]

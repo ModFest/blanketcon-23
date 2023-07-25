@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/tyANotOf/versions/DjSMSorx/emogg-1.0-BETA.4-1.20.x.jar"
 hash-format = "sha1"
-hash = "cc3f938c51b65787f2b9b8b5f32415ee136e85cb"
+hash = "29a706f802f8c563ba97d14505c7d81b654d9c66"
 
 [update]
 [update.modrinth]
