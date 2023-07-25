@@ -16,3 +16,6 @@
 # Exclude packwiz git hooks
 git
 /enable_hooks.sh
+
+# Sisby said to do this
+.github/
