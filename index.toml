@@ -244,6 +244,11 @@ hash = "eeb17cac42a55c1e59eebae12fce218d65c85bfd9b247b797870dea8090e13c2"
 metafile = true
 
 [[files]]
+file = "mods/emogg.pw.toml"
+hash = "25d734c0e7d265b7ae35d1add4efdd8fe98f1698d9dbff39022a752430bd1ce5"
+metafile = true
+
+[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "57b485223a60951b90e44a531091536604e87b7cda1aa9d35346ac57660593a6"
 metafile = true
