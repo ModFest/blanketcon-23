@@ -1191,5 +1191,13 @@ file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
 hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
 
 [[files]]
+file = "resources/resourcepacks/modfemogg.zip"
+hash = "2fe4a7bc0a19d80dc016fe5c7f4d38a84df5182cd5d94f012c2d3844274c0c12"
+
+[[files]]
+file = "resources/resourcepacks/pridemogg.zip"
+hash = "bab2a39422a26cccebaf36cccd0caaef5f4fb2eaf9968c95c66def0ef5fc04b0"
+
+[[files]]
 file = "resources/resourcepacks/twemogg.zip"
 hash = "6360f624e8afc063bc33604a60bfdc2f5c5382308ab84f62cb2a371b1359a289"
