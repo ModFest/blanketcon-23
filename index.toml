@@ -33,6 +33,10 @@ file = "config/yosbr/config/exordium.json"
 hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
 [[files]]
+file = "config/yosbr/config/fabrication/features.ini"
+hash = "df28e2a09218bd17e3be794eba4c083f71163b65ceac9bef382ec0b8eedee2b2"
+
+[[files]]
 file = "config/yosbr/config/fastload.properties"
 hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
@@ -596,11 +600,6 @@ metafile = true
 [[files]]
 file = "mods/scarves.pw.toml"
 hash = "c3404300710bda5fb85c0f58fba59a7bacd353059b6efa8ccc58a0ce7d1b0581"
-metafile = true
-
-[[files]]
-file = "mods/scooters.pw.toml"
-hash = "26d946d758573fb253fe5dc7835692c1d5d0363c325fa0cc360d737e7500ace8"
 metafile = true
 
 [[files]]
@@ -1181,3 +1180,7 @@ hash = "a85349d36b76255bc03adac0a26a76514ffad31ec30aa8f0017814dc4bd7f813"
 [[files]]
 file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
 hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
+
+[[files]]
+file = "resources/resourcepacks/twemogg.zip"
+hash = "6360f624e8afc063bc33604a60bfdc2f5c5382308ab84f62cb2a371b1359a289"

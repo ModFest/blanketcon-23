@@ -1,7 +1,0 @@
-name = "scooters"
-filename = "scooters-2.0.0-beta.2+1.20.1.jar"
-
-[download]
-url = "https://github.com/hibiii/Scooters/releases/download/2.0.0-beta.2/scooters-2.0.0-beta.2+1.20.1.jar"
-hash-format = "sha1"
-hash = "99cde395bed0a0353937f8e67f59a193dc0f09e6"
