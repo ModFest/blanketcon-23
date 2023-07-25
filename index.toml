@@ -17,6 +17,10 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
 [[files]]
+file = "config/yosbr/config/emogg.json"
+hash = "c524bd7e0e27258dcb0122f15303ac80723a1b6d0bb872e63b203d87bdc62136"
+
+[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "84825744a3386b5194422e99eba7a3f49f0b29d4a9eb74a11921fd558d4571e8"
 
@@ -298,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/emogg.pw.toml"
-hash = "25d734c0e7d265b7ae35d1add4efdd8fe98f1698d9dbff39022a752430bd1ce5"
+hash = "c38a5efc46b21351f64f558dcb6af8ebdb6dd6f55ab53aa93e98772ccfcb1246"
 metafile = true
 
 [[files]]
