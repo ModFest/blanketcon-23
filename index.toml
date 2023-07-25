@@ -5,6 +5,10 @@ file = "config/enchancement.json"
 hash = "552967d81e4f24af805d75fcea6e8ae892cfe05296eaf8f5a6c136ab7e58cd1e"
 
 [[files]]
+file = "config/polymer/resource-pack.json"
+hash = "26a0d311dcfdb5a0cd69cd731377323e2c848f60bf7c6819b3f7b6aa206c4c33"
+
+[[files]]
 file = "config/polymer/server.json"
 hash = "d4b1eb238389ca74b42611c2e1e7123e35d57cd0ad38bedaf9523d2b6cd48e89"
 
@@ -117,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+metafile = true
+
+[[files]]
+file = "mods/arcpocalypse.pw.toml"
+hash = "24e6832084f5dc8eb1c0c3fcbee17e5cb75fd2f6954f6d6f08a51b96e8db4a06"
 metafile = true
 
 [[files]]
@@ -416,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "1db70cf95edcafe935a0d002e9479be7c5549a54d31daf721f049fe676ed0271"
+hash = "b9c0df8382fa3caacc9052c9101e22e793016cb3be0e50ff7009ac1f80867cba"
 metafile = true
 
 [[files]]
@@ -916,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "10350a505f6ba255493599e90fabb702a9fa38f51be5a34fe7db48328a5a7b52"
+hash = "6e58f3bda00ee0ef601e391c3cbb8bada921ce9051bc636cb8b295d477045ebd"
 metafile = true
 
 [[files]]
