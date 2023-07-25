@@ -679,8 +679,18 @@ hash = "ec3298a2b17c834b3226b53589fbe356e580dbe3bd912180e4dab5a581911073"
 metafile = true
 
 [[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "927e2290b641d3c7b45adfc938f6f20d0ec5eed45e7da35b0f3e9b01fb689035"
+metafile = true
+
+[[files]]
 file = "mods/switchy.pw.toml"
 hash = "3f0fe81ae76dc6f5615b9fdd088823fe7de9966e007d28bfb6ccbf4d7600a18c"
+metafile = true
+
+[[files]]
+file = "mods/switchykit.pw.toml"
+hash = "899a8fd91b062153a42a7a37a86e48bc455c28b926f2a0bef6a5c6b4313091ef"
 metafile = true
 
 [[files]]
