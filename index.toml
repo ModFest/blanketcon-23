@@ -21,6 +21,10 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
 [[files]]
+file = "config/yosbr/config/emogg.json"
+hash = "c524bd7e0e27258dcb0122f15303ac80723a1b6d0bb872e63b203d87bdc62136"
+
+[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "84825744a3386b5194422e99eba7a3f49f0b29d4a9eb74a11921fd558d4571e8"
 
