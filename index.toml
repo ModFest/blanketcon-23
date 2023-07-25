@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/apoli.pw.toml"
-hash = "5e587c33628c4344bd722dd3cdf08f52d40a464cffdcdb26b22d96a334b8a977"
+hash = "3773f5451aa04c277a70d9226165ba44cd354da79fb8371f64892fd3acfff747"
 metafile = true
 
 [[files]]
