@@ -111,6 +111,11 @@ hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
 metafile = true
 
 [[files]]
+file = "mods/arcpocalypse.pw.toml"
+hash = "24e6832084f5dc8eb1c0c3fcbee17e5cb75fd2f6954f6d6f08a51b96e8db4a06"
+metafile = true
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "3477ce45c615dbdddf2201bed16d31ee52b7ac5fd12c13631894251313fd649a"
 metafile = true
@@ -362,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "1db70cf95edcafe935a0d002e9479be7c5549a54d31daf721f049fe676ed0271"
+hash = "b9c0df8382fa3caacc9052c9101e22e793016cb3be0e50ff7009ac1f80867cba"
 metafile = true
 
 [[files]]
@@ -797,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "10350a505f6ba255493599e90fabb702a9fa38f51be5a34fe7db48328a5a7b52"
+hash = "6e58f3bda00ee0ef601e391c3cbb8bada921ce9051bc636cb8b295d477045ebd"
 metafile = true
 
 [[files]]
