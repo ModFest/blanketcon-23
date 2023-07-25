@@ -65,6 +65,10 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
+file = "config/yosbr/config/styled-chat.json"
+hash = "0709223a0e66e44a59bd066852dee726a106e163afed0d3fdc6b5671b3a53051"
+
+[[files]]
 file = "config/yosbr/config/styled-sidebars/config.json"
 hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
 
