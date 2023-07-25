@@ -292,6 +292,11 @@ hash = "16a21b29a87b3af83265da45a064e683e94d36ceb3912cab528ddd70e6cf3572"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
 file = "mods/fedicraft.pw.toml"
 hash = "07760ba2a154732052b6ea58749566377fe38112b2f190b100e25a60ad0d71ae"
 metafile = true
