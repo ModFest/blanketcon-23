@@ -345,6 +345,11 @@ hash = "16a21b29a87b3af83265da45a064e683e94d36ceb3912cab528ddd70e6cf3572"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
 file = "mods/fastback.pw.toml"
 hash = "e4914685936668b58503aa685d970fb929ee5b74dccec730a61747b6857a32b6"
 metafile = true
