@@ -788,6 +788,11 @@ hash = "3f93ba944882f89817aec28b50e6024b3edecebbd18ca231ecfc7746eb5ce22e"
 metafile = true
 
 [[files]]
+file = "mods/teabridge.pw.toml"
+hash = "87dffb921a35f041c0fe9bb7c992639d25f92ef4e0a9f682a8eaefdc16287541"
+metafile = true
+
+[[files]]
 file = "mods/templates-2.pw.toml"
 hash = "a323ec8f4f89179d04c729260946b487dd461138ca3feaa1d438a82936df5ebc"
 metafile = true
