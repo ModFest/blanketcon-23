@@ -29,6 +29,10 @@ file = "config/yosbr/config/exordium.json"
 hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
 [[files]]
+file = "config/yosbr/config/fabrication/features.ini"
+hash = "df28e2a09218bd17e3be794eba4c083f71163b65ceac9bef382ec0b8eedee2b2"
+
+[[files]]
 file = "config/yosbr/config/fastload.properties"
 hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
@@ -290,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "eeb17cac42a55c1e59eebae12fce218d65c85bfd9b247b797870dea8090e13c2"
+metafile = true
+
+[[files]]
+file = "mods/emogg.pw.toml"
+hash = "25d734c0e7d265b7ae35d1add4efdd8fe98f1698d9dbff39022a752430bd1ce5"
 metafile = true
 
 [[files]]
@@ -678,11 +687,6 @@ hash = "c3404300710bda5fb85c0f58fba59a7bacd353059b6efa8ccc58a0ce7d1b0581"
 metafile = true
 
 [[files]]
-file = "mods/scooters.pw.toml"
-hash = "26d946d758573fb253fe5dc7835692c1d5d0363c325fa0cc360d737e7500ace8"
-metafile = true
-
-[[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "bef2bf852a6a34e99f2979f1b0fe8d4274b909b24da69dcc4397958d75192741"
 metafile = true
@@ -778,8 +782,18 @@ hash = "ec3298a2b17c834b3226b53589fbe356e580dbe3bd912180e4dab5a581911073"
 metafile = true
 
 [[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "927e2290b641d3c7b45adfc938f6f20d0ec5eed45e7da35b0f3e9b01fb689035"
+metafile = true
+
+[[files]]
 file = "mods/switchy.pw.toml"
 hash = "3f0fe81ae76dc6f5615b9fdd088823fe7de9966e007d28bfb6ccbf4d7600a18c"
+metafile = true
+
+[[files]]
+file = "mods/switchykit.pw.toml"
+hash = "899a8fd91b062153a42a7a37a86e48bc455c28b926f2a0bef6a5c6b4313091ef"
 metafile = true
 
 [[files]]
@@ -1294,3 +1308,7 @@ hash = "a85349d36b76255bc03adac0a26a76514ffad31ec30aa8f0017814dc4bd7f813"
 [[files]]
 file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
 hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
+
+[[files]]
+file = "resources/resourcepacks/twemogg.zip"
+hash = "6360f624e8afc063bc33604a60bfdc2f5c5382308ab84f62cb2a371b1359a289"
