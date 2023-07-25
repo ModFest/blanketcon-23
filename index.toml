@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-api.pw.toml"
-hash = "ba6c84b5e51d9b9b665ed30e4525a3380acbb3fa1a9a3045ec0c60905ed99410"
+hash = "7614f94faf853bed3c4794bca2eef34a18d16f9c0082818ebe0e5e8441366e3a"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "99f4e1c8ff2abaa03856050029782302cd7ab1307013ede0943b8006312b0c04"
+hash = "3e1e1e3f2d444c1fde1b507a0a642e0404df9784d1d3b990a5b3bdc1843fe232"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
-hash = "9b25ad1b3aee774d33ef858aa7a9daab7338560ba9f2db48480073451cd31bbc"
+hash = "bef2bf852a6a34e99f2979f1b0fe8d4274b909b24da69dcc4397958d75192741"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "d33194be4aa0b3e00990d53b744267b7e6d5a642bbd9a382d9370b8a92aa8395"
+hash = "10350a505f6ba255493599e90fabb702a9fa38f51be5a34fe7db48328a5a7b52"
 metafile = true
 
 [[files]]
