@@ -341,6 +341,11 @@ hash = "e218778c97398a026cd9108b0dd3ce9f3c62ef438915c4febf16b5e314407fed"
 metafile = true
 
 [[files]]
+file = "mods/glowcase.pw.toml"
+hash = "54eacaa46ac15f05882394674b3795a354bbbb5dbb9195b6dc70e6fd33c41f7e"
+metafile = true
+
+[[files]]
 file = "mods/goml-reserved.pw.toml"
 hash = "6828d9147bdd0f8ffd6955b1267116fcae012a456b8f6751ea53fb239b04749f"
 metafile = true
