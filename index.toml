@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
-hash = "431890b90157ee13c052cb8b8a34b573f638be3ce20ae59dcf97d9eac83c4044"
+hash = "53ee0b3186992ddb7abe5c2d1d6927f034e4b8499591905b8c6cd6340374ee2d"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/demobox.pw.toml"
-hash = "16d1945964bbd4f3c17e3161d8e60bd1e8eb44c4b40c1bb546aaf0ad93304dc4"
+hash = "30207ed51d07995272f61f55feb19686c92317cf7bf01adb111ebd29ad5ff002"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/geocluster.pw.toml"
-hash = "e6ee4a2158c15aa53f58fc603dc38c6c7420ac54995572779a5cb617597115ea"
+hash = "1160638fc2ee492f11d13e3e12c191d69e52ebab2f3555e610c3781bd2b4ed33"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/heart-of-the-machine.pw.toml"
-hash = "6ddc51b7b6b2c79f9d209968e330209d9507404d7bd10f3c457c1bcb626099a1"
+hash = "82219099d70523f23aab6f036dbb0ccb97edcb504cc1a71d20bde70f3f611bd4"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "d699f8097ce8d04cd8dd5d0dbfe383440e90d57b8fac1c9fbf36616f0d98c1de"
+hash = "7cbe7754b29111133f3110999e1e1c1612ac6728b999821fa28e42e6e3e02853"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/moue-milkshakes.pw.toml"
-hash = "cfe7fe46011edecc27c94681cfb01f17d55a76796fe8f4242145816b4339706a"
+hash = "cae164ad0caded095bd0a27acce60026f27695f6546336ba2e02f31c92bb6e62"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "e7d6bd663e9ecedfe481613248389c72a145a938ac1d13c677fd4ee921e2a81e"
+hash = "ddbe7e00d9d69b3c7f4d35f26d35e78265167c125dbff495dc4d121e7d3f3777"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/templates-2.pw.toml"
-hash = "a323ec8f4f89179d04c729260946b487dd461138ca3feaa1d438a82936df5ebc"
+hash = "f30f1f159f1b737269d769a8e97c1979e019ec953fb1dd664a9c4e63d24a7b79"
 metafile = true
 
 [[files]]
