@@ -472,6 +472,11 @@ hash = "3e1e1e3f2d444c1fde1b507a0a642e0404df9784d1d3b990a5b3bdc1843fe232"
 metafile = true
 
 [[files]]
+file = "mods/limbonic-legacy.pw.toml"
+hash = "3838cb41484049bddffc81633d1c63cf0779247b06ae56976ef0f940af9957d1"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true

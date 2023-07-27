@@ -1,0 +1,7 @@
+name = "limbonic-legacy"
+filename = "limbonic-legacy-1.1.1.jar"
+
+[download]
+url = "https://github.com/AutumnalDev/LimbonicLegacy/releases/download/1.1.1/limbonic-legacy-1.1.1.jar"
+hash-format = "sha1"
+hash = "c3f25fed2ce62e71304bc2a11bbcc31f944aa864"
