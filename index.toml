@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/controlify.json"
-hash = "1850aed3abd027e74c7ab1f9872ea0cdd8029eeb1157e4eef6c250036abba29a"
+hash = "05860a30dcba22817ba48edc750e34d748d58cebe025d741dd0b5b12b5d8d3b2"
 
 [[files]]
 file = "config/enchancement.json"
 hash = "552967d81e4f24af805d75fcea6e8ae892cfe05296eaf8f5a6c136ab7e58cd1e"
+
+[[files]]
+file = "config/extended_drawers.json"
+hash = "8591ca3424b7579cb159e5a67a097335c07bd3320be81cef908a026f472993d5"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
