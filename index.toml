@@ -396,6 +396,11 @@ hash = "3e1e1e3f2d444c1fde1b507a0a642e0404df9784d1d3b990a5b3bdc1843fe232"
 metafile = true
 
 [[files]]
+file = "mods/limbonic-legacy.pw.toml"
+hash = "436242299d8bf29823afe36112d1848622960c67b391ccbf492a7f0088437712"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -493,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/packages.pw.toml"
 hash = "8d7b1f8b6989bf82fc15ffececc3a9602c509026c4f46fcf0caefb8893a6cb95"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
@@ -723,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "f30f1f159f1b737269d769a8e97c1979e019ec953fb1dd664a9c4e63d24a7b79"
+metafile = true
+
+[[files]]
+file = "mods/terrariamod.pw.toml"
+hash = "db930d285b9407c1ccb1e472c720bae8e58cafe814955363e1946a5e8fd245d4"
 metafile = true
 
 [[files]]
