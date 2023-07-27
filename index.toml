@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
-hash = "431890b90157ee13c052cb8b8a34b573f638be3ce20ae59dcf97d9eac83c4044"
+hash = "53ee0b3186992ddb7abe5c2d1d6927f034e4b8499591905b8c6cd6340374ee2d"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/demobox.pw.toml"
-hash = "16d1945964bbd4f3c17e3161d8e60bd1e8eb44c4b40c1bb546aaf0ad93304dc4"
+hash = "30207ed51d07995272f61f55feb19686c92317cf7bf01adb111ebd29ad5ff002"
 metafile = true
 
 [[files]]
@@ -390,12 +390,17 @@ metafile = true
 
 [[files]]
 file = "mods/geocluster.pw.toml"
-hash = "e6ee4a2158c15aa53f58fc603dc38c6c7420ac54995572779a5cb617597115ea"
+hash = "1160638fc2ee492f11d13e3e12c191d69e52ebab2f3555e610c3781bd2b4ed33"
 metafile = true
 
 [[files]]
 file = "mods/gildednetherite.pw.toml"
 hash = "e218778c97398a026cd9108b0dd3ce9f3c62ef438915c4febf16b5e314407fed"
+metafile = true
+
+[[files]]
+file = "mods/glowcase.pw.toml"
+hash = "54eacaa46ac15f05882394674b3795a354bbbb5dbb9195b6dc70e6fd33c41f7e"
 metafile = true
 
 [[files]]
@@ -420,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/heart-of-the-machine.pw.toml"
-hash = "6ddc51b7b6b2c79f9d209968e330209d9507404d7bd10f3c457c1bcb626099a1"
+hash = "82219099d70523f23aab6f036dbb0ccb97edcb504cc1a71d20bde70f3f611bd4"
 metafile = true
 
 [[files]]
@@ -456,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "3e1e1e3f2d444c1fde1b507a0a642e0404df9784d1d3b990a5b3bdc1843fe232"
+metafile = true
+
+[[files]]
+file = "mods/limbonic-legacy.pw.toml"
+hash = "436242299d8bf29823afe36112d1848622960c67b391ccbf492a7f0088437712"
 metafile = true
 
 [[files]]
@@ -495,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "d699f8097ce8d04cd8dd5d0dbfe383440e90d57b8fac1c9fbf36616f0d98c1de"
+hash = "7cbe7754b29111133f3110999e1e1c1612ac6728b999821fa28e42e6e3e02853"
 metafile = true
 
 [[files]]
@@ -525,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/moue-milkshakes.pw.toml"
-hash = "cfe7fe46011edecc27c94681cfb01f17d55a76796fe8f4242145816b4339706a"
+hash = "cae164ad0caded095bd0a27acce60026f27695f6546336ba2e02f31c92bb6e62"
 metafile = true
 
 [[files]]
@@ -574,13 +584,18 @@ hash = "8d7b1f8b6989bf82fc15ffececc3a9602c509026c4f46fcf0caefb8893a6cb95"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "0bb3effac7f9fdd85042403eb879bbc861717039504e83c7d729f9eb22af4785"
+hash = "3dbbe004e2bbcad0ed01bd2f1ad293e9aaedf52e73d0ff1c22f25119629d53cc"
 metafile = true
 
 [[files]]
@@ -645,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "e7d6bd663e9ecedfe481613248389c72a145a938ac1d13c677fd4ee921e2a81e"
+hash = "ddbe7e00d9d69b3c7f4d35f26d35e78265167c125dbff495dc4d121e7d3f3777"
 metafile = true
 
 [[files]]
@@ -830,7 +845,12 @@ metafile = true
 
 [[files]]
 file = "mods/templates-2.pw.toml"
-hash = "a323ec8f4f89179d04c729260946b487dd461138ca3feaa1d438a82936df5ebc"
+hash = "f30f1f159f1b737269d769a8e97c1979e019ec953fb1dd664a9c4e63d24a7b79"
+metafile = true
+
+[[files]]
+file = "mods/terrariamod.pw.toml"
+hash = "db930d285b9407c1ccb1e472c720bae8e58cafe814955363e1946a5e8fd245d4"
 metafile = true
 
 [[files]]
@@ -890,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "561301ee6692a14fa20b43429ea78e6ada73a4d6d5b4992d95e948a342194d97"
+hash = "42cc371a5f71cf7b2973e4c18b553090733f0526b9366146dd85a57ff685a3f1"
 metafile = true
 
 [[files]]
@@ -905,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "421293efb5a5c56005fa159985197313cae8ca00e7d7a71e4e0ef80a575cfac4"
+hash = "51f8825af2f3e853935c72bbf3ace33e6f17d61d7944f232269d443fbc965dec"
 metafile = true
 
 [[files]]
