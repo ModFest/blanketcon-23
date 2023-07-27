@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/controlify.json"
+hash = "1850aed3abd027e74c7ab1f9872ea0cdd8029eeb1157e4eef6c250036abba29a"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "552967d81e4f24af805d75fcea6e8ae892cfe05296eaf8f5a6c136ab7e58cd1e"
 
