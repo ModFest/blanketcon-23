@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "8f6400550220cf23f121b81620ac299499b25b3400c8050b76f59b956348d35e"
+hash = "263b0f9d5aed23bd72afbeb2eee0ca50d9c2337cbc7176f5bbf56c5754089205"
 metafile = true
 
 [[files]]
