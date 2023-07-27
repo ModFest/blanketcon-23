@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/controlify.json"
-hash = "05860a30dcba22817ba48edc750e34d748d58cebe025d741dd0b5b12b5d8d3b2"
+hash = "1850aed3abd027e74c7ab1f9872ea0cdd8029eeb1157e4eef6c250036abba29a"
 
 [[files]]
 file = "config/enchancement.json"
