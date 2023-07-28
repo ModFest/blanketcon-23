@@ -1,13 +1,13 @@
 name = "Moue Milkshakes"
-filename = "moue_milkshakes+mc1.20.1-1.2.1+build.18.jar"
+filename = "moue_milkshakes+mc1.20.1-1.2.2+build.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/N2F89jG0/versions/mfjVhtBY/moue_milkshakes%2Bmc1.20.1-1.2.1%2Bbuild.18.jar"
+url = "https://cdn.modrinth.com/data/N2F89jG0/versions/whQT0VLa/moue_milkshakes%2Bmc1.20.1-1.2.2%2Bbuild.19.jar"
 hash-format = "sha1"
-hash = "7b44b9457b628949cc1c73d3ffc8ecbfef57e183"
+hash = "d016e4e2e928922471156c2c0a8de2bea3ee2cd0"
 
 [update]
 [update.modrinth]
 mod-id = "N2F89jG0"
-version = "mfjVhtBY"
+version = "whQT0VLa"
