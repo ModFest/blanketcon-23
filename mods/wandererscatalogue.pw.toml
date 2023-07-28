@@ -1,13 +1,13 @@
 name = "Wanderer's Catalogue 📘"
-filename = "wandererscatalogue-1.0.3.jar"
+filename = "wandererscatalogue-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FNTcFUPb/versions/58QhggQh/wandererscatalogue-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/FNTcFUPb/versions/CxdMfvTR/wandererscatalogue-1.0.4.jar"
 hash-format = "sha1"
-hash = "191d56f878ac2ada8cdd9b51a6bfc139f9f34229"
+hash = "b97923efdc1ca28557cd4c56c6221d15df20a650"
 
 [update]
 [update.modrinth]
 mod-id = "FNTcFUPb"
-version = "58QhggQh"
+version = "CxdMfvTR"

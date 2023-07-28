@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "a7b7d0231bc2bc96e09ad905eb0b40f861b327847e71b9b570c900e16bbf648a"
+hash = "962bbd04aa3b74d428e059cf6d95ac71549bbefee409cbab06b3963ad8723c29"
 metafile = true
 
 [[files]]
@@ -318,12 +318,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "eeb17cac42a55c1e59eebae12fce218d65c85bfd9b247b797870dea8090e13c2"
+hash = "819b2fcd6fa31e79c4f3176439928ba14b49babcc455f8e2a0da2d920780e10c"
 metafile = true
 
 [[files]]
 file = "mods/emogg.pw.toml"
-hash = "c38a5efc46b21351f64f558dcb6af8ebdb6dd6f55ab53aa93e98772ccfcb1246"
+hash = "f34bdd7bfcc2795432adae051a914663dbb23385acef77ef44e115cf92a03aea"
 metafile = true
 
 [[files]]
@@ -438,12 +438,12 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "b9c0df8382fa3caacc9052c9101e22e793016cb3be0e50ff7009ac1f80867cba"
+hash = "d8f25c583a6a4faca7171ce36047df5686a89d123e2c474feef7653ee4dd0f81"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
+hash = "2d6174a3ed06ac03e00fcd915d8f899aa102f25f8d8734032f60f2321ecf29bc"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "4cd28f6942c4df1618f8a9ccadc41e22666aef02b88315e0424b79c058c404cb"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
+hash = "9f73d516ece73f6cccda8f03f0c79c21d4259ba6002b794bf17bbbdd505551d2"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "3dbbe004e2bbcad0ed01bd2f1ad293e9aaedf52e73d0ff1c22f25119629d53cc"
+hash = "b21c34d18df7e997d2dc69d6f4711cd82c280ea4aac1dac9c7ecaeff2c2a880a"
 metafile = true
 
 [[files]]
@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/scarves.pw.toml"
-hash = "c3404300710bda5fb85c0f58fba59a7bacd353059b6efa8ccc58a0ce7d1b0581"
+hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
 metafile = true
 
 [[files]]
@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "67febecb26232c32233c2221e46e34ccc3e00101c39f1598301c58c0b1dedc8a"
+hash = "8a3ae851f9d9ed537df44fdef0a98ae134b7d4aef4324faf6ff253acc0ae756b"
 metafile = true
 
 [[files]]
@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrariamod.pw.toml"
-hash = "db930d285b9407c1ccb1e472c720bae8e58cafe814955363e1946a5e8fd245d4"
+hash = "b193f21c31be904f7d24e6cfbc3bbec7a66abfc961a9b759931311d7b534a69e"
 metafile = true
 
 [[files]]
@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "51f8825af2f3e853935c72bbf3ace33e6f17d61d7944f232269d443fbc965dec"
+hash = "f351c00b1b6f6ebbed45837935ef5ccfa8882608dabd00b1b9e30bb54c22d424"
 metafile = true
 
 [[files]]
@@ -948,7 +948,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
+hash = "93e2bb699bae8854559b94395f8d3468682f61b52db24a8a076b946a87635e3c"
 metafile = true
 
 [[files]]
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandererscatalogue.pw.toml"
-hash = "3f51aa56806bee8f9e77e5c5f75a5d46d7dc15c3e5079e12bb0d9a1ba2128c14"
+hash = "12d50d336d930fdbace1728446517ae00800c3603b4b0dca3019273c91d79b14"
 metafile = true
 
 [[files]]
