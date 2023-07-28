@@ -942,6 +942,11 @@ hash = "9a7b6e75bb50f4582625d1aaf535e1cb9dd0dd85522e08074bc192844366b115"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "074cf2d26afeb275889bc2df21e3d4300cc1cd4b409c42ff35fc134ba19a78ab"
+metafile = true
+
+[[files]]
 file = "mods/visiblebarriers.pw.toml"
 hash = "d695c1fcc3c6df535d86d39e98605bff7bdc6a978c40e6b4274ba7ec2544471d"
 metafile = true
