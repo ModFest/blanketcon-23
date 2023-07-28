@@ -1,13 +1,13 @@
 name = "TeaBridge"
-filename = "teabridge-1.1.0-mc1.20.1-rev.c47d582.jar"
+filename = "teabridge-1.2.0-mc1.20.1-rev.0a2ecfe.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/fhtWl3kP/versions/6fiv9SHz/teabridge-1.1.0-mc1.20.1-rev.c47d582.jar"
+url = "https://cdn.modrinth.com/data/fhtWl3kP/versions/O1XuKthw/teabridge-1.2.0-mc1.20.1-rev.0a2ecfe.jar"
 hash-format = "sha1"
-hash = "ac206803ca725f681c1545c665c410c549e364d2"
+hash = "98d6c5bb17363081f0845c273374b9caec8bfefe"
 
 [update]
 [update.modrinth]
 mod-id = "fhtWl3kP"
-version = "6fiv9SHz"
+version = "O1XuKthw"
