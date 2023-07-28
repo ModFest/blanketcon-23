@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "b21c34d18df7e997d2dc69d6f4711cd82c280ea4aac1dac9c7ecaeff2c2a880a"
+hash = "11ba6b0d9f74990e6aa7dd9a919deddbff3e003ce6b58ab4b6d6e428f4e852f3"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "8a3ae851f9d9ed537df44fdef0a98ae134b7d4aef4324faf6ff253acc0ae756b"
+hash = "d3ce8020517f7f16a67a3fb311e982ead348ed9e8d2401050c570c9852f6325f"
 metafile = true
 
 [[files]]
