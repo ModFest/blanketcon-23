@@ -1,13 +1,13 @@
 name = "Controlify"
-filename = "Controlify-1.4.5+1.20.jar"
+filename = "Controlify-1.4.6+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/xncNJgTg/Controlify-1.4.5%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/y7xMOOMU/Controlify-1.4.6%2B1.20.jar"
 hash-format = "sha1"
-hash = "3746a7c25eb9fef6ced531d168b185954a2c9e5b"
+hash = "383bd12f0c4e9dbe59a4f5a10d7d270b6f7d66ca"
 
 [update]
 [update.modrinth]
 mod-id = "DOUdJVEm"
-version = "xncNJgTg"
+version = "y7xMOOMU"
