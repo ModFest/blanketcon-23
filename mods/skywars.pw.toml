@@ -1,0 +1,7 @@
+name = "skywars"
+filename = "skywars-1.0.0-build.80-sources.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/skywars/releases/download/build-80/skywars-1.0.0-build.80-sources.jar"
+hash-format = "sha256"
+hash = "ac3d25e1b499cf71d09d4ad657d83b308a4990440f8f870e6020f719540e26bb"

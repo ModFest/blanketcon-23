@@ -716,6 +716,11 @@ hash = "1a141b4e5733664eea34fddbb8cc0d22faaa50783a9a1e874157bd487bd34c02"
 metafile = true
 
 [[files]]
+file = "mods/skywars.pw.toml"
+hash = "aecc4f5b5e0a00acad0316267a5815e0fc466a808b2c027e568ed198873845a7"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
 metafile = true
