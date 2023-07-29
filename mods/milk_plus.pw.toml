@@ -1,13 +1,13 @@
 name = "Milk+"
-filename = "milk_plus-5.0.56.jar"
+filename = "milk_plus-5.0.59.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OCxj9VC8/versions/l3CYhykP/milk_plus-5.0.56.jar"
+url = "https://cdn.modrinth.com/data/OCxj9VC8/versions/hlS5XQgk/milk_plus-5.0.59.jar"
 hash-format = "sha1"
-hash = "5be6da36f5e30e372cf8b4239ec3fcd9246218fd"
+hash = "d6f90e57eece5a79046ce27664d27edabe42c9b4"
 
 [update]
 [update.modrinth]
 mod-id = "OCxj9VC8"
-version = "l3CYhykP"
+version = "hlS5XQgk"

@@ -1,13 +1,13 @@
 name = "ObsidianSlab"
-filename = "obsidian_slab-1.2.0.jar"
+filename = "obsidian_slab-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zYHI71AZ/versions/ejaHpmCi/obsidian_slab-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/zYHI71AZ/versions/3k5efhAh/obsidian_slab-1.2.1.jar"
 hash-format = "sha1"
-hash = "7fef30a90d8dce800ffe3e4aa4b706201aa7143c"
+hash = "8225eda4136fac1dd4fdbd79f64f3f9fa1eebed7"
 
 [update]
 [update.modrinth]
 mod-id = "zYHI71AZ"
-version = "ejaHpmCi"
+version = "3k5efhAh"
