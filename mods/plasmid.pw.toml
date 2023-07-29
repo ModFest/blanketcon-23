@@ -1,0 +1,7 @@
+name = "plasmid"
+filename = "plasmid-0.5.100+1.20.1.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/plasmid/releases/download/0.5.100%2B1.20.1/plasmid-0.5.100+1.20.1.jar"
+hash-format = "sha256"
+hash = "4eb6b92750257619107bf029508f45739f9003e86ad0f352619f636dd0833044"

@@ -1,0 +1,7 @@
+name = "loopdeloop"
+filename = "loopdeloop-1.2.1.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/loopdeloop-1.2.1.jar"
+hash-format = "sha256"
+hash = "29f0842d897813454503044e240fe12ca7d048b8faf78b204730e8767211b659"

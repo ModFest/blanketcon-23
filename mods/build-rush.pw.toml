@@ -1,0 +1,7 @@
+name = "build_rush"
+filename = "build_rush-1.0.2.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/build_rush-1.0.2.jar"
+hash-format = "sha256"
+hash = "c309bf2129c6660087e246321c36bfe8d12aba6bc1d83d9710ab165906544c12"
