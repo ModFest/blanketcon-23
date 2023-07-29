@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "5cf49cfb916fa300cb82169cf5602368d25f706c5cd653391661b91bda9a508d"
+hash = "402b9906f10a51a1dcfe7cbe8f6d8586f6e6c66acc6a7d16defac9426dc8540d"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmid.pw.toml"
-hash = "8765f2ea528b6e9051a44b4ec84f2f5515b21eee4f20f5ccb2a62c5f80099395"
+hash = "ba0f955a5689b0127996d55c497a9ad56ee432d9b6ab3ca93481d7dd130fe5de"
 metafile = true
 
 [[files]]
