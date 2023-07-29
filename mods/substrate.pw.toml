@@ -1,0 +1,7 @@
+name = "substrate"
+filename = "substrate-0.2.1+1.19.4.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/substrate-0.2.1+1.19.4.jar"
+hash-format = "sha256"
+hash = "2998985797c01607cdee12577b145924589e4dcff3a3494d29582cca79794d1e"
