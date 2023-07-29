@@ -1,0 +1,7 @@
+name = "snake"
+filename = "snake-1.0.0.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/snake-1.0.0.jar"
+hash-format = "sha256"
+hash = "da2b9f3eb96157a9d9354914a874b2c3435781e7520754da6c28f305ead7aee2"

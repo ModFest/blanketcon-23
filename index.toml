@@ -166,6 +166,11 @@ hash = "c09aed1a78fa4259c94bfa5b4350c023c2a79268e8b102f2e9c5d52eab9ef7db"
 metafile = true
 
 [[files]]
+file = "mods/build-rush.pw.toml"
+hash = "8bd177c310090d84bffcec91e4b7c47273929c741ba5c13e56268eb602d8b91d"
+metafile = true
+
+[[files]]
 file = "mods/cactusfix.pw.toml"
 hash = "dd98ef4c86eecd08d51223bd6bfcfebd2906695ad4c6479a57eabe737020ad2c"
 metafile = true
@@ -213,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/demobox.pw.toml"
 hash = "30207ed51d07995272f61f55feb19686c92317cf7bf01adb111ebd29ad5ff002"
+metafile = true
+
+[[files]]
+file = "mods/destroythemonument.pw.toml"
+hash = "d23b7568860f37d8f6a3122003f470d4f9c90471853809feca1c67fbd4784605"
 metafile = true
 
 [[files]]
@@ -321,6 +331,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/fortress.pw.toml"
+hash = "496888e5629bb42c6b04225937f531a5785cd28bcadac4ed01e44a6a644c5e22"
+metafile = true
+
+[[files]]
 file = "mods/foxbox.pw.toml"
 hash = "49ef8249ac8b0f3c0f270d4cdbadeddca1607e1d2600896fcfb764ba3e666349"
 metafile = true
@@ -396,6 +411,11 @@ hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
 
 [[files]]
+file = "mods/koth.pw.toml"
+hash = "6c2d9335d3d04f6685bf2f686cc0e75b62f922c5f3004979d7ace920287bdf40"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "3e1e1e3f2d444c1fde1b507a0a642e0404df9784d1d3b990a5b3bdc1843fe232"
 metafile = true
@@ -408,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/loopdeloop.pw.toml"
+hash = "c4ef276bcc8c849ae770ab045601ee417fb64b44889601e5eed0f53c1e597fd5"
 metafile = true
 
 [[files]]
@@ -481,6 +506,11 @@ hash = "e3edbaa160d619eab26e6e1d16bdce71c377f217eb7066f305cbe8d46db8e886"
 metafile = true
 
 [[files]]
+file = "mods/nucleoid-extras-blanketcon.pw.toml"
+hash = "aec0595e2f6dcbde83ea049c6d1c9bfc2e5bc15afb367c6e54ae2a1904d48097"
+metafile = true
+
+[[files]]
 file = "mods/obsidianslab.pw.toml"
 hash = "9f63411949cf8e3222798d12248126f43552772fe1a450cbf62ad783c07ae867"
 metafile = true
@@ -548,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/plant-in-a-jar.pw.toml"
 hash = "ba4ab63d5a8a065648900f7a14d2d76f4b2ef736c38a8d580114e3e500e54dbe"
+metafile = true
+
+[[files]]
+file = "mods/plasmid.pw.toml"
+hash = "8765f2ea528b6e9051a44b4ec84f2f5515b21eee4f20f5ccb2a62c5f80099395"
 metafile = true
 
 [[files]]
@@ -631,6 +666,11 @@ hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
+file = "mods/quakecraft.pw.toml"
+hash = "cef4f3d95f3817aeaf10559e1b0f69b57f10b18627c90fb60a79d3e32f35acdb"
+metafile = true
+
+[[files]]
 file = "mods/rainglow.pw.toml"
 hash = "952bd5f72add56e7ecfce0e74dec6fcfa1b5b45eb8d69ba580998764b7ef395b"
 metafile = true
@@ -638,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/registries-can-be-warm.pw.toml"
 hash = "73b6c3db29f220ca8d258bef24148a31d5bff9e10958bf292d0b0ad1607c5277"
+metafile = true
+
+[[files]]
+file = "mods/rocketspleef.pw.toml"
+hash = "92539644daec4877b9af311fd04851ec78e073248eeeba642b0c80fa656a3468"
 metafile = true
 
 [[files]]
@@ -676,6 +721,11 @@ hash = "7ddc1c2e20d76a494c91105a8da11316a9af9089fa779ec60dde0c6f103c8996"
 metafile = true
 
 [[files]]
+file = "mods/snake.pw.toml"
+hash = "5fb3db49e280427f2106f43094c826dc2d48c79141f024abfaaaf6aa682b528a"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
@@ -688,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/soulice.pw.toml"
 hash = "906b17ae4a03081592887a20295f95c62aefbe149d6d2002f1100be05a84e2d5"
+metafile = true
+
+[[files]]
+file = "mods/spleef.pw.toml"
+hash = "96fb918e982ae59320f243f314f87cef6f5c20d6338817315ad0d7c204af279c"
 metafile = true
 
 [[files]]
@@ -718,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/succ.pw.toml"
 hash = "166edbbd28995c213ffa4ecc2e6752fecffed5532381e7112706164774ba88f2"
+metafile = true
+
+[[files]]
+file = "mods/survival-games.pw.toml"
+hash = "eb65169e5571ed4ce000acbe2a32805fbd6787c9e3c78e97edce64574c5d0465"
 metafile = true
 
 [[files]]

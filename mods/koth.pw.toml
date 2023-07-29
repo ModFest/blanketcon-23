@@ -1,0 +1,7 @@
+name = "koth"
+filename = "koth-1.0.0.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/koth-1.0.0.jar"
+hash-format = "sha256"
+hash = "6ac51cd2089bbbc2dac3e6756bc587d35e63374989a478158ca1fa36b9577676"

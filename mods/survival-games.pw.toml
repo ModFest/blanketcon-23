@@ -1,0 +1,7 @@
+name = "survival-games"
+filename = "survival-games-0.1.4.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/survival-games-0.1.4.jar"
+hash-format = "sha256"
+hash = "02f0f6e8b01a49711907cb849174eec4af1b9962fbba0a40d8b10b0963f078fb"
