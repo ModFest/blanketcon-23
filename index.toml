@@ -776,6 +776,11 @@ hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
+file = "mods/substrate.pw.toml"
+hash = "a5d44c4eeafd59038c4edaa3d165f3bb24621d00332586a1a2d284dfc64f9e4a"
+metafile = true
+
+[[files]]
 file = "mods/succ.pw.toml"
 hash = "166edbbd28995c213ffa4ecc2e6752fecffed5532381e7112706164774ba88f2"
 metafile = true
