@@ -1,0 +1,13 @@
+name = "PictureSign"
+filename = "picturesign-2.0.0-beta.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WP2dmkk/versions/r5SZsNRg/picturesign-2.0.0-beta.1.jar"
+hash-format = "sha1"
+hash = "3d34a7648f8bcc4bf1c268969d1d65e09931b3ab"
+
+[update]
+[update.modrinth]
+mod-id = "9WP2dmkk"
+version = "r5SZsNRg"

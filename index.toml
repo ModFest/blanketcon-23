@@ -570,6 +570,11 @@ hash = "402b9906f10a51a1dcfe7cbe8f6d8586f6e6c66acc6a7d16defac9426dc8540d"
 metafile = true
 
 [[files]]
+file = "mods/picturesign.pw.toml"
+hash = "e92af2c675908488122ea9986c8178b4cad01ab9704de449023de618cb2c3de9"
+metafile = true
+
+[[files]]
 file = "mods/piercingpaxels.pw.toml"
 hash = "54d428d0b874d4b619b6ff0cb76561a0a97be3ddf3a6629cb90302d2746a3b7f"
 metafile = true
