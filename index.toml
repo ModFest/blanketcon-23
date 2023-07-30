@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydex.pw.toml"
-hash = "e61806b270ef2e345a502210b02bb07607e102a0e0aca8b73ac9762dca437e8c"
+hash = "bdbc5546a64b8100141da0c9e973751cd47da5786bfa88b86749d55dee03472c"
 metafile = true
 
 [[files]]
