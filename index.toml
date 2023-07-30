@@ -1455,10 +1455,6 @@ file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
 hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
 
 [[files]]
-file = "resources/resourcepacks/HexTech.zip"
-hash = "30e5abc05e8b01b91bb5b69d0f3609a37570637521e8b40c2e2884ad4b4573e0"
-
-[[files]]
 file = "resources/resourcepacks/modfemogg.zip"
 hash = "2fe4a7bc0a19d80dc016fe5c7f4d38a84df5182cd5d94f012c2d3844274c0c12"
 
