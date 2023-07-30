@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/hazard-diamond.pw.toml"
-hash = "3f89dabcad0933e155955f50ddf39201c21098b2a2bb319121660dae16e466fc"
+hash = "5229f23306bb86a061d73d7aa88d44cd3b4f6e5022c2bf54361ef40967525da3"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrariamod.pw.toml"
-hash = "4f38bdc5f4e4bfa763455f56b92663656443b231272704c3e922de1659772bd6"
+hash = "ad5fd08da2d413c34bc311495ba03dd4e82cf8db4ca9d319bfa18f00b668f9d0"
 metafile = true
 
 [[files]]
@@ -1308,6 +1308,10 @@ hash = "a85349d36b76255bc03adac0a26a76514ffad31ec30aa8f0017814dc4bd7f813"
 [[files]]
 file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
 hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
+
+[[files]]
+file = "resources/resourcepacks/HexTech.zip"
+hash = "30e5abc05e8b01b91bb5b69d0f3609a37570637521e8b40c2e2884ad4b4573e0"
 
 [[files]]
 file = "resources/resourcepacks/modfemogg.zip"

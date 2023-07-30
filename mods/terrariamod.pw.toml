@@ -1,7 +1,7 @@
 name = "terrariamod"
-filename = "TerrariaMod.-.Quilt.1.20.1-r3.1.jar"
+filename = "TerrariaMod.-.Quilt.1.20.1-r4.jar"
 
 [download]
-url = "https://github.com/Ryorama/Terrariamod/releases/download/1.20.1-v0.3.1/TerrariaMod.-.Quilt.1.20.1-r3.1.jar"
+url = "https://github.com/Ryorama/Terrariamod/releases/download/1.20.1-v0.4/TerrariaMod.-.Quilt.1.20.1-r4.jar"
 hash-format = "sha256"
-hash = "e1cab3b4e59000114f6fc1170b12a402b377ea4910afe40dfb391ba98a9ff88e"
+hash = "97e503b18c407b8ab1535e7aa3fa8c73ff5222d399d7eac9e84b4dab220e746d"
