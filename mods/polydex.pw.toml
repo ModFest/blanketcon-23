@@ -1,6 +1,5 @@
 name = "Polydex"
 filename = "polydex-1.0.0-beta.1.1+1.20.1.jar"
-side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/m5NB7FJE/versions/Dbv5VRmw/polydex-1.0.0-beta.1.1%2B1.20.1.jar"
