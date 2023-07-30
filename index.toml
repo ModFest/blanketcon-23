@@ -13,6 +13,10 @@ file = "config/extended_drawers.json"
 hash = "8591ca3424b7579cb159e5a67a097335c07bd3320be81cef908a026f472993d5"
 
 [[files]]
+file = "config/polymer/common.json"
+hash = "9234ce3572bad32e9aab8626c4936069efde934a6d3bd4ff20f2cdbbff0c836c"
+
+[[files]]
 file = "config/polymer/resource-pack.json"
 hash = "26a0d311dcfdb5a0cd69cd731377323e2c848f60bf7c6819b3f7b6aa206c4c33"
 
