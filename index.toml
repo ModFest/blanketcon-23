@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewery.pw.toml"
-hash = "c09aed1a78fa4259c94bfa5b4350c023c2a79268e8b102f2e9c5d52eab9ef7db"
+hash = "06b072144e73afdf56ad6ab2c3b76480675a004bc9a6d73a405339aae223bd58"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/geocluster.pw.toml"
-hash = "1160638fc2ee492f11d13e3e12c191d69e52ebab2f3555e610c3781bd2b4ed33"
+hash = "cb4b59ba756b08beea2e7703018ce06c7b8ad2d6fd9c875fd1551ec14c3f2780"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "11ba6b0d9f74990e6aa7dd9a919deddbff3e003ce6b58ab4b6d6e428f4e852f3"
+hash = "4b20a212e16166e3e512bc99ba87848732e8607871572f875554f83febe8f5f8"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmid.pw.toml"
-hash = "ba0f955a5689b0127996d55c497a9ad56ee432d9b6ab3ca93481d7dd130fe5de"
+hash = "9fe9712068a6bed3feecf6483dc977c960a4ebaa13721041a5bd2c115889a705"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadowsgate.pw.toml"
-hash = "6008ea4bf5ff9d9f88f82c034467b39c05f099af6abaae2175b249553c78ad83"
+hash = "5b0ab3b7cddb870fe1b67d20568f83a462bc76947edad95bd311cf38748b9baf"
 metafile = true
 
 [[files]]
@@ -797,12 +797,12 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "d3ce8020517f7f16a67a3fb311e982ead348ed9e8d2401050c570c9852f6325f"
+hash = "9278f4b4f7c920465dc494695bbf94035cb368ee07646967f94c07d822bb012f"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "3f0fe81ae76dc6f5615b9fdd088823fe7de9966e007d28bfb6ccbf4d7600a18c"
+hash = "601eaf0a76032d622c53816f6737917b92e3768572678741fbf18f92140e69f1"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "f351c00b1b6f6ebbed45837935ef5ccfa8882608dabd00b1b9e30bb54c22d424"
+hash = "06d854456ebd3165323dcf983815e554e6cab944c5d18b71c7d166ab07e70130"
 metafile = true
 
 [[files]]

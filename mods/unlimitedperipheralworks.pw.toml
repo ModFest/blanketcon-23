@@ -1,13 +1,13 @@
 name = "UnlimitedPeripheralWorks"
-filename = "peripheralworks-fabric-1.20.1-1.2.2.jar"
+filename = "peripheralworks-fabric-1.20.1-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Sf7QBsRP/versions/MNDl2tdS/peripheralworks-fabric-1.20.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/Sf7QBsRP/versions/DZtumUP8/peripheralworks-fabric-1.20.1-1.3.0.jar"
 hash-format = "sha1"
-hash = "2107bf2c669e69247c1d926eadcbe09c807dd834"
+hash = "b4f7c0c41d7ab78f6b62b642d7e0d1f1040b2d33"
 
 [update]
 [update.modrinth]
 mod-id = "Sf7QBsRP"
-version = "MNDl2tdS"
+version = "DZtumUP8"

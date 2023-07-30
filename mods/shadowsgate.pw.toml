@@ -1,7 +1,7 @@
 name = "shadowsgate"
-filename = "shadowsgate-0.1.2+1.20.1.jar"
+filename = "shadowsgate-0.2.0+1.20.1.jar"
 
 [download]
-url = "https://github.com/TheEpicBlock/ShadowsGate/releases/download/0.1.2/shadowsgate-0.1.2+1.20.1.jar"
-hash-format = "sha1"
-hash = "17b32ea366d2f0226220c60bd428e332dfb476ce"
+url = "https://github.com/TheEpicBlock/ShadowsGate/releases/download/0.2.0/shadowsgate-0.2.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "a1b456628ad6a9f0d4045db441b9a4a68b7feb561005c5c968dfe564ba273514"
