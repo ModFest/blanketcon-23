@@ -5,6 +5,10 @@ file = "config/enchancement.json"
 hash = "552967d81e4f24af805d75fcea6e8ae892cfe05296eaf8f5a6c136ab7e58cd1e"
 
 [[files]]
+file = "config/polymer/common.json"
+hash = "9234ce3572bad32e9aab8626c4936069efde934a6d3bd4ff20f2cdbbff0c836c"
+
+[[files]]
 file = "config/polymer/resource-pack.json"
 hash = "26a0d311dcfdb5a0cd69cd731377323e2c848f60bf7c6819b3f7b6aa206c4c33"
 
