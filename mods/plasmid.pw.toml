@@ -1,7 +1,7 @@
 name = "plasmid"
-filename = "plasmid-0.5.101-SNAPSHOT+1.20.1.jar"
+filename = "plasmid-0.5.101-SNAPSHOT2+1.20.1.jar"
 
 [download]
-url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/plasmid-0.5.101-SNAPSHOT+1.20.1.jar"
+url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/plasmid-0.5.101-SNAPSHOT2+1.20.1.jar"
 hash-format = "sha256"
-hash = "b7d8e8ded3894d89922cf2df82bc9a76fb1f58ae4917e729864f17ee3902fe1a"
+hash = "502faad89d899cd912388df23cbb7ad3363a63096163cb2e3fded9b32b1e08cc"
