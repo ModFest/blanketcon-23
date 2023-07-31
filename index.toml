@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/pineapple-mod.pw.toml"
-hash = "8b37c9b528f3b305ad85c95a8a5dbf94b1dfefe8d6e914792df0fb3ebec6a98e"
+hash = "b3d1af2a441502ddae25911509785d1ea055b4786ff549f00208ce1de680b8df"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "911a3bc8f8080dc76043590e93ca1c5dfc8f93c811fc1b979bc547143f78421d"
+hash = "67900aaeb96522d31024433e9e4a3420185a881e84319a50ef4449bbea7fdad8"
 metafile = true
 
 [[files]]
@@ -947,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/templates-2.pw.toml"
-hash = "f30f1f159f1b737269d769a8e97c1979e019ec953fb1dd664a9c4e63d24a7b79"
+hash = "579e05bec0059ba88957e72fdfbe4ee0341a1c8a5cd93d5f1e4884b28db1746d"
 metafile = true
 
 [[files]]
@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "06d854456ebd3165323dcf983815e554e6cab944c5d18b71c7d166ab07e70130"
+hash = "4dc042d5a42668e987c5465383b9be0240df5ada8d6fcd07caffffa5276b70da"
 metafile = true
 
 [[files]]
@@ -1038,6 +1038,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "074cf2d26afeb275889bc2df21e3d4300cc1cd4b409c42ff35fc134ba19a78ab"
+metafile = true
+
+[[files]]
+file = "mods/videolib.pw.toml"
+hash = "c1e62d7cd7b7751f20ba8be03498024cd32b35d8ca63a810c494cad2b77ef982"
 metafile = true
 
 [[files]]
@@ -1096,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/wyd.pw.toml"
-hash = "4589dd3f10d88e0c1329801eb8e21cdc7fd6823d76ea6a9db132fee25144fd81"
+hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
 metafile = true
 
 [[files]]

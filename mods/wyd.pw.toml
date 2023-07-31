@@ -1,13 +1,13 @@
 name = "Wood you Dye"
-filename = "wood_you_dye-1.0.1+1.20.1-quilt.jar"
+filename = "wood_you_dye-1.1.0+1.20.1-quilt.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lROGvk9y/versions/wUxT7vK2/wood_you_dye-1.0.1%2B1.20.1-quilt.jar"
+url = "https://cdn.modrinth.com/data/lROGvk9y/versions/5QNZ53PF/wood_you_dye-1.1.0%2B1.20.1-quilt.jar"
 hash-format = "sha1"
-hash = "94a71e8ea962f47eeefe950e79091e5d191faa03"
+hash = "5a610d498e91d38d94258886a7afb98d7e2b1cee"
 
 [update]
 [update.modrinth]
 mod-id = "lROGvk9y"
-version = "wUxT7vK2"
+version = "5QNZ53PF"
