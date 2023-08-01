@@ -224,6 +224,11 @@ hash = "d67a961bee7be189c779cef7650936c37ebbb0fc7154f7918f0446716bc14cf6"
 metafile = true
 
 [[files]]
+file = "mods/dawn.pw.toml"
+hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
+metafile = true
+
+[[files]]
 file = "mods/demobox.pw.toml"
 hash = "30207ed51d07995272f61f55feb19686c92317cf7bf01adb111ebd29ad5ff002"
 metafile = true
@@ -644,6 +649,11 @@ hash = "8ede64ca152c3ec1becc1fff8b67c0a9fc4e67b73dcfbd5ec101c8d1df2d9a5a"
 metafile = true
 
 [[files]]
+file = "mods/promenade.pw.toml"
+hash = "822cb71ea6d0986f90f01d1df5eee941334073cddc7b9abbe0398ba76c31fdaf"
+metafile = true
+
+[[files]]
 file = "mods/pswg.pw.toml"
 hash = "380128ef7af0171a6bcbf0a273061045edd270b636325327e121a73fc5cec217"
 metafile = true
@@ -975,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "2d7cefab4203a10c1c4950b20b4639e64a8217f851c350a1b03daa6a9d9dcbde"
+hash = "9a830c0c3801e60d7f93963984a28e4d57e2852fb1a6bed8b83f4608a4a04275"
 metafile = true
 
 [[files]]
