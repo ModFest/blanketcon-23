@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "80c1090512a89a86f60c30a7d2d9adeb4868134e47325782b80e513b30cb61cc"
+hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.pw.toml"
-hash = "906b17ae4a03081592887a20295f95c62aefbe149d6d2002f1100be05a84e2d5"
+hash = "1fcbecc5cb01d0ac2820bb7535b2df15accdc9bcb94f4bde6500099af6807604"
 metafile = true
 
 [[files]]
