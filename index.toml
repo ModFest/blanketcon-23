@@ -929,6 +929,11 @@ hash = "a9da2b6fb1b7269982b8af992381ddc9060c008e98f05c5148b2042df9fd77a5"
 metafile = true
 
 [[files]]
+file = "mods/wdmnf.pw.toml"
+hash = "997bd4a12e0a522b87981261d217f78321db9548b56374a291a452b45b171173"
+metafile = true
+
+[[files]]
 file = "mods/wearthat.pw.toml"
 hash = "913791dedec0b3e681d5841710ab816aa3dd032271616c4d177dee900d84e2ba"
 metafile = true
