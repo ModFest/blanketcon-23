@@ -219,6 +219,16 @@ hash = "578e23b3cbbc2a5968d69a42531d2029a0a753645e3da14fab045f4f0bb82933"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "ab3e914a64a2ca33c66af6928f7dc236c33d6e4846235b21c3136db457234634"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c8bfc97ccf66b0044e3805382783ceeee7095fc60fe906dee30c78c3091dec56"
+metafile = true
+
+[[files]]
 file = "mods/datapackportals.pw.toml"
 hash = "d67a961bee7be189c779cef7650936c37ebbb0fc7154f7918f0446716bc14cf6"
 metafile = true
@@ -306,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/engination.pw.toml"
 hash = "ac457d627aad0e58e9db9cbff916f8c909947264a664e5ad8f78257d13ff315d"
+metafile = true
+
+[[files]]
+file = "mods/excorrelation.pw.toml"
+hash = "bcd397c2893c17b3a3bad03a49e25fd4840d884f5907776083550707b225e708"
 metafile = true
 
 [[files]]
