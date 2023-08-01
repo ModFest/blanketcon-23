@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "d8f25c583a6a4faca7171ce36047df5686a89d123e2c474feef7653ee4dd0f81"
+hash = "2afe94ee1ee766f9fa8b03bf40f499a23b70ffe40823d4542a49d22c74d22bc2"
 metafile = true
 
 [[files]]
@@ -946,11 +946,6 @@ metafile = true
 [[files]]
 file = "mods/worldborderfix.pw.toml"
 hash = "87b723ca95ce7826006f6be5c5c9873630023cae3c4d76d5905a3638eb703c17"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
