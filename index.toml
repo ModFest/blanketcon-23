@@ -280,6 +280,11 @@ hash = "d67a961bee7be189c779cef7650936c37ebbb0fc7154f7918f0446716bc14cf6"
 metafile = true
 
 [[files]]
+file = "mods/dawn.pw.toml"
+hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
+metafile = true
+
+[[files]]
 file = "mods/demobox.pw.toml"
 hash = "30207ed51d07995272f61f55feb19686c92317cf7bf01adb111ebd29ad5ff002"
 metafile = true
@@ -365,6 +370,11 @@ hash = "ac457d627aad0e58e9db9cbff916f8c909947264a664e5ad8f78257d13ff315d"
 metafile = true
 
 [[files]]
+file = "mods/excorrelation.pw.toml"
+hash = "bcd397c2893c17b3a3bad03a49e25fd4840d884f5907776083550707b225e708"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "cdb7cd286ed6706a6481a3a07c5017635d322c175351720503f6d59ee38d4020"
 metafile = true
@@ -406,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "d41b27700b9f811de34d38cca7fa120df476785d46a2b1fa1bb10a71bdce4855"
+hash = "00452479de80e496139af943b11aaa6c47aeb64cdfcd0ebcdfa1967a41d1e282"
 metafile = true
 
 [[files]]
@@ -631,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/packages.pw.toml"
-hash = "8d7b1f8b6989bf82fc15ffececc3a9602c509026c4f46fcf0caefb8893a6cb95"
+hash = "88b7318ccf26cfd9a8ce76a6b420482429e6ded4d4099b432d8b33364c62cda3"
 metafile = true
 
 [[files]]
@@ -732,6 +742,11 @@ metafile = true
 [[files]]
 file = "mods/power-networks.pw.toml"
 hash = "8ede64ca152c3ec1becc1fff8b67c0a9fc4e67b73dcfbd5ec101c8d1df2d9a5a"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
+hash = "822cb71ea6d0986f90f01d1df5eee941334073cddc7b9abbe0398ba76c31fdaf"
 metafile = true
 
 [[files]]
@@ -1090,7 +1105,7 @@ hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
 
 [[files]]
 file = "mods/worldinajar.pw.toml"
-hash = "e9012b6c6a3fe3e1d8756149c89f2951150aa56e2529e58e62da78616f745fc5"
+hash = "ebad1a942d50a77541b7ab0ad8656dc112aa2bd07f8782e1503377a69b09c0f0"
 metafile = true
 
 [[files]]
@@ -1120,7 +1135,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "2d7cefab4203a10c1c4950b20b4639e64a8217f851c350a1b03daa6a9d9dcbde"
+hash = "9a830c0c3801e60d7f93963984a28e4d57e2852fb1a6bed8b83f4608a4a04275"
 metafile = true
 
 [[files]]
