@@ -585,11 +585,6 @@ hash = "b3d1af2a441502ddae25911509785d1ea055b4786ff549f00208ce1de680b8df"
 metafile = true
 
 [[files]]
-file = "mods/plant-in-a-jar.pw.toml"
-hash = "ba4ab63d5a8a065648900f7a14d2d76f4b2ef736c38a8d580114e3e500e54dbe"
-metafile = true
-
-[[files]]
 file = "mods/plasmid.pw.toml"
 hash = "9fe9712068a6bed3feecf6483dc977c960a4ebaa13721041a5bd2c115889a705"
 metafile = true
@@ -977,11 +972,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
-file = "mods/yttr.pw.toml"
-hash = "58fb499089bddbd4ccbfd1ad8dfd13919d44604f99eebefff5103ac26687da3c"
 metafile = true
 
 [[files]]
