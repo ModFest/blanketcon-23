@@ -304,11 +304,6 @@ hash = "ac457d627aad0e58e9db9cbff916f8c909947264a664e5ad8f78257d13ff315d"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
-metafile = true
-
-[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "cdb7cd286ed6706a6481a3a07c5017635d322c175351720503f6d59ee38d4020"
 metafile = true
