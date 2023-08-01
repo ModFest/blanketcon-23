@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "d41b27700b9f811de34d38cca7fa120df476785d46a2b1fa1bb10a71bdce4855"
+hash = "00452479de80e496139af943b11aaa6c47aeb64cdfcd0ebcdfa1967a41d1e282"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldinajar.pw.toml"
-hash = "e9012b6c6a3fe3e1d8756149c89f2951150aa56e2529e58e62da78616f745fc5"
+hash = "ebad1a942d50a77541b7ab0ad8656dc112aa2bd07f8782e1503377a69b09c0f0"
 metafile = true
 
 [[files]]
