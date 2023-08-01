@@ -219,16 +219,6 @@ hash = "578e23b3cbbc2a5968d69a42531d2029a0a753645e3da14fab045f4f0bb82933"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "ab3e914a64a2ca33c66af6928f7dc236c33d6e4846235b21c3136db457234634"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "c8bfc97ccf66b0044e3805382783ceeee7095fc60fe906dee30c78c3091dec56"
-metafile = true
-
-[[files]]
 file = "mods/datapackportals.pw.toml"
 hash = "d67a961bee7be189c779cef7650936c37ebbb0fc7154f7918f0446716bc14cf6"
 metafile = true
