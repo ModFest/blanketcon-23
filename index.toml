@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "1aee53015482dd4001abf60732c6cd7608fb3c58600ce6aa23003360c2cc6730"
+hash = "7456fab4adcc4d5877bcea5e14435e39a5be1fa9f8eebff5df5b75b1a25f0307"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "819b2fcd6fa31e79c4f3176439928ba14b49babcc455f8e2a0da2d920780e10c"
+hash = "797a2103429960e19cccc2317dc4f41a4a7c874a0a9c216168138dd8865d8fac"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "4dc042d5a42668e987c5465383b9be0240df5ada8d6fcd07caffffa5276b70da"
+hash = "305ecf64fe18cfee2f0abd79ee2197e6eb782ab525cfa2b1a5154ee79d6ba89f"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "0cee7b42d9aaa4147cfc921ecd8b19db60f032b6c262817e26d7cfbc63bdfd0a"
+hash = "2d7cefab4203a10c1c4950b20b4639e64a8217f851c350a1b03daa6a9d9dcbde"
 metafile = true
 
 [[files]]
