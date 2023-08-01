@@ -975,6 +975,11 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
+file = "mods/yttr.pw.toml"
+hash = "0cee7b42d9aaa4147cfc921ecd8b19db60f032b6c262817e26d7cfbc63bdfd0a"
+metafile = true
+
+[[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
 hash = "92d533df74ad31d7b32874d49f0a6f70d3194f52cf878c2270e154f6236a1308"
 
