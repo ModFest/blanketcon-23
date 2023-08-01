@@ -1,13 +1,7 @@
-name = "Soul Ice"
-filename = "soulice-2.0.0-alpha.3+1.20.1-fabric.jar"
-side = "both"
+name = "soulice"
+filename = "soulice-2.0.0-alpha.4-biomeless+1.20.1-fabric.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/ngBlYV53/versions/5L28FLLO/soulice-2.0.0-alpha.3%2B1.20.1-fabric.jar"
+url = "https://github.com/sisby-folk/Soul-Ice/releases/download/v2.0.0-alpha.4-biomeless%2B1.20.1/soulice-2.0.0-alpha.4-biomeless+1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "ab0775d1446168a4153fa968b83fd5190185aa53"
-
-[update]
-[update.modrinth]
-mod-id = "ngBlYV53"
-version = "5L28FLLO"
+hash = "e235e0eee583dd1e6bfcf2f67192d402b3621799"

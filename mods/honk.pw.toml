@@ -1,7 +1,13 @@
-name = "honk"
+name = "Honk"
 filename = "honk-0.1.0-beta.8.jar"
+side = "both"
 
 [download]
-url = "https://github.com/sisby-folk/honk/releases/download/vbc23-test-recipevar/honk-0.1.0-beta.8.jar"
+url = "https://cdn.modrinth.com/data/YD2jDTGO/versions/aj6hkleG/honk-0.1.0-beta.8.jar"
 hash-format = "sha1"
-hash = "596fade89f59c332a62f8ec8179400b969efa36b"
+hash = "c37238a02aa33c7749e5911d35c624fb1d34bba2"
+
+[update]
+[update.modrinth]
+mod-id = "YD2jDTGO"
+version = "aj6hkleG"
