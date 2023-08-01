@@ -77,6 +77,10 @@ file = "config/yosbr/config/styled-sidebars/config.json"
 hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
 
 [[files]]
+file = "config/yosbr/config/videolib.json"
+hash = "39af340992fb34489b4f52ba47f6597cfc4d82063940c27db6bd7c4d32dc6a6d"
+
+[[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
