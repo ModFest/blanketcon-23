@@ -1,13 +1,13 @@
 name = "emogg"
-filename = "emogg-1.0-BETA.5-1.20.x.jar"
+filename = "emogg-1.0-BETA.6-1.20.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tyANotOf/versions/IUIvaEyZ/emogg-1.0-BETA.5-1.20.x.jar"
+url = "https://cdn.modrinth.com/data/tyANotOf/versions/2L5YH1pZ/emogg-1.0-BETA.6-1.20.x.jar"
 hash-format = "sha1"
-hash = "c8254485b2dc3912311927df0c5be006d209bf4e"
+hash = "200387a825d0365a9de8cae748f09a0441a7783f"
 
 [update]
 [update.modrinth]
 mod-id = "tyANotOf"
-version = "IUIvaEyZ"
+version = "2L5YH1pZ"

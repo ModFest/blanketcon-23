@@ -1,0 +1,7 @@
+name = "yttr"
+filename = "yttr-7.693+1.20.jar"
+
+[download]
+url = "https://unascribed.b-cdn.net/yttr-7.693%2B1.20.jar"
+hash-format = "sha256"
+hash = "bbcc681e2e78fb34328d6711ad70ee4818609c09c7e238eacda751c0e078b6e5"
