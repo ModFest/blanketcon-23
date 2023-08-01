@@ -1,13 +1,13 @@
 name = "Packages"
-filename = "packages-fabric-1.20.1-3.4.4.jar"
+filename = "packages-fabric-1.20.1-3.4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/10DZYVis/versions/j0fgfIe6/packages-fabric-1.20.1-3.4.4.jar"
+url = "https://cdn.modrinth.com/data/10DZYVis/versions/psUk6qZT/packages-fabric-1.20.1-3.4.5.jar"
 hash-format = "sha1"
-hash = "99115d09b421e4914f4c716ce92a0baea6fdcee5"
+hash = "24d42fd3b5e2e5f7ac1e9e3f1abccaf353e81d59"
 
 [update]
 [update.modrinth]
 mod-id = "10DZYVis"
-version = "j0fgfIe6"
+version = "psUk6qZT"

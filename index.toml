@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/packages.pw.toml"
-hash = "8d7b1f8b6989bf82fc15ffececc3a9602c509026c4f46fcf0caefb8893a6cb95"
+hash = "88b7318ccf26cfd9a8ce76a6b420482429e6ded4d4099b432d8b33364c62cda3"
 metafile = true
 
 [[files]]
