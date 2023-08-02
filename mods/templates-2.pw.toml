@@ -1,13 +1,13 @@
 name = "Templates 2"
-filename = "templates-2.1.0+1.20.1.jar"
+filename = "templates-2.1.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cL15qXuP/versions/2RdfDovN/templates-2.1.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/cL15qXuP/versions/MfkaTSSm/templates-2.1.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "79cf8cdd2b2ec28716be2e172e8ba5cb08bf7776"
+hash = "4831b0081e2411e0c6c7e37c0dd671bceeec9ec3"
 
 [update]
 [update.modrinth]
 mod-id = "cL15qXuP"
-version = "2RdfDovN"
+version = "MfkaTSSm"
