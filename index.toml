@@ -110,6 +110,11 @@ hash = "9a6b893e1d6842d5c9eddc612074a1b04f891e5f3405fd543a46e8feea287a2f"
 metafile = true
 
 [[files]]
+file = "mods/affectionate.pw.toml"
+hash = "3d5e29b2ecbc3ebe4ed4e9b5c1d731e760556bab29a293be8972ef134d3a3b72"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
 metafile = true
@@ -305,6 +310,11 @@ hash = "b7882bc211ebd4dc135a4d7ee5a0431ad684470445d16565290502ec6ae870e4"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "b411cf4702461067e918537c48a6b850ca6983f9cc0382cb202e4c8f4d7c2c44"
+metafile = true
+
+[[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "4dfeb4a7f9ba351ce1cac51a97693b317ce26f0dcf9ba89e9f2ed96cd5472f57"
 metafile = true
@@ -432,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/gildednetherite.pw.toml"
 hash = "e218778c97398a026cd9108b0dd3ce9f3c62ef438915c4febf16b5e314407fed"
+metafile = true
+
+[[files]]
+file = "mods/glassential-fabric.pw.toml"
+hash = "9960220f1f3ebfdf1b17de4bb5b463c66e2c15e508daa50a29a245e62d40b4ff"
 metafile = true
 
 [[files]]
