@@ -769,6 +769,11 @@ hash = "822cb71ea6d0986f90f01d1df5eee941334073cddc7b9abbe0398ba76c31fdaf"
 metafile = true
 
 [[files]]
+file = "mods/proxyfox-debug.pw.toml"
+hash = "cdb6a2c7e94dfd3b0dec5f8b2a2815ed9504edcf2a4d30478d1d96089ec43c16"
+metafile = true
+
+[[files]]
 file = "mods/pswg.pw.toml"
 hash = "380128ef7af0171a6bcbf0a273061045edd270b636325327e121a73fc5cec217"
 metafile = true
