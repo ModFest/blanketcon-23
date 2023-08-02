@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "7456fab4adcc4d5877bcea5e14435e39a5be1fa9f8eebff5df5b75b1a25f0307"
+hash = "5a7004cba0cd60959cf8eec0108aacf6977d766f4c64bcffed648b74abdf04fc"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
-hash = "2de59901875c1b42766e954456cbe3b1a8109d398bd36f04c0b9532757c0760e"
+hash = "edc67c14068a609dd79b1a73a428ad1354479fe4aa349cf3eea2628fa4bbe912"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/piercingpaxels.pw.toml"
-hash = "54d428d0b874d4b619b6ff0cb76561a0a97be3ddf3a6629cb90302d2746a3b7f"
+hash = "df8bb3c107eaf5da1ca4496c222e960a6f241fb00eb47c53069e6f6d6acfec9c"
 metafile = true
 
 [[files]]
@@ -839,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "601eaf0a76032d622c53816f6737917b92e3768572678741fbf18f92140e69f1"
+hash = "de0cfc6facc1a919b3b79016d960b4e60627628c20fb6114989cba7ca7c8d112"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/templates-2.pw.toml"
-hash = "579e05bec0059ba88957e72fdfbe4ee0341a1c8a5cd93d5f1e4884b28db1746d"
+hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
 metafile = true
 
 [[files]]
@@ -984,7 +984,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldinajar.pw.toml"
-hash = "ebad1a942d50a77541b7ab0ad8656dc112aa2bd07f8782e1503377a69b09c0f0"
+hash = "beede18e2d50a9f763a0872ae18e3813f83f1ce91a301523064cbbb7bf8235e5"
 metafile = true
 
 [[files]]
