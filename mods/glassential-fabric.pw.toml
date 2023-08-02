@@ -1,0 +1,13 @@
+name = "Glassential (Fabric/Quilt)"
+filename = "glassential-fabric-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hhaag1wJ/versions/Gznx5S3M/glassential-fabric-2.0.0.jar"
+hash-format = "sha1"
+hash = "1b12dbd2e13ae796bec13393b552ec3ade2f7cb6"
+
+[update]
+[update.modrinth]
+mod-id = "Hhaag1wJ"
+version = "Gznx5S3M"
