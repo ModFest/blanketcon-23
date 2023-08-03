@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
-hash = "24e6832084f5dc8eb1c0c3fcbee17e5cb75fd2f6954f6d6f08a51b96e8db4a06"
+hash = "2a48303ae156db6088118aa192a6d7a7c09df27c5390196ebab9c0e090cb48f5"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantery.pw.toml"
-hash = "26a9d4b9c3f002e7dad267aa3d7863245daa2468dc491440bc51d8966492c829"
+hash = "66144405b59016009e67ba8eab3ae3341688553fe2dd7eddaa2b1e9e9f192b23"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "00452479de80e496139af943b11aaa6c47aeb64cdfcd0ebcdfa1967a41d1e282"
+hash = "ea54542993af721a82b2e02c455567399b01aa6df3944713b79e69fe301a6013"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9f73d516ece73f6cccda8f03f0c79c21d4259ba6002b794bf17bbbdd505551d2"
+hash = "95734d5989d83a245b39d43b068e29aec12369c1d707a4eeb81cb4043d7cee4f"
 metafile = true
 
 [[files]]
