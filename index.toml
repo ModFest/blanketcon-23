@@ -10,7 +10,7 @@ hash = "1850aed3abd027e74c7ab1f9872ea0cdd8029eeb1157e4eef6c250036abba29a"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "552967d81e4f24af805d75fcea6e8ae892cfe05296eaf8f5a6c136ab7e58cd1e"
+hash = "43e67af0fe9bf536cfe1d1f3aa99fd3c5998f5474fba5b4e1bc7d8fe4adc3767"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
-hash = "24e6832084f5dc8eb1c0c3fcbee17e5cb75fd2f6954f6d6f08a51b96e8db4a06"
+hash = "03e4e95a6014d2a2314df6b2ed809533381293319180c62236b88acf2d1b19f6"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "797a2103429960e19cccc2317dc4f41a4a7c874a0a9c216168138dd8865d8fac"
+hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
 metafile = true
 
 [[files]]
@@ -708,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/picturesign.pw.toml"
-hash = "143b6779dfa6a30c3ecd66a7c235c93bee7a222ba231ce20471fc06d9cf1e4b6"
+hash = "c11c479dcaf2b1df5debb108a20c256187167584c90f6834b9fcbbbcfaf32de7"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.pw.toml"
-hash = "abee77cb36605d86b4332e54329a1219d0c5aadbd35790bde82c30dd055ed1d5"
+hash = "3ed94f1fe3ed905091fbd1575bed6d7103610d793dfb18df37df88d677a2c522"
 metafile = true
 
 [[files]]
@@ -808,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "f9a9e8ce7d7f9443a3dd6b95024d087350c10828a492811cf0247c6889009af4"
+hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
 metafile = true
 
 [[files]]
@@ -903,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "d0b3f47bf29681562d0258bde65438e984bfe138991be58d1840384346a2cff2"
+hash = "719153a035697b36b11209ffb6d3dc3f57d3c025f6c0a0b23c0738ea32f361ed"
 metafile = true
 
 [[files]]
@@ -978,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "de0cfc6facc1a919b3b79016d960b4e60627628c20fb6114989cba7ca7c8d112"
+hash = "79efffabddecf14544b0cd1e602bae21695a461147a11cbb2339c1798fef56ea"
 metafile = true
 
 [[files]]
@@ -1098,7 +1098,7 @@ metafile = true
 
 [[files]]
 file = "mods/visiblebarriers.pw.toml"
-hash = "d695c1fcc3c6df535d86d39e98605bff7bdc6a978c40e6b4274ba7ec2544471d"
+hash = "96001242733c5208a3629a66f14840a7af66bc8e6c349e6f2090814650b51460"
 metafile = true
 
 [[files]]
@@ -1536,7 +1536,3 @@ hash = "2fe4a7bc0a19d80dc016fe5c7f4d38a84df5182cd5d94f012c2d3844274c0c12"
 [[files]]
 file = "resources/resourcepacks/pridemogg.zip"
 hash = "bab2a39422a26cccebaf36cccd0caaef5f4fb2eaf9968c95c66def0ef5fc04b0"
-
-[[files]]
-file = "resources/resourcepacks/twemogg.zip"
-hash = "6360f624e8afc063bc33604a60bfdc2f5c5382308ab84f62cb2a371b1359a289"
