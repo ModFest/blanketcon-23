@@ -488,6 +488,11 @@ hash = "a28209649db41761238421aa80d284457de0a045cef2726ad9c9e96af8ca5ca7"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
 file = "mods/milk_plus.pw.toml"
 hash = "6e4ba32c6ea4a4aa6a73282030a27c773faf7bb3b3fd970ed98534392310d2a5"
 metafile = true
@@ -888,6 +893,11 @@ hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
 metafile = true
 
 [[files]]
+file = "mods/time-changer.pw.toml"
+hash = "218ecabb5950f3621ff7916991ebf118f01300f077a18edea30a96f088d261ea"
+metafile = true
+
+[[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "0da488d2feec20d48e8a46e5532c22111d0ea2d4b7e8035ece44fe2182f135b8"
 metafile = true
@@ -980,6 +990,11 @@ metafile = true
 [[files]]
 file = "mods/wearthat.pw.toml"
 hash = "913791dedec0b3e681d5841710ab816aa3dd032271616c4d177dee900d84e2ba"
+metafile = true
+
+[[files]]
+file = "mods/wecui.pw.toml"
+hash = "d89298ac86a220e77da9ad0918e3b367f3cd593cfa4d10695c5217a71abeaf95"
 metafile = true
 
 [[files]]
