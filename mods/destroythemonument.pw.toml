@@ -1,5 +1,6 @@
 name = "destroythemonument"
 filename = "destroythemonument-1.0.4.jar"
+side = "server"
 
 [download]
 url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/destroythemonument-1.0.4.jar"

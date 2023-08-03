@@ -1,5 +1,6 @@
 name = "loopdeloop"
 filename = "loopdeloop-1.2.1.jar"
+side = "server"
 
 [download]
 url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/loopdeloop-1.2.1.jar"

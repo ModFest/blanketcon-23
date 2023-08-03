@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/build-rush.pw.toml"
-hash = "8bd177c310090d84bffcec91e4b7c47273929c741ba5c13e56268eb602d8b91d"
+hash = "606964152934bfa114203a10010b6e53e84d05323f5e3686bfe78343e17ddcb8"
 metafile = true
 
 [[files]]
@@ -267,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/demobox.pw.toml"
-hash = "30207ed51d07995272f61f55feb19686c92317cf7bf01adb111ebd29ad5ff002"
+hash = "95e0059fa7424bf0866d5417e8c86aa20bf436a7498f62260b64371401e5e9b0"
 metafile = true
 
 [[files]]
 file = "mods/destroythemonument.pw.toml"
-hash = "d23b7568860f37d8f6a3122003f470d4f9c90471853809feca1c67fbd4784605"
+hash = "3d49679d08919ced1c9dbdf3b79cb1206642d130e4a9aa83d4be16bfc3fe8ec3"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/fortress.pw.toml"
-hash = "496888e5629bb42c6b04225937f531a5785cd28bcadac4ed01e44a6a644c5e22"
+hash = "45c6907c99e4510e93a7eeb082625be6b68fffc4b8670175b33be27f8cced089"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/koth.pw.toml"
-hash = "6c2d9335d3d04f6685bf2f686cc0e75b62f922c5f3004979d7ace920287bdf40"
+hash = "fd447975788bac75570c2744e9515b9e760fe0faf597bce873abccde0041fe30"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/loopdeloop.pw.toml"
-hash = "c4ef276bcc8c849ae770ab045601ee417fb64b44889601e5eed0f53c1e597fd5"
+hash = "a386b8a6ffc387d8844cc012f6e483290b5fd5a30e9591c01d00b4e318b7df6d"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/nucleoid-extras-blanketcon.pw.toml"
-hash = "aec0595e2f6dcbde83ea049c6d1c9bfc2e5bc15afb367c6e54ae2a1904d48097"
+hash = "609b192d7c28bfab48fcc756e48c249c5396df154b90a0bc182a93c651499340"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmid.pw.toml"
-hash = "9fe9712068a6bed3feecf6483dc977c960a4ebaa13721041a5bd2c115889a705"
+hash = "42c5b4c54bb56a95f8e7c892ed2592a58814d792b2dc58748d60e61c25482c05"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/quakecraft.pw.toml"
-hash = "cef4f3d95f3817aeaf10559e1b0f69b57f10b18627c90fb60a79d3e32f35acdb"
+hash = "e38c75ce21c6b0ce580b62b5f5221274c138c594f9adc0dfe0c4f900001cf9f1"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/rocketspleef.pw.toml"
-hash = "92539644daec4877b9af311fd04851ec78e073248eeeba642b0c80fa656a3468"
+hash = "0fbd558d30a50ef0cd0f3f67761995a66be258f946c8f05202165999b12784cd"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/skywars.pw.toml"
-hash = "0862ba900b8f1979f2848fe4085a5e8bc9b9913eaba3d1124d1527b93ac20e65"
+hash = "538e25cedc4bc401c42f52af57078baec85b74209b5162a535b07df34f13c353"
 metafile = true
 
 [[files]]
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/snake.pw.toml"
-hash = "5fb3db49e280427f2106f43094c826dc2d48c79141f024abfaaaf6aa682b528a"
+hash = "5e098dcf5f09bd5caa699910dec54e434a0b29c8f1bfe88b8fad0cef3c4ae39a"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/spleef.pw.toml"
-hash = "96fb918e982ae59320f243f314f87cef6f5c20d6338817315ad0d7c204af279c"
+hash = "792cf67d6d98d17754c3ace64d3173be76cd26025c5193fb6bd858637ad4496e"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/substrate.pw.toml"
-hash = "a5d44c4eeafd59038c4edaa3d165f3bb24621d00332586a1a2d284dfc64f9e4a"
+hash = "4aafc5f3796b78c2091c8aa7fb819427220717aa2cd7844c382998e12e8c1cad"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/survival-games.pw.toml"
-hash = "eb65169e5571ed4ce000acbe2a32805fbd6787c9e3c78e97edce64574c5d0465"
+hash = "9603dae148fe1fe4b77cd98b05d9a4662f213be7f285473af0c2508689fb82fc"
 metafile = true
 
 [[files]]
