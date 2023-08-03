@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
-hash = "24e6832084f5dc8eb1c0c3fcbee17e5cb75fd2f6954f6d6f08a51b96e8db4a06"
+hash = "03e4e95a6014d2a2314df6b2ed809533381293319180c62236b88acf2d1b19f6"
 metafile = true
 
 [[files]]
@@ -150,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "95ee75d928f6842feba6bfd521ec66dc11512d943e50dd0361af2f76ddc030c7"
+metafile = true
+
+[[files]]
+file = "mods/bc23-enchantment-bridge.pw.toml"
+hash = "aace432423927eb541ad33d3be3e336b3c3b04bfd39d806e3ff77ccb353b2fd2"
 metafile = true
 
 [[files]]
@@ -519,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/moue-milkshakes.pw.toml"
-hash = "24378a29aba9f3e6ed1cce7fce617a8ed864b82ee64829692087b05c28469777"
+hash = "d8e54091c5991d094c33141dddc99003efdf811dce0085fd0e65146e0758970f"
 metafile = true
 
 [[files]]
@@ -594,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "402b9906f10a51a1dcfe7cbe8f6d8586f6e6c66acc6a7d16defac9426dc8540d"
+hash = "785f4fee2cdac25282b9219d1923be73321d0e6957df292d0f90a0df54d8f14b"
 metafile = true
 
 [[files]]
@@ -744,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/shadowsgate.pw.toml"
-hash = "5b0ab3b7cddb870fe1b67d20568f83a462bc76947edad95bd311cf38748b9baf"
+hash = "fee549596e04e51e9103948e3bc268772f849c66298010e1a859884865c99ef5"
 metafile = true
 
 [[files]]
@@ -779,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "67900aaeb96522d31024433e9e4a3420185a881e84319a50ef4449bbea7fdad8"
+hash = "d0b3f47bf29681562d0258bde65438e984bfe138991be58d1840384346a2cff2"
 metafile = true
 
 [[files]]
