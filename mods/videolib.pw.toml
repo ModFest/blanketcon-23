@@ -1,7 +1,0 @@
-name = "videolib"
-filename = "videolib-0.2.2-mnd.jar"
-
-[download]
-url = "https://github.com/Motschen/VideoLib/releases/download/v0.2.2-mnd/videolib-0.2.2-mnd.jar"
-hash-format = "sha256"
-hash = "6ef6ccba27d4b07ba2d39e008323b1facc7925924e3ec58fe0b436c2b3e858bf"

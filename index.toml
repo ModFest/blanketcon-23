@@ -5,6 +5,14 @@ file = "config/enchancement.json"
 hash = "552967d81e4f24af805d75fcea6e8ae892cfe05296eaf8f5a6c136ab7e58cd1e"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "8d0668e5f2a7842fad4bcce42af9ee7ce8e2e89f8656bddace4a642354fa251f"
+
+[[files]]
+file = "config/picturesign.json"
+hash = "2b867088202c1732c66974ca34f560e21704ef4791771c74ae98479434308434"
+
+[[files]]
 file = "config/polymer/common.json"
 hash = "9234ce3572bad32e9aab8626c4936069efde934a6d3bd4ff20f2cdbbff0c836c"
 
@@ -31,10 +39,6 @@ hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 [[files]]
 file = "config/yosbr/config/emogg.json"
 hash = "c524bd7e0e27258dcb0122f15303ac80723a1b6d0bb872e63b203d87bdc62136"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "84825744a3386b5194422e99eba7a3f49f0b29d4a9eb74a11921fd558d4571e8"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -609,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/picturesign.pw.toml"
-hash = "e92af2c675908488122ea9986c8178b4cad01ab9704de449023de618cb2c3de9"
+hash = "8492f074a8e446e59da21750b0a97cb9bce059b24faf3733a73898af0d763bea"
 metafile = true
 
 [[files]]
@@ -950,11 +954,6 @@ metafile = true
 [[files]]
 file = "mods/utility-belt.pw.toml"
 hash = "9a7b6e75bb50f4582625d1aaf535e1cb9dd0dd85522e08074bc192844366b115"
-metafile = true
-
-[[files]]
-file = "mods/videolib.pw.toml"
-hash = "c1e62d7cd7b7751f20ba8be03498024cd32b35d8ca63a810c494cad2b77ef982"
 metafile = true
 
 [[files]]
