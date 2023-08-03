@@ -267,6 +267,11 @@ hash = "2d5625745023a392a509aba9ced8e075990ab07a655c2f330decfa641cdddfcf"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "3311b8482f0c984f6d7be9815910d5609e7f8acd602f09d8a2d9aecd30f6677e"
+metafile = true
+
+[[files]]
 file = "mods/chewstuff.pw.toml"
 hash = "a3947aee767a380ff212403e56edf2d6db0d2e306a36c5bbb6540038dfffd6c2"
 metafile = true
@@ -294,6 +299,16 @@ metafile = true
 [[files]]
 file = "mods/conventional-cubes.pw.toml"
 hash = "578e23b3cbbc2a5968d69a42531d2029a0a753645e3da14fab045f4f0bb82933"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "8b3247cbd64da73a5fa1e0ce5cf39533fdc9188bae3a4055444151eff0deda20"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "deb418cc3ce3f6e1a5e29d5d0817deff0955842629b96836dc677de9aef02866"
 metafile = true
 
 [[files]]
