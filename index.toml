@@ -9,6 +9,14 @@ file = "config/controlify.json"
 hash = "1850aed3abd027e74c7ab1f9872ea0cdd8029eeb1157e4eef6c250036abba29a"
 
 [[files]]
+file = "config/dynamicfps.toml"
+hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
+
+[[files]]
+file = "config/emogg.json"
+hash = "c524bd7e0e27258dcb0122f15303ac80723a1b6d0bb872e63b203d87bdc62136"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "43e67af0fe9bf536cfe1d1f3aa99fd3c5998f5474fba5b4e1bc7d8fe4adc3767"
 
@@ -17,8 +25,36 @@ file = "config/enhanced_bes.properties"
 hash = "8d0668e5f2a7842fad4bcce42af9ee7ce8e2e89f8656bddace4a642354fa251f"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
+
+[[files]]
+file = "config/exordium.json"
+hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
+
+[[files]]
 file = "config/extended_drawers.json"
 hash = "8591ca3424b7579cb159e5a67a097335c07bd3320be81cef908a026f472993d5"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "df28e2a09218bd17e3be794eba4c083f71163b65ceac9bef382ec0b8eedee2b2"
+
+[[files]]
+file = "config/fastload.properties"
+hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "7a92a596e22f2bf4a4b64cda5ce614f6d3d9e02d9d2b5c8246173561515d8cc5"
 
 [[files]]
 file = "config/picturesign.json"
@@ -41,76 +77,32 @@ file = "config/quilt-loader-overrides.json"
 hash = "046d7c779cd4bb987b3dc15102da646a75947869533a1b0356dd543a55ed51c3"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
-
-[[files]]
-file = "config/yosbr/config/emogg.json"
-hash = "c524bd7e0e27258dcb0122f15303ac80723a1b6d0bb872e63b203d87bdc62136"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
-
-[[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
-
-[[files]]
-file = "config/yosbr/config/fabrication/features.ini"
-hash = "df28e2a09218bd17e3be794eba4c083f71163b65ceac9bef382ec0b8eedee2b2"
-
-[[files]]
-file = "config/yosbr/config/fastload.properties"
-hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
-
-[[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
-
-[[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
-
-[[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "7a92a596e22f2bf4a4b64cda5ce614f6d3d9e02d9d2b5c8246173561515d8cc5"
-
-[[files]]
-file = "config/yosbr/config/servercore.toml"
+file = "config/servercore.toml"
 hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
 
 [[files]]
-file = "config/yosbr/config/smoothboot.json"
+file = "config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "config/sodium-options.json"
 hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
-file = "config/yosbr/config/styled-chat.json"
+file = "config/styled-chat.json"
 hash = "0709223a0e66e44a59bd066852dee726a106e163afed0d3fdc6b5671b3a53051"
 
 [[files]]
-file = "config/yosbr/config/styled-sidebars/config.json"
+file = "config/styled-sidebars/config.json"
 hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
+file = "config/threadtweak.json"
 hash = "c446a2d6ed316f509a1a51234ecd0468a462c30ced0bacdde428350ef83a9a22"
 
 [[files]]
-file = "config/yosbr/config/videolib.json"
-hash = "39af340992fb34489b4f52ba47f6597cfc4d82063940c27db6bd7c4d32dc6a6d"
-
-[[files]]
-file = "config/yosbr/config/vmp.properties"
+file = "config/vmp.properties"
 hash = "94b8f5236dd7488d6851256816c2edaaaf7224a2be1f7337d554a1eabe475e7f"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "config/yttr.css"
@@ -158,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
-hash = "24e6832084f5dc8eb1c0c3fcbee17e5cb75fd2f6954f6d6f08a51b96e8db4a06"
+hash = "2a48303ae156db6088118aa192a6d7a7c09df27c5390196ebab9c0e090cb48f5"
 metafile = true
 
 [[files]]
@@ -228,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/build-rush.pw.toml"
-hash = "8bd177c310090d84bffcec91e4b7c47273929c741ba5c13e56268eb602d8b91d"
+hash = "606964152934bfa114203a10010b6e53e84d05323f5e3686bfe78343e17ddcb8"
 metafile = true
 
 [[files]]
@@ -303,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "8b3247cbd64da73a5fa1e0ce5cf39533fdc9188bae3a4055444151eff0deda20"
+hash = "0137d0b16ab84905a8024b6dabf7ba3c60abc48c739cb08de15888e5b2dc071a"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "deb418cc3ce3f6e1a5e29d5d0817deff0955842629b96836dc677de9aef02866"
+hash = "8920e76240c77b5662e8eb4a73a4ae3043a62d807d511abe4a3862a6341e6749"
 metafile = true
 
 [[files]]
@@ -323,12 +315,12 @@ metafile = true
 
 [[files]]
 file = "mods/demobox.pw.toml"
-hash = "30207ed51d07995272f61f55feb19686c92317cf7bf01adb111ebd29ad5ff002"
+hash = "95e0059fa7424bf0866d5417e8c86aa20bf436a7498f62260b64371401e5e9b0"
 metafile = true
 
 [[files]]
 file = "mods/destroythemonument.pw.toml"
-hash = "d23b7568860f37d8f6a3122003f470d4f9c90471853809feca1c67fbd4784605"
+hash = "3d49679d08919ced1c9dbdf3b79cb1206642d130e4a9aa83d4be16bfc3fe8ec3"
 metafile = true
 
 [[files]]
@@ -398,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantery.pw.toml"
-hash = "26a9d4b9c3f002e7dad267aa3d7863245daa2468dc491440bc51d8966492c829"
+hash = "66144405b59016009e67ba8eab3ae3341688553fe2dd7eddaa2b1e9e9f192b23"
 metafile = true
 
 [[files]]
@@ -453,12 +445,12 @@ metafile = true
 
 [[files]]
 file = "mods/fortress.pw.toml"
-hash = "496888e5629bb42c6b04225937f531a5785cd28bcadac4ed01e44a6a644c5e22"
+hash = "45c6907c99e4510e93a7eeb082625be6b68fffc4b8670175b33be27f8cced089"
 metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "00452479de80e496139af943b11aaa6c47aeb64cdfcd0ebcdfa1967a41d1e282"
+hash = "ea54542993af721a82b2e02c455567399b01aa6df3944713b79e69fe301a6013"
 metafile = true
 
 [[files]]
@@ -538,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/koth.pw.toml"
-hash = "6c2d9335d3d04f6685bf2f686cc0e75b62f922c5f3004979d7ace920287bdf40"
+hash = "fd447975788bac75570c2744e9515b9e760fe0faf597bce873abccde0041fe30"
 metafile = true
 
 [[files]]
@@ -568,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/loopdeloop.pw.toml"
-hash = "c4ef276bcc8c849ae770ab045601ee417fb64b44889601e5eed0f53c1e597fd5"
+hash = "a386b8a6ffc387d8844cc012f6e483290b5fd5a30e9591c01d00b4e318b7df6d"
 metafile = true
 
 [[files]]
@@ -618,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9f73d516ece73f6cccda8f03f0c79c21d4259ba6002b794bf17bbbdd505551d2"
+hash = "95734d5989d83a245b39d43b068e29aec12369c1d707a4eeb81cb4043d7cee4f"
 metafile = true
 
 [[files]]
@@ -663,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/nucleoid-extras-blanketcon.pw.toml"
-hash = "aec0595e2f6dcbde83ea049c6d1c9bfc2e5bc15afb367c6e54ae2a1904d48097"
+hash = "609b192d7c28bfab48fcc756e48c249c5396df154b90a0bc182a93c651499340"
 metafile = true
 
 [[files]]
@@ -738,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmid.pw.toml"
-hash = "9fe9712068a6bed3feecf6483dc977c960a4ebaa13721041a5bd2c115889a705"
+hash = "42c5b4c54bb56a95f8e7c892ed2592a58814d792b2dc58748d60e61c25482c05"
 metafile = true
 
 [[files]]
@@ -833,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/quakecraft.pw.toml"
-hash = "cef4f3d95f3817aeaf10559e1b0f69b57f10b18627c90fb60a79d3e32f35acdb"
+hash = "e38c75ce21c6b0ce580b62b5f5221274c138c594f9adc0dfe0c4f900001cf9f1"
 metafile = true
 
 [[files]]
@@ -853,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/rocketspleef.pw.toml"
-hash = "92539644daec4877b9af311fd04851ec78e073248eeeba642b0c80fa656a3468"
+hash = "0fbd558d30a50ef0cd0f3f67761995a66be258f946c8f05202165999b12784cd"
 metafile = true
 
 [[files]]
@@ -898,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/skywars.pw.toml"
-hash = "0862ba900b8f1979f2848fe4085a5e8bc9b9913eaba3d1124d1527b93ac20e65"
+hash = "538e25cedc4bc401c42f52af57078baec85b74209b5162a535b07df34f13c353"
 metafile = true
 
 [[files]]
@@ -908,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/snake.pw.toml"
-hash = "5fb3db49e280427f2106f43094c826dc2d48c79141f024abfaaaf6aa682b528a"
+hash = "5e098dcf5f09bd5caa699910dec54e434a0b29c8f1bfe88b8fad0cef3c4ae39a"
 metafile = true
 
 [[files]]
@@ -933,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/spleef.pw.toml"
-hash = "96fb918e982ae59320f243f314f87cef6f5c20d6338817315ad0d7c204af279c"
+hash = "792cf67d6d98d17754c3ace64d3173be76cd26025c5193fb6bd858637ad4496e"
 metafile = true
 
 [[files]]
@@ -968,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/substrate.pw.toml"
-hash = "a5d44c4eeafd59038c4edaa3d165f3bb24621d00332586a1a2d284dfc64f9e4a"
+hash = "4aafc5f3796b78c2091c8aa7fb819427220717aa2cd7844c382998e12e8c1cad"
 metafile = true
 
 [[files]]
@@ -978,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/survival-games.pw.toml"
-hash = "eb65169e5571ed4ce000acbe2a32805fbd6787c9e3c78e97edce64574c5d0465"
+hash = "9603dae148fe1fe4b77cd98b05d9a4662f213be7f285473af0c2508689fb82fc"
 metafile = true
 
 [[files]]
@@ -1188,11 +1180,6 @@ metafile = true
 [[files]]
 file = "mods/yawp.pw.toml"
 hash = "80b543298a2387c2a98ebd07971684e2e31b5aed21fbad62b592f6171ccb9622"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]

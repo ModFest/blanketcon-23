@@ -1,5 +1,6 @@
 name = "skywars"
 filename = "skywars-1.0.0-build.80.jar"
+side = "server"
 
 [download]
 url = "https://github.com/NucleoidMC/skywars/releases/download/build-80/skywars-1.0.0-build.80.jar"
