@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterenchantmentboosting.json"
+hash = "a83dcb19902cadb61eb979e2730f3b6ce1ae7f2d3a31a80e52c38245f597b4cd"
+
+[[files]]
 file = "config/enchancement.json"
-hash = "552967d81e4f24af805d75fcea6e8ae892cfe05296eaf8f5a6c136ab7e58cd1e"
+hash = "8319f37cca33825e2eb9bb30f463c6c1cd5bb3f8e6f74b660ea1bf15c95c20a9"
 
 [[files]]
 file = "config/polymer/common.json"
@@ -150,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "95ee75d928f6842feba6bfd521ec66dc11512d943e50dd0361af2f76ddc030c7"
+metafile = true
+
+[[files]]
+file = "mods/bc23enchantmentbridge.pw.toml"
+hash = "1281252e064d1ba35c4e6fab379ccbddeda0043300f0c0d542fce8914774599d"
 metafile = true
 
 [[files]]
