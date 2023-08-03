@@ -1,8 +1,8 @@
 name = "picturesign"
-filename = "picturesign-2.0.0-beta.1+unascribedtheora2.jar"
+filename = "picturesign-2.0.0-beta.1+unascribedtheora3.jar"
 side = "client"
 
 [download]
-url = "https://unascribed.b-cdn.net/picturesign-2.0.0-beta.1%2Bunascribedtheora2.jar"
-hash-format = "sha256"
-hash = "374c9600fa6066d48dea7e279e62332fccb6f6cacaa1c54b827833ac1921de05"
+url = "https://unascribed.b-cdn.net/picturesign-2.0.0-beta.1%2Bunascribedtheora3.jar"
+hash-format = "sha1"
+hash = "117ab5f4a82f034048c6813a957f64c112f14b22"
