@@ -1,5 +1,6 @@
 name = "picturesign"
 filename = "picturesign-2.0.0-beta.1+unascribedtheora2.jar"
+side = "client"
 
 [download]
 url = "https://unascribed.b-cdn.net/picturesign-2.0.0-beta.1%2Bunascribedtheora2.jar"
