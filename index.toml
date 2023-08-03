@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/picturesign.pw.toml"
-hash = "b7739a57e206ed29bf2b93ef186cea7d9939f3b2f4539aef58edb822c0c3133d"
+hash = "143b6779dfa6a30c3ecd66a7c235c93bee7a222ba231ce20471fc06d9cf1e4b6"
 metafile = true
 
 [[files]]
