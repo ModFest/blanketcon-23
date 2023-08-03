@@ -1,13 +1,7 @@
-name = "PictureSign"
-filename = "picturesign-2.0.0-beta.1.jar"
-side = "client"
+name = "picturesign"
+filename = "picturesign-2.0.0-beta.1+unascribedtheora2.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/9WP2dmkk/versions/r5SZsNRg/picturesign-2.0.0-beta.1.jar"
-hash-format = "sha1"
-hash = "3d34a7648f8bcc4bf1c268969d1d65e09931b3ab"
-
-[update]
-[update.modrinth]
-mod-id = "9WP2dmkk"
-version = "r5SZsNRg"
+url = "https://unascribed.b-cdn.net/picturesign-2.0.0-beta.1%2Bunascribedtheora2.jar"
+hash-format = "sha256"
+hash = "374c9600fa6066d48dea7e279e62332fccb6f6cacaa1c54b827833ac1921de05"

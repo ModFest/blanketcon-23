@@ -1,0 +1,13 @@
+name = "Time Changer"
+filename = "timechanger-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1itdse3V/versions/Kka2BlEL/timechanger-1.3.0.jar"
+hash-format = "sha1"
+hash = "9a0a9e839e67e6fa1fba55f879e2989a3196f9a2"
+
+[update]
+[update.modrinth]
+mod-id = "1itdse3V"
+version = "Kka2BlEL"
