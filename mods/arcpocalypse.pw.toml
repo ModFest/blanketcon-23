@@ -1,13 +1,13 @@
 name = "Arcpocalypse"
-filename = "arcpocalypse-1.3.1+1.20.1.jar"
+filename = "arcpocalypse-1.3.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/I8tduDIx/versions/7qTqdfOu/arcpocalypse-1.3.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/I8tduDIx/versions/cZATJRmy/arcpocalypse-1.3.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "3faa1cfe3125f7c7eafa64e75763486440399c1e"
+hash = "4377be4e139aa983aef2c29f839286f0abb2baa4"
 
 [update]
 [update.modrinth]
 mod-id = "I8tduDIx"
-version = "7qTqdfOu"
+version = "cZATJRmy"
