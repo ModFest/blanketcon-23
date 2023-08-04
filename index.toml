@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/arcpocalypse.json"
+hash = "8156a914cba60f5e8284a4298c72c79fb6974082ba584c40510719be0fef1f47"
+
+[[files]]
 file = "config/betterenchantmentboosting.json"
 hash = "3e02087749a176db651f290ff29bbb6e51fef25579f2f393491524d8c10f2031"
 
