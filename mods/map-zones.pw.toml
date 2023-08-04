@@ -1,0 +1,13 @@
+name = "Map Zones"
+filename = "map_zones-0.0.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CF1AC1Xu/versions/VnxXxOmo/map_zones-0.0.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "d9fbb142c51dcc2edeedcb900f2ede849ff38792"
+
+[update]
+[update.modrinth]
+mod-id = "CF1AC1Xu"
+version = "VnxXxOmo"

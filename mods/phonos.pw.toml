@@ -1,7 +1,7 @@
 name = "phonos"
-filename = "phonos-1.0.0-beta.6+1.20.1.jar"
+filename = "phonos-1.0.0-beta.7+vbo-edition1.jar"
 
 [download]
-url = "https://github.com/FoundationGames/Phonos/releases/download/v1.0.0-beta.6%2B1.20.1/phonos-1.0.0-beta.6+1.20.1.jar"
+url = "https://jaskarth.com/pub/mods/phonos-1.0.0-beta.7+vbo-edition1.jar"
 hash-format = "sha256"
-hash = "2ba52b1a2637a5fe8ddc904438877dceaeb382c9465d78679738e094d9189e0a"
+hash = "7f3ae69ddde21484d85c974777dbe4284e92151317221599a44c844f39a09763"
