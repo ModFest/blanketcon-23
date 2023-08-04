@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/arcpocalypse.json"
+hash = "8156a914cba60f5e8284a4298c72c79fb6974082ba584c40510719be0fef1f47"
+
+[[files]]
 file = "config/betterenchantmentboosting.json"
 hash = "3e02087749a176db651f290ff29bbb6e51fef25579f2f393491524d8c10f2031"
 
@@ -185,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/bc23-enchantment-bridge.pw.toml"
-hash = "aace432423927eb541ad33d3be3e336b3c3b04bfd39d806e3ff77ccb353b2fd2"
+hash = "29beefacb056e5b22885258de76f531f46a4b9a13d800cffab17d6cdbd31da9a"
 metafile = true
 
 [[files]]
@@ -360,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecotones.pw.toml"
-hash = "fabb60a79ae2594891e4aff2b2ccbae3bafb434e2b228a1204919f66fad1c845"
+hash = "f0b6c6404220f25c1965c44814a4a706f27cd711a6bd225a94dcccd6f89fc7bd"
 metafile = true
 
 [[files]]
@@ -405,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/excorrelation.pw.toml"
-hash = "bcd397c2893c17b3a3bad03a49e25fd4840d884f5907776083550707b225e708"
+hash = "33c769f6492f10dd3e56dd6b33b96ac532a9de8614c208684bb01d565556b66d"
 metafile = true
 
 [[files]]
@@ -455,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/foxbox.pw.toml"
-hash = "ea54542993af721a82b2e02c455567399b01aa6df3944713b79e69fe301a6013"
+hash = "43bf820b9d05944c55390061a0c75486824ab15ab75c2ce88e7a853e6bc7b8cd"
 metafile = true
 
 [[files]]
@@ -594,6 +598,11 @@ hash = "0d0cc7b935476040521015062b138864b7fb3e8c6c7b0d3b68794fae91421045"
 metafile = true
 
 [[files]]
+file = "mods/map-zones.pw.toml"
+hash = "2a79d397c811f9f61f9ee33a6ddb693ae13cc2ccff43b6c6fbb56f0cdb5d2f46"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
@@ -605,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "7cbe7754b29111133f3110999e1e1c1612ac6728b999821fa28e42e6e3e02853"
+hash = "84676193989e30de84c7a859e902cb19ac39449fed2e9eef393408472516c999"
 metafile = true
 
 [[files]]
@@ -715,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "785f4fee2cdac25282b9219d1923be73321d0e6957df292d0f90a0df54d8f14b"
+hash = "3892dd665292189d44a41d6e5b7c0c892b5e1f580dba98c8367780487ec9d700"
 metafile = true
 
 [[files]]
@@ -745,12 +754,12 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "99aef8937ad58eeedaa0dacc06a0068bbafc58af0ad61cab1742568e7abfa469"
+hash = "f31ab52584d5aeb207487b646084f4acc8eea521419032da6377e3149d6c1e81"
 metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.pw.toml"
-hash = "abee77cb36605d86b4332e54329a1219d0c5aadbd35790bde82c30dd055ed1d5"
+hash = "3ff352a18028337803c95c68bd6c4d01eadf22f74412f22348bec0a09d378e1d"
 metafile = true
 
 [[files]]
@@ -1134,6 +1143,11 @@ hash = "a9da2b6fb1b7269982b8af992381ddc9060c008e98f05c5148b2042df9fd77a5"
 metafile = true
 
 [[files]]
+file = "mods/water-walking-fix.pw.toml"
+hash = "b1567af4185009aa0e6b5978eb6423a45445c5e9e673925c054bcc498d49a0d9"
+metafile = true
+
+[[files]]
 file = "mods/wdmnf.pw.toml"
 hash = "997bd4a12e0a522b87981261d217f78321db9548b56374a291a452b45b171173"
 metafile = true
@@ -1189,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "a009a12146e170adad928a02c0437b6df46cd92e2fe8e76ff653f01749ca2ce4"
+hash = "0125ba2efc28ec89a84f5fafa965da739596ae8fbce00be65bfde3c18c507397"
 metafile = true
 
 [[files]]

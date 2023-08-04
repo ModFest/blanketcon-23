@@ -1,13 +1,13 @@
 name = "Missing Wilds"
-filename = "MissingWilds-quilt-1.20.1-1.2.0-beta.5.jar"
+filename = "MissingWilds-quilt-1.20.1-1.2.0-beta.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/2WyDYFXS/MissingWilds-quilt-1.20.1-1.2.0-beta.5.jar"
+url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/TYbWppp0/MissingWilds-quilt-1.20.1-1.2.0-beta.6.jar"
 hash-format = "sha1"
-hash = "8b80cf5b38be71b949a3ffeec5a727d39709f892"
+hash = "6ecbf33969beaec277a1fe654e0bca5c4a9d4efd"
 
 [update]
 [update.modrinth]
 mod-id = "Nw0MStSd"
-version = "2WyDYFXS"
+version = "TYbWppp0"
