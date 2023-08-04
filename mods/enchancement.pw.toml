@@ -3,11 +3,11 @@ filename = "enchancement-1.20-5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/ucGxjvy3/enchancement-1.20-5.jar"
+url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/6ldvVCsq/enchancement-1.20-5.jar"
 hash-format = "sha1"
-hash = "bc421a6c73a8e61cb54e99563b61ff06826f4f2a"
+hash = "87b1285968d3846b39e04599b0b0c8e4b398ce66"
 
 [update]
 [update.modrinth]
 mod-id = "6hN1V6wJ"
-version = "ucGxjvy3"
+version = "6ldvVCsq"

@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "39a29071c919641350636d2994f841f5dd98c7505b703b47273c91af60ab32ce"
+hash = "8efbecd0d47a802af0add58bd260a07f5cb9c40ac582280999e74e71cd5e9211"
 metafile = true
 
 [[files]]
@@ -351,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/fabricae-ex-nihilo.pw.toml"
 hash = "16a21b29a87b3af83265da45a064e683e94d36ceb3912cab528ddd70e6cf3572"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "2d2e46755efb50ba3f8ec9e2a49c854b76dd5c31cd64ad526a435d07f6259267"
 metafile = true
 
 [[files]]
@@ -540,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/moue-milkshakes.pw.toml"
-hash = "d8e54091c5991d094c33141dddc99003efdf811dce0085fd0e65146e0758970f"
+hash = "3f6e9dd84a56f6d7256fe4e46807b94adf65cd95ca09834e82235b22dd75239c"
 metafile = true
 
 [[files]]
@@ -965,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/visiblebarriers.pw.toml"
-hash = "96001242733c5208a3629a66f14840a7af66bc8e6c349e6f2090814650b51460"
+hash = "93e39d27b70eb24de72dd57fa700106cfd9b9b91da10935d0d656ff7c388784f"
 metafile = true
 
 [[files]]

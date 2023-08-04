@@ -1,13 +1,13 @@
 name = "Visible Barriers"
-filename = "visible-barriers-2.0.7.jar"
+filename = "visible-barriers-2.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ajdfGxGU/versions/k4OS7IDF/visible-barriers-2.0.7.jar"
+url = "https://cdn.modrinth.com/data/ajdfGxGU/versions/unjQAak5/visible-barriers-2.0.8.jar"
 hash-format = "sha1"
-hash = "32629b083cec790aa4e46a2ed624197559f106d1"
+hash = "9955e70617472028bb21aa4f6633e50e0c47e1e9"
 
 [update]
 [update.modrinth]
 mod-id = "ajdfGxGU"
-version = "k4OS7IDF"
+version = "unjQAak5"
