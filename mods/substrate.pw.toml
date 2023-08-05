@@ -1,6 +1,5 @@
 name = "substrate"
 filename = "substrate-0.2.1+1.19.4.jar"
-side = "server"
 
 [download]
 url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/substrate-0.2.1+1.19.4.jar"
