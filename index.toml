@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-shirts.pw.toml"
-hash = "0d0cc7b935476040521015062b138864b7fb3e8c6c7b0d3b68794fae91421045"
+hash = "2360975d8252482d7e77927e544ced517c3419750a754faef6a12ea90ce8fcfc"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "3892dd665292189d44a41d6e5b7c0c892b5e1f580dba98c8367780487ec9d700"
+hash = "edbc1bc3e8c00da7a9b522bf476eb1409172d304624e1c9d7a0393edf0323fa6"
 metafile = true
 
 [[files]]

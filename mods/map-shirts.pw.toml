@@ -1,13 +1,13 @@
 name = "Map Shirts"
-filename = "MapShirts-0.3.0.jar"
+filename = "MapShirts-0.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qdvOQbm0/versions/A93Ra22G/MapShirts-0.3.0.jar"
+url = "https://cdn.modrinth.com/data/qdvOQbm0/versions/YridIyJw/MapShirts-0.4.0.jar"
 hash-format = "sha1"
-hash = "1ee3a334557648b39b83cccd9af9cd109072d4c4"
+hash = "6588d2cc4c088947bfd7adeb2da62dfd262ff8f2"
 
 [update]
 [update.modrinth]
 mod-id = "qdvOQbm0"
-version = "A93Ra22G"
+version = "YridIyJw"
