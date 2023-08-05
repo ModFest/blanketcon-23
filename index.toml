@@ -21,10 +21,6 @@ file = "config/enchancement.json"
 hash = "43e67af0fe9bf536cfe1d1f3aa99fd3c5998f5474fba5b4e1bc7d8fe4adc3767"
 
 [[files]]
-file = "config/enhanced_bes.properties"
-hash = "8d0668e5f2a7842fad4bcce42af9ee7ce8e2e89f8656bddace4a642354fa251f"
-
-[[files]]
 file = "config/entityculling.json"
 hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
@@ -290,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
