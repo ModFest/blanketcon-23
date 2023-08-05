@@ -25,10 +25,6 @@ file = "config/enchancement.json"
 hash = "43e67af0fe9bf536cfe1d1f3aa99fd3c5998f5474fba5b4e1bc7d8fe4adc3767"
 
 [[files]]
-file = "config/enhanced_bes.properties"
-hash = "8d0668e5f2a7842fad4bcce42af9ee7ce8e2e89f8656bddace4a642354fa251f"
-
-[[files]]
 file = "config/entityculling.json"
 hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
@@ -358,11 +354,6 @@ hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
-metafile = true
-
-[[files]]
 file = "mods/ecotones.pw.toml"
 hash = "f0b6c6404220f25c1965c44814a4a706f27cd711a6bd225a94dcccd6f89fc7bd"
 metafile = true
@@ -594,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-shirts.pw.toml"
-hash = "0d0cc7b935476040521015062b138864b7fb3e8c6c7b0d3b68794fae91421045"
+hash = "2360975d8252482d7e77927e544ced517c3419750a754faef6a12ea90ce8fcfc"
 metafile = true
 
 [[files]]
@@ -713,6 +704,11 @@ hash = "2aaf6e577e6fecbef12e10115aea0011e0e7ed732ca4340bb52d3f844d01d465"
 metafile = true
 
 [[files]]
+file = "mods/peculiarpieces.pw.toml"
+hash = "05b70e27afaaf2dea2dce6bc25266839dcb31fcfabd48f80ff7dfdf6a4b8b7ae"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
@@ -724,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "3892dd665292189d44a41d6e5b7c0c892b5e1f580dba98c8367780487ec9d700"
+hash = "edbc1bc3e8c00da7a9b522bf476eb1409172d304624e1c9d7a0393edf0323fa6"
 metafile = true
 
 [[files]]
