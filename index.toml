@@ -609,6 +609,11 @@ hash = "2aaf6e577e6fecbef12e10115aea0011e0e7ed732ca4340bb52d3f844d01d465"
 metafile = true
 
 [[files]]
+file = "mods/peculiarpieces.pw.toml"
+hash = "05b70e27afaaf2dea2dce6bc25266839dcb31fcfabd48f80ff7dfdf6a4b8b7ae"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
