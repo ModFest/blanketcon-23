@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "8920e76240c77b5662e8eb4a73a4ae3043a62d807d511abe4a3862a6341e6749"
+hash = "b937800d65913dcc1d7e6d7422e8e1b08c94d308c82bf50a8ebf8559eb210c21"
 metafile = true
 
 [[files]]
@@ -444,6 +444,11 @@ hash = "5995f87ddab806d3aa69e070e4d2f5abd1b1a4c31936a23a7a5213535bdfd835"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "5ba86432dafed77442fbc2ea11db62a15b1919e47656fda26c393b4ee62f6eca"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "73a0efede9966b33752430aebdd1fd59a61ad6b565751f1236fff47e8ecca5c2"
 metafile = true
@@ -545,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/moue-milkshakes.pw.toml"
-hash = "3f6e9dd84a56f6d7256fe4e46807b94adf65cd95ca09834e82235b22dd75239c"
+hash = "66b8cfadaaef6947cd9e472471780ab6f2f2ab8dd72290703899aaf9f4a0477e"
 metafile = true
 
 [[files]]
@@ -650,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "584ee766d6e3987f8dff88447ee283f9c29324c33704dde54b47062ba844ef70"
+hash = "4ef532796729f0966791dd5aff86ec006e7ee0be5b70a2ed4af2a2f21f5f07a4"
 metafile = true
 
 [[files]]
@@ -696,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/portal-cubed.pw.toml"
 hash = "83504e8c2822f0c47ede2c22c103a5e945975f6044640c324183b8f90972ddc5"
+metafile = true
+
+[[files]]
+file = "mods/potionparticlepack.pw.toml"
+hash = "66eaffc05ccb38050b789216b46da6574f4278040bc7d5b58e2ec2e7f1fbc18b"
 metafile = true
 
 [[files]]
@@ -826,6 +836,11 @@ metafile = true
 [[files]]
 file = "mods/sprite-arrows.pw.toml"
 hash = "9b6c816a530acfd9492ce27d2314dc4a72cc93cf8806854f5abaa6d2db12bce5"
+metafile = true
+
+[[files]]
+file = "mods/statement.pw.toml"
+hash = "7ec4b0244d1c156261b18fcbcdb684271fa697fa77847f38c593e2e10e6f177f"
 metafile = true
 
 [[files]]
@@ -1050,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "0125ba2efc28ec89a84f5fafa965da739596ae8fbce00be65bfde3c18c507397"
+hash = "27ab5eaa41532caa439225e1847bf9a986f04a514b2eedfcc6ff559a44203035"
 metafile = true
 
 [[files]]

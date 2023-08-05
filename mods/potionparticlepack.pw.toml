@@ -1,0 +1,13 @@
+name = "Potion Particle Pack"
+filename = "potionparticlepack-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uGKlslKZ/versions/1XaXief2/potionparticlepack-1.0.1.jar"
+hash-format = "sha1"
+hash = "7e8a301a7a6481c427058974bb3a7c70a700c8ed"
+
+[update]
+[update.modrinth]
+mod-id = "uGKlslKZ"
+version = "1XaXief2"
