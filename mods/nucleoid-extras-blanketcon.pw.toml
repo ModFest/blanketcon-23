@@ -1,6 +1,5 @@
 name = "nucleoid-extras-blanketcon"
 filename = "nucleoid-extras-blanketcon-1.0.0.jar"
-side = "server"
 
 [download]
 url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/nucleoid-extras-blanketcon-1.0.0.jar"
