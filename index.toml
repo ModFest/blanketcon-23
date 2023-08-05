@@ -844,6 +844,11 @@ hash = "7ec4b0244d1c156261b18fcbcdb684271fa697fa77847f38c593e2e10e6f177f"
 metafile = true
 
 [[files]]
+file = "mods/stimuli.pw.toml"
+hash = "0e23515fa0014f8559c7c1455c6cbe44450730f4ce4623ea684dcb5958c04784"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "4f101cf87d3e2228c8c62e3b91ecdb1825809841041e709f9d1480d4e25fad3a"
 metafile = true

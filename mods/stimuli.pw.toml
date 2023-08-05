@@ -1,0 +1,7 @@
+name = "stimuli"
+filename = "stimuli-0.4.8+1.20.1.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/stimuli/releases/download/v0.4.8%2B1.20.1/stimuli-0.4.8+1.20.1.jar"
+hash-format = "sha256"
+hash = "3e692b7c851ae75e567a567318f4dc5fe850a73e409a7afc128ae0cdef39a387"
