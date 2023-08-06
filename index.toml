@@ -104,6 +104,11 @@ hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
 metafile = true
 
 [[files]]
+file = "mods/amarite.pw.toml"
+hash = "299dd74be6342a7da3a5fbe7f746c46adbbbcb368b3c4fe1f83bb222f3e7d4fc"
+metafile = true
+
+[[files]]
 file = "mods/apoli.pw.toml"
 hash = "3773f5451aa04c277a70d9226165ba44cd354da79fb8371f64892fd3acfff747"
 metafile = true
@@ -210,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "3311b8482f0c984f6d7be9815910d5609e7f8acd602f09d8a2d9aecd30f6677e"
+hash = "ac863165be56f3648e179621a60981517afd72f1165fb2ee8591891ac75549a1"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "c2c24609e7ef2369e60eeaa9550ff9534ef17f9fe2c2b253cbd7eebbb104bf17"
+hash = "9a382626e3aac69dd0c2b642e85c731dcdb263923ced54f168a81467c07ecd97"
 metafile = true
 
 [[files]]
@@ -265,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/discarnate.pw.toml"
-hash = "b7882bc211ebd4dc135a4d7ee5a0431ad684470445d16565290502ec6ae870e4"
+hash = "c06574ae85e7eba4f7d3580282510d282a1ca0aa1df265e55f442341267b2762"
 metafile = true
 
 [[files]]
@@ -440,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "5995f87ddab806d3aa69e070e4d2f5abd1b1a4c31936a23a7a5213535bdfd835"
+hash = "5cc7ddebe9148053eae42087ef54a4f0e564f389c581e1c4d52056b8d07feeff"
 metafile = true
 
 [[files]]
@@ -470,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "3e1e1e3f2d444c1fde1b507a0a642e0404df9784d1d3b990a5b3bdc1843fe232"
+hash = "4085a6f833eb27091ffe2e09cd95e577bb1be8c4c8b2143ba3924ecd61a2fffe"
 metafile = true
 
 [[files]]
@@ -505,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-zones.pw.toml"
-hash = "2a79d397c811f9f61f9ee33a6ddb693ae13cc2ccff43b6c6fbb56f0cdb5d2f46"
+hash = "35c74619cc3913bf4b8dfb2ee83494a10508ddb2b4f21354fcbfc3ccd4c042f1"
 metafile = true
 
 [[files]]
@@ -570,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/nucleoid-extras-blanketcon.pw.toml"
-hash = "aec0595e2f6dcbde83ea049c6d1c9bfc2e5bc15afb367c6e54ae2a1904d48097"
+hash = "eec40d52ec273414d5e56e506081a87386ea178d70b74e968a5962b7ba3d8a53"
 metafile = true
 
 [[files]]
@@ -615,12 +620,12 @@ metafile = true
 
 [[files]]
 file = "mods/peculiarpieces.pw.toml"
-hash = "05b70e27afaaf2dea2dce6bc25266839dcb31fcfabd48f80ff7dfdf6a4b8b7ae"
+hash = "51f65e568a51cafac62fe1cb84e0e072729fcecb12dd4ab4a3e3c629227f48da"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
+hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
 metafile = true
 
 [[files]]
@@ -820,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "719153a035697b36b11209ffb6d3dc3f57d3c025f6c0a0b23c0738ea32f361ed"
+hash = "6b02ce109a33a7a7be97df7c354feb6bba6527d51262203311a5d97acd6ec1d6"
 metafile = true
 
 [[files]]
@@ -880,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/survival-games.pw.toml"
-hash = "eb65169e5571ed4ce000acbe2a32805fbd6787c9e3c78e97edce64574c5d0465"
+hash = "7ff69bf00cd4a24cda78e8b510f017ca74c0e9a9b039f40523a7aa79786908ac"
 metafile = true
 
 [[files]]
@@ -985,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "305ecf64fe18cfee2f0abd79ee2197e6eb782ab525cfa2b1a5154ee79d6ba89f"
+hash = "268a8c16b14c7e5805d1fbe95156faf13a20f072b9856798b38778ed0b1be2ac"
 metafile = true
 
 [[files]]
@@ -1065,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/yardwork.pw.toml"
-hash = "5987fb31fc067a8402d73ee41b3778ef3c4222155e2678637f6e6e8c56f1219b"
+hash = "bc0fc5ca5b31e9f56b358e07ed0954567d27177f2cdf7c18d4f6c355ba656e7d"
 metafile = true
 
 [[files]]

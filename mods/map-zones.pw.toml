@@ -1,13 +1,13 @@
 name = "Map Zones"
-filename = "map_zones-0.0.4+1.20.1.jar"
+filename = "map_zones-0.0.5+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CF1AC1Xu/versions/VnxXxOmo/map_zones-0.0.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/CF1AC1Xu/versions/8JrSF6FV/map_zones-0.0.5%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "d9fbb142c51dcc2edeedcb900f2ede849ff38792"
+hash = "3e41e8d15d6da9f802930765c8736d9fe336cfc1"
 
 [update]
 [update.modrinth]
 mod-id = "CF1AC1Xu"
-version = "VnxXxOmo"
+version = "8JrSF6FV"

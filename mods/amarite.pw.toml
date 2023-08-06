@@ -1,0 +1,7 @@
+name = "amarite"
+filename = "amarite-1.5-1.0.8.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1127341468219080814/1137613695858516069/amarite-1.5-1.0.8.jar"
+hash-format = "sha256"
+hash = "56f90b55531f458f3ec5a9cdd290d20ed0b7c685036b3b1eb6758f654adba173"
