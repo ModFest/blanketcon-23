@@ -1,7 +1,7 @@
 name = "create"
-filename = "create-fabric-1.20.1-0.5.1-d-build.1130+mc1.20.1.jar"
+filename = "create-fabric-1.20.1-0.5.1-d-build.1134+mc1.20.1.jar"
 
 [download]
-url = "https://mvn.devos.one/snapshots/com/simibubi/create/create-fabric-1.20.1/0.5.1-d-build.1130+mc1.20.1/create-fabric-1.20.1-0.5.1-d-build.1130+mc1.20.1.jar"
+url = "https://mvn.devos.one/snapshots/com/simibubi/create/create-fabric-1.20.1/0.5.1-d-build.1134+mc1.20.1/create-fabric-1.20.1-0.5.1-d-build.1134+mc1.20.1.jar"
 hash-format = "sha256"
-hash = "2638bbb33ee89225fcefbcb2945cc2b8d2bff411bfd23a376b9e3c6a36b802ec"
+hash = "a14172dab7defcd8bda13f274c7f3a216140b25af95382a8acd6410652ae899f"

@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "b937800d65913dcc1d7e6d7422e8e1b08c94d308c82bf50a8ebf8559eb210c21"
+hash = "2193cd1267d102b9d53fc70b03c2c44e8531a4ff850cb7db49391f68a3bc7ef8"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "f31ab52584d5aeb207487b646084f4acc8eea521419032da6377e3149d6c1e81"
+hash = "8193b061844cc8e56f4504309ec4416554c1f9691a7ca3369089076b5a35112e"
 metafile = true
 
 [[files]]
