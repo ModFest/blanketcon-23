@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/advanced_networking.json"
+hash = "95959f2ab6406382bbccf30f48cb135f3e4c42c36a3dab0de6882e3508061fc7"
+
+[[files]]
 file = "config/arcpocalypse.json"
 hash = "8156a914cba60f5e8284a4298c72c79fb6974082ba584c40510719be0fef1f47"
 
