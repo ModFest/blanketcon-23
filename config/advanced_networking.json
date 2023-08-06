@@ -1,0 +1,7 @@
+{
+  "controller_item_transfer_rate": 64,
+  "controller_energy_transfer_rate": 256,
+  "disable_regex_filtering": true,
+  "controller_tick_rate": 10,
+  "controller_fluid_transfer_rate": 81000
+}
