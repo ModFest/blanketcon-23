@@ -65,10 +65,6 @@ file = "config/polymer/server.json"
 hash = "d4b1eb238389ca74b42611c2e1e7123e35d57cd0ad38bedaf9523d2b6cd48e89"
 
 [[files]]
-file = "config/quilt-loader-overrides.json"
-hash = "046d7c779cd4bb987b3dc15102da646a75947869533a1b0356dd543a55ed51c3"
-
-[[files]]
 file = "config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
