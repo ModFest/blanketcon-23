@@ -1,0 +1,13 @@
+name = "Consistency+"
+filename = "consistency_plus-fabric-0.5.2-rc.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDHcEOt3/versions/Jm5dnfOK/consistency_plus-fabric-0.5.2-rc.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "8b14e0aab7c87b0b6412698ef381f48ae777e8b4"
+
+[update]
+[update.modrinth]
+mod-id = "nDHcEOt3"
+version = "Jm5dnfOK"

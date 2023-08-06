@@ -229,6 +229,11 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "f922331c7796d260b73320c4e480bab766998af9798e5394c554b5a68a7a7388"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "962bbd04aa3b74d428e059cf6d95ac71549bbefee409cbab06b3963ad8723c29"
 metafile = true
