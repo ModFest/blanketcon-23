@@ -844,6 +844,11 @@ hash = "1fcbecc5cb01d0ac2820bb7535b2df15accdc9bcb94f4bde6500099af6807604"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
 file = "mods/spleef.pw.toml"
 hash = "96fb918e982ae59320f243f314f87cef6f5c20d6338817315ad0d7c204af279c"
 metafile = true
