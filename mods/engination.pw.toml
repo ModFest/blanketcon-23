@@ -1,13 +1,13 @@
 name = "Engination"
-filename = "Engination-2.1.1.jar"
+filename = "Engination-2.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JpAGYwCM/versions/Q7ZKEu5S/Engination-2.1.1.jar"
+url = "https://cdn.modrinth.com/data/JpAGYwCM/versions/dP9fafZg/Engination-2.1.2.jar"
 hash-format = "sha1"
-hash = "bb07b6e7b1447beeab19aaeb3f890f9b2631fbe2"
+hash = "4c024e605e7b5898b6f7311c8e30394229b7d140"
 
 [update]
 [update.modrinth]
 mod-id = "JpAGYwCM"
-version = "Q7ZKEu5S"
+version = "dP9fafZg"

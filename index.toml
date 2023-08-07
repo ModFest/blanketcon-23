@@ -26,7 +26,7 @@ hash = "c524bd7e0e27258dcb0122f15303ac80723a1b6d0bb872e63b203d87bdc62136"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "43e67af0fe9bf536cfe1d1f3aa99fd3c5998f5474fba5b4e1bc7d8fe4adc3767"
+hash = "188d9fa06c276ec05283ce4b2fe33dc9358b514b8a3cc9df42ba2b9ea9e2bd10"
 
 [[files]]
 file = "config/entityculling.json"
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/bc23-enchantment-bridge.pw.toml"
-hash = "29beefacb056e5b22885258de76f531f46a4b9a13d800cffab17d6cdbd31da9a"
+hash = "20e20a74ce1930efc0df2c51ff293e566943eba3e768e1611746704c410c6157"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/cactusfix.pw.toml"
-hash = "dd98ef4c86eecd08d51223bd6bfcfebd2906695ad4c6479a57eabe737020ad2c"
+hash = "524bceb0ad71a3e48c830ee2b3dba6ef550875cc8c5f6f6566ae1b489757b847"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/engination.pw.toml"
-hash = "ac457d627aad0e58e9db9cbff916f8c909947264a664e5ad8f78257d13ff315d"
+hash = "6d150ce9911c180a75c129ebdffb44e3c3468616b23fc56387cda50d3f66247a"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "4b20a212e16166e3e512bc99ba87848732e8607871572f875554f83febe8f5f8"
+hash = "7525b7f923e6c45987eb0e8ccd311a3c0c00871a44e464b5ad0d32dd4ea4c18a"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-starminer.pw.toml"
-hash = "1a141b4e5733664eea34fddbb8cc0d22faaa50783a9a1e874157bd487bd34c02"
+hash = "915c623094af84904c46c945638451dacb2ee1ba40a6356fb57c767546ab69cd"
 metafile = true
 
 [[files]]
@@ -1051,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
+metafile = true
+
+[[files]]
+file = "mods/terracotta-knights.pw.toml"
+hash = "2b05c0a54eb1899d44d089b6b688ad8bb71267048057729f608601099b5a6b37"
 metafile = true
 
 [[files]]
