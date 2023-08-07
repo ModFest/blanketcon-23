@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "5a7004cba0cd60959cf8eec0108aacf6977d766f4c64bcffed648b74abdf04fc"
+hash = "0527033d0161d2fa4b886d09cf915a5c6532a8e6432c1b91b1147d51f3a97fab"
 metafile = true
 
 [[files]]
@@ -171,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/atlas.pw.toml"
 hash = "f2166f09e4d2ee4a43dac512bf31bb5bdb9da121d11ad21940f36446afb4213a"
+metafile = true
+
+[[files]]
+file = "mods/aurorasdecorations.pw.toml"
+hash = "14514ffbe1756644d050a2c257164628a9dade82fc482b3d9b9d7e6463f171f3"
 metafile = true
 
 [[files]]
@@ -415,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/excorrelation.pw.toml"
-hash = "33c769f6492f10dd3e56dd6b33b96ac532a9de8614c208684bb01d565556b66d"
+hash = "d13c2d7c4238f9a33881882f7c51bcefe0a73591e67ccb27d81f673049727eda"
 metafile = true
 
 [[files]]
@@ -635,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "95734d5989d83a245b39d43b068e29aec12369c1d707a4eeb81cb4043d7cee4f"
+hash = "3ed4c34774f70f80b5625d154f992a0fd72d8cea7fd0a2287027b9681c662a0b"
 metafile = true
 
 [[files]]
@@ -1051,6 +1056,11 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
+metafile = true
+
+[[files]]
+file = "mods/terracotta-knights.pw.toml"
+hash = "381b83236e99286810e43f6266765fea2271b438abde05b39f3451437e846231"
 metafile = true
 
 [[files]]

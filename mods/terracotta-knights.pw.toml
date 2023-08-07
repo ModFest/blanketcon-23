@@ -1,0 +1,7 @@
+name = "terracotta-knights"
+filename = "terracotta_knights-1.1.2+1.20.1.jar"
+
+[download]
+url = "https://github.com/Bubblie01/Quilt-Clay-Knights/releases/download/alpha/terracotta_knights-1.1.2+1.20.1.jar"
+hash-format = "sha1"
+hash = "03e0baa92ca7a5d6dd2063ab899188f70d23f359"
