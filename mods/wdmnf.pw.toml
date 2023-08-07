@@ -2,6 +2,6 @@ name = "wdmnf"
 filename = "wdmnf-1.1.0+snapshots.jar"
 
 [download]
-url = "https://github.com/Tom-The-Geek/WDMNF/releases/download/v1.1.0%2Bsnapshots/wdmnf-1.1.0+snapshots.jar"
+url = "https://blanketcon.b-cdn.net/Tom-The-Geek/WDMNF/releases/download/v1.1.0%2Bsnapshots/wdmnf-1.1.0+snapshots.jar"
 hash-format = "sha1"
 hash = "f79c5712c8fbf9c646e4b02962dae1d9e1980c03"

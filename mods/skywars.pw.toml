@@ -2,6 +2,6 @@ name = "skywars"
 filename = "skywars-1.0.0-build.80.jar"
 
 [download]
-url = "https://github.com/NucleoidMC/skywars/releases/download/build-80/skywars-1.0.0-build.80.jar"
+url = "https://blanketcon.b-cdn.net/NucleoidMC/skywars/releases/download/build-80/skywars-1.0.0-build.80.jar"
 hash-format = "sha256"
 hash = "01bbe9da46b740a730a16c260be949f6af7474c57e5faba1ee16570f351cfe30"

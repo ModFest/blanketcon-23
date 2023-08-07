@@ -2,6 +2,6 @@ name = "spleef"
 filename = "spleef-1.0.0.jar"
 
 [download]
-url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/spleef-1.0.0.jar"
+url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.0/spleef-1.0.0.jar"
 hash-format = "sha256"
 hash = "dc5fad622e7101ade2654b8d06e3b6c8f8518964046ab85285882d399b5cc3e9"

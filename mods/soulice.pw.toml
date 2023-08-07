@@ -2,6 +2,6 @@ name = "soulice"
 filename = "soulice-2.0.0-alpha.4-biomeless+1.20.1-fabric.jar"
 
 [download]
-url = "https://github.com/sisby-folk/Soul-Ice/releases/download/v2.0.0-alpha.4-biomeless%2B1.20.1/soulice-2.0.0-alpha.4-biomeless+1.20.1-fabric.jar"
+url = "https://blanketcon.b-cdn.net/sisby-folk/Soul-Ice/releases/download/v2.0.0-alpha.4-biomeless%2B1.20.1/soulice-2.0.0-alpha.4-biomeless+1.20.1-fabric.jar"
 hash-format = "sha1"
 hash = "e235e0eee583dd1e6bfcf2f67192d402b3621799"

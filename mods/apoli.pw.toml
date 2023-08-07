@@ -2,6 +2,6 @@ name = "apoli"
 filename = "Apoli-1.20.1-2.9.0+bc.23.3.jar"
 
 [download]
-url = "https://github.com/MerchantPug/apoli/releases/download/2.9.0%2Bbc.23.3/Apoli-1.20.1-2.9.0+bc.23.3.jar"
+url = "https://blanketcon.b-cdn.net/MerchantPug/apoli/releases/download/2.9.0%2Bbc.23.3/Apoli-1.20.1-2.9.0+bc.23.3.jar"
 hash-format = "sha1"
 hash = "0b197cf852b5daffed664084beb47eff1e354178"

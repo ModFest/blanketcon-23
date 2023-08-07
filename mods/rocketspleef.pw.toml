@@ -2,6 +2,6 @@ name = "rocketspleef"
 filename = "rocketspleef-0.1.1.jar"
 
 [download]
-url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.0/rocketspleef-0.1.1.jar"
+url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.0/rocketspleef-0.1.1.jar"
 hash-format = "sha256"
 hash = "306d243c6b3b9da65c0858d136c2b5db3d3836ce78b429ec465096d30afff905"
