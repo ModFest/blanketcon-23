@@ -964,11 +964,6 @@ hash = "7a164fe7c2b1ebb34fc029c7634c27a831f9d31637b2416e4ea1e34c80e933a6"
 metafile = true
 
 [[files]]
-file = "mods/sprite-arrows.pw.toml"
-hash = "9b6c816a530acfd9492ce27d2314dc4a72cc93cf8806854f5abaa6d2db12bce5"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
 metafile = true
@@ -1045,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/taterzens.pw.toml"
-hash = "141027f068afd1f0cdd50f2521186bee79574a46efc503686dc2c1362a1c3c2b"
+hash = "0bf55e97e986ad025f76231da217bcf8e398eb4e67a4f3bea8b35ccd9a14c21a"
 metafile = true
 
 [[files]]
