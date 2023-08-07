@@ -2,6 +2,6 @@ name = "wecui"
 filename = "WorldEditCUI-1.20+01.jar"
 
 [download]
-url = "https://github.com/EngineHub/WorldEditCUI/releases/download/1.20%2B01/WorldEditCUI-1.20+01.jar"
+url = "https://blanketcon.b-cdn.net/EngineHub/WorldEditCUI/releases/download/1.20%2B01/WorldEditCUI-1.20+01.jar"
 hash-format = "sha256"
 hash = "f3fdee50b6a493c102a65655907a43939012a710adb17e9fc46815cc6ad102c1"

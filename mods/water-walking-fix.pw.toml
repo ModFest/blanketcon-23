@@ -2,6 +2,6 @@ name = "water-walking-fix"
 filename = "WaterWalkingFix-1.0.0+bc23.1.jar"
 
 [download]
-url = "https://github.com/MerchantPug/water-walking-fix/releases/download/1.0.0%2Bbc23.1/WaterWalkingFix-1.0.0+bc23.1.jar"
+url = "https://blanketcon.b-cdn.net/MerchantPug/water-walking-fix/releases/download/1.0.0%2Bbc23.1/WaterWalkingFix-1.0.0+bc23.1.jar"
 hash-format = "sha256"
 hash = "737b4d95fc708a765295b320f2c92ab4a8643bf8922b0fe937a4c9e64aec3176"

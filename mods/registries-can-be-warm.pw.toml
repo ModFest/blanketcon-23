@@ -2,6 +2,6 @@ name = "registries-can-be-warm"
 filename = "registries-can-be-warm-1.0.0.jar"
 
 [download]
-url = "https://github.com/JamCoreModding/registries-can-be-warm/releases/download/1.0.0/registries-can-be-warm-1.0.0.jar"
+url = "https://blanketcon.b-cdn.net/JamCoreModding/registries-can-be-warm/releases/download/1.0.0/registries-can-be-warm-1.0.0.jar"
 hash-format = "sha1"
 hash = "d40878772a9a80dfcd18fa20121f14e4342d6bf8"
