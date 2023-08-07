@@ -174,11 +174,6 @@ hash = "f2166f09e4d2ee4a43dac512bf31bb5bdb9da121d11ad21940f36446afb4213a"
 metafile = true
 
 [[files]]
-file = "mods/aurorasdecorations.pw.toml"
-hash = "14514ffbe1756644d050a2c257164628a9dade82fc482b3d9b9d7e6463f171f3"
-metafile = true
-
-[[files]]
 file = "mods/automobility.pw.toml"
 hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
@@ -570,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "4085a6f833eb27091ffe2e09cd95e577bb1be8c4c8b2143ba3924ecd61a2fffe"
+hash = "977b2162a12c8a80fd13ef6acefb5018b504c53fdf790a4b9eb14c7646262022"
 metafile = true
 
 [[files]]
@@ -1056,11 +1051,6 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
-metafile = true
-
-[[files]]
-file = "mods/terracotta-knights.pw.toml"
-hash = "381b83236e99286810e43f6266765fea2271b438abde05b39f3451437e846231"
 metafile = true
 
 [[files]]
