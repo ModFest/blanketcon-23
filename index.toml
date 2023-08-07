@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "9a382626e3aac69dd0c2b642e85c731dcdb263923ced54f168a81467c07ecd97"
+hash = "5162d95456c7fa2d23dd6afd6fd5313177f21d989746ebc703ed5e1995208b8c"
 metafile = true
 
 [[files]]
@@ -276,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/discarnate.pw.toml"
 hash = "c06574ae85e7eba4f7d3580282510d282a1ca0aa1df265e55f442341267b2762"
+metafile = true
+
+[[files]]
+file = "mods/doublejumpattribute.pw.toml"
+hash = "7636f169174ff02eb264ad19815fcdaacb2c4616d7e0c08dbb5685d69887433a"
 metafile = true
 
 [[files]]
@@ -425,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-api.pw.toml"
-hash = "7614f94faf853bed3c4794bca2eef34a18d16f9c0082818ebe0e5e8441366e3a"
+hash = "e65df01a435ab432689c9507c284113bbd9a2cd8b1e05cab88a10f68a31e8baf"
 metafile = true
 
 [[files]]
@@ -450,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "5cc7ddebe9148053eae42087ef54a4f0e564f389c581e1c4d52056b8d07feeff"
+hash = "9ddc8885c92af44c9c959f67d9d753bef152c99f00e3a4cc3c80f820e63906d3"
 metafile = true
 
 [[files]]
@@ -710,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "83504e8c2822f0c47ede2c22c103a5e945975f6044640c324183b8f90972ddc5"
+hash = "50f9f07eb1492e92b232d8fdd7a05ad0283ad7c5f8516f239aaa912af08bbb40"
 metafile = true
 
 [[files]]
@@ -790,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
-hash = "0641888865dabe5be8ac64a29faf636a632acd797d018217424215008ed2ad6d"
+hash = "39810790ca2824ff3bed984ab29d3bafae1ab811cc1ff3fd401919c469311506"
 metafile = true
 
 [[files]]
@@ -900,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "9278f4b4f7c920465dc494695bbf94035cb368ee07646967f94c07d822bb012f"
+hash = "74ce8a5b4ee6c90488b7d8e73f12af0ce616c5576a03f0c89ad84d9e64f4dac0"
 metafile = true
 
 [[files]]
@@ -1080,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "27ab5eaa41532caa439225e1847bf9a986f04a514b2eedfcc6ff559a44203035"
+hash = "0799fe335fb479c5aee9415888d99116a98b722fc0685ec13537b3a20fce01aa"
 metafile = true
 
 [[files]]

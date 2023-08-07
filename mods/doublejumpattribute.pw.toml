@@ -1,0 +1,13 @@
+name = "Double Jump Attribute"
+filename = "doublejumpattribute-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4nXV6zEk/versions/5lxv0sRT/doublejumpattribute-1.0.9.jar"
+hash-format = "sha1"
+hash = "6d22e2f4e9579bc72f0d36fae78b15611a9d5b61"
+
+[update]
+[update.modrinth]
+mod-id = "4nXV6zEk"
+version = "5lxv0sRT"
