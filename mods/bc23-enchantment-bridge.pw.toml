@@ -1,7 +1,7 @@
 name = "bc23-enchantment-bridge"
-filename = "BC23EnchantmentBridge-1.2.0+1.20.1.jar"
+filename = "BC23EnchantmentBridge-1.2.1+1.20.1.jar"
 
 [download]
-url = "https://github.com/ModFest/bc23-enchantment-bridge/releases/download/1.2.0%2B1.20.1/BC23EnchantmentBridge-1.2.0+1.20.1.jar"
+url = "https://github.com/ModFest/bc23-enchantment-bridge/releases/download/1.2.1%2B1.20.1/BC23EnchantmentBridge-1.2.1+1.20.1.jar"
 hash-format = "sha256"
-hash = "6abcc1fd5b11695a5bc79e83e8aaacdb3cb2bb48222e8e3be361e6a18a2ff901"
+hash = "62c6b00c40c92430fba20bcb35a33d609df9c428e17970a5c0740d773b991421"

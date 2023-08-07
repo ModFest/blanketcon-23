@@ -1,0 +1,7 @@
+name = "more-iotas"
+filename = "moreiotas-fabric-1.20.1-0.1.0-4.jar"
+
+[download]
+url = "https://github.com/Talia-12/MoreIotas/releases/download/0.1.0-4/moreiotas-fabric-1.20.1-0.1.0-4.jar"
+hash-format = "sha256"
+hash = "4fd7b08ae3b3c1d573917bc6d9ee3c36eb52b886a0a8b7ec160556f37376a129"

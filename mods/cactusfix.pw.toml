@@ -1,13 +1,13 @@
 name = "Cactusfix"
-filename = "cactusfix-1.2.0-mc1.20.1.jar"
+filename = "cactusfix-1.2.1-mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z29y9YGt/versions/2WzFt8Gl/cactusfix-1.2.0-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Z29y9YGt/versions/9MnXKOl9/cactusfix-1.2.1-mc1.20.jar"
 hash-format = "sha1"
-hash = "0a04924e2d56cedb9868baeb5060f739fb2365ba"
+hash = "e82b8b3a16242914b2d8f13a28aed60e2f6a9954"
 
 [update]
 [update.modrinth]
 mod-id = "Z29y9YGt"
-version = "2WzFt8Gl"
+version = "9MnXKOl9"
