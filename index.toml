@@ -934,11 +934,6 @@ hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
 metafile = true
 
 [[files]]
-file = "mods/terracotta-knights.pw.toml"
-hash = "381b83236e99286810e43f6266765fea2271b438abde05b39f3451437e846231"
-metafile = true
-
-[[files]]
 file = "mods/terrariamod.pw.toml"
 hash = "ad5fd08da2d413c34bc311495ba03dd4e82cf8db4ca9d319bfa18f00b668f9d0"
 metafile = true
