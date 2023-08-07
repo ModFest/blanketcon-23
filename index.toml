@@ -454,11 +454,6 @@ hash = "7ae52327ecff67cd28baeccba1fca9718e420f90ee7c073a9cec16593b03ed8a"
 metafile = true
 
 [[files]]
-file = "mods/hexal.pw.toml"
-hash = "01e35bd8fa96c9bc675914490c7b3952b285ad1bde2e98856d836a3653f50209"
-metafile = true
-
-[[files]]
 file = "mods/honk.pw.toml"
 hash = "9ddc8885c92af44c9c959f67d9d753bef152c99f00e3a4cc3c80f820e63906d3"
 metafile = true
@@ -561,11 +556,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
-metafile = true
-
-[[files]]
-file = "mods/more-iotas.pw.toml"
-hash = "d9cf497e7e3b1b25f4cda0040b4da85b33dea5326af7b91702a9e3627e7b4685"
 metafile = true
 
 [[files]]
