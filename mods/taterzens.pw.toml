@@ -1,0 +1,13 @@
+name = "Taterzen NPCs"
+filename = "taterzens-fabric-1.20-1.11.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vE972Kux/versions/TUtCCNz3/taterzens-fabric-1.20-1.11.6.jar"
+hash-format = "sha1"
+hash = "8948247816493c181032fb33c9628f6f12437cb3"
+
+[update]
+[update.modrinth]
+mod-id = "vE972Kux"
+version = "TUtCCNz3"

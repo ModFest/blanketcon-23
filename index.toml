@@ -1044,6 +1044,11 @@ hash = "3f93ba944882f89817aec28b50e6024b3edecebbd18ca231ecfc7746eb5ce22e"
 metafile = true
 
 [[files]]
+file = "mods/taterzens.pw.toml"
+hash = "141027f068afd1f0cdd50f2521186bee79574a46efc503686dc2c1362a1c3c2b"
+metafile = true
+
+[[files]]
 file = "mods/teabridge.pw.toml"
 hash = "4d25e6fc88a31c74f1f2acf22680ef5cc368e2b6b1759658f61ed8b2d121f113"
 metafile = true
@@ -1055,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/terracotta-knights.pw.toml"
-hash = "2b05c0a54eb1899d44d089b6b688ad8bb71267048057729f608601099b5a6b37"
+hash = "6b3af6fcc1efe8cce573ffa29b529643c095634a93d00989078be80e2413599d"
 metafile = true
 
 [[files]]
