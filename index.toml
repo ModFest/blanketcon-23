@@ -53,6 +53,10 @@ file = "config/moreculling.toml"
 hash = "7a92a596e22f2bf4a4b64cda5ce614f6d3d9e02d9d2b5c8246173561515d8cc5"
 
 [[files]]
+file = "config/phonos.json"
+hash = "3eec05ad02a87b1e53c4216c1443d56bf80c02b11eceae664ca75224ef7e85fe"
+
+[[files]]
 file = "config/picturesign.json"
 hash = "2b867088202c1732c66974ca34f560e21704ef4791771c74ae98479434308434"
 
