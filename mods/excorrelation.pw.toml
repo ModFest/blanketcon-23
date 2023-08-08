@@ -1,7 +1,7 @@
 name = "excorrelation"
-filename = "excorrelation-1.1.38.jar"
+filename = "excorrelation-1.1.40.jar"
 
 [download]
-url = "https://unascribed.b-cdn.net/excorrelation-1.1.38.jar"
-hash-format = "sha1"
-hash = "b8ba5e290a6abfc97cd7f77fa2df941f612929b2"
+url = "https://unascribed.b-cdn.net/excorrelation-1.1.40.jar"
+hash-format = "sha256"
+hash = "1d7129aa665aee712796682c0fed66979d9dc661814de4a17d4fd8c1b3ce21d6"

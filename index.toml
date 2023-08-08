@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "5162d95456c7fa2d23dd6afd6fd5313177f21d989746ebc703ed5e1995208b8c"
+hash = "7dda4c055143631823c81db97cf685b2a6fd8095491d17c8ef8b1ced38bac399"
 metafile = true
 
 [[files]]
@@ -389,18 +389,13 @@ hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
 metafile = true
 
 [[files]]
-file = "mods/emogg.pw.toml"
-hash = "a1c271d2c0d4be32964b0ae371348f49e1e7f559f2f7bce91861a4c6dc8f47da"
-metafile = true
-
-[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "8efbecd0d47a802af0add58bd260a07f5cb9c40ac582280999e74e71cd5e9211"
 metafile = true
 
 [[files]]
 file = "mods/enchantery.pw.toml"
-hash = "401deeb4cd8e17412ce6910b72c57f520bde2cc53975b195fad03c85e5f50500"
+hash = "d96cf50c049f95ae5756cf522a7b0fe5be72d94568125e40717154bf79a027be"
 metafile = true
 
 [[files]]
@@ -415,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/excorrelation.pw.toml"
-hash = "d13c2d7c4238f9a33881882f7c51bcefe0a73591e67ccb27d81f673049727eda"
+hash = "92aa2a56059886e252fa58644186ef884606dd5a1a9a55051257334cc3a9ad36"
 metafile = true
 
 [[files]]
@@ -725,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/peculiarpieces.pw.toml"
-hash = "51f65e568a51cafac62fe1cb84e0e072729fcecb12dd4ab4a3e3c629227f48da"
+hash = "8248ae97d3f96d63bc1835560eb123b4fe41fbc613c274f0d0be887ac6504b72"
 metafile = true
 
 [[files]]
@@ -740,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "edbc1bc3e8c00da7a9b522bf476eb1409172d304624e1c9d7a0393edf0323fa6"
+hash = "346de643dba932c91ebf3e0516a333922616050e3a335c3c7f5e7d2deeefe2d2"
 metafile = true
 
 [[files]]
@@ -756,6 +751,11 @@ metafile = true
 [[files]]
 file = "mods/pineapple-mod.pw.toml"
 hash = "b3d1af2a441502ddae25911509785d1ea055b4786ff549f00208ce1de680b8df"
+metafile = true
+
+[[files]]
+file = "mods/plant-in-a-jar.pw.toml"
+hash = "626b08968080a9350998265da43a45ddc7866a2929df7f79b3935bf6089df1fa"
 metafile = true
 
 [[files]]
@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrariamod.pw.toml"
-hash = "49381417556372548b82e7929fc9b78888a62a76d429e160dde8b941806671d9"
+hash = "7a9c51ad87c2be2dcc0d7dc093370b528ccd152b47f1d8c937875f437ee15727"
 metafile = true
 
 [[files]]
@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/tropics.pw.toml"
-hash = "fac0a2f521a1dd8250cbfa9c8d80bd3888702e8781c59147ee945e332ea87dd1"
+hash = "65c8004b9cf63b885e3d9400366db5e761645fbed2060306d06106b6a9f83883"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
+hash = "75ccdfd2f29fbe19c23602d87f3fe79276955878eda6705f138b393077cc482c"
 metafile = true
 
 [[files]]

@@ -1,13 +1,7 @@
-name = "Peculiar Pieces"
-filename = "peculiar-pieces-1.2.16+1.20.1.jar"
-side = "both"
+name = "peculiarpieces"
+filename = "peculiarpieces-1.2.16+1.20.1-una1.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/qCIOjJW2/versions/JTDVxj56/peculiar-pieces-1.2.16%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "bea1c3906d69c9169999571dd9bb97ae8248d597"
-
-[update]
-[update.modrinth]
-mod-id = "qCIOjJW2"
-version = "JTDVxj56"
+url = "https://unascribed.b-cdn.net/peculiarpieces-1.2.16%2B1.20.1-una1.jar"
+hash-format = "sha256"
+hash = "48d4563fc13d516bc46a79bd6492b7cba92224f1dfb54013713d466658597a82"
