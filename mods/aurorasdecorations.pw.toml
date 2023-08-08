@@ -1,0 +1,13 @@
+name = "Aurora's Decorations"
+filename = "aurorasdecorations-1.0.0-beta.14+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GOqAnOfW/versions/b5R18rpi/aurorasdecorations-1.0.0-beta.14%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "88e3e62937a97907de1d27d6e01727693c04d4be"
+
+[update]
+[update.modrinth]
+mod-id = "GOqAnOfW"
+version = "b5R18rpi"

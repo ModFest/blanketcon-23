@@ -156,6 +156,11 @@ hash = "f2166f09e4d2ee4a43dac512bf31bb5bdb9da121d11ad21940f36446afb4213a"
 metafile = true
 
 [[files]]
+file = "mods/aurorasdecorations.pw.toml"
+hash = "8b9e3d3ded6004aa0aa09423df8fb20562017efece5e41d4f702a58957904ba2"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
@@ -797,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
+hash = "63609b108f31e82863487ab43388995e5757818cee60148b053df3b0d3278163"
 metafile = true
 
 [[files]]
@@ -832,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
-hash = "39810790ca2824ff3bed984ab29d3bafae1ab811cc1ff3fd401919c469311506"
+hash = "b7e996ecc16b22396ad40cda25d655af990ea0b751feea6d718fbd06fcb51316"
 metafile = true
 
 [[files]]
