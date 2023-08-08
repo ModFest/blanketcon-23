@@ -1,0 +1,7 @@
+name = "the-towers"
+filename = "the_towers-2.1.2.jar"
+
+[download]
+url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.1/the_towers-2.1.2.jar"
+hash-format = "sha256"
+hash = "d0a1563c72dfedb18a1df18b49397a524e782e96b3ec63fda4c571fd2bfbfdad"

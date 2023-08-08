@@ -11,7 +11,8 @@
   "auto_completion": {
     "tags": false,
     "tag_aliases": false,
-    "emoticons": false
+    "emoticons": false,
+    "emoji": true  
   },
   "default": {
     "display_name": "${default}",
@@ -62,7 +63,8 @@
     },
     "emoticons": {
       "item": "[%player:equipment_slot mainhand%]",
-      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%"
+      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%",
+      "$emojibase:builtin:joypixels": "<font:'twemoji:font'>${emoji}"
     },
     "custom_message_types": {}
   },

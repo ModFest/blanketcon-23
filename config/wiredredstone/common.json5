@@ -1,0 +1,51 @@
+// Wired Redstone common config.
+// Some values in here are synced to clients that join this server.
+{
+	// Configures when version checking and config syncing will occur.
+	// Some proxies like Velocity can't handle LOGIN phase networking,
+	// so all synchronization with a proxy must happen during the PLAY phase.
+	// However, this means that there will be a period of time that the player will be logged in
+	// before their configs have synced and with potentially an incompatible version of the mod.
+	// First, try things with LOGIN phase and if it doesn't work, try PLAY phase.
+	// options: LOGIN, PLAY
+	// default: LOGIN
+	syncPhase: "LOGIN",
+	// Whether version checking and syncing are enabled at all.
+	// default: true
+	syncEnabled: true,
+	// The amount of time in milliseconds to wait for the player to respond with a version check response.
+	// This is only used if version-checking is happening during the PLAY phase.
+	// default: 20000
+	versionCheckTimeout: 20000,
+	// If set to true, wires' connections are saved whenever they are changed,
+	// instead of only when the world is saved.
+	// This means that it is less likely for a server crash to cause corruption,
+	// but it can also cause more lag, because more frequent saves means more time spent saving.
+	// default: false
+	incrementalGraphSaves: false,
+
+	ignoreCornerBlockage: true,
+	
+	assembler: {
+		// The maximum energy that a Redstone Assembler can hold.
+		// By default, 1 Coal generates 4000 energy.
+		// This value is synced to the client.
+		// default: 128000
+		energyCapacity: 128000,
+		// The maximum amount of energy that can be inserted per tick.
+		// default: 128
+		maxInsert: 128,
+		// The amount of time, in ticks, it takes to complete a vanilla crafting recipe.
+		// default: 10
+		craftingTime: 10,
+		// The amount of energy consumed per tick when performing vanilla crafting.
+		// default: 5
+		craftingEnergy: 5,
+		// The amount of energy generated per tick by burning something.
+		// default: 5
+		burnEnergy: 5,
+		// The amount by which furnace fuel burn times are multiplied to obtain Redstone Assembler fuel burn times.
+		// default: 0.5
+		burnTimeFactor: 0.5
+	}
+}

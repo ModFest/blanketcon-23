@@ -1,0 +1,9 @@
+{
+    "phonosMasterVolume": 1.0,
+    "streamVolume": 1.0,
+    "cableCulling": true,
+    "cableVBOs": true,
+    "cableLODs": true,
+    "cableLODNearDetail": 1.0,
+    "cableLODFarDetail": 0.25
+}
