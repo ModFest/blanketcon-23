@@ -1,0 +1,7 @@
+name = "duels"
+filename = "duels-0.0.3.jar"
+
+[download]
+url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.1/duels-0.0.3.jar"
+hash-format = "sha256"
+hash = "3e69ff713c8d594c67ce00e1c122c73d25cf11453c8862b4c3bcf72f5597ab94"

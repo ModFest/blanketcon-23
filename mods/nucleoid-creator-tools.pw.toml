@@ -1,13 +1,13 @@
 name = "Nucleoid Creator Tools"
-filename = "nucleoid-creator-tools-0.2.1.jar"
+filename = "nucleoid-creator-tools-0.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HDocER98/versions/XZZ8SROB/nucleoid-creator-tools-0.2.1.jar"
+url = "https://cdn.modrinth.com/data/HDocER98/versions/5yNE8dkj/nucleoid-creator-tools-0.2.2.jar"
 hash-format = "sha1"
-hash = "9579b043d76504bad6b9102c7045fef7563c772e"
+hash = "d18c34f93ccdfad07753eca3d08035f5ad8b4c22"
 
 [update]
 [update.modrinth]
 mod-id = "HDocER98"
-version = "XZZ8SROB"
+version = "5yNE8dkj"

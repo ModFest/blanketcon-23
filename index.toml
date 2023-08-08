@@ -81,12 +81,20 @@ file = "config/sodium-options.json"
 hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "b9191d76b47630486efca0a208f36841779337c290aa8248e1da7f2149882e7e"
+
+[[files]]
 file = "config/styled-sidebars/config.json"
 hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
 
 [[files]]
 file = "config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+
+[[files]]
+file = "config/wiredredstone/common.json5"
+hash = "45b56810c1c6fcabaf2c6f8fa4f7e4ae1eaccae56e19a7e8acc849054064a249"
 
 [[files]]
 file = "config/yttr.css"
@@ -239,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "962bbd04aa3b74d428e059cf6d95ac71549bbefee409cbab06b3963ad8723c29"
+hash = "cd722b57ac86dee08528df084c70260ba77636e7bd1a2be1109c29577e2c4562"
 metafile = true
 
 [[files]]
@@ -249,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "7dda4c055143631823c81db97cf685b2a6fd8095491d17c8ef8b1ced38bac399"
+hash = "a0f79d53af65e7f9517bd0f89566c28a88a43289f08e07cef588c06d133744df"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "2193cd1267d102b9d53fc70b03c2c44e8531a4ff850cb7db49391f68a3bc7ef8"
+hash = "91b1a65120b8ef9d48250151c773000076af4001767bf7a2e7aa609e3619ecf9"
 metafile = true
 
 [[files]]
@@ -295,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "4dfeb4a7f9ba351ce1cac51a97693b317ce26f0dcf9ba89e9f2ed96cd5472f57"
+metafile = true
+
+[[files]]
+file = "mods/duels.pw.toml"
+hash = "25fa1558568023f146b438f4095353bc7945ac053531ff32e19c9c85742e85b6"
 metafile = true
 
 [[files]]
@@ -383,6 +396,11 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/fireblanket.pw.toml"
+hash = "8fc3e8937387f4997f38a753401b0d4f28336d70de71ddf70ae082a93dfe0c90"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -449,12 +467,22 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "5d7c5cd808f8163a2d785686c33418a428e6a1b1389b915751a0135483c1c70a"
+hash = "7c1e2aa0f6ca23a9ed9d82ec599c68e5a4dec7798b3f6283e5256e319199483a"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "1c374a779003ed30b9467c31af5dcb20a673563fb57383a8c67241bb7142e696"
 metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
 hash = "9ddc8885c92af44c9c959f67d9d753bef152c99f00e3a4cc3c80f820e63906d3"
+metafile = true
+
+[[files]]
+file = "mods/icyincitement.pw.toml"
+hash = "f037f2d8a8cb0379465b5f77d2303d6481136cecd8951cebb01e4d875d3e116b"
 metafile = true
 
 [[files]]
@@ -558,6 +586,11 @@ hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
 metafile = true
 
 [[files]]
+file = "mods/more-iotas.pw.toml"
+hash = "d311f96fc30d76336bf667c0a4e620bfb0e426c006fe3da76839d5d31243ba43"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
 metafile = true
@@ -579,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/nucleoid-creator-tools.pw.toml"
-hash = "e3edbaa160d619eab26e6e1d16bdce71c377f217eb7066f305cbe8d46db8e886"
+hash = "ef097ffb87d195f419e018e740b48694c07731fb1c686cb9426611d8b794a89a"
 metafile = true
 
 [[files]]
@@ -614,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/packages.pw.toml"
-hash = "88b7318ccf26cfd9a8ce76a6b420482429e6ded4d4099b432d8b33364c62cda3"
+hash = "28e8cad55f907da8abd91ab289976b2511c1b06dd1eee2f888f92158267005db"
 metafile = true
 
 [[files]]
@@ -839,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "db076625f73900f979cf22a3cf9246fdad5783f09900f4254e577fdbaa679cbb"
+hash = "402b727a27e33feb84e3f97a981dd21f023cd8751e68047ce79ae95b0a0a9fd1"
 metafile = true
 
 [[files]]
@@ -939,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/terracotta-knights.pw.toml"
-hash = "050645a445cc692f819059a90c380a51ce3bed2cb727ff7a3adebf11c5fa548c"
+hash = "aef9e3d04cdc5e42408f60d39b89b4ff654ef2664251a5b40c1c031069b14948"
 metafile = true
 
 [[files]]
@@ -955,6 +988,11 @@ metafile = true
 [[files]]
 file = "mods/the-printer.pw.toml"
 hash = "5fde74c9ce8e704c79a574fcb6c3deb2c7d973637c718d69d6af2ab8eea3011d"
+metafile = true
+
+[[files]]
+file = "mods/the-towers.pw.toml"
+hash = "f76e4c0b9afc699c5058c9424f0282359d633499487a8ff40c00ba6ef2c9d430"
 metafile = true
 
 [[files]]
@@ -1069,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "82c917c802ee48ab23e42a2ff6f20ad7eb9c0ef45d90341b6dc8da0c35332dc9"
+hash = "1f86bbf321f45c7068c8cbfbbac276ddc31637c29344af3cbd139ef6d0c1bb26"
 metafile = true
 
 [[files]]
@@ -1457,3 +1495,7 @@ hash = "2fe4a7bc0a19d80dc016fe5c7f4d38a84df5182cd5d94f012c2d3844274c0c12"
 [[files]]
 file = "resources/resourcepacks/pridemogg.zip"
 hash = "bab2a39422a26cccebaf36cccd0caaef5f4fb2eaf9968c95c66def0ef5fc04b0"
+
+[[files]]
+file = "resources/resourcepacks/twemojis.zip"
+hash = "77fd21d736e443a5418117a34e68393ee93020be42b0861e503fcc2e25382515"
