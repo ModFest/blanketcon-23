@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "5f7f43820e45cc8f0c9110c5622743c4fcc19c6db2e37e6782ef6c5a1e2cdbdf"
+hash = "8c6767d1d584bb2fb98798604a09ea2af4ff8ce614eaf2f90fdbbdfe78fce433"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/calibrated.pw.toml"
-hash = "2adb9eb9f93a979bd98ee2a9286bc77670daa8bab5aea057e2be2f4337c757c7"
+hash = "581c48681902d5b49b4dd9551bb36367e1dcbe8c38ef53b606a03198ae725f26"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/destroythemonument.pw.toml"
-hash = "e79a9f54ce9dcad65942c913aa8deef958a786e90a3de1951868f7bf1d02526a"
+hash = "5bacbb68f999e982e99628d212edd0baaaac3318c8f45825a6099bc07baaee14"
 metafile = true
 
 [[files]]
@@ -486,7 +486,12 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "8fc3e8937387f4997f38a753401b0d4f28336d70de71ddf70ae082a93dfe0c90"
+hash = "d19ca2634acc28d2c03724c34847ba72d6662ab91dfb5bdb26639ef86212f03e"
+metafile = true
+
+[[files]]
+file = "mods/flamingo.pw.toml"
+hash = "5073bf8a2544be5eeb5c2f736d29ad26874e50aa9a1ae8f96ee472712078b34f"
 metafile = true
 
 [[files]]
@@ -556,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "5d7c5cd808f8163a2d785686c33418a428e6a1b1389b915751a0135483c1c70a"
+hash = "7b11c0a934b1f13669b4856f77f83187ca076acd564a2da3daa8453e4bc9dc3d"
 metafile = true
 
 [[files]]
@@ -1001,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "d3b74b6924e9c3d23fe88ab69357f9c7e9bafed453b26b3ff20f2ebf0a6d8ec0"
+hash = "60dfb565c07bad4ef887117511b589422e7694b9d83fa6c99e2368becb68315a"
 metafile = true
 
 [[files]]
@@ -1131,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-printer.pw.toml"
-hash = "5fde74c9ce8e704c79a574fcb6c3deb2c7d973637c718d69d6af2ab8eea3011d"
+hash = "beaa10384639bd951520e9f4c85175920dd5aaf275b1436f986ae465e25286c7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,7 @@
+name = "flamingo"
+filename = "Flamingo-1.20.jar"
+
+[download]
+url = "https://blanketcon.b-cdn.net/Akarys42/Flamingo/releases/download/release-1.20/Flamingo-1.20.jar"
+hash-format = "sha256"
+hash = "c38309df78527f7acba019a2b9a9d017f1b602b14f2d408044488728c84f28d2"
