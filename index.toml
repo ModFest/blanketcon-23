@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "8c6767d1d584bb2fb98798604a09ea2af4ff8ce614eaf2f90fdbbdfe78fce433"
+hash = "35ff8975484ec1bf01b78ebc49363b733452e5c69e71771a72c9f743a2995616"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "d19ca2634acc28d2c03724c34847ba72d6662ab91dfb5bdb26639ef86212f03e"
+hash = "1fd88557c43b3fba4aa6870613c6f312108e38ef2a3cc455fd1673fdbbb675a5"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "9ddc8885c92af44c9c959f67d9d753bef152c99f00e3a4cc3c80f820e63906d3"
+hash = "65493f42a8ce9196129d44cfe3fd801a35e50862304c3d01917d2df532ed3f47"
 metafile = true
 
 [[files]]
