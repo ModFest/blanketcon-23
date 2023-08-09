@@ -1246,6 +1246,10 @@ file = "music/C418_Battlemode_4.ogg"
 hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
 
 [[files]]
+file = "music/SiivaGunner_Cat_InfdevMix.ogg"
+hash = "da25c058485102e158a4771d2e4171fbeb1e50be43c9ee30d320719cb275092f"
+
+[[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
 hash = "92d533df74ad31d7b32874d49f0a6f70d3194f52cf878c2270e154f6236a1308"
 
