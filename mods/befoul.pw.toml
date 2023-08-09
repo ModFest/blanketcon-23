@@ -1,0 +1,7 @@
+name = "befoul"
+filename = "befoul-1.0.7.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1127341468219080814/1138900499362480268/befoul-1.0.7.jar"
+hash-format = "sha256"
+hash = "626206dc4630ede934abb4519df4387207aa220a494d7e18d17706bcb8ca18ca"

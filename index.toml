@@ -85,6 +85,10 @@ file = "config/portalcubed.json"
 hash = "4eee2c982ce5195b10852f894c64568f89fad5fb63422739b1e2353858dfab12"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "7140cc4b3e2148f2e369940d81ab1718d65594f205a09dff1f5c0072a5546402"
+
+[[files]]
 file = "config/servercore.toml"
 hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
 
@@ -208,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/bc23-enchantment-bridge.pw.toml"
 hash = "145afe05ab80c8e7942de5ef6d0161abead4cc515eed3b3e646ba045daa86e23"
+metafile = true
+
+[[files]]
+file = "mods/befoul.pw.toml"
+hash = "1a5a2f6c5a156c1179008fabb0b73e9b7ce2edb96ec070df52e23b843ba70f0b"
 metafile = true
 
 [[files]]
@@ -403,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/elegantarmour.pw.toml"
 hash = "afb14b32290f71125e251c560386191a0eca5d2daf1860d7efcb6e7b9b707779"
+metafile = true
+
+[[files]]
+file = "mods/elysium.pw.toml"
+hash = "421d21069a2856081597854486da4b7fb118a1e44ab7386cdae8f31d7256cf10"
 metafile = true
 
 [[files]]
@@ -1153,11 +1167,6 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "0da488d2feec20d48e8a46e5532c22111d0ea2d4b7e8035ece44fe2182f135b8"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "5266f479ada8def6f0913d79b57f1dbf52058df1690e3702a3a3608e6a80c796"
 metafile = true
 
 [[files]]
