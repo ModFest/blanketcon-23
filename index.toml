@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "8c6767d1d584bb2fb98798604a09ea2af4ff8ce614eaf2f90fdbbdfe78fce433"
+hash = "35ff8975484ec1bf01b78ebc49363b733452e5c69e71771a72c9f743a2995616"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "d19ca2634acc28d2c03724c34847ba72d6662ab91dfb5bdb26639ef86212f03e"
+hash = "1fd88557c43b3fba4aa6870613c6f312108e38ef2a3cc455fd1673fdbbb675a5"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "9ddc8885c92af44c9c959f67d9d753bef152c99f00e3a4cc3c80f820e63906d3"
+hash = "65493f42a8ce9196129d44cfe3fd801a35e50862304c3d01917d2df532ed3f47"
 metafile = true
 
 [[files]]
@@ -1021,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/spindlemark.pw.toml"
-hash = "58d107f9da609b21dd1e70b5806cde527ab9a62e2c24adc969bd60be55255170"
+hash = "c266b6eae0a7248474b938bc193a086d758a61364433eaefda49380563919c13"
 metafile = true
 
 [[files]]
@@ -1368,6 +1368,22 @@ hash = "6f1e7a6d5bc604d89e8ba33ea1fe0fc9870e78ba5ec64f612bafaa199a789c68"
 [[files]]
 file = "music/AimToHead_14_GAUSS.ogg"
 hash = "6ae48307511a8ae257830a77386ddc29949b548bc278e766ec36740d54cfb768"
+
+[[files]]
+file = "music/C418_Battlemode_1.ogg"
+hash = "9c48cb013ffd3911e0e8bbb3bcb2d39a204a911f00b55f7853f273fb045e8a5b"
+
+[[files]]
+file = "music/C418_Battlemode_2.ogg"
+hash = "391c910a74849f991b5dde128649b3d61e6afe87caea7cdf34e417ecbd9f4e3c"
+
+[[files]]
+file = "music/C418_Battlemode_3.ogg"
+hash = "32766d357ce61f3311c4f7fa7cc3ade6a0230843cd84da0de16eb2dfd3c0eb92"
+
+[[files]]
+file = "music/C418_Battlemode_4.ogg"
+hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
