@@ -77,6 +77,10 @@ file = "config/portalcubed.json"
 hash = "4eee2c982ce5195b10852f894c64568f89fad5fb63422739b1e2353858dfab12"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "7140cc4b3e2148f2e369940d81ab1718d65594f205a09dff1f5c0072a5546402"
+
+[[files]]
 file = "config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
@@ -1027,11 +1031,6 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "0da488d2feec20d48e8a46e5532c22111d0ea2d4b7e8035ece44fe2182f135b8"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "5266f479ada8def6f0913d79b57f1dbf52058df1690e3702a3a3608e6a80c796"
 metafile = true
 
 [[files]]
