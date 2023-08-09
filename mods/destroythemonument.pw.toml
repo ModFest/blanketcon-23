@@ -2,6 +2,6 @@ name = "destroythemonument"
 filename = "destroythemonument-1.0.4.jar"
 
 [download]
-url = "https://github.com/NucleoidMC/blanketcon/releases/download/1.0.1/destroythemonument-1.0.4.jar"
+url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.1/destroythemonument-1.0.4.jar"
 hash-format = "sha256"
 hash = "f8bd39737f296d926b7d39d36a4ded3a7188c6b82a8bdcdd6efa98a00a7e4a0b"
