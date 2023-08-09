@@ -184,6 +184,11 @@ hash = "145afe05ab80c8e7942de5ef6d0161abead4cc515eed3b3e646ba045daa86e23"
 metafile = true
 
 [[files]]
+file = "mods/befoul.pw.toml"
+hash = "1a5a2f6c5a156c1179008fabb0b73e9b7ce2edb96ec070df52e23b843ba70f0b"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
@@ -346,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/elegantarmour.pw.toml"
 hash = "afb14b32290f71125e251c560386191a0eca5d2daf1860d7efcb6e7b9b707779"
+metafile = true
+
+[[files]]
+file = "mods/elysium.pw.toml"
+hash = "421d21069a2856081597854486da4b7fb118a1e44ab7386cdae8f31d7256cf10"
 metafile = true
 
 [[files]]

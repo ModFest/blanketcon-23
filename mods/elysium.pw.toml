@@ -1,0 +1,7 @@
+name = "elysium"
+filename = "elysium-1.0.221.20.1.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1127341468219080814/1138900499698045089/elysium-1.0.221.20.1.jar"
+hash-format = "sha256"
+hash = "7b06c3b5ac2496a6d4142c1a137cfdfca330a4150907951e56ab635214ed9b00"
