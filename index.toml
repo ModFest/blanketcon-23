@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/spindlemark.pw.toml"
-hash = "58d107f9da609b21dd1e70b5806cde527ab9a62e2c24adc969bd60be55255170"
+hash = "c266b6eae0a7248474b938bc193a086d758a61364433eaefda49380563919c13"
 metafile = true
 
 [[files]]
