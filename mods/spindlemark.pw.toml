@@ -1,0 +1,7 @@
+name = "spindlemark"
+filename = "spindlemark-1.0.jar"
+
+[download]
+url = "https://unascribed.b-cdn.net/spindlemark-1.0.jar"
+hash-format = "sha256"
+hash = "295ef1e68995ab07f1d27d80c062864520515a84f0074d986245e744e3e91301"

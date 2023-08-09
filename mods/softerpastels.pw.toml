@@ -1,7 +1,7 @@
 name = "softerpastels"
-filename = "SofterPastels-0.3.0-pre.6-rev.c5065d7.jar"
+filename = "SofterPastels-0.3.0-pre.7-rev.b05dadb.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/devOS-Sanity-Edition/SofterPastels/releases/download/v0.3.0-pre.6/SofterPastels-0.3.0-pre.6-rev.c5065d7.jar"
+url = "https://github.com/devOS-Sanity-Edition/SofterPastels/releases/download/v0.3.0-pre.7/SofterPastels-0.3.0-pre.7-rev.b05dadb.jar"
 hash-format = "sha256"
-hash = "a89dc8e99eeaa17f5daa7f43e3eb7777ac7098dc33ad02d5f031eac78a53f7e9"
+hash = "1b523e07a816d7c518a20f3c596ee06c38b4d563577943262d7184c452a7db94"

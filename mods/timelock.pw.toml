@@ -1,0 +1,13 @@
+name = "Timelock"
+filename = "timelock-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DJ2tL4CD/versions/eRZlHZcJ/timelock-1.0.0.jar"
+hash-format = "sha1"
+hash = "45b76b2cde5d30694dc4708a24e3a40e5b8f7161"
+
+[update]
+[update.modrinth]
+mod-id = "DJ2tL4CD"
+version = "eRZlHZcJ"

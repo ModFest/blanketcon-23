@@ -1,7 +1,7 @@
 name = "terracotta-knights"
-filename = "terracotta_knights-1.1.5+1.20.1.jar"
+filename = "terracotta_knights-1.1.6+1.20.1.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/Bubblie01/Quilt-Clay-Knights/releases/download/1.1.5/terracotta_knights-1.1.5+1.20.1.jar"
+url = "https://github.com/Bubblie01/Quilt-Clay-Knights/releases/download/1.1.6/terracotta_knights-1.1.6+1.20.1.jar"
 hash-format = "sha256"
-hash = "84b5359eda6a4a1eb00917690a8060278eb42afc58eef8d57487ef68e17d68a0"
+hash = "1ec3233a7b35cfd390aeb7c95c99d10e6265e737a323d072fd600414022e235c"
