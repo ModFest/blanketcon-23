@@ -1,0 +1,15 @@
+{
+  "enableRoundPortals": false,
+  "enableAccurateMovement": true,
+  "maxBridgeLength": 260,
+  "fizzlerDamage": 35.0,
+  "rocketDamage": 35.0,
+  "pelletDamage": 35.0,
+  "laserDamage": 3.0,
+  "portalHudMode": false,
+  "gelOverlayOpacity": 100,
+  "staticPortalItemDrops": true,
+  "renderer": "DISABLED",
+  "crossPortalEntityRendering": true,
+  "portalSmoothTime": 250
+}
