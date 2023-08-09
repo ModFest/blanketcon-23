@@ -1230,6 +1230,22 @@ file = "music/AimToHead_14_GAUSS.ogg"
 hash = "6ae48307511a8ae257830a77386ddc29949b548bc278e766ec36740d54cfb768"
 
 [[files]]
+file = "music/C418_Battlemode_1.ogg"
+hash = "9c48cb013ffd3911e0e8bbb3bcb2d39a204a911f00b55f7853f273fb045e8a5b"
+
+[[files]]
+file = "music/C418_Battlemode_2.ogg"
+hash = "391c910a74849f991b5dde128649b3d61e6afe87caea7cdf34e417ecbd9f4e3c"
+
+[[files]]
+file = "music/C418_Battlemode_3.ogg"
+hash = "32766d357ce61f3311c4f7fa7cc3ade6a0230843cd84da0de16eb2dfd3c0eb92"
+
+[[files]]
+file = "music/C418_Battlemode_4.ogg"
+hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
+
+[[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
 hash = "92d533df74ad31d7b32874d49f0a6f70d3194f52cf878c2270e154f6236a1308"
 
