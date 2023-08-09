@@ -73,6 +73,10 @@ file = "config/polymer/server.json"
 hash = "d4b1eb238389ca74b42611c2e1e7123e35d57cd0ad38bedaf9523d2b6cd48e89"
 
 [[files]]
+file = "config/portalcubed.json"
+hash = "4eee2c982ce5195b10852f894c64568f89fad5fb63422739b1e2353858dfab12"
+
+[[files]]
 file = "config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
@@ -1154,6 +1158,62 @@ metafile = true
 file = "mods/yttr.pw.toml"
 hash = "0af9914b9e1e57387452d25b115bd8815ad66d314c851806c88e3bcfdfb60981"
 metafile = true
+
+[[files]]
+file = "music/AimToHead_01_HAIL.ogg"
+hash = "a349f88cef9ada699434d7b682050ff9363d04713e573a7496a59371a62a086c"
+
+[[files]]
+file = "music/AimToHead_02_KARNAL.ogg"
+hash = "e6f811fb53e052ed5a2e78f20610819029576877e2cb2ae0226385b1039f86d6"
+
+[[files]]
+file = "music/AimToHead_03_THROB.ogg"
+hash = "fd8e3408651f0ce8d296f005fb4233c3da1d23ebfea9f94ff9c2d09649e3f057"
+
+[[files]]
+file = "music/AimToHead_04_UNLOGIC.ogg"
+hash = "2946d0722d5c14a954e3d4918b48209cc16a39c8ab28b6def213a684dd0654b0"
+
+[[files]]
+file = "music/AimToHead_05_BITE.ogg"
+hash = "2f47ce5b7c15aba1bbd61c4b3dc8839b8eee36dc778a5378407fc09495605250"
+
+[[files]]
+file = "music/AimToHead_06_MASSACRE.ogg"
+hash = "099d14eb05d534a97d016bd70fc6ff918a662d0538e75cd25d0bc08c3c487dfb"
+
+[[files]]
+file = "music/AimToHead_07_CHAINS.ogg"
+hash = "ba8394ea700387e64420ecdac15d6ad937d43688381f520c415dceb5527550ac"
+
+[[files]]
+file = "music/AimToHead_08_ANGER.ogg"
+hash = "d9ccab464a834d22372404c9035bde4dc5eab098e1afd48eae36d598117e1d81"
+
+[[files]]
+file = "music/AimToHead_09_TERRIFY.ogg"
+hash = "56e5f6d2b4a164388a0d959adc51fa7bf73e1c72a7b60c2e06f6e2c797c3be8e"
+
+[[files]]
+file = "music/AimToHead_10_FACTORY.ogg"
+hash = "1ae103b2615a7b33c1279177e8a23fe7cc56a17c7084b3adf08cfc643203753c"
+
+[[files]]
+file = "music/AimToHead_11_CRAWL.ogg"
+hash = "2dc425304b9f99381265c2299f6f1a78673a305252a23b1891f1d15a57bd3cb5"
+
+[[files]]
+file = "music/AimToHead_12_SILVER.ogg"
+hash = "616313605761f3ebf698e82c7dbeec8513c483c0a59e21f8d47373d1cc4a191e"
+
+[[files]]
+file = "music/AimToHead_13_CLOCKWORK.ogg"
+hash = "6f1e7a6d5bc604d89e8ba33ea1fe0fc9870e78ba5ec64f612bafaa199a789c68"
+
+[[files]]
+file = "music/AimToHead_14_GAUSS.ogg"
+hash = "6ae48307511a8ae257830a77386ddc29949b548bc278e766ec36740d54cfb768"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
