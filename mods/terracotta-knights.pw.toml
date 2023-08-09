@@ -1,7 +1,13 @@
-name = "terracotta-knights"
+name = "Terracotta Knights"
 filename = "terracotta_knights-1.1.6+1.20.1.jar"
+side = "both"
 
 [download]
-url = "https://github.com/Bubblie01/Quilt-Clay-Knights/releases/download/1.1.6/terracotta_knights-1.1.6+1.20.1.jar"
-hash-format = "sha256"
-hash = "1ec3233a7b35cfd390aeb7c95c99d10e6265e737a323d072fd600414022e235c"
+url = "https://cdn.modrinth.com/data/GgTW6G1d/versions/qUSIklEo/terracotta_knights-1.1.6%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "2545d5c329703b05ed99e90bf23eec8591367e83"
+
+[update]
+[update.modrinth]
+mod-id = "GgTW6G1d"
+version = "qUSIklEo"
