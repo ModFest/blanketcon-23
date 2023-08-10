@@ -53,6 +53,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "7eaf04f501a8bab058816d5b5b91e3c1ea0b4df538df4d14c0652012045e4719"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
