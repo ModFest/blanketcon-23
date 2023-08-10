@@ -1,0 +1,7 @@
+name = "decomod"
+filename = "DecoMod-fabric-1.20.1-1.0.0blanketcon.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1127341468219080814/1139237207987736667/DecoMod-fabric-1.20.1-1.0.0blanketcon.jar"
+hash-format = "sha256"
+hash = "e2a4ca0fc012400a021b6b69512229d2ef636d9f54a517f802f6ca06fdc338e4"

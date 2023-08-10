@@ -1,0 +1,7 @@
+name = "trailier"
+filename = "trailier-1.0.0.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1127341468219080814/1139235837272404171/trailier-1.0.0.jar"
+hash-format = "sha256"
+hash = "d4e68a378609f6ce824b166b3969c0e346163e6081d6a8644fd4c5c6b131e504"

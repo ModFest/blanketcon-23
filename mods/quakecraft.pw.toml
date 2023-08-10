@@ -2,6 +2,6 @@ name = "quakecraft"
 filename = "quakecraft-1.7.5+1.20.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.0/quakecraft-1.7.5+1.20.jar"
+url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.1/quakecraft-1.7.5+1.20.jar"
 hash-format = "sha256"
-hash = "7df487cd6519d0b10cca4605a0070b0bc9fd396c1922e37649f727300fb40f01"
+hash = "5ec9462bf6f3003acd8dc3e4e1fd4078cb52a4c7cc754d72717d010e6a22dd8c"
