@@ -1,7 +1,7 @@
 name = "fireblanket"
-filename = "fireblanket-0.1.3.jar"
+filename = "fireblanket-0.1.5.jar"
 
 [download]
-url = "https://jaskarth.com/pub/mods/fireblanket-0.1.3.jar"
+url = "https://jaskarth.com/pub/mods/fireblanket-0.1.5.jar"
 hash-format = "sha256"
-hash = "7f59dd7a86f3e4f1736b82d11bdbf3a550ee46099b7e15d4cd5713e7d34fdfd6"
+hash = "4766d22408227c90badd159533cda472f3222a669528568950e9bb6785354df8"

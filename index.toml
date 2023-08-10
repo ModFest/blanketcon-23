@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "91b1a65120b8ef9d48250151c773000076af4001767bf7a2e7aa609e3619ecf9"
+hash = "1a01176b9e3424cdaaef5c0bface9b9ece9fe5d5cbdd73ab2336bf2c6fe3edbf"
 metafile = true
 
 [[files]]
@@ -291,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
+metafile = true
+
+[[files]]
+file = "mods/decomod.pw.toml"
+hash = "7448f886e745bed574639e31d1e41c910050a2a40e62843ef75a394e7b479bc7"
 metafile = true
 
 [[files]]
@@ -420,12 +425,17 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "1fd88557c43b3fba4aa6870613c6f312108e38ef2a3cc455fd1673fdbbb675a5"
+hash = "f67aec2ac202237d96137aa7cd471d1cce1150cd0059b14f6a8019eb34de351c"
 metafile = true
 
 [[files]]
 file = "mods/flamingo.pw.toml"
 hash = "5073bf8a2544be5eeb5c2f736d29ad26874e50aa9a1ae8f96ee472712078b34f"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "c9aac66a7d2f6c91308f1e7e655134a2f2bdf845ebaf09ff834fa91ed7b4e378"
 metafile = true
 
 [[files]]
@@ -505,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "65493f42a8ce9196129d44cfe3fd801a35e50862304c3d01917d2df532ed3f47"
+hash = "a2dd57256c2dceb8c6d0911d62ad9369aee1ff0d86d675937f2e42e053b9690d"
 metafile = true
 
 [[files]]
@@ -619,13 +629,13 @@ hash = "d311f96fc30d76336bf667c0a4e620bfb0e426c006fe3da76839d5d31243ba43"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
+file = "mods/moue-milkshakes.pw.toml"
+hash = "66b8cfadaaef6947cd9e472471780ab6f2f2ab8dd72290703899aaf9f4a0477e"
 metafile = true
 
 [[files]]
-file = "mods/moue-milkshakes.pw.toml"
-hash = "66b8cfadaaef6947cd9e472471780ab6f2f2ab8dd72290703899aaf9f4a0477e"
+file = "mods/mycoturgy.pw.toml"
+hash = "75c336cdd2486b702756a018d62ad0122997230ca6a172abf386ff8c2daafd49"
 metafile = true
 
 [[files]]
@@ -775,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "a8706d1dd0f85411c1a2d95dd23fad9f9acd83bd507f4c3b680d66938e6c4246"
+hash = "6d0dc75c31797099cb453cb5734ba527462551e0765f8b8ef30fb6e9f793de4c"
 metafile = true
 
 [[files]]
@@ -830,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/quakecraft.pw.toml"
-hash = "7ebc22b66a992d1051aca8211a8afb7bcebd7b559c784fbf52df7e6ed508c48a"
+hash = "483edaa05dbde43cc06b00539fa1eae17502060a21764130dfe2aba78a27c81c"
 metafile = true
 
 [[files]]
@@ -895,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+hash = "f9db4bffd51a3ae0d2f3f9e6cb84c18f658ec12883007a46379fcb83c6af5882"
 metafile = true
 
 [[files]]
@@ -1054,6 +1064,11 @@ hash = "3c0bbec7a2dd63f7b1af1241b669230d8f1843d6b640e6c1d29f450f5d251d98"
 metafile = true
 
 [[files]]
+file = "mods/trailier.pw.toml"
+hash = "f945ad7db3bc8ce5daad32d4e781489454d4df10b62f6b89e71944386bc58250"
+metafile = true
+
+[[files]]
 file = "mods/tree-hollows.pw.toml"
 hash = "296e3f2e3c15578b2149631e304893940b736c9ca051ced00ec964bbee4935df"
 metafile = true
@@ -1170,7 +1185,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "0af9914b9e1e57387452d25b115bd8815ad66d314c851806c88e3bcfdfb60981"
+hash = "b48c53e3e2fb9389121dc28bdf10cd6b8bca7715163548658b87199abedb1b19"
 metafile = true
 
 [[files]]
