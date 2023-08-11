@@ -20,3 +20,6 @@ git
 
 # Sisby said to do this
 .github/
+
+# Ignore music on the server
+music/
