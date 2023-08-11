@@ -1,0 +1,13 @@
+name = "BadStdOut"
+filename = "badstdout-1.1.1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Y8sMRVG/versions/RSjDPkRp/badstdout-1.1.1-1.20.jar"
+hash-format = "sha1"
+hash = "54898aaf9473fa0452ed1a01c2c40316eb56fbae"
+
+[update]
+[update.modrinth]
+mod-id = "9Y8sMRVG"
+version = "RSjDPkRp"
