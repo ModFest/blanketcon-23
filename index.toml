@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarite.pw.toml"
-hash = "396fa8ab9fddddaf82f85126e48c7c64dba476d91a593f9d675155c5022e26b8"
+hash = "0d2a401e3c2c06bbd8151e7a3a98c51f7f5872b9d7615e0c258cbb41a00e0521"
 metafile = true
 
 [[files]]
