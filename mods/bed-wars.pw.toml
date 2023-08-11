@@ -1,0 +1,7 @@
+name = "bed-wars"
+filename = "bed-wars-1.0.0.jar"
+
+[download]
+url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.1/bed-wars-1.0.0.jar"
+hash-format = "sha256"
+hash = "2a7dcf7376fe8277868c5f92adc2903d8fed7fc5abd76d073277aaf32c6fa9cd"

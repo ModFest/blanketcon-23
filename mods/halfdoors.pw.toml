@@ -1,0 +1,7 @@
+name = "halfdoors"
+filename = "halfdoors-1.0-SNAPSHOT.jar"
+
+[download]
+url = "https://amymialee.b-cdn.net/halfdoors-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "e4d8e8059a44238536bf594bdf577e203a136d2a0b7d8c143ae72d255f5d6c27"

@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/amarite.pw.toml"
-hash = "299dd74be6342a7da3a5fbe7f746c46adbbbcb368b3c4fe1f83bb222f3e7d4fc"
+hash = "396fa8ab9fddddaf82f85126e48c7c64dba476d91a593f9d675155c5022e26b8"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "9d493b30e039e976ab32911966adb2438cac2d1a7bc47ad9d9fa025a2fa85baa"
+hash = "ee146bfe74cf5abab523d2a88138b48cbc4f37a6d4619849264154b6a3495865"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "56192ced91551943340dfc8fc9a4ebc9eb870e3b52e119b2454cd2872ae91c7e"
+hash = "f093cbebe002d2e2f05095bc803a3ce792382145b5b79b802b3b2437456da44f"
 metafile = true
 
 [[files]]
@@ -197,8 +197,13 @@ hash = "145afe05ab80c8e7942de5ef6d0161abead4cc515eed3b3e646ba045daa86e23"
 metafile = true
 
 [[files]]
+file = "mods/bed-wars.pw.toml"
+hash = "79f84f5e969ba1d32011b517e3da7104a1056862a1608e8e1bbb8725e0793b9c"
+metafile = true
+
+[[files]]
 file = "mods/befoul.pw.toml"
-hash = "1a5a2f6c5a156c1179008fabb0b73e9b7ce2edb96ec070df52e23b843ba70f0b"
+hash = "9922a96f462f775ec4ff395dffb0063377e3358b70f15c5855ba294cf4d97a19"
 metafile = true
 
 [[files]]
@@ -283,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/conventional-cubes.pw.toml"
-hash = "578e23b3cbbc2a5968d69a42531d2029a0a753645e3da14fab045f4f0bb82933"
+hash = "c2503c50409c00c88632b4d7d188696bfad0aa3f404aedf7e740928cf37e1289"
 metafile = true
 
 [[files]]
@@ -378,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/elysium.pw.toml"
-hash = "421d21069a2856081597854486da4b7fb118a1e44ab7386cdae8f31d7256cf10"
+hash = "16300cc9ee266eaff882c5b9d959dc154746534c691b501fa29727a9b5adf9e5"
 metafile = true
 
 [[files]]
@@ -439,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
 metafile = true
 
 [[files]]
@@ -512,6 +522,11 @@ hash = "958f67d35fda32d6a12b15bda1aaef4d59e159380370ee6d7d465ec05945237d"
 metafile = true
 
 [[files]]
+file = "mods/halfdoors.pw.toml"
+hash = "0082cb7eba478f094fb7de9691e5ea50e4815ec8e3b7db8511b3b9029d5dab3b"
+metafile = true
+
+[[files]]
 file = "mods/hazard-diamond.pw.toml"
 hash = "5229f23306bb86a061d73d7aa88d44cd3b4f6e5022c2bf54361ef40967525da3"
 metafile = true
@@ -538,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/honk.pw.toml"
-hash = "a2dd57256c2dceb8c6d0911d62ad9369aee1ff0d86d675937f2e42e053b9690d"
+hash = "d0ffa7fa67a77145270f50c3957aab0eba4875804bfc08b73fe989e37692732d"
 metafile = true
 
 [[files]]
@@ -608,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-shirts.pw.toml"
-hash = "2360975d8252482d7e77927e544ced517c3419750a754faef6a12ea90ce8fcfc"
+hash = "597aa29f7e7c21d607e663d59c27c9ff536ec8636e0b4623a11208f2882c0f80"
 metafile = true
 
 [[files]]
@@ -638,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3ed4c34774f70f80b5625d154f992a0fd72d8cea7fd0a2287027b9681c662a0b"
+hash = "5f7c27afd4a91b1296dfe4f6edfdf14c88b34af812d8d18db48529874398b84f"
 metafile = true
 
 [[files]]
@@ -1093,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/trailier.pw.toml"
-hash = "f945ad7db3bc8ce5daad32d4e781489454d4df10b62f6b89e71944386bc58250"
+hash = "770409816aeb8e4fabc9031fbbd31e9447a0ca4fa3c56427269ba4983e93c2e8"
 metafile = true
 
 [[files]]
@@ -1213,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "48dda0c99f5149e3521dd76a930730f16c997d3cd9d422b2cd9d3ef550681af9"
+hash = "5629349ccab59433e2b397dfab8fa7f70f377e8db6e2de49ba04b18aeedfbbe0"
 metafile = true
 
 [[files]]
@@ -1287,6 +1302,10 @@ hash = "32766d357ce61f3311c4f7fa7cc3ade6a0230843cd84da0de16eb2dfd3c0eb92"
 [[files]]
 file = "music/C418_Battlemode_4.ogg"
 hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
+
+[[files]]
+file = "music/Jester_Elysium.mod.bz2"
+hash = "a4b44e819a97716c129e156b47dd397ce10c0b238d01534f70b7fd4ee25a8c51"
 
 [[files]]
 file = "music/SiivaGunner_Cat_InfdevMix.ogg"
