@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexbound.pw.toml"
-hash = "d177c5acb661f3b9813b09fd7e173e8e2b512ae01d35d21a61252b2d28a2edbc"
+hash = "9fa5657e4d7c16e252c5fdf664522e9163347078f3b725a0580eea48198e4c23"
 metafile = true
 
 [[files]]
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/mycoturgy.pw.toml"
-hash = "6d15d92b941f9bdaec066654a14a4470576ea745c3adc65c08d64147d524b190"
+hash = "75c336cdd2486b702756a018d62ad0122997230ca6a172abf386ff8c2daafd49"
 metafile = true
 
 [[files]]
@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/suspicious-shapes.pw.toml"
-hash = "84fcaa1d99c8983ff3609540901c3ca6c27bacf67ef74394e1ace5a323d22f47"
+hash = "30fb676079080ebadb04ad9d8e7b9a4807f8b8e7a26612bb4bf277de10eef34b"
 metafile = true
 
 [[files]]
@@ -1158,7 +1158,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "46599bb655ebdcc59f515734b3f284e3e42d58ac8da4cd32d4b6ba56bb28c727"
+hash = "cc3b4c1e6541a979807699ebc0ade76376326d6be75cc0cd05c77ab701996e61"
 metafile = true
 
 [[files]]

@@ -1,13 +1,14 @@
 name = "Suspicious Shapes"
-filename = "SuspiciousShapes-1.0.3+1.20.1.jar"
-side = "both"
+filename = "SuspiciousShapes-1.0.2+1.20.1.jar"
+side = "client"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/TVftNsgD/versions/8cHR19ph/SuspiciousShapes-1.0.3%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/TVftNsgD/versions/KIqVMdWR/SuspiciousShapes-1.0.2%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "bf16bffcdc15b4e7849453dec667053dd703f6a9"
+hash = "2da722f3f989927aa3fec4de7ed2005d9ccf4dc5"
 
 [update]
 [update.modrinth]
 mod-id = "TVftNsgD"
-version = "8cHR19ph"
+version = "KIqVMdWR"
