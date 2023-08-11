@@ -214,6 +214,11 @@ hash = "81e013fb9ee8897ddf7c7f01de84781028507a6ff6888e6297cc0be5b52498c8"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
+metafile = true
+
+[[files]]
 file = "mods/bc23-enchantment-bridge.pw.toml"
 hash = "145afe05ab80c8e7942de5ef6d0161abead4cc515eed3b3e646ba045daa86e23"
 metafile = true
@@ -736,11 +741,6 @@ metafile = true
 [[files]]
 file = "mods/moue-milkshakes.pw.toml"
 hash = "66b8cfadaaef6947cd9e472471780ab6f2f2ab8dd72290703899aaf9f4a0477e"
-metafile = true
-
-[[files]]
-file = "mods/mycoturgy.pw.toml"
-hash = "75c336cdd2486b702756a018d62ad0122997230ca6a172abf386ff8c2daafd49"
 metafile = true
 
 [[files]]
