@@ -1,13 +1,13 @@
 name = "Honk"
-filename = "honk-0.1.0-beta.13.jar"
+filename = "honk-0.1.0-beta.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YD2jDTGO/versions/kR9UpPjE/honk-0.1.0-beta.13.jar"
+url = "https://cdn.modrinth.com/data/YD2jDTGO/versions/PIMKohrL/honk-0.1.0-beta.14.jar"
 hash-format = "sha1"
-hash = "dc403d26ae40bc5893ea7abf88a0535b122ab62e"
+hash = "8921fafd1a0dbb7db9b17f64c1cd3820462670f2"
 
 [update]
 [update.modrinth]
 mod-id = "YD2jDTGO"
-version = "kR9UpPjE"
+version = "PIMKohrL"
