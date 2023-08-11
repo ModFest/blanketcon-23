@@ -13,6 +13,10 @@ file = "config/betterenchantmentboosting.json"
 hash = "79bf1f99357ed19946176e730af40d74e5e49ad4a9384ae9729e3c5a55b2576a"
 
 [[files]]
+file = "config/controlify.json"
+hash = "5b38433a12b4e03ce16613da82d5d7529022a1d41765997c4b1ad0ff4e13090c"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
@@ -1287,6 +1291,10 @@ hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
 [[files]]
 file = "music/SiivaGunner_Cat_InfdevMix.ogg"
 hash = "da25c058485102e158a4771d2e4171fbeb1e50be43c9ee30d320719cb275092f"
+
+[[files]]
+file = "music/Undertale_ItsShowtime.ogg"
+hash = "5818643cfc0071481745fb80f47690cf55e6e73efda5d3986cdb5086f118686e"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
