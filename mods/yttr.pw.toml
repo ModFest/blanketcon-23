@@ -1,7 +1,7 @@
 name = "yttr"
-filename = "yttr-7.719+1.20.jar"
+filename = "yttr-7.720+1.20-fixed.jar"
 
 [download]
-url = "https://unascribed.b-cdn.net/yttr-7.719%2B1.20.jar"
+url = "https://unascribed.b-cdn.net/yttr-7.720+1.20-fixed.jar"
 hash-format = "sha256"
-hash = "744a52a90e8921dc96fbd4747bc763df12f7c8eff433bc03f93c17019677d787"
+hash = "7a6f063fd980e7f96765ab442495b0423e2887d44f43d4fa321e315a707dcebf"

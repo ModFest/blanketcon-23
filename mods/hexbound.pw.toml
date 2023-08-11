@@ -1,0 +1,7 @@
+name = "hexbound"
+filename = "hexbound-0.2.0+1.20.1+bc.jar"
+
+[download]
+url = "https://github.com/Cypher121/hexbound/releases/download/bc23-1/hexbound-0.2.0+1.20.1+bc.jar"
+hash-format = "sha256"
+hash = "b1a7c2af763de31241b64be8ff06c138d7ee5dc3ba9ffe085fff2e38465194f3"

@@ -1,0 +1,13 @@
+name = "Kettle"
+filename = "kettle-3.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SRCaBfKA/versions/yeyrHLYX/kettle-3.0.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "7f6ff08dbd8b1c07ea8ab3b785c6b14004e7c288"
+
+[update]
+[update.modrinth]
+mod-id = "SRCaBfKA"
+version = "yeyrHLYX"

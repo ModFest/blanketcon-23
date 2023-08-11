@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "35ff8975484ec1bf01b78ebc49363b733452e5c69e71771a72c9f743a2995616"
+hash = "56192ced91551943340dfc8fc9a4ebc9eb870e3b52e119b2454cd2872ae91c7e"
 metafile = true
 
 [[files]]
@@ -180,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "95ee75d928f6842feba6bfd521ec66dc11512d943e50dd0361af2f76ddc030c7"
+metafile = true
+
+[[files]]
+file = "mods/badstdout.pw.toml"
+hash = "81e013fb9ee8897ddf7c7f01de84781028507a6ff6888e6297cc0be5b52498c8"
 metafile = true
 
 [[files]]
@@ -333,6 +338,11 @@ hash = "4dfeb4a7f9ba351ce1cac51a97693b317ce26f0dcf9ba89e9f2ed96cd5472f57"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "c20d2638ebde81565bb43af0d4051d536939bf1a1a115293a42dfa18ec9c8dbf"
+metafile = true
+
+[[files]]
 file = "mods/duels.pw.toml"
 hash = "25fa1558568023f146b438f4095353bc7945ac053531ff32e19c9c85742e85b6"
 metafile = true
@@ -429,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "f67aec2ac202237d96137aa7cd471d1cce1150cd0059b14f6a8019eb34de351c"
+hash = "f0ca763a353d975e0bae3cf7da4458b34709bc9678d8b48f3a0a2e98584f6774"
 metafile = true
 
 [[files]]
@@ -518,6 +528,11 @@ hash = "1c374a779003ed30b9467c31af5dcb20a673563fb57383a8c67241bb7142e696"
 metafile = true
 
 [[files]]
+file = "mods/hexbound.pw.toml"
+hash = "d177c5acb661f3b9813b09fd7e173e8e2b512ae01d35d21a61252b2d28a2edbc"
+metafile = true
+
+[[files]]
 file = "mods/honk.pw.toml"
 hash = "a2dd57256c2dceb8c6d0911d62ad9369aee1ff0d86d675937f2e42e053b9690d"
 metafile = true
@@ -545,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
+file = "mods/kettle.pw.toml"
+hash = "734cffbfe5158d1db73132eace629e39c4c61840679a620ce287e121ca52c245"
 metafile = true
 
 [[files]]
@@ -579,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckyducks.pw.toml"
-hash = "dc14f05eb9d64572a0ab21e620eed138cf28c63ca667de18799a4a26f68a207b"
+hash = "65fd4b1e9aff30cb896d86be01f84d8a83cd7ff10f4e23b7d96156868c4582b2"
 metafile = true
 
 [[files]]
@@ -639,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/mycoturgy.pw.toml"
-hash = "75c336cdd2486b702756a018d62ad0122997230ca6a172abf386ff8c2daafd49"
+hash = "6d15d92b941f9bdaec066654a14a4470576ea745c3adc65c08d64147d524b190"
 metafile = true
 
 [[files]]
@@ -1134,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "dbfb1a46c3ff76bcdab6147e31d4d9082830ee58c2a32b7aa07ed24e67be61fd"
+hash = "46599bb655ebdcc59f515734b3f284e3e42d58ac8da4cd32d4b6ba56bb28c727"
 metafile = true
 
 [[files]]
@@ -1189,7 +1209,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "b48c53e3e2fb9389121dc28bdf10cd6b8bca7715163548658b87199abedb1b19"
+hash = "48dda0c99f5149e3521dd76a930730f16c997d3cd9d422b2cd9d3ef550681af9"
 metafile = true
 
 [[files]]

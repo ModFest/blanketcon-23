@@ -1,13 +1,13 @@
 name = "Lucky Ducks"
-filename = "luckyducks-0.3.0+1.20.1.jar"
+filename = "luckyducks-0.3.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1cjUVbYD/versions/uJyhjd95/luckyducks-0.3.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/1cjUVbYD/versions/WucztYmg/luckyducks-0.3.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "a50d00fafe48895ab4f11c528e7a932917c4fdab"
+hash = "b8289acacd2a7a24948b9e3a31cf3c83c469fed7"
 
 [update]
 [update.modrinth]
 mod-id = "1cjUVbYD"
-version = "uJyhjd95"
+version = "WucztYmg"
