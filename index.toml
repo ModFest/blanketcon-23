@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/limbonic-legacy.pw.toml"
-hash = "013811d33623d58ca5b4c388804885938ada80663debe2f4413b1e52ab0ed0a4"
+hash = "7f97a10f9dd495a395668174cbf72834fd0cb389515e71dbfd9bbf30f3444415"
 metafile = true
 
 [[files]]
