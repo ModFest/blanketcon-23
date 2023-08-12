@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "c9b17e91a35307bb0f2271f88381ead3c5125e33630b97020d5dea985ac05da1"
+hash = "7a3b29a28dfe5dcafc91c25e0f7add4b3d17910b481651e41870be8b543cd93a"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1a01176b9e3424cdaaef5c0bface9b9ece9fe5d5cbdd73ab2336bf2c6fe3edbf"
+hash = "38ae337859fab7d71be58a0941f4ec169e3902a2b6b8ffba3e2fb7dfc2ceddec"
 metafile = true
 
 [[files]]
