@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "7a3b29a28dfe5dcafc91c25e0f7add4b3d17910b481651e41870be8b543cd93a"
+hash = "3300f0203f5e1e2f6760be87af039b475810ce357db8067e4740e302195962cb"
 metafile = true
 
 [[files]]
