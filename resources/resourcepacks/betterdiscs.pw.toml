@@ -1,0 +1,7 @@
+name = "betterdiscs"
+filename = "BetterDiscs-1.1.zip"
+
+[download]
+url = "https://unascribed.b-cdn.net/BetterDiscs-1.1.zip"
+hash-format = "sha1"
+hash = "da8859acbadc30e1d77c8f170e351c3ab73867ac"
