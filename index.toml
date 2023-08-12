@@ -78,7 +78,7 @@ hash = "26a0d311dcfdb5a0cd69cd731377323e2c848f60bf7c6819b3f7b6aa206c4c33"
 
 [[files]]
 file = "config/polymer/server.json"
-hash = "d4b1eb238389ca74b42611c2e1e7123e35d57cd0ad38bedaf9523d2b6cd48e89"
+hash = "1526d6d932d301918bfcc0c963a90de0f271ccbed85b234da154c050ca4ccbb1"
 
 [[files]]
 file = "config/portalcubed.json"
