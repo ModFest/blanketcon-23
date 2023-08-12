@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/arachne.pw.toml"
-hash = "11c5bfb09d0f65577d79df24e056715ebb41f8c0ee0e88c9556ec8cf947bcccb"
+hash = "647514a9921c65ef0a2471048af802af79b89a36ae8e9ed688ab79882724564e"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "cd722b57ac86dee08528df084c70260ba77636e7bd1a2be1109c29577e2c4562"
+hash = "8852812ef007ff8afcfbd949533f2124f0aaee4cbb068ce8202217614aebea58"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
+hash = "ca3f36a1092b837410ce8a1f5d283162470a2de6be6882b550127f33da022296"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-shirts.pw.toml"
-hash = "597aa29f7e7c21d607e663d59c27c9ff536ec8636e0b4623a11208f2882c0f80"
+hash = "24184799e3b30d039ad077d6afd5dd8959c8c27cacd48280b3f74caa70b74b53"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/missing-wilds.pw.toml"
-hash = "84676193989e30de84c7a859e902cb19ac39449fed2e9eef393408472516c999"
+hash = "8d8cd0f99d1c048a46d94512a5e1e79792491139553bd7fe1b6b0f884650672d"
 metafile = true
 
 [[files]]
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "346de643dba932c91ebf3e0516a333922616050e3a335c3c7f5e7d2deeefe2d2"
+hash = "b76dcf2477fc0e1a5366b92834bafda6b322e17ffeb29645c489fcad41129f44"
 metafile = true
 
 [[files]]
@@ -1058,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/terracotta-knights.pw.toml"
-hash = "2c51e3a07bc3249fead601da24f6bd99981fd0a13fc91176883591d8f0d9961c"
+hash = "8b6cff6281c847333b806e0c3685dd629bd093346a9aa1d53ff3e96cb9b416b2"
 metafile = true
 
 [[files]]
@@ -1666,6 +1666,11 @@ hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
 [[files]]
 file = "resources/resourcepacks/HexTech.zip"
 hash = "30e5abc05e8b01b91bb5b69d0f3609a37570637521e8b40c2e2884ad4b4573e0"
+
+[[files]]
+file = "resources/resourcepacks/betterdiscs.pw.toml"
+hash = "8f5ca59ad9e624af1923f2388d3f53edada3d30785729fa169ed9790045dea98"
+metafile = true
 
 [[files]]
 file = "resources/resourcepacks/modfemogg.zip"

@@ -1,7 +1,7 @@
 name = "phonos"
-filename = "phonos-1.0.0-beta.9+1.20.1.jar"
+filename = "phonos-1.0.0-beta.10+1.20.1.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/FoundationGames/Phonos/releases/download/v1.0.0-beta.9%2B1.20.1/phonos-1.0.0-beta.9+1.20.1.jar"
-hash-format = "sha256"
-hash = "6802a19c1bf9a0733fe252430b14473f0948fbd2ffa6ceeb304810a20185e5ab"
+url = "https://github.com/FoundationGames/Phonos/releases/download/v1.0.0-beta.10%2B1.20.1/phonos-1.0.0-beta.10+1.20.1.jar"
+hash-format = "sha1"
+hash = "98159fd8155c4f0165d19ed427e75b2a7f8eb8a5"
