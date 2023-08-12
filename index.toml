@@ -94,7 +94,7 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
 
 [[files]]
 file = "config/styled-chat.json"
