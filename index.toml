@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "f093cbebe002d2e2f05095bc803a3ce792382145b5b79b802b3b2437456da44f"
+hash = "cae039dbe5c50edb70b0eab5a544f0173dff4d2598f41e3912b14a2a0b9191fb"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "ac863165be56f3648e179621a60981517afd72f1165fb2ee8591891ac75549a1"
+hash = "7a3b29a28dfe5dcafc91c25e0f7add4b3d17910b481651e41870be8b543cd93a"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "7e3674332c0da7dda4474f979489c79426f5bdd8c3bbecf2fbfee9cb65565a09"
+hash = "99ee7b797d0533360bd451a943988b4b5249a5742cddfb194cd217906ed64463"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "b4e22c23b6bb1720b13d3321296a6d17c4c18f8ba6140a9ff476230fd28e7ad3"
+hash = "6290bea3f5b550b0e14d5a1bbba2d1e21ce3aa8123048596b35340bbd31d9ee1"
 metafile = true
 
 [[files]]
@@ -678,12 +678,17 @@ metafile = true
 
 [[files]]
 file = "mods/mycoturgy.pw.toml"
-hash = "75c336cdd2486b702756a018d62ad0122997230ca6a172abf386ff8c2daafd49"
+hash = "1363748c85d8ca093e5b4fc2542bbc6f0aaab4aadc73b621a8300a8606393379"
 metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
+metafile = true
+
+[[files]]
+file = "mods/nodeflow.pw.toml"
+hash = "3b5d361b0e76956953075d16b005e8ef2be46ac6d9cfc12f67f10a53e82a7ae0"
 metafile = true
 
 [[files]]
