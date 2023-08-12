@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "f0ca763a353d975e0bae3cf7da4458b34709bc9678d8b48f3a0a2e98584f6774"
+hash = "b4e22c23b6bb1720b13d3321296a6d17c4c18f8ba6140a9ff476230fd28e7ad3"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/green-screen.pw.toml"
-hash = "958f67d35fda32d6a12b15bda1aaef4d59e159380370ee6d7d465ec05945237d"
+hash = "3db7d27515be519e1a0c4db60b0565d828a988d6cd18c97d724a220d5fa64d93"
 metafile = true
 
 [[files]]
@@ -815,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/packages.pw.toml"
-hash = "28e8cad55f907da8abd91ab289976b2511c1b06dd1eee2f888f92158267005db"
+hash = "21fde8b12697f1a58de50f5b0c6c1db0df16c3c1c8f3240f5e4bf46744f1927f"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "60dfb565c07bad4ef887117511b589422e7694b9d83fa6c99e2368becb68315a"
+hash = "47543b661f283f7317a68d514693ff27b2d3202408fcce78adf42ce47313a950"
 metafile = true
 
 [[files]]
