@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/limbonic-legacy.pw.toml"
-hash = "013811d33623d58ca5b4c388804885938ada80663debe2f4413b1e52ab0ed0a4"
+hash = "7f97a10f9dd495a395668174cbf72834fd0cb389515e71dbfd9bbf30f3444415"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "47543b661f283f7317a68d514693ff27b2d3202408fcce78adf42ce47313a950"
+hash = "f1daf476ba16e3359831da4b22dfca62877cffefedc66c008e8cfe5ce10b15dc"
 metafile = true
 
 [[files]]

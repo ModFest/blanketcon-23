@@ -1,7 +1,7 @@
 name = "limbonic-legacy"
-filename = "limbonic-legacy-1.1.1.jar"
+filename = "limbonic-legacy-1.1.2.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/AutumnalDev/LimbonicLegacy/releases/download/1.1.1/limbonic-legacy-1.1.1.jar"
+url = "https://github.com/AutumnalDev/LimbonicLegacy/releases/download/1.1.2/limbonic-legacy-1.1.2.jar"
 hash-format = "sha1"
-hash = "c3f25fed2ce62e71304bc2a11bbcc31f944aa864"
+hash = "df37e867e391daf899fdb3373edb48a184953f6b"
