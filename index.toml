@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "7a3b29a28dfe5dcafc91c25e0f7add4b3d17910b481651e41870be8b543cd93a"
+hash = "d925be4569eebda633ff55de052b043c905657df8c2ad34c3983ea788dfc58c6"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "99ee7b797d0533360bd451a943988b4b5249a5742cddfb194cd217906ed64463"
+hash = "5aaa2e67f493bddc437602559067baa4fd361414d3aa193f7e72aacd69fea33b"
 metafile = true
 
 [[files]]
