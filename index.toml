@@ -1329,6 +1329,26 @@ file = "music/Undertale_ItsShowtime.ogg"
 hash = "5818643cfc0071481745fb80f47690cf55e6e73efda5d3986cdb5086f118686e"
 
 [[files]]
+file = "resourcepacks/mojang_mooblooms_bc23.zip"
+hash = "f6b6ba03b34fcf8a22cb085f60f245d463d1c9866d4ade96080b402f235cbfd0"
+
+[[files]]
+file = "resourcepacks/no_grass_backs_bc23.zip"
+hash = "a0e49a1f5e2c5b3adfa0e4d038fb27d30e90f6bcc292ce7d7d777ac2a0a62eb7"
+
+[[files]]
+file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/cyberpunk_mooshroom.json"
+hash = "3029be62084dde7dc6a1d1c129f70b35bc0913cc1d6ef30821a14a325ded068f"
+
+[[files]]
+file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/solarpunk_moobloom.json"
+hash = "5b7f9d6f566266fc44d621f8e38fa171cb6555ee4742ad6ee7819311f19f7938"
+
+[[files]]
+file = "resources/datapacks/bovinesandbuttercups_bc23/pack.mcmeta"
+hash = "da4a55de14fbd2663a5f947d2d522fabc62280c47aa134d9fffbc5dc4b572f9b"
+
+[[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
 hash = "92d533df74ad31d7b32874d49f0a6f70d3194f52cf878c2270e154f6236a1308"
 
@@ -1680,6 +1700,10 @@ hash = "30e5abc05e8b01b91bb5b69d0f3609a37570637521e8b40c2e2884ad4b4573e0"
 file = "resources/resourcepacks/betterdiscs.pw.toml"
 hash = "8f5ca59ad9e624af1923f2388d3f53edada3d30785729fa169ed9790045dea98"
 metafile = true
+
+[[files]]
+file = "resources/resourcepacks/bovinesandbuttercups_bc23.zip"
+hash = "99e525d2631812cc5148a618f13fbe75759b38819aa82af26591ffc5de6280ab"
 
 [[files]]
 file = "resources/resourcepacks/modfemogg.zip"

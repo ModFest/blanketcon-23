@@ -1,0 +1,8 @@
+{
+  "type": "bovinesandbuttercups:mooshroom",
+  "mushroom": {
+    "model_location": "bovinesandbuttercups_bc23:bovinesandbuttercups/cyberpunk_mushroom"
+  },
+  "color": "#00ffff",
+  "can_eat_flowers": true
+}
