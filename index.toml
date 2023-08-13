@@ -17,6 +17,10 @@ file = "config/controlify.json"
 hash = "5b38433a12b4e03ce16613da82d5d7529022a1d41765997c4b1ad0ff4e13090c"
 
 [[files]]
+file = "config/crunchy_crunchy_advancements/config.toml"
+hash = "50ede56986e420e8d92f51154d79963e569c63825be0f2551fa5d240591cd3f7"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
@@ -75,6 +79,10 @@ hash = "3eec05ad02a87b1e53c4216c1443d56bf80c02b11eceae664ca75224ef7e85fe"
 [[files]]
 file = "config/picturesign.json"
 hash = "2b867088202c1732c66974ca34f560e21704ef4791771c74ae98479434308434"
+
+[[files]]
+file = "config/plushables.json"
+hash = "3c38c3c2c0bb7eea4066122478b5a0de8a0f12079043b6fee368335f60ab145e"
 
 [[files]]
 file = "config/polymer/common.json"
@@ -309,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "d925be4569eebda633ff55de052b043c905657df8c2ad34c3983ea788dfc58c6"
+hash = "9fe8b0f85b581181a79e1ccb8ef367b2f2499daa2005ecab3d8d16cff8b03608"
 metafile = true
 
 [[files]]
@@ -355,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "38ae337859fab7d71be58a0941f4ec169e3902a2b6b8ffba3e2fb7dfc2ceddec"
+metafile = true
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "c930a1b95cb56ade34dd2fe215b2eb4e54eda1e002664dda049700d7d7e58d8b"
 metafile = true
 
 [[files]]
@@ -545,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/foxbox.pw.toml"
 hash = "43bf820b9d05944c55390061a0c75486824ab15ab75c2ce88e7a853e6bc7b8cd"
+metafile = true
+
+[[files]]
+file = "mods/gaspunk.pw.toml"
+hash = "d22934c397caffbd006b9b27adf21b2bbb667b947f1003ce33b39f9f6148553e"
 metafile = true
 
 [[files]]
@@ -839,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/peculiarpieces.pw.toml"
-hash = "cfc163ac1ff1e92c747f6a534d728bbf46b6d8475c1bfb654fc55fbd89bdc108"
+hash = "ed4960b0c794ea2dab8b804a448f2093dec45f57703e4de0268f54d00629d4eb"
 metafile = true
 
 [[files]]
@@ -854,12 +872,12 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "b76dcf2477fc0e1a5366b92834bafda6b322e17ffeb29645c489fcad41129f44"
+hash = "6e1a89bd9f3dede0bd5826670ace33ca6d1cdc5b8c144338ed6dc232572f5cc4"
 metafile = true
 
 [[files]]
 file = "mods/picturesign.pw.toml"
-hash = "c11c479dcaf2b1df5debb108a20c256187167584c90f6834b9fcbbbcfaf32de7"
+hash = "518a5535ba20b106ba218f413d40e2e52ca6a7f869bff23624bbc245b93fb0d3"
 metafile = true
 
 [[files]]
@@ -889,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "6715414a81720d3d71cbe3485801bada323d753bcc959a1eca3f0e1088b151ad"
+hash = "ef28894f0f930907df5213d2206976541166d0fd1d2683dbf97baa228493f281"
 metafile = true
 
 [[files]]
@@ -924,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "6d0dc75c31797099cb453cb5734ba527462551e0765f8b8ef30fb6e9f793de4c"
+hash = "72f2baf5eb7c8b55f76a70158f6f7eb416d4c75ecdfe2007cd8cb49486defcc0"
 metafile = true
 
 [[files]]
@@ -1014,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
-hash = "b7e996ecc16b22396ad40cda25d655af990ea0b751feea6d718fbd06fcb51316"
+hash = "f09181414f182ca4499fa86cd1f0bacf33734a8b707d5d9dcbfd297f8e1953ff"
 metafile = true
 
 [[files]]
@@ -1184,7 +1202,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrariamod.pw.toml"
-hash = "7a9c51ad87c2be2dcc0d7dc093370b528ccd152b47f1d8c937875f437ee15727"
+hash = "ce34643851b550fedc6a994f0cb39aed0e45d53f11175be102adaf9bc7b86aa3"
 metafile = true
 
 [[files]]
@@ -1234,7 +1252,7 @@ metafile = true
 
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
-hash = "3c0bbec7a2dd63f7b1af1241b669230d8f1843d6b640e6c1d29f450f5d251d98"
+hash = "5df3ea1b6634c287aff15e4e6198a6fc67beafa88ec4f4e5c5cbbf7811c87404"
 metafile = true
 
 [[files]]
@@ -1375,6 +1393,26 @@ metafile = true
 file = "mods/yttr.pw.toml"
 hash = "10f9f07cbdeefd61c7ca436e76766858951c00bc1da50dd5742411b697f9acba"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mojang_mooblooms_bc23.zip"
+hash = "dc38bb6e7087d923e930522dd10a7dd882af985ce2cffa5eefcd85f30d1dd84e"
+
+[[files]]
+file = "resourcepacks/no_grass_backs_bc23.zip"
+hash = "1347fd7a346794640eea30a90b83bfe270b6f20883f8b8133f10ab154eba0120"
+
+[[files]]
+file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/cyberpunk_mooshroom.json"
+hash = "0c43e889f48bde99fe7e04e74c355f3190344ebd8e59d434cdf4669dbc2b348f"
+
+[[files]]
+file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/solarpunk_moobloom.json"
+hash = "bf68794ab5f9bed638dd5854de86260e7cfe91444b8699575a488e1fab0faf95"
+
+[[files]]
+file = "resources/datapacks/bovinesandbuttercups_bc23/pack.mcmeta"
+hash = "da4a55de14fbd2663a5f947d2d522fabc62280c47aa134d9fffbc5dc4b572f9b"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
@@ -1724,6 +1762,10 @@ hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
 file = "resources/resourcepacks/betterdiscs.pw.toml"
 hash = "8f5ca59ad9e624af1923f2388d3f53edada3d30785729fa169ed9790045dea98"
 metafile = true
+
+[[files]]
+file = "resources/resourcepacks/bovinesandbuttercups_bc23.zip"
+hash = "99e525d2631812cc5148a618f13fbe75759b38819aa82af26591ffc5de6280ab"
 
 [[files]]
 file = "resources/resourcepacks/modfemogg.zip"

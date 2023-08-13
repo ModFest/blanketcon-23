@@ -1,0 +1,26 @@
+# When enabled, the server will not send chat messages about advancements, ignoring the relevant game rule
+# default: true
+preventAdvancementBroadcasts = true
+# If set to OFF, all advancements will load normally from data packs
+# If set to BLACKLIST, advancements that are congruent with the filters below will not be loaded
+# If set to WHITELIST, only advancements that are congruent with the filters below will be loaded
+# options: OFF, BLACKLIST, WHITELIST
+# default: BLACKLIST
+filterMode = "WHITELIST"
+# Namespaces to be entirely filtered, e.g. 'minecraft' or 'antique_atlas'
+filterNamespaces = ["hexcasting"]
+# Namespace-inclusive paths to be filtered, e.g. 'minecraft:recipes/' or 'tconstruct:foundry/'
+filterPaths = []
+# Whether to filter advancements that are triggered when obtaining a recipe, used for recipe advancements
+# default: true
+filterRecipes = false
+# Whether to remove the advancements button from the pause menu, extending the stats button to fill space
+# default: true
+removeAdvancementsButton = true
+# Whether to hide the toast that appears when an advancement is completed
+# default: true
+removeAdvancementToasts = true
+# Whether to hide the toast that appears when a you unlock a recipe
+# default: true
+removeRecipeToasts = true
+

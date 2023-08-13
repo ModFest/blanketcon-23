@@ -1,0 +1,20 @@
+{
+  "type": "bovinesandbuttercups:moobloom",
+  "texture_location": "bovinesandbuttercups_bc23:textures/entity/bovinesandbuttercups/moobloom/solarpunk_moobloom.png",
+  "flower": {
+    "model_location": "bovinesandbuttercups_bc23:bovinesandbuttercups/solarpunk_flower"
+  },
+  "bud": {
+    "model_location": "bovinesandbuttercups_bc23:bovinesandbuttercups/solarpunk_flower"
+  },
+  "color": "#ffbf00",
+  "back_grass": { 
+    "texture_location": "bovinesandbuttercups_bc23:textures/entity/bovinesandbuttercups/moobloom/solarpunk_moobloom_azalea.png", 
+    "grass_tinted": false 
+  },
+  "nectar_texture": "bovinesandbuttercups_bc23:bovinesandbuttercups/item/solarpunk_nectar_bowl",
+  "nectar_effect": {
+    "effect": "minecraft:jump_boost",
+    "duration": 7200
+  }
+}

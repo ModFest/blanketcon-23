@@ -1,7 +1,7 @@
 name = "cccbridge"
-filename = "cccbridge-mc1.20.1-fabric-v1.6.2a.jar"
+filename = "cccbridge-mc1.20.1-fabric-v1.6.2b.jar"
 
 [download]
-url = "https://github.com/tweaked-programs/cccbridge/releases/download/v1.6.2a-1.20.1/cccbridge-mc1.20.1-fabric-v1.6.2a.jar"
+url = "https://github.com/tweaked-programs/cccbridge/releases/download/v1.6.2b-1.20.1/cccbridge-mc1.20.1-fabric-v1.6.2b.jar"
 hash-format = "sha1"
-hash = "580cbbcbe3ac66ac9406211eecb2fe0326accfcc"
+hash = "7de4610e10b8bde87badb77a94ee2e57abbc0fa9"
