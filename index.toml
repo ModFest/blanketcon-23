@@ -614,6 +614,11 @@ hash = "9ab50606d214f4fc2670ced592de9eb03892dad5969dcfb048f0e123edcab98f"
 metafile = true
 
 [[files]]
+file = "mods/lib39.pw.toml"
+hash = "c646484410ec0b9d90b489e8643d4109779f721e24d8ed06ab4e4cb3d6df4807"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "977b2162a12c8a80fd13ef6acefb5018b504c53fdf790a4b9eb14c7646262022"
 metafile = true
