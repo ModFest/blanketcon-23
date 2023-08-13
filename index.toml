@@ -1320,6 +1320,10 @@ file = "music/AimToHead_14_GAUSS.ogg"
 hash = "6ae48307511a8ae257830a77386ddc29949b548bc278e766ec36740d54cfb768"
 
 [[files]]
+file = "music/AzuCrystal_Nonanotes.ogg"
+hash = "79af76345a76947bdda7ea51e5bf8b9134dea2eced49807ef4bc88cce4479ff7"
+
+[[files]]
 file = "music/C418_Battlemode_1.ogg"
 hash = "9c48cb013ffd3911e0e8bbb3bcb2d39a204a911f00b55f7853f273fb045e8a5b"
 
@@ -1334,6 +1338,10 @@ hash = "32766d357ce61f3311c4f7fa7cc3ade6a0230843cd84da0de16eb2dfd3c0eb92"
 [[files]]
 file = "music/C418_Battlemode_4.ogg"
 hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
+
+[[files]]
+file = "music/Holst_ThePlanets_Jupiter.ogg"
+hash = "5e3a155035e46c68fed0e763040419282290295c564d327f0fc6498185c0b7f4"
 
 [[files]]
 file = "music/Jester_Elysium.mod.bz2"
