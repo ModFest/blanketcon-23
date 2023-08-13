@@ -53,6 +53,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/fireblanket/entityfilters.txt"
+hash = "035ea40761e475300ec8d96cd52199208d82b08d183f3b129d6e3f527d2c53a6"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "7eaf04f501a8bab058816d5b5b91e3c1ea0b4df538df4d14c0652012045e4719"
 

@@ -1,0 +1,10 @@
+# Pattern, Tracking range (in chunks), update rate (ticks), force alwaysUpdateVelocity off [optional]
+# Octothorpes are comments, parts of the line are delimited by newlines
+
+# We have a lot of these entities on the map and the constant ticking is not great
+(portalcubed|hexal):[\w\/]+ 5 6 true
+minecraft:\w+_display 5 8 true
+
+# These two set the range to be super high (64 chunks) so they are manually reduced
+toomanyorigins:small_dragon_fireball 8 10
+apugli:custom_projectile 8 10
