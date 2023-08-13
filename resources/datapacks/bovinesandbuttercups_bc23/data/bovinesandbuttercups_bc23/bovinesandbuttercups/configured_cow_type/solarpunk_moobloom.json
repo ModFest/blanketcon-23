@@ -1,5 +1,6 @@
 {
   "type": "bovinesandbuttercups:moobloom",
+  "texture_location": "bovinesandbuttercups_bc23:textures/entity/bovinesandbuttercups/moobloom/solarpunk_moobloom.png",
   "flower": {
     "model_location": "bovinesandbuttercups_bc23:bovinesandbuttercups/solarpunk_flower"
   },
@@ -7,7 +8,6 @@
     "model_location": "bovinesandbuttercups_bc23:bovinesandbuttercups/solarpunk_flower"
   },
   "color": "#ffbf00",
-  "texture_location": "bovinesandbuttercups_bc23:textures/entity/bovinesandbuttercups/moobloom/solarpunk_moobloom.png",
   "back_grass": { 
     "texture_location": "bovinesandbuttercups_bc23:textures/entity/bovinesandbuttercups/moobloom/solarpunk_moobloom_azalea.png", 
     "grass_tinted": false 
