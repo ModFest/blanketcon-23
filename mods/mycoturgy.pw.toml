@@ -1,7 +1,7 @@
 name = "mycoturgy"
-filename = "mycoturgy-0.1.2-blanketcon+1.20.1.jar"
+filename = "mycoturgy-0.1.3-blanketcon+1.20.1.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/LemmaEOF/Mycoturgy/releases/download/0.1.2-blanketcon%2B1.20.1/mycoturgy-0.1.2-blanketcon+1.20.1.jar"
-hash-format = "sha256"
-hash = "df20113fde41a8b59d51e822f3736d3451f8340e6c948ad0f0075340f810880e"
+url = "https://github.com/LemmaEOF/Mycoturgy/releases/download/0.1.3-blanketcon%2B1.20.1/mycoturgy-0.1.3-blanketcon+1.20.1.jar"
+hash-format = "sha1"
+hash = "ce2f96558ced7bf2c4a59f22909d7d2ac7f45400"

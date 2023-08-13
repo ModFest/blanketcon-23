@@ -1,0 +1,7 @@
+name = "nodeflow"
+filename = "nodeflow-0.2.2+mc.1.20.1.jar"
+
+[download]
+url = "https://github.com/MattiDragon/nodeflow/releases/download/v0.2.2-mc.1.20/nodeflow-0.2.2+mc.1.20.1.jar"
+hash-format = "sha1"
+hash = "24aa5f4a1eb48196d2ebb856626c8f7c8ef3ff0e"
