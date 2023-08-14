@@ -57,6 +57,10 @@ file = "config/fireblanket/entityfilters.txt"
 hash = "035ea40761e475300ec8d96cd52199208d82b08d183f3b129d6e3f527d2c53a6"
 
 [[files]]
+file = "config/getoffmylawn.json"
+hash = "cde31edf1815680fae188221d69ef9d103895a79f063c2f3abac0131ad4c7c6f"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "7eaf04f501a8bab058816d5b5b91e3c1ea0b4df538df4d14c0652012045e4719"
 
@@ -119,6 +123,10 @@ hash = "b9191d76b47630486efca0a208f36841779337c290aa8248e1da7f2149882e7e"
 [[files]]
 file = "config/styled-sidebars/config.json"
 hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "5e47cf349a4bc236e166564d5c89820f0b3e2da295dc2443e64bc11eade30609"
 
 [[files]]
 file = "config/vmp.properties"
