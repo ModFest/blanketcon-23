@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/nucleoid-extras-blanketcon.pw.toml"
-hash = "0b9205c4183bae50e5ee127631c0fb9d506e6337f7b63b94776f0d6ad21507a4"
+hash = "0e6069647f4cc37b3c232c5d822e850c978ea494d6ef13b216b64040e03ac76d"
 metafile = true
 
 [[files]]
@@ -1179,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "268a8c16b14c7e5805d1fbe95156faf13a20f072b9856798b38778ed0b1be2ac"
+hash = "098e436900089c68f53ef8513306ded5a94aeca1e129869f9b5412616ee26050"
 metafile = true
 
 [[files]]
