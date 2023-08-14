@@ -85,6 +85,10 @@ file = "config/plushables.json"
 hash = "3c38c3c2c0bb7eea4066122478b5a0de8a0f12079043b6fee368335f60ab145e"
 
 [[files]]
+file = "config/polydex.json"
+hash = "b89e2497f1cb1ba974aec6cfe39c41b634df93d9318b0ef945107c732492b25d"
+
+[[files]]
 file = "config/polymer/common.json"
 hash = "9234ce3572bad32e9aab8626c4936069efde934a6d3bd4ff20f2cdbbff0c836c"
 
@@ -367,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
-hash = "c930a1b95cb56ade34dd2fe215b2eb4e54eda1e002664dda049700d7d7e58d8b"
+hash = "6f16cd3ae8e62aa50926cec346d56f22b6402f20684c1438c243296fcdc74c09"
 metafile = true
 
 [[files]]
@@ -532,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "6290bea3f5b550b0e14d5a1bbba2d1e21ce3aa8123048596b35340bbd31d9ee1"
+hash = "4b357c29c2e4c2d77a144b2c200a8b9dca61aea6e9c7746b4826b37ac0d83f4f"
 metafile = true
 
 [[files]]
@@ -687,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/lib39.pw.toml"
-hash = "c646484410ec0b9d90b489e8643d4109779f721e24d8ed06ab4e4cb3d6df4807"
+hash = "22af02a68587966740f0e90619705961ebbad4418260a2400b9dc5ea12f22de5"
 metafile = true
 
 [[files]]
@@ -712,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/lovely_snails.pw.toml"
-hash = "2387c4fefe70d44665f961883f9e2c120ebd9a9f8146767a546fbfdc95623d84"
+hash = "3226edfff02089c3e716e13474700b8c63450022178d8b818ad6d434c63426bf"
 metafile = true
 
 [[files]]
@@ -927,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydex.pw.toml"
-hash = "bdbc5546a64b8100141da0c9e973751cd47da5786bfa88b86749d55dee03472c"
+hash = "3bd47a997e1f543608e3ed18a1f6d2eee958799ded8b16a0fd8eb051010dfde3"
 metafile = true
 
 [[files]]
@@ -947,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "72f2baf5eb7c8b55f76a70158f6f7eb416d4c75ecdfe2007cd8cb49486defcc0"
+hash = "8174614dfd5eea649b6418db16d7de1b45fca1dd7e62dcd5313874330baf1557"
 metafile = true
 
 [[files]]
@@ -1252,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "0da488d2feec20d48e8a46e5532c22111d0ea2d4b7e8035ece44fe2182f135b8"
+hash = "e22c26c9279ab90f33c5815211bb4ea11ff76222f806036385174e622f05e7d9"
 metafile = true
 
 [[files]]
@@ -1396,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "10f9f07cbdeefd61c7ca436e76766858951c00bc1da50dd5742411b697f9acba"
+hash = "274bf3616b69c65f36246a5bd69cb7bcb33905f0130b69e4faf553c4ae9e4f9c"
 metafile = true
 
 [[files]]
