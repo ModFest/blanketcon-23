@@ -1,7 +1,7 @@
 name = "lib39"
-filename = "lib39-1.5.0-experimental5.1.1+1.20.1-all.jar"
+filename = "lib39-1.5.0-experimental5.1.2+1.20.1-all.jar"
 
 [download]
-url = "https://unascribed.b-cdn.net/lib39-1.5.0-experimental5.1.1+1.20.1-all.jar"
-hash-format = "sha1"
-hash = "4ade05d07ec2d4c96b0e4e441096ad71386470b5"
+url = "https://unascribed.b-cdn.net/lib39-1.5.0-experimental5.1.2+1.20.1-all.jar"
+hash-format = "sha256"
+hash = "e6575c02ca101081207add8f4fe3538370b0b296699f724fbe4b87c42fb95b3b"
