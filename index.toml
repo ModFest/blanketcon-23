@@ -81,6 +81,10 @@ file = "config/plushables.json"
 hash = "3c38c3c2c0bb7eea4066122478b5a0de8a0f12079043b6fee368335f60ab145e"
 
 [[files]]
+file = "config/polydex.json"
+hash = "b89e2497f1cb1ba974aec6cfe39c41b634df93d9318b0ef945107c732492b25d"
+
+[[files]]
 file = "config/polymer/common.json"
 hash = "9234ce3572bad32e9aab8626c4936069efde934a6d3bd4ff20f2cdbbff0c836c"
 

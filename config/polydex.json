@@ -1,0 +1,43 @@
+{
+  "defaultDisplay": "polydex:bossbar",
+  "displayEnabled": true,
+  "displayUpdateRate": 5,
+  "displayCantMine": false,
+  "displayModSource": true,
+  "displayAdditional": true,
+  "displayMiningProgress": true,
+  "displayEntity": true,
+  "displayEntityHealth": true,
+  "default_hover_settings": {
+    "display_mode": "TARGET",
+    "visible_components": {
+      "polydex:fuel": "NEVER",
+      "polydex:raw_id": "NEVER",
+      "polydex:input": "NEVER",
+      "polydex:effects": "NEVER",
+      "polydex:output": "NEVER",
+      "polydex:progress": "ALWAYS",
+      "polydex:name": "ALWAYS",
+      "polydex:health": "ALWAYS",
+      "polydex:mod_source": "ALWAYS"
+    }
+  },
+  "displayPredicate": {
+    "type": "any",
+    "values": [
+      {
+        "type": "negate",
+        "value": {
+          "type": "nucleoid_extras:is_game"
+        }
+      },
+      {
+        "type": "equal",
+        "value_1": {
+          "type": "nucleoid_extras:game_type_id"
+        },
+        "value_2": "demobox:demo_box"
+      }
+    ]
+  }
+}
