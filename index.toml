@@ -1235,11 +1235,6 @@ hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
 metafile = true
 
 [[files]]
-file = "mods/tick-stasis.pw.toml"
-hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
-metafile = true
-
-[[files]]
 file = "mods/time-changer.pw.toml"
 hash = "aa2a1d40c0591f6f115e1299eb5b8562c504e49c8eb99a129861de29eec22696"
 metafile = true
