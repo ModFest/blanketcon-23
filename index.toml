@@ -1328,6 +1328,10 @@ file = "music/AzuCrystal_Nonanotes.ogg"
 hash = "79af76345a76947bdda7ea51e5bf8b9134dea2eced49807ef4bc88cce4479ff7"
 
 [[files]]
+file = "music/BobbyCole_TranceMusicForRacingGame.ogg"
+hash = "6dff0e925c3ce476aa47f557de610ae71c2a5eb3c8277e88ee7ef9c08f89e619"
+
+[[files]]
 file = "music/C418_Battlemode_1.ogg"
 hash = "9c48cb013ffd3911e0e8bbb3bcb2d39a204a911f00b55f7853f273fb045e8a5b"
 
