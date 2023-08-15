@@ -1211,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/teabridge.pw.toml"
-hash = "4d25e6fc88a31c74f1f2acf22680ef5cc368e2b6b1759658f61ed8b2d121f113"
+hash = "58a4695d024183b20c5fc6f6acaacb28b1fe654dbaf5799a751479e5bf2d59f2"
 metafile = true
 
 [[files]]
