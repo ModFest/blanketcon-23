@@ -5,6 +5,10 @@ file = "config/advanced_networking.json"
 hash = "95959f2ab6406382bbccf30f48cb135f3e4c42c36a3dab0de6882e3508061fc7"
 
 [[files]]
+file = "config/apugli.json"
+hash = "db40e7e7bd22cc47a2035fa2877cff5e31b98280db5ceb68df1c848a2ec0a143"
+
+[[files]]
 file = "config/arcpocalypse.json"
 hash = "8156a914cba60f5e8284a4298c72c79fb6974082ba584c40510719be0fef1f47"
 
@@ -77,6 +81,10 @@ file = "config/moreculling.toml"
 hash = "7a92a596e22f2bf4a4b64cda5ce614f6d3d9e02d9d2b5c8246173561515d8cc5"
 
 [[files]]
+file = "config/origins_server.json"
+hash = "f968d4a34892b5d050da69f410fb67a7d620b472a6a2add84f51a32e54129587"
+
+[[files]]
 file = "config/phonos.json"
 hash = "3eec05ad02a87b1e53c4216c1443d56bf80c02b11eceae664ca75224ef7e85fe"
 
@@ -135,6 +143,10 @@ hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
 [[files]]
 file = "config/threadtweak.json"
 hash = "c446a2d6ed316f509a1a51234ecd0468a462c30ced0bacdde428350ef83a9a22"
+
+[[files]]
+file = "config/toomanyorigins.json"
+hash = "f862bfb34a54098fec2c39a5d957666485a053e1166ec0d470ba52f8fff6c9a9"
 
 [[files]]
 file = "config/universal-graves/config.json"
