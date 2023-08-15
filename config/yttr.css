@@ -11,6 +11,12 @@
 	 * client can get perfect shots every time.
 	 */
 	trust-players: on;
+
+	/*
+	 * If set to "on", allows players to break bedrock anywhere in any dimension, instead of only at
+	 * the bottom of the overworld.
+	 */
+	break-bedrock-anywhere: on;
 	
 	/*
 	 * If set to "on", enables inside-jokes and various chaos. Nothing destructive.
@@ -26,12 +32,6 @@
 }
 
 #client {
-	/*
-	 * If set to "on", cleaved slopes will try to feel smooth. Kind of buggy, but when it works it's
-	 * awesome.
-	 */
-	slope-smoothing: on;
-	
 	/*
 	 * If set to "on", force-disables OpenGL compatibility mode. "auto" acts as "on" on macOS, and
 	 * "off" everywhere else.
@@ -64,7 +64,7 @@
 	 *
 	 * If that's not enough for you, this nuclear option off switch is offered.
 	 */
-	allow-void: off;
+	allow-void: on;
 	/*
 	 * If set to "off", the Explode rifle mode will be disabled. It provides a relatively cheap way
 	 * to create normal vanilla explosions. If set to "soft", the explosions will not break any
@@ -79,7 +79,7 @@
 	 * If set to "off", the Fire rifle mode will be disabled. It provides a way to light fires, and
 	 * destroy blocks in #yttr:fire_mode_instabreak instantly.
 	 */
-	allow-fire: off;
+	allow-fire: on;
 	
 	/*
 	 * If on, ding noises will play as the rifle charges informing you of important timing points.
