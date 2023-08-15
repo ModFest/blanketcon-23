@@ -1128,11 +1128,6 @@ hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
 metafile = true
 
 [[files]]
-file = "mods/statement.pw.toml"
-hash = "7ec4b0244d1c156261b18fcbcdb684271fa697fa77847f38c593e2e10e6f177f"
-metafile = true
-
-[[files]]
 file = "mods/stimuli.pw.toml"
 hash = "bb4da439447db38e8f290b59b91b42a7c0a4b4ff713192681f815e2ff2793cbd"
 metafile = true
