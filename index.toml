@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/fedicraft.pw.toml"
-hash = "07760ba2a154732052b6ea58749566377fe38112b2f190b100e25a60ad0d71ae"
+hash = "71088551c34205b034ff10918ed566b4e23404d2f9a55ff1c92b99fec0d8406d"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "6c6329e84bf86e85d1e511a7f48634bb2b493fbba04ca2286a87e133223a94b6"
+hash = "f45bde934a5ec5c2b59389ad32ee1a4a6e480685d08c92e0ff4517e7a800c931"
 metafile = true
 
 [[files]]
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "99891a36629c926b055918a7e269214118bfca8a3fdc53191d062d2a2d7a9c9a"
+hash = "b773fb6d3160e2464165d6b4066f9b97e959897546f80da545e9029dd8e4c202"
 metafile = true
 
 [[files]]
