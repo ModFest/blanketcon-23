@@ -1,0 +1,7 @@
+name = "terraform-wood-api"
+filename = "terraform-wood-api-v1-7.0.1+jashacks1.jar"
+
+[download]
+url = "https://jaskarth.com/pub/mods/terraform-wood-api-v1-7.0.1+jashacks1.jar"
+hash-format = "sha256"
+hash = "582e4973131c2a3b518a9a4e6626ca7005937410079b12df58bb8888fec43362"
