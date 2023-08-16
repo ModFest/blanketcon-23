@@ -110,7 +110,7 @@ hash = "7140cc4b3e2148f2e369940d81ab1718d65594f205a09dff1f5c0072a5546402"
 
 [[files]]
 file = "config/railways-client.toml"
-hash = "7b2fe094fd6f77bd471d3432efbd03416de3fed12bf14d603d54440cf496b757"
+hash = "28980dd8ba951b0ac65a04c2e2af8b2fbaaf98369077ed1d08402e10fb41e26d"
 
 [[files]]
 file = "config/smoothboot.json"

@@ -22,12 +22,12 @@
 		#.
 		#Smoke emission rate on contraptions
 		#Range: 0.0 ~ 10.0
-		smokePercentage = 0.6
+		smokePercentage = 0.4
 		#.
 		#[in Ticks]
 		#Lifetime of smoke particles emitted by contraptions
 		#Range: 20 ~ 1000
-		smokeLifetime = 500
+		smokeLifetime = 120
 		#.
 		#Smoke texture quality
 		#Allowed Values: LOW, MEDIUM, HIGH, ULTRA
