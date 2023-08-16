@@ -3,5 +3,5 @@ filename = "Steam_Rails-fabric-1.20.1-1.5.0+fabric-mc1.20.1-build.532.jar"
 
 [download]
 url = "https://maven.ithundxr.dev/releases/com/railwayteam/railways/Steam_Rails-fabric-1.20.1/1.5.0+fabric-mc1.20.1-build.532/Steam_Rails-fabric-1.20.1-1.5.0+fabric-mc1.20.1-build.532.jar"
-hash-format = "sha1"
-hash = "eb6eedefe568778cb2925eae2f113980e4c95c3c"
+hash-format = "sha256"
+hash = "8f49c2527d456c35ec2cd32430f490e2c213682b0a98f8c8b0a65475b4d1c92f"
