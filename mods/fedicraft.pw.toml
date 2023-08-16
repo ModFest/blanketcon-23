@@ -1,13 +1,13 @@
 name = "FediCraft"
-filename = "fedicraft-0.2.4+1.20.jar"
+filename = "fedicraft-0.2.5+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WYJ9YHh9/versions/WOgwNWr5/fedicraft-0.2.4%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/WYJ9YHh9/versions/klZ3E3Ev/fedicraft-0.2.5%2B1.20.jar"
 hash-format = "sha1"
-hash = "824291908be5d937d85e31a446e9d2a34e8dc6f9"
+hash = "792ecfb4ce3c259d2a9b91f47b1174f8c854a210"
 
 [update]
 [update.modrinth]
 mod-id = "WYJ9YHh9"
-version = "WOgwNWr5"
+version = "klZ3E3Ev"
