@@ -1,7 +1,7 @@
 name = "elysium"
-filename = "elysium-1.0.23+1.20.1.jar"
+filename = "elysium-1.0.24+1.20.1.jar"
 
 [download]
-url = "https://amymialee.b-cdn.net/elysium-1.0.23+1.20.1.jar"
+url = "https://amymialee.b-cdn.net/elysium-1.0.24+1.20.1.jar"
 hash-format = "sha256"
-hash = "0ee0ef1c3b07599fad396172702521fc1acb26da0473f9d70a72615678aecfcd"
+hash = "dbc92266e4ddbb9fd73351a3272d86e048d51036ba1fefed43b726ac98135480"
