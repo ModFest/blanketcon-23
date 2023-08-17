@@ -33,6 +33,10 @@ file = "config/enchancement.json"
 hash = "188d9fa06c276ec05283ce4b2fe33dc9358b514b8a3cc9df42ba2b9ea9e2bd10"
 
 [[files]]
+file = "config/enchantery-common.json"
+hash = "d1a09e632f3aced0dd3a14201ff4753c0340e82ec6f01e1e9fc4e675ef698c40"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 

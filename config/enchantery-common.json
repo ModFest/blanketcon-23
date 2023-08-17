@@ -1,0 +1,8 @@
+{
+	"#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+	"misc": {
+		"soulbound_mending_compat": false,
+		"disable_anvil_enchanting": false,
+		"disable_anvil_cost": false
+	}
+}
