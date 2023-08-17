@@ -2,6 +2,6 @@ name = "nucleoid-extras-blanketcon"
 filename = "nucleoid-extras-blanketcon-1.0.2.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.2/nucleoid-extras-blanketcon-1.0.2.jar"
+url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.3/nucleoid-extras-blanketcon-1.0.2.jar"
 hash-format = "sha256"
-hash = "ac1774b16e0bd52ad040b3952778179589556d77bccff06a3f9defc1cf10406e"
+hash = "c4f639db72ed0dfcfb991dec874d75edb16732ed49b859a090a11393df01c57c"

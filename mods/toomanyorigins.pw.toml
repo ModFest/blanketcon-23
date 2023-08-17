@@ -1,13 +1,13 @@
 name = "TooManyOrigins"
-filename = "TooManyOrigins-1.0.0-beta.15+1.20.1-fabric.jar"
+filename = "TooManyOrigins-1.0.0-beta.16+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xDjN28OB/versions/Yww3nKHh/TooManyOrigins-1.0.0-beta.15%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/xDjN28OB/versions/3dxK6A4h/TooManyOrigins-1.0.0-beta.16%2B1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "fa7b196e36f90a017f2c1e05448ad77ad4cccff6"
+hash = "18fc05674fd80347eb6ddbc677db4a354404e2f5"
 
 [update]
 [update.modrinth]
 mod-id = "xDjN28OB"
-version = "Yww3nKHh"
+version = "3dxK6A4h"
