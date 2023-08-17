@@ -964,6 +964,11 @@ hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
 metafile = true
 
 [[files]]
+file = "mods/scattered-shards.pw.toml"
+hash = "d17040c93bbe56b4822baaef76358c23cbc9dbb7f2ec4aedc87c5194884f4daa"
+metafile = true
+
+[[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "f09181414f182ca4499fa86cd1f0bacf33734a8b707d5d9dcbfd297f8e1953ff"
 metafile = true
