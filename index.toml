@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "f45bde934a5ec5c2b59389ad32ee1a4a6e480685d08c92e0ff4517e7a800c931"
+hash = "221beae456721c05d26ee5c8ccb3961c60a744fad3fe7b7cb61b0219141895f1"
 metafile = true
 
 [[files]]
