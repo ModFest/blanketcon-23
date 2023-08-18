@@ -1,13 +1,7 @@
-name = "Pehkui"
-filename = "Pehkui-3.7.8+1.14.4-1.20.1.jar"
-side = "both"
+name = "pehkui"
+filename = "Pehkui-3.7.8+1.14.4-1.20.1+monitorless.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/ooQsxSVg/Pehkui-3.7.8%2B1.14.4-1.20.1.jar"
-hash-format = "sha1"
-hash = "93df5763a38f865042ff7b56a4ce4eea26486944"
-
-[update]
-[update.modrinth]
-mod-id = "t5W7Jfwy"
-version = "ooQsxSVg"
+url = "https://jaskarth.com/pub/mods/Pehkui-3.7.8+1.14.4-1.20.1+monitorless.jar"
+hash-format = "sha256"
+hash = "8f482918b0391debc603402dbcf78c4f69b38e6eebd286e029d9ed14e7899637"

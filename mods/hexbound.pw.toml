@@ -1,7 +1,7 @@
 name = "hexbound"
-filename = "hexbound-0.2.0+1.20.1+bc.jar"
+filename = "hexbound-0.2.0+1.20.1+bc2.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/Cypher121/hexbound/releases/download/bc23-1/hexbound-0.2.0+1.20.1+bc.jar"
+url = "https://blanketcon.b-cdn.net/Cypher121/hexbound/releases/download/bc23-2/hexbound-0.2.0+1.20.1+bc2.jar"
 hash-format = "sha256"
-hash = "b1a7c2af763de31241b64be8ff06c138d7ee5dc3ba9ffe085fff2e38465194f3"
+hash = "2540f6341988e5a1990838fbdaafd510b4ca8ff0b681ac6c71b346717381c333"
