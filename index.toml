@@ -1427,148 +1427,9 @@ hash = "80b543298a2387c2a98ebd07971684e2e31b5aed21fbad62b592f6171ccb9622"
 metafile = true
 
 [[files]]
-file = "music/AimToHead_01_HAIL.ogg"
-hash = "a349f88cef9ada699434d7b682050ff9363d04713e573a7496a59371a62a086c"
-
-[[files]]
-file = "music/AimToHead_02_KARNAL.ogg"
-hash = "e6f811fb53e052ed5a2e78f20610819029576877e2cb2ae0226385b1039f86d6"
-
-[[files]]
-file = "music/AimToHead_03_THROB.ogg"
-hash = "fd8e3408651f0ce8d296f005fb4233c3da1d23ebfea9f94ff9c2d09649e3f057"
-
-[[files]]
-file = "music/AimToHead_04_UNLOGIC.ogg"
-hash = "2946d0722d5c14a954e3d4918b48209cc16a39c8ab28b6def213a684dd0654b0"
-
-[[files]]
-file = "music/AimToHead_05_BITE.ogg"
-hash = "2f47ce5b7c15aba1bbd61c4b3dc8839b8eee36dc778a5378407fc09495605250"
-
-[[files]]
-file = "music/AimToHead_06_MASSACRE.ogg"
-hash = "099d14eb05d534a97d016bd70fc6ff918a662d0538e75cd25d0bc08c3c487dfb"
-
-[[files]]
-file = "music/AimToHead_07_CHAINS.ogg"
-hash = "ba8394ea700387e64420ecdac15d6ad937d43688381f520c415dceb5527550ac"
-
-[[files]]
-file = "music/AimToHead_08_ANGER.ogg"
-hash = "d9ccab464a834d22372404c9035bde4dc5eab098e1afd48eae36d598117e1d81"
-
-[[files]]
-file = "music/AimToHead_09_TERRIFY.ogg"
-hash = "56e5f6d2b4a164388a0d959adc51fa7bf73e1c72a7b60c2e06f6e2c797c3be8e"
-
-[[files]]
-file = "music/AimToHead_10_FACTORY.ogg"
-hash = "1ae103b2615a7b33c1279177e8a23fe7cc56a17c7084b3adf08cfc643203753c"
-
-[[files]]
-file = "music/AimToHead_11_CRAWL.ogg"
-hash = "2dc425304b9f99381265c2299f6f1a78673a305252a23b1891f1d15a57bd3cb5"
-
-[[files]]
-file = "music/AimToHead_12_SILVER.ogg"
-hash = "616313605761f3ebf698e82c7dbeec8513c483c0a59e21f8d47373d1cc4a191e"
-
-[[files]]
-file = "music/AimToHead_13_CLOCKWORK.ogg"
-hash = "6f1e7a6d5bc604d89e8ba33ea1fe0fc9870e78ba5ec64f612bafaa199a789c68"
-
-[[files]]
-file = "music/AimToHead_14_GAUSS.ogg"
-hash = "6ae48307511a8ae257830a77386ddc29949b548bc278e766ec36740d54cfb768"
-
-[[files]]
-file = "music/AzuCrystal_Nonanotes.ogg"
-hash = "79af76345a76947bdda7ea51e5bf8b9134dea2eced49807ef4bc88cce4479ff7"
-
-[[files]]
-file = "music/BobbyCole_TranceMusicForRacingGame.ogg"
-hash = "6dff0e925c3ce476aa47f557de610ae71c2a5eb3c8277e88ee7ef9c08f89e619"
-
-[[files]]
-file = "music/C418_AriaMath.json"
-hash = "7d6fe3199d4a3a7ebacf9bfd9f179aa58bf27492cbccda1c8d6affcc86d2387f"
-
-[[files]]
-file = "music/C418_Battlemode_1.ogg"
-hash = "9c48cb013ffd3911e0e8bbb3bcb2d39a204a911f00b55f7853f273fb045e8a5b"
-
-[[files]]
-file = "music/C418_Battlemode_2.ogg"
-hash = "391c910a74849f991b5dde128649b3d61e6afe87caea7cdf34e417ecbd9f4e3c"
-
-[[files]]
-file = "music/C418_Battlemode_3.ogg"
-hash = "32766d357ce61f3311c4f7fa7cc3ade6a0230843cd84da0de16eb2dfd3c0eb92"
-
-[[files]]
-file = "music/C418_Battlemode_4.ogg"
-hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
-
-[[files]]
-file = "music/C418_Beginning2.json"
-hash = "64ce7be3ab81c96b0c581ef9f42f67bfd1769ac5788ba7ba9176ecb17327df90"
-
-[[files]]
-file = "music/C418_BiomeFest.json"
-hash = "d42226631871bcc231bd34d84a8fcf6ede7c2555e75449af683bcda8c5c6e210"
-
-[[files]]
-file = "music/C418_BlindSpots.json"
-hash = "f0cab9d6020dd86d631a7de7d69f328b84fc14a1d51c0f45f86f1a2fa99df67b"
-
-[[files]]
-file = "music/C418_Dreiton.json"
-hash = "4e13c2c51940885f9a49c469e0bb9e8c6709313363965e40f91f67c6c91dd572"
-
-[[files]]
-file = "music/C418_FloatingTrees.json"
-hash = "b8dfafe2a1f95edaa10044dd8b16b867f3d7a704d1c8aaeea4ba956b8c097aaf"
-
-[[files]]
-file = "music/C418_HauntMuskie.json"
-hash = "dd3526168b2fc7ab0c2cca4843b63370b25300732969be05dec81a7863b55bef"
-
-[[files]]
-file = "music/C418_MoogCity2.json"
-hash = "1b910df5f6ccb7977ad23fe0ba37a9fcbd00d2aba25e53b01d1a59a575ea3357"
-
-[[files]]
-file = "music/C418_Mutation.json"
-hash = "b08ff8cb6e79624a88e5ac945550e51eb659351846a251aae957ee38f95497de"
-
-[[files]]
-file = "music/C418_Taswell.json"
-hash = "eaeca90000fa35ca7711029c6fc7679c54f52e6e53f997f70d721598295ff8a5"
-
-[[files]]
-file = "music/Faction_AnarchyMainRemix.mod.bz2"
-hash = "939d14b1cdf70a280b139dcd282d239afedd51f034c873fa77604d5792c0aacf"
-
-[[files]]
-file = "music/Holst_ThePlanets_Jupiter.ogg"
-hash = "5e3a155035e46c68fed0e763040419282290295c564d327f0fc6498185c0b7f4"
-
-[[files]]
-file = "music/Jester_Elysium.mod.bz2"
-hash = "a4b44e819a97716c129e156b47dd397ce10c0b238d01534f70b7fd4ee25a8c51"
-
-[[files]]
-file = "music/SiivaGunner_Cat_InfdevMix.ogg"
-hash = "da25c058485102e158a4771d2e4171fbeb1e50be43c9ee30d320719cb275092f"
-
-[[files]]
-file = "music/ThatAndyGuy_DaFunkDoYouKnowBoutChip.ogg"
-hash = "04c9591e57350b7bf94cde17db8cf5f1ec6f501e8a8f3fe5258cec6ad2f5baf5"
-
-[[files]]
-file = "music/Undertale_ItsShowtime.ogg"
-hash = "5818643cfc0071481745fb80f47690cf55e6e73efda5d3986cdb5086f118686e"
+file = "mods/yttr.pw.toml"
+hash = "d30e312fc3c55f28036a891f8d46ccaff216b1333dbaafd3486c0d82271f6290"
+metafile = true
 
 [[files]]
 file = "resourcepacks/mojang_mooblooms_bc23.zip"
@@ -1933,10 +1794,6 @@ hash = "a85349d36b76255bc03adac0a26a76514ffad31ec30aa8f0017814dc4bd7f813"
 [[files]]
 file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
 hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
-
-[[files]]
-file = "resources/resourcepacks/HexTech.zip"
-hash = "30e5abc05e8b01b91bb5b69d0f3609a37570637521e8b40c2e2884ad4b4573e0"
 
 [[files]]
 file = "resources/resourcepacks/arch_ex_icon_bc23.zip"
