@@ -1409,6 +1409,10 @@ file = "music/C418_Taswell.json"
 hash = "eaeca90000fa35ca7711029c6fc7679c54f52e6e53f997f70d721598295ff8a5"
 
 [[files]]
+file = "music/Faction_AnarchyMainRemix.mod.bz2"
+hash = "939d14b1cdf70a280b139dcd282d239afedd51f034c873fa77604d5792c0aacf"
+
+[[files]]
 file = "music/Holst_ThePlanets_Jupiter.ogg"
 hash = "5e3a155035e46c68fed0e763040419282290295c564d327f0fc6498185c0b7f4"
 
