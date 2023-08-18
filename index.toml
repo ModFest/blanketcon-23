@@ -1353,6 +1353,10 @@ file = "music/BobbyCole_TranceMusicForRacingGame.ogg"
 hash = "6dff0e925c3ce476aa47f557de610ae71c2a5eb3c8277e88ee7ef9c08f89e619"
 
 [[files]]
+file = "music/C418_AriaMath.json"
+hash = "7d6fe3199d4a3a7ebacf9bfd9f179aa58bf27492cbccda1c8d6affcc86d2387f"
+
+[[files]]
 file = "music/C418_Battlemode_1.ogg"
 hash = "9c48cb013ffd3911e0e8bbb3bcb2d39a204a911f00b55f7853f273fb045e8a5b"
 
@@ -1367,6 +1371,42 @@ hash = "32766d357ce61f3311c4f7fa7cc3ade6a0230843cd84da0de16eb2dfd3c0eb92"
 [[files]]
 file = "music/C418_Battlemode_4.ogg"
 hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
+
+[[files]]
+file = "music/C418_Beginning2.json"
+hash = "64ce7be3ab81c96b0c581ef9f42f67bfd1769ac5788ba7ba9176ecb17327df90"
+
+[[files]]
+file = "music/C418_BiomeFest.json"
+hash = "d42226631871bcc231bd34d84a8fcf6ede7c2555e75449af683bcda8c5c6e210"
+
+[[files]]
+file = "music/C418_BlindSpots.json"
+hash = "f0cab9d6020dd86d631a7de7d69f328b84fc14a1d51c0f45f86f1a2fa99df67b"
+
+[[files]]
+file = "music/C418_Dreiton.json"
+hash = "4e13c2c51940885f9a49c469e0bb9e8c6709313363965e40f91f67c6c91dd572"
+
+[[files]]
+file = "music/C418_FloatingTrees.json"
+hash = "b8dfafe2a1f95edaa10044dd8b16b867f3d7a704d1c8aaeea4ba956b8c097aaf"
+
+[[files]]
+file = "music/C418_HauntMuskie.json"
+hash = "dd3526168b2fc7ab0c2cca4843b63370b25300732969be05dec81a7863b55bef"
+
+[[files]]
+file = "music/C418_MoogCity2.json"
+hash = "1b910df5f6ccb7977ad23fe0ba37a9fcbd00d2aba25e53b01d1a59a575ea3357"
+
+[[files]]
+file = "music/C418_Mutation.json"
+hash = "b08ff8cb6e79624a88e5ac945550e51eb659351846a251aae957ee38f95497de"
+
+[[files]]
+file = "music/C418_Taswell.json"
+hash = "eaeca90000fa35ca7711029c6fc7679c54f52e6e53f997f70d721598295ff8a5"
 
 [[files]]
 file = "music/Holst_ThePlanets_Jupiter.ogg"
