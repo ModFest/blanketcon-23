@@ -519,11 +519,6 @@ hash = "43bf820b9d05944c55390061a0c75486824ab15ab75c2ce88e7a853e6bc7b8cd"
 metafile = true
 
 [[files]]
-file = "mods/gaspunk.pw.toml"
-hash = "d22934c397caffbd006b9b27adf21b2bbb667b947f1003ce33b39f9f6148553e"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5223466b05bc8159e6b4e0d429b20d11c0896cd6ed3e108a758867616199800f"
 metafile = true
@@ -965,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/scattered-shards.pw.toml"
-hash = "d17040c93bbe56b4822baaef76358c23cbc9dbb7f2ec4aedc87c5194884f4daa"
+hash = "5924c416dbeca3b99011ef2e129a4cd84436a7987b4b535bbbbd53c3caae7ffc"
 metafile = true
 
 [[files]]

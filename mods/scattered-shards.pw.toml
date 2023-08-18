@@ -1,7 +1,7 @@
 name = "scattered-shards"
-filename = "scatteredshards-1.0.0+1.20.1.jar"
+filename = "scatteredshards-1.0.1+1.20.1.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/pub/scatteredshards-1.0.0+1.20.1.jar"
+url = "https://blanketcon.b-cdn.net/pub/scatteredshards-1.0.1+1.20.1.jar"
 hash-format = "sha256"
-hash = "7620a0e4a1269e2c1b0c01b5301661ef2dfc0d3e3a85487b5b24b7e460da6d93"
+hash = "5cdd0dd7cc031625b802173a36e35b7a80747c21786543113450b45b287b35c5"
