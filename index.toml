@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/fedicraft.pw.toml"
-hash = "71088551c34205b034ff10918ed566b4e23404d2f9a55ff1c92b99fec0d8406d"
+hash = "37e675ff0f75ab958dac91e41a3c94172764798257041ce90190f564ad8b9a79"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/scattered-shards.pw.toml"
-hash = "5924c416dbeca3b99011ef2e129a4cd84436a7987b4b535bbbbd53c3caae7ffc"
+hash = "7bf1a8ac15d90d3fedd2419e6a17af248f11a644a80d7d2adeaea884c811ca5e"
 metafile = true
 
 [[files]]
