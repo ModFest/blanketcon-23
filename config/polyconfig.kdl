@@ -1,0 +1,456 @@
+version 1
+
+block "pswg:smooth_pourstone_wall" {
+    replace "minecraft:sandstone_wall"
+}
+
+block "consistency_plus:cut_sandstone_stairs"
+
+block "ecotones:wildflowers" {
+    replace (group)"sapling"
+}
+block "ecotones:switchgrass" {
+    replace (group)"sapling"
+}
+block "ecotones:moss" {
+    replace (group)"tripwire"
+}
+block "ecotones:short_grass" {
+    replace "minecraft:grass"
+}
+block "ecotones:.*"
+
+block "aurorasdeco:jacaranda_log"
+block "aurorasdeco:(flowering_)?azalea_log"
+
+block "create:(limestone|.*scoria|tuff)_pillar" {
+    merge east="*" "false"
+    merge north="*" "false"
+    merge south="*" "false"
+    merge west="*" "false"
+}
+
+block "create:(dark_oak|spruce)_window" {
+    replace (group)"leaves" waterlogged=false
+}
+
+block "hotm:thinking_glass" {
+    replace (group)"leaves" waterlogged=false
+}
+
+// Precious stair block here
+block "create:cut_limestone_brick_stairs"
+
+block "create:andesite_bars" {
+    replace "minecraft:iron_bars"
+}
+
+block "create:layered_limestone"
+
+block "peculiarpieces:inverted_redstone_lamp" {
+    replace "minecraft:redstone_lamp"
+}
+
+block "create:.*glass_pane" {
+    replace "minecraft:glass_pane"
+}
+
+block "create:.*framed_glass" {
+    replace "minecraft:glass"
+}
+
+block "create:copycat_step" {
+    replace "minecraft:barrier"
+}
+
+block "terrariamod:.*"
+
+block "glowcase:.*" {
+    replace "minecraft:air"
+}
+
+block "yttr:bloque" {
+    replace "minecraft:oak_slab" type="bottom"
+}
+
+block "consistency_plus:polished_calcite"
+block "consistency_plus:cut_calcite"
+block "create:cut_calcite"
+block "create:polished_cut_tuff"
+
+block "architecture_extensions:minecraft/iron_tube_metal" {
+    replace (group)"note_block"
+}
+
+block "architecture_extensions:(minecraft/spruce|minecraft/dark_oak|softerpastels/white_wool)_lattice" {
+    merge facing="(north|south)"
+    merge facing="(west|east)"
+    
+    replace (group)"leaves" waterlogged=false
+}
+
+block "architecture_extensions:.*_post_lantern" {
+    replace "minecraft:lantern"
+}
+
+block "architecture_extensions:minecraft/spruce_post_cap" {
+    replace (group)"tripwire"
+}
+
+block "wwizardry:basalt_brick_wall" {
+    replace "minecraft:polished_deepslate_wall"
+}
+
+block "wwizardry:basalt_tile_wall" {
+    replace "minecraft:cobbled_deepslate_wall"
+}
+
+block "create:cut_tuff_bricks"
+block "create:cut_tuff"
+
+block "aurorasdeco:(mossy_)?tuff_bricks"
+
+block "wwizardry:basalt_bricks"
+block "consistency_plus:basalt_bricks"
+block "wwizardry:chiseled_basalt"
+block "consistency_plus:chiseled_basalt"
+
+block "wood_you_dye:orange_plank_fence" {
+    replace "minecraft:acacia_fence"
+}
+
+block "pswg:.*_pourstone"
+
+block "create:.*tuff_wall" {
+    replace "minecraft:andesite_wall"
+}
+
+block "consistency_plus:cobbled_brown_terracotta"
+
+block "create:cut_tuff_brick_stairs" {
+    state waterlogged=false {
+        replace (group)"waxed copper stair"
+        replace (group)"leaves" waterlogged=false
+    }
+}
+
+block "phonos:connection_hub" {
+    replace (group)"tripwire"
+}
+
+block "yttr:lamp" {
+    merge inverted="*" "false"
+
+    state lit="true" {
+        state color="(white|colorless|cyan|teal)" {
+            replace "minecraft:sea_lantern"
+        }
+        state color="(red|orange)" {
+            replace "minecraft:glowstone"
+        }
+        state color="orange" {
+            replace "minecraft:orange_concrete"
+        }
+        state color="magenta" {
+            replace "minecraft:magenta_concrete"
+        }
+        state color="light_blue" {
+            replace "minecraft:light_blue_concrete"
+        }
+        state color="yellow" {
+            replace "minecraft:yellow_concrete"
+        }
+        state color="lime" {
+            replace "minecraft:lime_concrete"
+        }
+        state color="pink" {
+            replace "minecraft:pink_concrete"
+        }
+        state color="gray" {
+            replace "minecraft:gray_concrete"
+        }
+        state color="light_gray" {
+            replace "minecraft:light_gray_concrete"
+        }
+        state color="(cyan|teal)" {
+            replace "minecraft:cyan_concrete"
+        }
+        state color="purple" {
+            replace "minecraft:purple_concrete"
+        }
+        state color="blue" {
+            replace "minecraft:blue_concrete"
+        }
+        state color="brown" {
+            replace "minecraft:brown_concrete"
+        }
+        state color="green" {
+            replace "minecraft:green_concrete"
+        }
+        state color="red" {
+            replace "minecraft:red_concrete"
+        }
+    }
+    state color="(white|colorless)"
+    state color="orange" {
+        replace "minecraft:orange_concrete"
+    }
+    state color="magenta" {
+        replace "minecraft:magenta_concrete"
+    }
+    state color="light_blue" {
+        replace "minecraft:light_blue_concrete"
+    }
+    state color="yellow" {
+        replace "minecraft:yellow_concrete"
+    }
+    state color="lime" {
+        replace "minecraft:lime_concrete"
+    }
+    state color="pink" {
+        replace "minecraft:pink_concrete"
+    }
+    state color="gray" {
+        replace "minecraft:gray_concrete"
+    }
+    state color="light_gray" {
+        replace "minecraft:light_gray_concrete"
+    }
+    state color="(cyan|teal)" {
+        replace "minecraft:cyan_concrete"
+    }
+    state color="purple" {
+        replace "minecraft:purple_concrete"
+    }
+    state color="blue" {
+        replace "minecraft:blue_concrete"
+    }
+    state color="brown" {
+        replace "minecraft:brown_concrete"
+    }
+    state color="green" {
+        replace "minecraft:green_concrete"
+    }
+    state color="red" {
+        replace "minecraft:red_concrete"
+    }
+}
+
+block "pswg:.*imperial_glass" {
+    replace "minecraft:glass"
+}
+
+block "pswg:.*imperial_panel_sectional(_\\d)?" {
+    merge down="*" "true"
+    merge east="*" "true"
+    merge north="*" "true"
+    merge south="*" "true"
+    merge up="*" "true"
+    merge west="*" "true"
+}
+block "pswg:.*imperial_panel_pattern_\\d*"
+block "pswg:.*imperial_panel_blank"
+block "pswg:imperial_cutout(_caged)?_pipes"
+block "pswg:.*imperial_plating" {
+    merge down="*" "true"
+    merge east="*" "true"
+    merge north="*" "true"
+    merge south="*" "true"
+    merge up="*" "true"
+    merge west="*" "true"
+}
+
+block "architecture_extensions:minecraft/cracked_deepslate_tile_wall_post" {
+    replace "minecraft:cobbled_deepslate_wall"
+}
+
+block "pswg:zersium_block"
+
+block "(railways:track(_[^mc][^_]*)?|create:track)" {
+    state shape="(zo|nd)" {
+        replace "minecraft:acacia_trapdoor" facing="south" half="bottom" open="false"
+    }
+    state shape="(xo|pd)" {
+        replace "minecraft:acacia_trapdoor" facing="west" half="bottom" open="false"
+    }
+    replace "minecraft:acacia_trapdoor" facing="south" half="bottom" open="false"
+}
+
+block "architecture_extensions:.*_facade" {
+    replace "minecraft:air"
+}
+
+block "architecture_extensions:minecraft/raw_iron_roof" {
+    state waterlogged=false {
+        replace (group)"leaves" waterlogged=false
+    }
+}
+
+block "architecture_extensions:minecraft/quartz_roof" {
+    replace "minecraft:quartz_stairs"
+}
+block "architecture_extensions:minecraft/smooth_quartz_roof" {
+    replace "minecraft:smooth_quartz_stairs"
+}
+block "architecture_extensions:minecraft/.*deepslate_roof" {
+    replace "minecraft:deepslate_tile_stairs"
+}
+
+block "wwizardry:reinforced_glass_pane" {
+    replace "minecraft:glass_pane"
+}
+
+block "conventional_cubes:celestite(_dark)?_brick"
+
+block "softerpastels:black_wall" {
+    replace "minecraft:blackstone_wall"
+}
+
+block "soul_ice:lightstone_bricks"
+
+block "phonos:loudspeaker" {
+    merge input_0_plugged="*"
+    merge input_1_plugged="*"
+    merge input_2_plugged="*"
+    merge input_3_plugged="*"
+}
+block "phonos:radio_loudspeaker" {
+    replace (group)"leaves" waterlogged=false
+}
+
+block "consistency_plus:smooth_blue_concrete";
+block "consistency_plus:smooth_orange_concrete";
+block "consistency_plus:blue_terracotta_bricks";
+block "consistency_plus:purple_terracotta_bricks";
+block "softerpastels:gray_pastel_block";
+block "softerpastels:light_gray_pastel_block";
+block "hotm:smooth_thinking_stone"
+block "hotm:rusted_thinking_scrap"
+block "promenade:polished_asphalt"
+block "promenade:dark_amaranth_wart_block"
+block "create:cut_dripstone_slab"
+block "create:cut_dripstone_stairs"
+block "conventional_cubes:wingfortress_caution"
+block "conventional_cubes:wingfortress_panel_light"
+block "conventional_cubes:gestahl_scaffold"
+block "pswg:ilum_stone_bricks"
+block "conventional_cubes:wattle_vertical"
+block "create:cut_crimsite_bricks"
+block "create:andesite_alloy_block"
+block "create:raw_zinc_block"
+block "wwizardry:mossy_chiseled_basalt"
+block "wwizardry:basalt_tiles"
+block "promenade:palm_hanging_leaves"
+
+block "computercraft:speaker"
+
+block "create:andesite_scaffolding" {
+    replace (group)"leaves"
+}
+
+block "yttr:yttrium_block"
+block "yttr:continuous_platform" {
+    replace (group)"leaves"
+
+    merge age="*"
+    merge logged="*"
+    merge speedy="*"
+}
+
+block "yttr:lazor_emitter" {
+    merge color="*"
+}
+
+block "yttr:cleaved_block" {
+    replace "minecraft:barrier"
+}
+
+block "aurorasdeco:bench.*" {
+    replace "minecraft:spruce_slab" type="bottom"
+}
+/*block "aurorasdeco:seat_rest.*" {
+    replace "minecraft:air"
+}*/
+block "create:.*seat" {
+    replace (group)"sculk sensor"
+    replace "minecraft:spruce_slab" type="bottom"
+}
+
+block "wood_you_dye:black_plank_hanging_sign" {
+    replace "minecraft:mangrove_hanging_sign"
+}
+block "tropics:palm_hanging_sign" {
+    replace "minecraft:birch_hanging_sign"
+}
+
+block "conventional_cubes:gestahl.*panel"
+block "conventional_cubes:crystal_lamp.*"
+
+block "yttr:cage_lamp" {
+    replace (group)"leaves"
+
+    merge color="*" "colorless"
+    merge inverted="*"
+}
+block "create:cut_scorchia_slab"
+
+// templates
+block "templates:pressure_plate" {
+    replace "minecraft:oak_pressure_plate"
+}
+
+block "templates:door" {
+    replace "minecraft:oak_door"
+}
+
+block "templates:lever" {
+    replace "minecraft:lever"
+}
+
+block "templates:stairs" {
+    replace "minecraft:oak_stairs"
+}
+
+block "templates:slab" {
+    replace "minecraft:oak_slab"
+}
+
+block "templates:trapdoor" {
+    replace "minecraft:oak_trapdoor"
+}
+
+block "templates:carpet" {
+    replace "minecraft:green_carpet"
+}
+
+block "templates:wall" {
+    replace "minecraft:brick_wall"
+}
+
+block "templates:pane" {
+    replace "minecraft:glass_pane"
+}
+
+// Stuff that might be handy
+
+block "ochetgenyo:.*" {
+    replace "minecraft:sandstone"
+}
+
+block "conventional_cubes:wattle_.*"
+
+block "wood_you_dye:.*_planks"
+
+block "portalcubed:.*panel[^a]+"
+
+block "create:.*bricks"
+
+entity "create:seat" {
+    base "minecraft:arrow"
+    name null
+}
+
+entity "aurorasdeco:seat" {
+    base "minecraft:arrow"
+    name null
+}
