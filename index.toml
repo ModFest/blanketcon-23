@@ -1814,13 +1814,5 @@ file = "resources/resourcepacks/bovinesandbuttercups_bc23.zip"
 hash = "191fdc8f184b7d8a3fe5313a16dc3796a3a7eb2c8eb415ba0164d931f6ba14ec"
 
 [[files]]
-file = "resources/resourcepacks/modfemogg.zip"
-hash = "2fe4a7bc0a19d80dc016fe5c7f4d38a84df5182cd5d94f012c2d3844274c0c12"
-
-[[files]]
-file = "resources/resourcepacks/pridemogg.zip"
-hash = "bab2a39422a26cccebaf36cccd0caaef5f4fb2eaf9968c95c66def0ef5fc04b0"
-
-[[files]]
 file = "resources/resourcepacks/twemojis.zip"
 hash = "77fd21d736e443a5418117a34e68393ee93020be42b0861e503fcc2e25382515"
