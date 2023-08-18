@@ -1801,6 +1801,10 @@ file = "resources/resourcepacks/HexTech.zip"
 hash = "30e5abc05e8b01b91bb5b69d0f3609a37570637521e8b40c2e2884ad4b4573e0"
 
 [[files]]
+file = "resources/resourcepacks/arch_ex_icon_bc23.zip"
+hash = "74ce153773b8ffd0dc4414d2be095e5c032ea49b32269bb85893ab877a317851"
+
+[[files]]
 file = "resources/resourcepacks/betterdiscs.pw.toml"
 hash = "8f5ca59ad9e624af1923f2388d3f53edada3d30785729fa169ed9790045dea98"
 metafile = true

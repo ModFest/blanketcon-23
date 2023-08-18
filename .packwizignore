@@ -18,5 +18,5 @@ git
 /enable_hooks.sh
 /bunnify.sh
 
-# Sisby said to do this
+# Exclude GitHub workflows
 .github/
