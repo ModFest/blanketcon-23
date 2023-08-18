@@ -1,13 +1,13 @@
 name = "Terracotta Knights"
-filename = "terracotta_knights-1.1.9+1.20.1.jar"
+filename = "terracotta_knights-1.1.10+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GgTW6G1d/versions/HvsryZFN/terracotta_knights-1.1.9%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/GgTW6G1d/versions/39JO1AAy/terracotta_knights-1.1.10%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "a96223574a13f3085557c0ebcfcf4c3c4782353b"
+hash = "b9c2d348f328f39a491fc1a73582568634967794"
 
 [update]
 [update.modrinth]
 mod-id = "GgTW6G1d"
-version = "HvsryZFN"
+version = "39JO1AAy"

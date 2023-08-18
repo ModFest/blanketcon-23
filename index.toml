@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "efb11c1cafe29e83fbd3ad7332dcf411f50ff09bc0f75b29e2f1033954ee5e76"
+hash = "2d154fb502a743ac9ea2d9cb1615ad20dddef9851bf8156f424981e9198a1c99"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/demobox.pw.toml"
-hash = "30207ed51d07995272f61f55feb19686c92317cf7bf01adb111ebd29ad5ff002"
+hash = "8ae3dc2c68864611bddabdeb10fa790cc1203c0c255ca8f244fd57656132083b"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
+hash = "6509dacb1e29887fb135d5b7b34a3e82718309538d3f2bb5b42c21878d06d44c"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "7a62f59c418c9ff274c306c3d163cbcc9e6917722135bb440622d855a390e2b5"
+hash = "9774fb8a684264ad10cd73470c389fcae8606cb69a9feffea26cdc98bf9e0202"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexbound.pw.toml"
-hash = "9fa5657e4d7c16e252c5fdf664522e9163347078f3b725a0580eea48198e4c23"
+hash = "5866e507bb0e6efc86c2e5dcc024974cfd4df3c81ab4905b26650d32abd9766f"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/mycoturgy.pw.toml"
-hash = "a4104b0e8ea92dc7de66f0f516a1962434ab5125b3cfa6537047496f5200c879"
+hash = "e6c7501c001b1c8595a5609c1fef23a8bdd6301e99df3b1a90e80701d8d71925"
 metafile = true
 
 [[files]]
@@ -795,12 +795,17 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
+hash = "004f94a52a1bc723e624544ae833dfc4c82258d001d749fb588c5e66d9de00cf"
 metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "c1d926fc2ad64cdb366e598749aca9b68e7f8e1e2d7e9ee902b437ee31d32cff"
+metafile = true
+
+[[files]]
+file = "mods/phonochat.pw.toml"
+hash = "7e879642311c8720248f64107e16519ac83e4bd13434dd58e10d692ab5a90b30"
 metafile = true
 
 [[files]]
@@ -850,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollinators-paradise.pw.toml"
-hash = "0e6acc84c84e6211f12addab7317a156cd1a37c7470aa32eb9e39b9734723d2b"
+hash = "2da0389afe88f75a386da5ede9a54ad0eaa8cd583957f6b9de823c799ce85432"
 metafile = true
 
 [[files]]
@@ -1020,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/spindlemark.pw.toml"
-hash = "c266b6eae0a7248474b938bc193a086d758a61364433eaefda49380563919c13"
+hash = "019bca1c48e416185d4e3b1bd4911794ce77bfc6e403c818673c12e7ad35e1e4"
 metafile = true
 
 [[files]]
@@ -1080,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "79efffabddecf14544b0cd1e602bae21695a461147a11cbb2339c1798fef56ea"
+hash = "ca7980131ec1ca1a11181529237d712755f3455617f260bec4f8ddc359693151"
 metafile = true
 
 [[files]]
@@ -1105,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/terracotta-knights.pw.toml"
-hash = "179284c17e35df0186314d1ae73c970c803254c9d83deaf358af605f8a99883c"
+hash = "d26894ea18d3002e719249ff8368e8040e4d6a0e90a71824c52efb12aa406c08"
 metafile = true
 
 [[files]]
@@ -1265,7 +1270,7 @@ metafile = true
 
 [[files]]
 file = "mods/wyd.pw.toml"
-hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
+hash = "53f46cfce1ee904eab196edc874147fc651a9d8b57e43aae005aafb0a08f994c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,7 @@
+name = "phonochat"
+filename = "phonochat-0.2.0+1.20.jar"
+
+[download]
+url = "https://blanketcon.b-cdn.net/SylvKT/phonochat/releases/download/v0.2.0%2B1.20/phonochat-0.2.0+1.20.jar"
+hash-format = "sha256"
+hash = "c7c769c69278c1ea5b934efe2f7d157ed027448505105e6ecf319fcd294d0d48"
