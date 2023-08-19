@@ -1,0 +1,595 @@
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -236
+	x = 437
+	name = "{\"text\":\"Origins- & TMO\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_green"
+	z = -301
+	x = 194
+	name = "{\"text\":\"Tinkerer's Smithing\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_cyan"
+	z = -346
+	x = -179
+	name = "{\"text\":\"Switchy\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 73
+	x = 103
+	name = "{\"text\":\"Pollinators' Paradise\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 56
+	x = -97
+	name = "{\"text\":\"Grand Central Station\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 414
+	x = -449
+	name = "{\"text\":\"Stage\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 39
+	x = 38
+	name = "{\"text\":\"City Hall\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = -294
+	x = -166
+	name = "{\"text\":\"HQ\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = -167
+	x = 154
+	name = "{\"text\":\"Moue Milkshakes\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = -114
+	x = 263
+	name = "{\"text\":\"Phonos\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_orange"
+	z = -106
+	x = 288
+	name = "{\"text\":\"Automobility\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = 1
+	x = 210
+	name = "{\"text\":\"Bovines & Buttercups\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 19
+	x = 170
+	name = "{\"text\":\"Missing Wilds\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = 115
+	x = 140
+	name = "{\"text\":\"Ochetgenyo\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 67
+	x = 146
+	name = "{\"text\":\"Milk+\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = 25
+	x = -44
+	name = "{\"text\":\"Figura\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_orange"
+	z = 27
+	x = -25
+	name = "{\"text\":\"Packages\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = 42
+	x = -3
+	name = "{\"text\":\"Templates 2\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 78
+	x = -4
+	name = "{\"text\":\"TerrariaMod\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = 63
+	x = -44
+	name = "{\"text\":\"Promenade\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_green"
+	z = 0
+	x = -66
+	name = "{\"text\":\"Yardwork\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_gray"
+	z = -39
+	x = -81
+	name = "{\"text\":\"SpindleMark\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = -73
+	x = -121
+	name = "{\"text\":\"BounceCraft3\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = -216
+	x = -143
+	name = "{\"text\":\"Discarnate\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_red"
+	z = -250
+	x = -129
+	name = "{\"text\":\"Succ\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -256
+	x = -170
+	name = "{\"text\":\"PortalCubed\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_cyan"
+	z = -262
+	x = -198
+	name = "{\"text\":\"Ext. Drawers\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -270
+	x = -216
+	name = "{\"text\":\"Adv. Networking\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = -237
+	x = -237
+	name = "{\"text\":\"EMI\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -259
+	x = -259
+	name = "{\"text\":\"Exco\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = -277
+	x = -260
+	name = "{\"text\":\"Lucky Ducks\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -262
+	x = -338
+	name = "{\"text\":\"Calibrated Access\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = -280
+	x = -341
+	name = "{\"text\":\"The Printer\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_cyan"
+	z = -329
+	x = -288
+	name = "{\"text\":\"CC:C Bridge\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = -352
+	x = -285
+	name = "{\"text\":\"Arcpocalypse\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = -359
+	x = -271
+	name = "{\"text\":\"Honk\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_green"
+	z = -343
+	x = -266
+	name = "{\"text\":\"CactusFix\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = -337
+	x = -197
+	name = "{\"text\":\"Pehkui\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = -356
+	x = -141
+	name = "{\"text\":\"Mycoturgy\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = -338
+	x = -116
+	name = "{\"text\":\"Affectionate\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = -331
+	x = -87
+	name = "{\"text\":\"Engination\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = -356
+	x = -110
+	name = "{\"text\":\"Lovely Snails\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = -205
+	x = -184
+	name = "{\"text\":\"Endrich\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -80
+	x = -149
+	name = "{\"text\":\"Tropics\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = -24
+	x = 27
+	name = "{\"text\":\"Plushables\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -26
+	x = 68
+	name = "{\"text\":\"Green Screen\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = 3
+	x = 78
+	name = "{\"text\":\"FEN\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -13
+	x = 100
+	name = "{\"text\":\"Controllify\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = -41
+	x = 133
+	name = "{\"text\":\"Scriptor Magicae\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = -25
+	x = 142
+	name = "{\"text\":\"Softer Pastels\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = -37
+	x = 174
+	name = "{\"text\":\"Map Zones\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_orange"
+	z = -59
+	x = 180
+	name = "{\"text\":\"FoxBox\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = -45
+	x = 226
+	name = "{\"text\":\"Utility Belt\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_red"
+	z = 57
+	x = 207
+	name = "{\"text\":\"Better Enchantment Boosting\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_cyan"
+	z = 83
+	x = 254
+	name = "{\"text\":\"Scarves\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = 66
+	x = 375
+	name = "{\"text\":\"Wanderering Wizardry\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_orange"
+	z = 140
+	x = -49
+	name = "{\"text\":\"Styled Series\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = 148
+	x = -119
+	name = "{\"text\":\"Brewery\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_red"
+	z = 144
+	x = -157
+	name = "{\"text\":\"Polyfactory\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = -210
+	x = 286
+	name = "{\"text\":\"Table Saw\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = -188
+	x = 262
+	name = "{\"text\":\"Arch Ex\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = 275
+	x = 421
+	name = "{\"text\":\"Icy Incitement\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = 285
+	x = 438
+	name = "{\"text\":\"Halfdoors\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = 303
+	x = 445
+	name = "{\"text\":\"Wanderer'S Catalogue\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = -380
+	x = -318
+	name = "{\"text\":\"Hazard Diamond\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_magenta"
+	z = -245
+	x = -300
+	name = "{\"text\":\"Hex Casting\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
