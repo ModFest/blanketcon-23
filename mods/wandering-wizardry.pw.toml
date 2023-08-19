@@ -2,6 +2,6 @@ name = "wandering-wizardry"
 filename = "wwizardry-0.1.7-blanketcon+1.20.1.jar"
 
 [download]
-url = "https://github.com/Sweet-Berry-Collective/Wandering-Wizardry/releases/download/0.1.7-blanketcon/wwizardry-0.1.7-blanketcon+1.20.1.jar"
+url = "https://blanketcon.b-cdn.net/Sweet-Berry-Collective/Wandering-Wizardry/releases/download/0.1.7-blanketcon/wwizardry-0.1.7-blanketcon+1.20.1.jar"
 hash-format = "sha256"
 hash = "8ae57ec48d71a4f48c399ad04ffcd780b329562ddea0c73893fdb6e3098b17fc"

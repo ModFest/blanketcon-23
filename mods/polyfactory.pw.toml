@@ -2,6 +2,6 @@ name = "polyfactory"
 filename = "polyfactory-0.0.0-alpha.0.jar"
 
 [download]
-url = "https://github.com/Patbox/PolyFactory/releases/download/0.0.0-blanket.1/polyfactory-0.0.0-alpha.0.jar"
+url = "https://blanketcon.b-cdn.net/Patbox/PolyFactory/releases/download/0.0.0-blanket.1/polyfactory-0.0.0-alpha.0.jar"
 hash-format = "sha256"
 hash = "cb1e4dd57585302d75a07841f7cae03a15a90985a6eb08e2a3969ef67c8969d9"
