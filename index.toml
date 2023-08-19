@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/build-rush.pw.toml"
-hash = "4f111f604e8202264f92320c4037f19776e10fa7c75bdc9320a795841d4aca14"
+hash = "bdd7aa077f37c9e5b309c6a8e63e83ef8871508e0b6057bc0e75ba33a93600a0"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/nucleoid-extras-blanketcon.pw.toml"
-hash = "e428bfae522d60885d8bf492e4c0712e6a113b5322a7b231125e3d3007d678a6"
+hash = "6f037db270f5408781d69ba42a36cd0d0bdfaf063d77975f47c38b967f7f3763"
 metafile = true
 
 [[files]]
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonochat.pw.toml"
-hash = "464d7c3bcdf59d894c4abff42e24c9b325935758128df9fbdaa330b346b1f4ad"
+hash = "23ecb0ac21680848183eb25f14adfa8f07e33006d9ede93c78287d29877384e0"
 metafile = true
 
 [[files]]
@@ -978,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "2788e97a0816b31df36ca6d92432b783de884c5563b62cb03b3739c07d473c62"
+hash = "881acfe57b6f572dfd4b20a2ad74ea9ba24b47efaac4cc2d4f4aef36a2b3a254"
 metafile = true
 
 [[files]]
@@ -988,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymcshowcase.pw.toml"
-hash = "9359e66daca58d17f44c2d1dc66b7d32b5eeed0a469b96f7e7067f489e873d20"
+hash = "c117fb25b00aa58f026e5fdf91eb22bbec382af73453170e11e1a48e443a66c1"
 metafile = true
 
 [[files]]
@@ -1073,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "mods/sandwichable.pw.toml"
-hash = "c24020d57001c99a141b3a692d374f7a87ab34aee2ab488079faa5668d4f4cf9"
+hash = "07d4a2a3234cfc41a7c5943fdf3f7586dcc0f03f17b03801f58d4ca5f9c36d9d"
 metafile = true
 
 [[files]]
@@ -1138,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/softerpastels.pw.toml"
-hash = "248afd7c74aaf70ec803d6d9bd511636ccc216e4828c0fad335b244a8988a962"
+hash = "9420df0d5b271e2a84717b01bef06be634a94bc34e0ff06e53c096cff2723581"
 metafile = true
 
 [[files]]
@@ -1378,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "3268c53d4a148931833e9f43f2f829d760c238f237eb820597b9f0e278860a2c"
+hash = "5ccc0267c3ed908c651362540249eba4a2a401f1495e9d51dd4d19258caa1326"
 metafile = true
 
 [[files]]
