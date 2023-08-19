@@ -1,7 +1,7 @@
-name = "build_rush"
+name = "build-rush"
 filename = "build_rush-3.0.2.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/NucleoidMC/blanketcon/releases/download/1.0.3/build_rush-3.0.2.jar"
+url = "https://github.com/NucleoidMC/BuildRush/releases/download/v3.0.3/build_rush-3.0.2.jar"
 hash-format = "sha256"
-hash = "6e9e3a3d29246da120380ce2a23fa30d66db5ea6a4424ca19f1badcf98b3631b"
+hash = "67376e3be28f693ca9e1a3dc89c9536dd5921d548fb092ca1b5deb49d1955328"

@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/arachne.pw.toml"
-hash = "647514a9921c65ef0a2471048af802af79b89a36ae8e9ed688ab79882724564e"
+hash = "10d3d4f04b247f6a812265584c0c8b3a4581373975b88069abac5d52a035313d"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchantment-boosting.pw.toml"
-hash = "5699805d7aab33e3de0d5948ef74964eda181aad8b234b68f5bf6ba013788c04"
+hash = "8a5178f3890d4188c6c09768f0dc539224f3728ded15e85a8b21be8e2de9c331"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/build-rush.pw.toml"
-hash = "d5ae6092686f4bcdf846e995d52054fe2134ca59c5c190205e92d096819c4a33"
+hash = "4f111f604e8202264f92320c4037f19776e10fa7c75bdc9320a795841d4aca14"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "dc8f62178f60872b2d84ded4fb4d1686fbe03d629c6b01c1f54c8eb4f37c0c2c"
+hash = "2da07da2b3209b9079214ebfee20e6bf4875e98421c9be066f09ee19657611bd"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "9774fb8a684264ad10cd73470c389fcae8606cb69a9feffea26cdc98bf9e0202"
+hash = "c6265d81c572d89d728e5e776c9f929ea7a5d576d09b9f1090e5a174e1e95c8d"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/nucleoid-extras-blanketcon.pw.toml"
-hash = "337beafbf54ff30b58e4ae2b50e8f2406d28270e2aeeee6ee879ff6fd3493615"
+hash = "e428bfae522d60885d8bf492e4c0712e6a113b5322a7b231125e3d3007d678a6"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonochat.pw.toml"
-hash = "7e879642311c8720248f64107e16519ac83e4bd13434dd58e10d692ab5a90b30"
+hash = "464d7c3bcdf59d894c4abff42e24c9b325935758128df9fbdaa330b346b1f4ad"
 metafile = true
 
 [[files]]
@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "ef28894f0f930907df5213d2206976541166d0fd1d2683dbf97baa228493f281"
+hash = "e5150d59746342e8aa4348b208670f298b4b37bf386e71446b7764be7690b71d"
 metafile = true
 
 [[files]]
@@ -874,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "b932fd6748e732c41cad8929c91d8c3c91bcb8a94fdfc55469c72f30e87facc5"
+hash = "2788e97a0816b31df36ca6d92432b783de884c5563b62cb03b3739c07d473c62"
 metafile = true
 
 [[files]]
@@ -884,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymcshowcase.pw.toml"
-hash = "223d5420159c6db9617e3c28a60ae170061d703f525b3c0a7255e8f99041943c"
+hash = "9359e66daca58d17f44c2d1dc66b7d32b5eeed0a469b96f7e7067f489e873d20"
 metafile = true
 
 [[files]]
@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/sandwichable.pw.toml"
-hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
+hash = "c24020d57001c99a141b3a692d374f7a87ab34aee2ab488079faa5668d4f4cf9"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-starminer.pw.toml"
-hash = "915c623094af84904c46c945638451dacb2ee1ba40a6356fb57c767546ab69cd"
+hash = "b197749dedce827cc1ee423af8c937136e98f8610845309ab0ebc36b088506ca"
 metafile = true
 
 [[files]]
@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "cc3b4c1e6541a979807699ebc0ade76376326d6be75cc0cd05c77ab701996e61"
+hash = "3268c53d4a148931833e9f43f2f829d760c238f237eb820597b9f0e278860a2c"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "d30e312fc3c55f28036a891f8d46ccaff216b1333dbaafd3486c0d82271f6290"
+hash = "9d40c369fce90f24fe0c935af49a2ab6f00bf529e1314199b31b222768557863"
 metafile = true
 
 [[files]]
