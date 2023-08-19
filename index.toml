@@ -153,6 +153,10 @@ file = "config/yttr.css"
 hash = "3d86accc8feeafc941276420b775ef2d90c4574f7ae42136d52e02c1b564f766"
 
 [[files]]
+file = "lambdamap/config.toml"
+hash = "137c8bd682212f14b49cea0f25b0c1a68c0468746658e86bf5a934fcf4673713"
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "9a6b893e1d6842d5c9eddc612074a1b04f891e5f3405fd543a46e8feea287a2f"
 metafile = true
