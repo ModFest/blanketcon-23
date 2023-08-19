@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdamap.pw.toml"
-hash = "00c9bfbf9a6b3a78b3846fc4badbe476847838fe6e822108af3330df0a3cea75"
+hash = "b84e6a37cd67ce05ccf44cfe843022c0a879da545eba00c07aaa6fbcbb1cc8e6"
 metafile = true
 
 [[files]]
