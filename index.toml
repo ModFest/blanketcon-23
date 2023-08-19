@@ -154,7 +154,7 @@ hash = "3d86accc8feeafc941276420b775ef2d90c4574f7ae42136d52e02c1b564f766"
 
 [[files]]
 file = "lambdamap/config.toml"
-hash = "137c8bd682212f14b49cea0f25b0c1a68c0468746658e86bf5a934fcf4673713"
+hash = "4c946f2d3d7d1ee0374ca352efd992f9084347df6898fe588e1ef084a4701464"
 
 [[files]]
 file = "mods/advanced-networking.pw.toml"
