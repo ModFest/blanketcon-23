@@ -208,6 +208,11 @@ hash = "f2166f09e4d2ee4a43dac512bf31bb5bdb9da121d11ad21940f36446afb4213a"
 metafile = true
 
 [[files]]
+file = "mods/atlaslisbon.pw.toml"
+hash = "6d5a3e113375cc6a4933fdc2c9901408b9114b5cb66c68650c61b4025d6b9342"
+metafile = true
+
+[[files]]
 file = "mods/aurorasdecorations.pw.toml"
 hash = "b7d82cd112896a6e2c94b5c51bcbd21e7cba294c88f0e2f7b886eb382bad2353"
 metafile = true

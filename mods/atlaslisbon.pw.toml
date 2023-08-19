@@ -1,0 +1,7 @@
+name = "atlaslisbon"
+filename = "atlaslisbon-1.1.0+1.20.1.jar"
+
+[download]
+url = "https://blanketcon.b-cdn.net/pub/atlaslisbon-1.1.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "d285d99dd1a70ce488aef78f628595d7d3a040e066518f8bf28556f855f80447"
