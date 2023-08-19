@@ -1,0 +1,8 @@
+name = "lambdamap"
+filename = "lambdamap-1.0.0-alpha.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/sisby-folk/LambdaMap/releases/download/v1.0.0-alpha.1/lambdamap-1.0.0-alpha.1+1.20.1.jar"
+hash-format = "sha1"
+hash = "da2fcff6f30241b401b7787d4342f98732502345"

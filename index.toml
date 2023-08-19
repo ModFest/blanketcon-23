@@ -642,6 +642,11 @@ hash = "9ab50606d214f4fc2670ced592de9eb03892dad5969dcfb048f0e123edcab98f"
 metafile = true
 
 [[files]]
+file = "mods/lambdamap.pw.toml"
+hash = "00c9bfbf9a6b3a78b3846fc4badbe476847838fe6e822108af3330df0a3cea75"
+metafile = true
+
+[[files]]
 file = "mods/lib39.pw.toml"
 hash = "b85944f52209e03ee7dc2934977ce829b87701f8f02d20311944379be7ced937"
 metafile = true
