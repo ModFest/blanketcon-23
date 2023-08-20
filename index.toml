@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "a10e9b8d3794518c6a1cc3f27a5624ab2f28a0ff9bde0bb0bf2aa4e16569b6b2"
+hash = "2dd090f92bdb4abcb73c82be0d26c8d33935143e1536d81e9cff7c3bd89caccb"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/lib39.pw.toml"
-hash = "b85944f52209e03ee7dc2934977ce829b87701f8f02d20311944379be7ced937"
+hash = "b31adee195cf953ff4e504076f33e9ddf703833142fd8486bcff88db02f785d2"
 metafile = true
 
 [[files]]
@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "8174614dfd5eea649b6418db16d7de1b45fca1dd7e62dcd5313874330baf1557"
+hash = "63b50c3c063d5d33d96ad12b82f469a6a462d14b0876c6dbcce40a8e9b33449f"
 metafile = true
 
 [[files]]
@@ -1216,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "053097a0564de47487c6b5b56e41829e05481eaa11810567740bca1d6d758d21"
+hash = "424f4f84715be79c8bec35b574249555789bad49b9576358d5917c38f17d6e25"
 metafile = true
 
 [[files]]
@@ -1830,6 +1830,10 @@ hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
 [[files]]
 file = "resources/resourcepacks/HexTech.zip"
 hash = "30e5abc05e8b01b91bb5b69d0f3609a37570637521e8b40c2e2884ad4b4573e0"
+
+[[files]]
+file = "resources/resourcepacks/PolyMc.zip"
+hash = "ecb4051c5d9f74c9ac937e190347d2a2b3d9f3418c7bb96917398ea3e0ab5b6e"
 
 [[files]]
 file = "resources/resourcepacks/arch_ex_icon_bc23.zip"
