@@ -2,6 +2,6 @@ name = "flywheel"
 filename = "flywheel-fabric-1.20.1-0.6.9+fenceless.jar"
 
 [download]
-url = "https://jaskarth.com/pub/mods/flywheel-fabric-1.20.1-0.6.9+fenceless.jar"
+url = "https://blanketcon.b-cdn.net/jaskarth/pub/mods/flywheel-fabric-1.20.1-0.6.9+fenceless.jar"
 hash-format = "sha256"
 hash = "9c7c92bf41f05c62c7e0156e85887be68e780b7163c161ce52ee17a113f7c667"

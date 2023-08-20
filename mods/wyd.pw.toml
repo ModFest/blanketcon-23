@@ -2,6 +2,6 @@ name = "wyd"
 filename = "wood_you_dye-1.1.0+1.20.1-quilt+jashacks1.jar"
 
 [download]
-url = "https://jaskarth.com/pub/mods/wood_you_dye-1.1.0+1.20.1-quilt+jashacks1.jar"
+url = "https://blanketcon.b-cdn.net/jaskarth/pub/mods/wood_you_dye-1.1.0+1.20.1-quilt+jashacks1.jar"
 hash-format = "sha256"
 hash = "d860f306a08d91de2cd84985f7b70e469964fab8ea06a17ebabf5614a87108a7"
