@@ -1,13 +1,7 @@
-name = "Automobility"
-filename = "automobility-0.4.2+1.20.1-fabric.jar"
-side = "both"
+name = "automobility"
+filename = "automobility-0.4.2.a+1.20.1-fabric.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/rqIsPf9F/versions/G97BY8OB/automobility-0.4.2%2B1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "c820b82890d0192ccf1e8bc05d1ff081bc5954b7"
-
-[update]
-[update.modrinth]
-mod-id = "rqIsPf9F"
-version = "G97BY8OB"
+url = "https://blanketcon.b-cdn.net/FoundationGames/Automobility/releases/download/0.4.2.a%2B1.20.1/automobility-0.4.2.a+1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "9508f5ca238df090c96f31d2ba53a4b8fba792f5189473e7bf60bb19902666eb"

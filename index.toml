@@ -161,6 +161,10 @@ file = "config/toomanyorigins.json"
 hash = "f862bfb34a54098fec2c39a5d957666485a053e1166ec0d470ba52f8fff6c9a9"
 
 [[files]]
+file = "config/turtlematic.toml"
+hash = "d82b63389c2c258fbcfce86d7b69535cfb8a8dfdef374ea011a7063b9509678f"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "5e47cf349a4bc236e166564d5c89820f0b3e2da295dc2443e64bc11eade30609"
 
@@ -175,6 +179,14 @@ hash = "45b56810c1c6fcabaf2c6f8fa4f7e4ae1eaccae56e19a7e8acc849054064a249"
 [[files]]
 file = "config/yttr.css"
 hash = "3d86accc8feeafc941276420b775ef2d90c4574f7ae42136d52e02c1b564f766"
+
+[[files]]
+file = "lambdamap/BlanketCon_23_falcon.chs.gg_25565/-4115623528033663786/minecraft/overworld/markers.toml"
+hash = "405ea64f7962b5b26828cbf370e5d355fcae19809926b14b4e553a17e3042f5e"
+
+[[files]]
+file = "lambdamap/config.toml"
+hash = "4c946f2d3d7d1ee0374ca352efd992f9084347df6898fe588e1ef084a4701464"
 
 [[files]]
 file = "mods/advanced-networking.pw.toml"
@@ -253,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
+hash = "5f92ab6c221c5bcf7aa7d3d300ef89fb35d3e900267cb2d867f2b729a7c1ee4a"
 metafile = true
 
 [[files]]
@@ -383,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "8852812ef007ff8afcfbd949533f2124f0aaee4cbb068ce8202217614aebea58"
+hash = "a10e9b8d3794518c6a1cc3f27a5624ab2f28a0ff9bde0bb0bf2aa4e16569b6b2"
 metafile = true
 
 [[files]]
@@ -423,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/decomod.pw.toml"
-hash = "7448f886e745bed574639e31d1e41c910050a2a40e62843ef75a394e7b479bc7"
+hash = "4ed51629c5a2678cb2082709b8a0a45fffc7b98a4eb225d3a40fcaf2262c76e9"
 metafile = true
 
 [[files]]
@@ -573,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "c6265d81c572d89d728e5e776c9f929ea7a5d576d09b9f1090e5a174e1e95c8d"
+hash = "54d6da970f0e4ce34d0cd8745c2708e038aeafb596d1070547cf87c579d7ff7b"
 metafile = true
 
 [[files]]
@@ -714,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/lambdamap.pw.toml"
+hash = "b84e6a37cd67ce05ccf44cfe843022c0a879da545eba00c07aaa6fbcbb1cc8e6"
 metafile = true
 
 [[files]]
@@ -978,12 +995,12 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "881acfe57b6f572dfd4b20a2ad74ea9ba24b47efaac4cc2d4f4aef36a2b3a254"
+hash = "639afb58b534b632c945a9e1676ad9f890a03d8b948a4c0b17d807cc99bbc647"
 metafile = true
 
 [[files]]
 file = "mods/polymc.pw.toml"
-hash = "701d2ca8dea909c1881560b36f827d30642b84460cd01803d390bdccf2db1de1"
+hash = "6e47b9687303fea591f60eb1fad89c8a08c6cab1e6810f5d69cd9f18c340abfd"
 metafile = true
 
 [[files]]
@@ -998,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "b773fb6d3160e2464165d6b4066f9b97e959897546f80da545e9029dd8e4c202"
+hash = "c2da178395743c7471fa5a0db82e14f01fc033bb17452ef8c009839d5708abfe"
 metafile = true
 
 [[files]]
@@ -1113,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-starminer.pw.toml"
-hash = "b197749dedce827cc1ee423af8c937136e98f8610845309ab0ebc36b088506ca"
+hash = "699bde629ef9396515c5767f4e12f8d6c2b1f7cbac2bfb158db36e1bbcd7ba37"
 metafile = true
 
 [[files]]
@@ -1258,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrariamod.pw.toml"
-hash = "ce34643851b550fedc6a994f0cb39aed0e45d53f11175be102adaf9bc7b86aa3"
+hash = "1e5d8148549db4a7c05585ea3ca6eb2811d5580aa075eb027261be9af45223cf"
 metafile = true
 
 [[files]]

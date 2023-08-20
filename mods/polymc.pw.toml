@@ -1,7 +1,7 @@
 name = "polymc"
-filename = "PolyMc-5.3.3+1.20.jar"
+filename = "PolyMc-5.3.3+bc.1+1.20.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/TheEpicBlock/PolyMc/releases/download/5.3.3/PolyMc-5.3.3+1.20.jar"
+url = "https://blanketcon.b-cdn.net/TheEpicBlock/PolyMc/releases/download/5.3.3%2Bbc.1/PolyMc-5.3.3+bc.1+1.20.jar"
 hash-format = "sha256"
-hash = "8dc6908b462f075673e544d3ae034072d055adc2e1e4044b66d2ae3b0095ff24"
+hash = "3525a539ded7ddadb0ba7d4e0eb7151ab63150f522fc21a116400aa88f3bdc8c"

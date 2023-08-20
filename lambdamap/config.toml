@@ -1,0 +1,15 @@
+
+# LambdaMap Configuration
+[map]
+	render_biome_colors = true
+
+	[map.hud]
+		decorator = "lambdamap:none"
+		visible = false
+		direction_indicators = false
+		scale = 2
+		north_lock = true
+
+	[map.config]
+		fullscreen = true
+
