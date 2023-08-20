@@ -2,6 +2,6 @@ name = "create-steam-n-rails"
 filename = "Steam_Rails-fabric-1.20.1-1.5.0+fabric-mc1.20.1-build.544.jar"
 
 [download]
-url = "https://maven.ithundxr.dev/releases/com/railwayteam/railways/Steam_Rails-fabric-1.20.1/1.5.0+fabric-mc1.20.1-build.544/Steam_Rails-fabric-1.20.1-1.5.0+fabric-mc1.20.1-build.544.jar"
+url = "https://blanketcon.b-cdn.net/ithundxr/releases/com/railwayteam/railways/Steam_Rails-fabric-1.20.1/1.5.0+fabric-mc1.20.1-build.544/Steam_Rails-fabric-1.20.1-1.5.0+fabric-mc1.20.1-build.544.jar"
 hash-format = "sha256"
 hash = "ad0ced59925599f97ee626aa71b04993902fa68f78aa1451ead71a875c0ad209"

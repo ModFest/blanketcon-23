@@ -3,6 +3,6 @@ filename = "lambdamap-1.0.0-alpha.2+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/sisby-folk/LambdaMap/releases/download/v1.0.0-alpha.2/lambdamap-1.0.0-alpha.2+1.20.1.jar"
+url = "https://blanketcon.b-cdn.net/sisby-folk/LambdaMap/releases/download/v1.0.0-alpha.2/lambdamap-1.0.0-alpha.2+1.20.1.jar"
 hash-format = "sha1"
 hash = "e29f04351465a39d1de0ef92e3e5a06ac6899d6b"

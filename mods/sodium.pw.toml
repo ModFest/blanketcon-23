@@ -2,6 +2,6 @@ name = "sodium"
 filename = "sodium-fabric-mc1.20-rc1-0.4.10+bc2.jar"
 
 [download]
-url = "https://jaskarth.com/pub/mods/sodium-fabric-mc1.20-rc1-0.4.10+bc2.jar"
+url = "https://blanketcon.b-cdn.net/jaskarth/pub/mods/sodium-fabric-mc1.20-rc1-0.4.10+bc2.jar"
 hash-format = "sha256"
 hash = "a6abf191be840142e181d0f870429066fe8414ff5971f26edb4db912e22e4d12"
