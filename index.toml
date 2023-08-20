@@ -137,6 +137,10 @@ file = "config/styled-sidebars/config.json"
 hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
 
 [[files]]
+file = "config/turtlematic.toml"
+hash = "d82b63389c2c258fbcfce86d7b69535cfb8a8dfdef374ea011a7063b9509678f"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "5e47cf349a4bc236e166564d5c89820f0b3e2da295dc2443e64bc11eade30609"
 
@@ -507,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "c53d9b54c707d1ccc215f584f78cdda7ab80301ac1601b0c721625178f5b25f3"
+hash = "54d6da970f0e4ce34d0cd8745c2708e038aeafb596d1070547cf87c579d7ff7b"
 metafile = true
 
 [[files]]
