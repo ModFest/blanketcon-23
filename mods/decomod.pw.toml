@@ -1,7 +1,13 @@
-name = "decomod"
-filename = "DecoMod-fabric-1.20.1-1.0.0blanketcon.jar"
+name = "DecoMod"
+filename = "DecoMod-fabric-1.20.1-1.0.1+blanketcon.jar"
+side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1127341468219080814/1139237207987736667/DecoMod-fabric-1.20.1-1.0.0blanketcon.jar"
-hash-format = "sha256"
-hash = "e2a4ca0fc012400a021b6b69512229d2ef636d9f54a517f802f6ca06fdc338e4"
+url = "https://cdn.modrinth.com/data/7wa9983j/versions/7tQ3xaW8/DecoMod-fabric-1.20.1-1.0.1%2Bblanketcon.jar"
+hash-format = "sha1"
+hash = "304b3f23f2add77578ab218e7dd831fffb0ea66d"
+
+[update]
+[update.modrinth]
+mod-id = "7wa9983j"
+version = "7tQ3xaW8"
