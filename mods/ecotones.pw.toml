@@ -3,6 +3,6 @@ filename = "ecotones-0.9.4-showcase1.jar"
 side = "both"
 
 [download]
-url = "https://jaskarth.com/pub/mods/ecotones-0.9.4-showcase1.jar"
+url = "https://blanketcon.b-cdn.net/jaskarth/pub/mods/ecotones-0.9.4-showcase1.jar"
 hash-format = "sha256"
 hash = "98426204ef2bb98a29318fd52c528bad312cd500375e17654f1066a38ee3f285"
