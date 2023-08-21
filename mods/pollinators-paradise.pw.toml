@@ -1,7 +1,7 @@
 name = "pollinators-paradise"
-filename = "pollinators-paradise-1.3.2-bc.1+1.20.jar"
+filename = "pollinators-paradise-1.3.3-bc.1+1.20.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/HestiMae/pollinators-paradise/releases/download/v1.3.2-bc.1/pollinators-paradise-1.3.2-bc.1+1.20.jar"
+url = "https://blanketcon.b-cdn.net/HestiMae/pollinators-paradise/releases/download/v1.3.3-bc.1/pollinators-paradise-1.3.3-bc.1+1.20.jar"
 hash-format = "sha256"
-hash = "daff9f0b6f58d37108bad88e4d4d29738d3c862a824bfbb99b86553eb86ecc81"
+hash = "de96c93ed6f5b9c87e73ae7c1de0c3e66231395cfac11260bc00fd9d624de520"

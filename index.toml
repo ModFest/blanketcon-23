@@ -21,6 +21,10 @@ file = "config/controlify.json"
 hash = "5b38433a12b4e03ce16613da82d5d7529022a1d41765997c4b1ad0ff4e13090c"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "1558093468579ccd720ff9357f87538de2a6f48a12398ba8d99243fc37dacfa7"
+
+[[files]]
 file = "config/crunchy_crunchy_advancements/config.toml"
 hash = "50ede56986e420e8d92f51154d79963e569c63825be0f2551fa5d240591cd3f7"
 
@@ -190,7 +194,7 @@ hash = "4c946f2d3d7d1ee0374ca352efd992f9084347df6898fe588e1ef084a4701464"
 
 [[files]]
 file = "mods/advanced-networking.pw.toml"
-hash = "9a6b893e1d6842d5c9eddc612074a1b04f891e5f3405fd543a46e8feea287a2f"
+hash = "50fcbe10eac3abf0b80b9a4bab9c43cee1890e796328e807c3daa5bf0b2f3e50"
 metafile = true
 
 [[files]]
@@ -435,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/decomod.pw.toml"
-hash = "4ed51629c5a2678cb2082709b8a0a45fffc7b98a4eb225d3a40fcaf2262c76e9"
+hash = "00a694eb801c00e8aad4d36175dce023287c9e4ea20f936522cc707b05186468"
 metafile = true
 
 [[files]]
@@ -470,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/drogstyle.pw.toml"
-hash = "4dfeb4a7f9ba351ce1cac51a97693b317ce26f0dcf9ba89e9f2ed96cd5472f57"
+hash = "f155a7ae79b6275926344d7ffaad136e214587671b5b4b69d4bf8afb275c816d"
 metafile = true
 
 [[files]]
@@ -585,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "8ff7176ddb9be7691c1f4016e1102d09dd29fc4d250407c724bf56c8d711e782"
+hash = "0661682b50f0e0bd77f1689dccb8149c11224bd2df3399e4459fb00857f604bc"
 metafile = true
 
 [[files]]
@@ -930,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonochat.pw.toml"
-hash = "23ecb0ac21680848183eb25f14adfa8f07e33006d9ede93c78287d29877384e0"
+hash = "4e7393007289f231d09ec9978612ecb8fcebdb9dbbc73fd94ef0622bba42e503"
 metafile = true
 
 [[files]]
@@ -980,12 +984,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollinators-paradise.pw.toml"
-hash = "2da0389afe88f75a386da5ede9a54ad0eaa8cd583957f6b9de823c799ce85432"
-metafile = true
-
-[[files]]
-file = "mods/polyconfig.pw.toml"
-hash = "f40f9fa200c128ef7ac267ab143673bfae6d1c3f96e14082c617507959c8f9ac"
+hash = "70d56d9c2a37000fafc5dd71d5496be275f3b1edf4e27a458c7c070cb2ad6cf9"
 metafile = true
 
 [[files]]
@@ -995,22 +994,12 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "639afb58b534b632c945a9e1676ad9f890a03d8b948a4c0b17d807cc99bbc647"
-metafile = true
-
-[[files]]
-file = "mods/polymc.pw.toml"
-hash = "6e47b9687303fea591f60eb1fad89c8a08c6cab1e6810f5d69cd9f18c340abfd"
-metafile = true
-
-[[files]]
-file = "mods/polymcshowcase.pw.toml"
-hash = "c117fb25b00aa58f026e5fdf91eb22bbec382af73453170e11e1a48e443a66c1"
+hash = "5887b495cc059279508af4e9aa178b9d9a1dc1ed8827e9f96ad7d5578d661de1"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "63b50c3c063d5d33d96ad12b82f469a6a462d14b0876c6dbcce40a8e9b33449f"
+hash = "0267ae57a3f7681b27641939a4a28e42abe7c6d55b78515ddd11cfd99689bb66"
 metafile = true
 
 [[files]]
@@ -1320,7 +1309,7 @@ metafile = true
 
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
-hash = "f1ff0e7b1ad2998a5395a2c9151915ecf889eed017d0c99b4fc314b2a042dedd"
+hash = "e047d9427388cbe37d7980d07dc830bcdc27c2293e026ab8c3e5194d3690ac24"
 metafile = true
 
 [[files]]
@@ -1459,7 +1448,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "9d40c369fce90f24fe0c935af49a2ab6f00bf529e1314199b31b222768557863"
+hash = "8b76ab9f487be5180944aa35113dfc1f949a4a4f4668052b83d75d3716b6a0a7"
 metafile = true
 
 [[files]]
@@ -1825,10 +1814,6 @@ hash = "a85349d36b76255bc03adac0a26a76514ffad31ec30aa8f0017814dc4bd7f813"
 [[files]]
 file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
 hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
-
-[[files]]
-file = "resources/resourcepacks/PolyMc.zip"
-hash = "e2aea15f20da634b381b563f005fff723836bb0e123e45dad0e600ec9dbc6379"
 
 [[files]]
 file = "resources/resourcepacks/arch_ex_icon_bc23.zip"
