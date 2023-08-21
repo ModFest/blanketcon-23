@@ -1,13 +1,13 @@
 name = "Advanced Networking"
-filename = "advanced-networking-2.0.2+mc.1.20.1.jar"
+filename = "advanced-networking-2.0.3+mc.1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IF0Y4xFw/versions/nFBubnVV/advanced-networking-2.0.2%2Bmc.1.20.1.jar"
+url = "https://cdn.modrinth.com/data/IF0Y4xFw/versions/hgcUCnca/advanced-networking-2.0.3%2Bmc.1.20.1.jar"
 hash-format = "sha1"
-hash = "34e9089bed0a833d03d157aadc8177cf1eee982f"
+hash = "e2c09a4918a4702da44af6d7b3c2e05a931ad5d6"
 
 [update]
 [update.modrinth]
 mod-id = "IF0Y4xFw"
-version = "nFBubnVV"
+version = "hgcUCnca"
