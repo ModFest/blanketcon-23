@@ -174,7 +174,7 @@ hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "8fd937dd81bca6d39ba9ac6ab3d17820c05dca1aa668b51c0246404a60a10410"
+hash = "8c7a591455b8a60aa2b9eb70270a3f9a6c169586d8861dc6fe135ee7c818ea65"
 
 [[files]]
 file = "config/styledplayerlist/styles/default_spl.json"
@@ -613,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "0983b0aa5683aa79e8137fcb2ba78e437e3e68539b7c04467efff92ebdadbf42"
+hash = "026e967957bdce5519c4505f9cbf78f9cabb3524ea11bbb18a52df6798671db8"
 metafile = true
 
 [[files]]

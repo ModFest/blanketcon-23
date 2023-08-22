@@ -5,7 +5,7 @@
     "",
     "      <font:'blanketcon:icons'>0</font>      ",
     "",
-    "<b><gr:#e84ea8:#f2038f><st>                  </st>[ </gr><font:'unsanded:default'><c:#9bec6d>%server:online%</c><c:#f2038f>/</c><c:#4bee30>%server:max_players%</c></font><gr:#f2038f:#e84ea8> ]<st>                  </st>"
+    "<b><gr:#e84ea8:#f2038f><st>                  </st>[ </gr></b><font:'unsanded:default'><c:#9bec6d>%server:online%</c><c:#f2038f><b>/</b></c><c:#4bee30>%server:max_players%</c></font><b><gr:#f2038f:#e84ea8> ]<st>                  </st>"
   ],
   "list_footer": [
     "<b><gr:#e84ea8:#f2038f><st>                </st>[ </gr><gr:#00f7ff:#60faff:#00f7ff><font:'unsanded:default'>Events<r><b><gr:#f2038f:#e84ea8> ]<st>                </st>",
