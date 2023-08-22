@@ -5,7 +5,8 @@
 	"powers": [
 		"origins_minus:brace",
 		"origins_minus:rescue",
-        "origins_bc23:reset_tmo_upon_chosen"
+        "origins_bc23:reset_tmo_upon_chosen",
+        "origins_bc23:restrict_to_bounds"
 	],
 	"icon": {
 		"item": "minecraft:shield"

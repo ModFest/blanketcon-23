@@ -1,0 +1,38 @@
+{
+    "type": "origins:action_over_time",
+    "rising_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "origin set @s origins_bc23:toomanyorigins origins_bc23:tmo_no_origin"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "origin set @s origins_bc23:origins_minus origins:human"
+            }
+        ]
+    },
+    "condition": {
+        "type":"origins:or",
+        "conditions": [
+            {
+                "type": "origins:dimension",
+                "dimension": "minecraft:overworld",
+                "inverted": true
+            },
+            {
+                "type": "origins:distance_from_coordinates",
+                "offset": {
+                    "x": 487,
+                    "y": 0,
+                    "z": -247
+                },
+                "ignore_y": true,
+                "scale_reference_to_dimension": false,
+                "compare_to": 153,
+                "comparison": ">"
+            }
+        ]
+    }
+}

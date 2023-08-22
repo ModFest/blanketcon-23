@@ -9,7 +9,8 @@
 		"origins_minus:fire_punch",
 		"origins_minus:lava_fall_immunity",
 		"origins:flame_particles",
-        "origins_bc23:reset_tmo_upon_chosen"
+        "origins_bc23:reset_tmo_upon_chosen",
+        "origins_bc23:restrict_to_bounds"
 	],
 	"icon": {
 		"item": "minecraft:blaze_powder"
