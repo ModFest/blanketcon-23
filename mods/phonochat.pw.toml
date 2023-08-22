@@ -1,7 +1,7 @@
 name = "phonochat"
-filename = "phonochat-0.2.2+1.20.jar"
+filename = "phonochat-0.2.1+1.20.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/SylvKT/phonochat/releases/download/v0.2.2%2B1.20/phonochat-0.2.2+1.20.jar"
+url = "https://blanketcon.b-cdn.net/SylvKT/phonochat/releases/download/v0.2.1%2B1.20/phonochat-0.2.1+1.20.jar"
 hash-format = "sha256"
-hash = "e05859186cdeb28c9fdfd5ab7c314290210762f9d617927995757289b5e34712"
+hash = "a67bd691303f229a1255618a3b4e196cd6c1fb8d9c09114bcbab6264f7797cf2"
