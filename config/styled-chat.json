@@ -11,8 +11,7 @@
   "auto_completion": {
     "tags": false,
     "tag_aliases": false,
-    "emoticons": false,
-    "emoji": true  
+    "emoticons": true
   },
   "default": {
     "display_name": "${default}",
@@ -39,34 +38,84 @@
     "spoiler_style": "<gray>${spoiler}",
     "spoiler_symbol": "▌",
     "formatting": {
-      "dark_red": true,
-      "green": true,
+      "dark_red": false,
+      "green": false,
       "underline": true,
-      "dark_green": true,
-      "black": true,
-      "yellow": true,
+      "dark_green": false,
+      "black": false,
+      "yellow": false,
       "bold": true,
       "italic": true,
-      "dark_blue": true,
-      "dark_purple": true,
-      "gold": true,
-      "red": true,
-      "aqua": true,
-      "gray": true,
-      "light_purple": true,
-      "blue": true,
-      "white": true,
-      "dark_aqua": true,
-      "dark_gray": true,
+      "dark_blue": false,
+      "dark_purple": false,
+      "gold": false,
+      "red": false,
+      "aqua": false,
+      "gray": false,
+      "light_purple": false,
+      "blue": false,
+      "white": false,
+      "dark_aqua": false,
+      "dark_gray": false,
       "spoiler": true,
       "strikethrough": true
     },
     "emoticons": {
+      "$emojibase:builtin:joypixels": "<font:'twemoji:font'><white>${emoji}",
+      "$default:from_file:styled_chat_emoji.json": "<font:'blanketcon:emoji'><white>${emoji}",
+      "real_shrug": "¯\\\\_(ツ)_/¯",
+      "table_flip": "(╯°□°）╯︵ ┻━┻",
+      "mcsword": "🗡",
+      "mcbow": "🏹",
+      "mctrident": "🔱",
+      "mcrod": "🎣",
+      "mcpotion": "🧪",
+      "mcshears": "✂",
+      "mcbucket": "🪣",
+      "mcbell": "🔔",
       "item": "[%player:equipment_slot mainhand%]",
-      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%",
-      "$emojibase:builtin:joypixels": "<font:'twemoji:font'>${emoji}"
+      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%"
     },
     "custom_message_types": {}
   },
-  "styles": []
+  "styles": [
+    {
+      "require": {
+        "type": "permission",
+        "permission": "group.organizer"
+      },
+      "message_formats": {
+        "chat": "<c:#ff0099>\\<</c>${player}<c:#ff0099>\\></c> ${message}"
+      },
+      "formatting": {},
+      "emoticons": {},
+      "custom_message_types": {}
+    },
+    {
+      "require": {
+        "type": "permission",
+        "permission": "group.op",
+        "operator": 2
+      },
+      "message_formats": {
+        "chat": "<c:#24f9ff>\\<</c>${player}<c:#24f9ff>\\></c> ${message}"
+      },
+      "formatting": {},
+      "emoticons": {},
+      "custom_message_types": {}
+    },
+    {
+      "require": {
+        "type": "permission",
+        "permission": "group.builder"
+      },
+      "display_name": "${default}",
+      "message_formats": {
+        "chat": "<c:#aaff97>\\<</c>${player}<c:#aaff97>\\></c> ${message}"
+      },
+      "formatting": {},
+      "emoticons": {},
+      "custom_message_types": {}
+    }
+  ]
 }

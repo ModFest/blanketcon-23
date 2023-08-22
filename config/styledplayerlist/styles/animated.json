@@ -1,0 +1,99 @@
+{
+  "style_name": "Default",
+  "update_tick_time": 2,
+  "list_header": {
+    "change_rate": 1,
+    "values": [
+      [
+        "",
+        "<rb:1:1:0><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<rb:1:1:0.1><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<rb:1:1:0.2><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<rb:1:1:0.3><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<rb:1:1:0.4><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<rb:1:1:0.5><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<rb:1:1:0.6><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<rb:1:1:0.7><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ],
+      [
+        "",
+        "<rb:1:1:0.8><bold> Styled Player List</bold></rb> ⛏ ",
+        "",
+        "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+        ""
+      ]
+    ]
+  },
+  "list_footer": {
+    "change_rate": 20,
+    "values": [
+      [
+        "",
+        "<color:#555555>          <strikethrough>                          </strikethrough>          </color>",
+        "",
+        "<gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>Ping: <color:#ffba26>%player:ping%</color>",
+        ""
+      ],
+      [
+        "",
+        "<color:#555555>          <strikethrough>                          </strikethrough>          </color>",
+        "",
+        "<gray>Health: <yellow>%player:health%</yellow> <dark_gray>|</dark_gray> <gray>Playtime: <yellow>%player:playtime%</yellow>",
+        ""
+      ],
+      [
+        "",
+        "<color:#555555>          <strikethrough>                          </strikethrough>          </color>",
+        "",
+        "<gray>Time: <yellow>%world:time%</yellow> <dark_gray>|</dark_gray> <gray>World: <yellow>%world:name%</yellow>",
+        ""
+      ]
+    ]
+  },
+  "hidden_in_commands": false
+}

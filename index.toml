@@ -30,7 +30,7 @@ hash = "50ede56986e420e8d92f51154d79963e569c63825be0f2551fa5d240591cd3f7"
 
 [[files]]
 file = "config/dynamicfps.toml"
-hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
+hash = "c1e144f2ffe9ccbf32df3b63258f03722fde7dedcadb88d466ee8b7467767993"
 
 [[files]]
 file = "config/emogg.json"
@@ -150,11 +150,35 @@ hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "b9191d76b47630486efca0a208f36841779337c290aa8248e1da7f2149882e7e"
+hash = "f5bd80490f29190ced96e6742fbe05d9da50b60d8e7e65a7e3950b3ccd1f4be0"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "e2b6f93cc8438cf2102dbd54bd4b4c74727a9a1026726f9641939dfdb0c424e8"
 
 [[files]]
 file = "config/styled-sidebars/config.json"
 hash = "1862e965057745be91f0cb45fd08d988fe350bfdebfa9ab4e55b6c4272c8be83"
+
+[[files]]
+file = "config/styled_chat_emoji.json"
+hash = "46a9504d72c980c6f5375b9726f5e4871f823465e3266dac973510d0ed790ac0"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "85cc06508645172c4aa9c18691235209bcd1c8eb892ad418e6bdfd4654eee818"
+
+[[files]]
+file = "config/styledplayerlist/styles/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "8fd937dd81bca6d39ba9ac6ab3d17820c05dca1aa668b51c0246404a60a10410"
+
+[[files]]
+file = "config/styledplayerlist/styles/default_spl.json"
+hash = "2b2c36635c8936d4741bd81febaf86a03b28a6b1f6b4e65a229ed65192b25582"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -474,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/drogstyle.pw.toml"
-hash = "f155a7ae79b6275926344d7ffaad136e214587671b5b4b69d4bf8afb275c816d"
+hash = "5e09fc8d9d4cbe026f0e5c6ca17c6d23213ac1b79c566210be3d919daa18dc15"
 metafile = true
 
 [[files]]
@@ -589,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "0661682b50f0e0bd77f1689dccb8149c11224bd2df3399e4459fb00857f604bc"
+hash = "33c62b5bfba0a4347544432144a6b27031b40e0e41f6da7cae463522485eec73"
 metafile = true
 
 [[files]]
@@ -934,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonochat.pw.toml"
-hash = "23ecb0ac21680848183eb25f14adfa8f07e33006d9ede93c78287d29877384e0"
+hash = "a6bd27e591163dceafcd352f40ca877ac01f31e0a2341a7118572d3d182e7edc"
 metafile = true
 
 [[files]]
@@ -1374,7 +1398,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "6e58f3bda00ee0ef601e391c3cbb8bada921ce9051bc636cb8b295d477045ebd"
+hash = "af5898cfb28e0db2352e87ef0600daba25a744099206e6df2160efde67e0ef99"
 metafile = true
 
 [[files]]
@@ -1448,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "8b76ab9f487be5180944aa35113dfc1f949a4a4f4668052b83d75d3716b6a0a7"
+hash = "7a47166c1922a6965c3a6710117d5026efe1f7ca85b77572d5bdbb43a48b54d0"
 metafile = true
 
 [[files]]
@@ -1820,6 +1844,10 @@ file = "resources/datapacks/tsmithing_bc23/pack.mcmeta"
 hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
 
 [[files]]
+file = "resources/resourcepacks/Unsanded-1.1.1-custom.zip"
+hash = "2468c88fd66b9bd9ae33bb70a63e75d1de7fccd1368e6482583ebfef231bf94b"
+
+[[files]]
 file = "resources/resourcepacks/arch_ex_icon_bc23.zip"
 hash = "74ce153773b8ffd0dc4414d2be095e5c032ea49b32269bb85893ab877a317851"
 
@@ -1831,6 +1859,10 @@ metafile = true
 [[files]]
 file = "resources/resourcepacks/bovinesandbuttercups_bc23.zip"
 hash = "191fdc8f184b7d8a3fe5313a16dc3796a3a7eb2c8eb415ba0164d931f6ba14ec"
+
+[[files]]
+file = "resources/resourcepacks/sc.zip"
+hash = "223dccc922c26993b1742c755b64fae0af035f82c7971d768ce71cf54ecc1feb"
 
 [[files]]
 file = "resources/resourcepacks/twemojis.zip"
