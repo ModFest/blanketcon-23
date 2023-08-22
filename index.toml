@@ -78,7 +78,7 @@ hash = "cde31edf1815680fae188221d69ef9d103895a79f063c2f3abac0131ad4c7c6f"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "7eaf04f501a8bab058816d5b5b91e3c1ea0b4df538df4d14c0652012045e4719"
+hash = "f0ed24864c2a8195c7eda3809c94c4c23076f1ac9412855b6afd00a1e701ca48"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
