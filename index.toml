@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonochat.pw.toml"
-hash = "4e7393007289f231d09ec9978612ecb8fcebdb9dbbc73fd94ef0622bba42e503"
+hash = "23ecb0ac21680848183eb25f14adfa8f07e33006d9ede93c78287d29877384e0"
 metafile = true
 
 [[files]]
