@@ -1471,13 +1471,13 @@ hash = "bc0fc5ca5b31e9f56b358e07ed0954567d27177f2cdf7c18d4f6c355ba656e7d"
 metafile = true
 
 [[files]]
-file = "mods/yttr.pw.toml"
-hash = "8e9402eee63a540efcd0c9b03081af330b293285b9c114388267a4433f375309"
+file = "mods/yawp.pw.toml"
+hash = "80b543298a2387c2a98ebd07971684e2e31b5aed21fbad62b592f6171ccb9622"
 metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "7a47166c1922a6965c3a6710117d5026efe1f7ca85b77572d5bdbb43a48b54d0"
+hash = "8e9402eee63a540efcd0c9b03081af330b293285b9c114388267a4433f375309"
 metafile = true
 
 [[files]]
