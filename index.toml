@@ -629,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "7b11c0a934b1f13669b4856f77f83187ca076acd564a2da3daa8453e4bc9dc3d"
+hash = "053e6a61f6a5f9fa6fba7377a7e74609f89da7601e170d9091d1105128688d54"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "780aff4ca1ed8c4d54c798c6d8cec19ceb45efe7f7c89fb3990728729e7b772a"
+hash = "d48690333ca12150044dfb307cf994a10d3892f5731849545971a13657253d99"
 metafile = true
 
 [[files]]
@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "873c771408d51260a435766508a0d1dfa80551bca192ea6eee2f00e08e1618a1"
+hash = "7ba8753d5dc2d039f3d71c4cd60260bf17fbe7bf78e1fa2c5bc0d40ea3885189"
 metafile = true
 
 [[files]]
@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/scattered-shards.pw.toml"
-hash = "d4ef381deddc3c63a27548f0261d23b7082f7b9ebe32273182f60c4d18e3a90e"
+hash = "806fc7f408a186810d209b496a45f6ccedc796ff0744cee070a134e9237def09"
 metafile = true
 
 [[files]]
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/utility-belt.pw.toml"
-hash = "9a7b6e75bb50f4582625d1aaf535e1cb9dd0dd85522e08074bc192844366b115"
+hash = "41a92ac1f41295fd9be8ee527aa335f6c5442d435b1b69de02f5e1ce4f229e42"
 metafile = true
 
 [[files]]
@@ -1269,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "a757a3dc98f10f0a081de2b9cb038c5efe64217d407b8ef0a74026b3a02e57d8"
+hash = "3ce78fae2cfddf385332a06bd31dc311f746385806e7d38863f6e219525e4c33"
 metafile = true
 
 [[files]]
@@ -1334,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "7a47166c1922a6965c3a6710117d5026efe1f7ca85b77572d5bdbb43a48b54d0"
+hash = "8e9402eee63a540efcd0c9b03081af330b293285b9c114388267a4433f375309"
 metafile = true
 
 [[files]]
