@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "026e967957bdce5519c4505f9cbf78f9cabb3524ea11bbb18a52df6798671db8"
+hash = "7119407fe4ef557502856d96c6742c2908908ad9b1b98cf38abfd13d8e9224a0"
 metafile = true
 
 [[files]]
@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
+hash = "70b6d6572acbef8e8dce46dc7a8c90c3e0a6355f80224e8c56d916ed38c9ae83"
 metafile = true
 
 [[files]]
@@ -1269,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "af5898cfb28e0db2352e87ef0600daba25a744099206e6df2160efde67e0ef99"
+hash = "a757a3dc98f10f0a081de2b9cb038c5efe64217d407b8ef0a74026b3a02e57d8"
 metafile = true
 
 [[files]]

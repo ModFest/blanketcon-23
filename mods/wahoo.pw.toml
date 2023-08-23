@@ -1,13 +1,13 @@
 name = "Bing Bing Wahoo"
-filename = "BingBingWahoo-4.2.4-build.128+mc1.20.1.jar"
+filename = "BingBingWahoo-4.2.5-build.130+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/p7ksDUGo/versions/hEXxmbhS/BingBingWahoo-4.2.4-build.128%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/p7ksDUGo/versions/3Aa6qolD/BingBingWahoo-4.2.5-build.130%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "baa29a0784d20f8712dbe4ebeb4f3c0a625161a3"
+hash = "a854b1d83e1ecb2888eaf69064f020cf5acfce0b"
 
 [update]
 [update.modrinth]
 mod-id = "p7ksDUGo"
-version = "hEXxmbhS"
+version = "3Aa6qolD"
