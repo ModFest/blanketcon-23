@@ -2,8 +2,14 @@
 # Octothorpes are comments, parts of the line are delimited by newlines
 
 # We have a lot of these entities on the map and the constant ticking is not great
-(portalcubed|hexal):[\w\/]+ 5 6 true
-minecraft:\w+_display 5 8 true
+(portalcubed|hexal):[\w\/]+ 3 12 true
+minecraft:\w+_display 3 8 true
+minecraft:armor_stand 5 8 true
+minecraft:marker 2 8 true
+luckyducks:rubber_duck 3 8 true
+
+# Players usually tick over 512 blocks every 2 ticks, we can do 128 every 4 ticks instead
+minecraft:player 8 4
 
 # These two set the range to be super high (64 chunks) so they are manually reduced
 toomanyorigins:small_dragon_fireball 8 10
