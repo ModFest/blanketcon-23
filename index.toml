@@ -1484,6 +1484,10 @@ file = "resourcepacks/no_grass_backs_bc23.zip"
 hash = "1347fd7a346794640eea30a90b83bfe270b6f20883f8b8133f10ab154eba0120"
 
 [[files]]
+file = "resources/datapacks/atlaslisbon-ended-data.zip"
+hash = "96d6bf4a28e9de373a31eec70efcffe6365f0066606384b3fe913325584faec7"
+
+[[files]]
 file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/cyberpunk_mooshroom.json"
 hash = "0c43e889f48bde99fe7e04e74c355f3190344ebd8e59d434cdf4669dbc2b348f"
 
@@ -1850,6 +1854,10 @@ hash = "2468c88fd66b9bd9ae33bb70a63e75d1de7fccd1368e6482583ebfef231bf94b"
 [[files]]
 file = "resources/resourcepacks/arch_ex_icon_bc23.zip"
 hash = "74ce153773b8ffd0dc4414d2be095e5c032ea49b32269bb85893ab877a317851"
+
+[[files]]
+file = "resources/resourcepacks/atlaslisbon-ended-lang.zip"
+hash = "6e76606abfd443d6c02b427eadb0ff25d015899bfed2800086684aa3756ba54a"
 
 [[files]]
 file = "resources/resourcepacks/betterdiscs.pw.toml"
