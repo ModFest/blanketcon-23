@@ -217,6 +217,11 @@ file = "lambdamap/config.toml"
 hash = "4c946f2d3d7d1ee0374ca352efd992f9084347df6898fe588e1ef084a4701464"
 
 [[files]]
+file = "mods/8187.pw.toml"
+hash = "8422e436810d33c4c1adcfec7dc9974f3d687670418682d3aea61c08b09e3ad6"
+metafile = true
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "50fcbe10eac3abf0b80b9a4bab9c43cee1890e796328e807c3daa5bf0b2f3e50"
 metafile = true
@@ -528,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/electriceel.pw.toml"
-hash = "18957f910e169435e560c756ce649bddc6353a9e734d39e2ea474e148baab65e"
+hash = "e5e2e36c7f85b9b1059528d62cc991f855cacba8212eb8265742f9c1f16a5ef7"
 metafile = true
 
 [[files]]
@@ -613,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "026e967957bdce5519c4505f9cbf78f9cabb3524ea11bbb18a52df6798671db8"
+hash = "7119407fe4ef557502856d96c6742c2908908ad9b1b98cf38abfd13d8e9224a0"
 metafile = true
 
 [[files]]
@@ -1028,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "c2da178395743c7471fa5a0db82e14f01fc033bb17452ef8c009839d5708abfe"
+hash = "873c771408d51260a435766508a0d1dfa80551bca192ea6eee2f00e08e1618a1"
 metafile = true
 
 [[files]]
@@ -1073,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
+hash = "70b6d6572acbef8e8dce46dc7a8c90c3e0a6355f80224e8c56d916ed38c9ae83"
 metafile = true
 
 [[files]]
@@ -1328,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "e22c26c9279ab90f33c5815211bb4ea11ff76222f806036385174e622f05e7d9"
+hash = "68eb30c62e3dd5cf24a41fb6dd6e9a3b155a1acb628f7bdfd39a4cc41a4b1902"
 metafile = true
 
 [[files]]
@@ -1398,7 +1403,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "af5898cfb28e0db2352e87ef0600daba25a744099206e6df2160efde67e0ef99"
+hash = "a757a3dc98f10f0a081de2b9cb038c5efe64217d407b8ef0a74026b3a02e57d8"
 metafile = true
 
 [[files]]
@@ -1594,6 +1599,10 @@ hash = "c7a7a7d256586384f890091acd516f698876e54d7180b6ba230d66ea19381a10"
 [[files]]
 file = "resources/datapacks/origins_bc23/pack.mcmeta"
 hash = "da4a55de14fbd2663a5f947d2d522fabc62280c47aa134d9fffbc5dc4b572f9b"
+
+[[files]]
+file = "resources/datapacks/trinkets_datapack.zip"
+hash = "48215e2e47d4789d5e244711ab95991d68fd7a1f5f1e27fe06f6db3632c60394"
 
 [[files]]
 file = "resources/datapacks/tsmithing_bc23/data/bingbingwahoo/smithing_armor_materials/nintendium.json"
@@ -1871,6 +1880,10 @@ hash = "191fdc8f184b7d8a3fe5313a16dc3796a3a7eb2c8eb415ba0164d931f6ba14ec"
 [[files]]
 file = "resources/resourcepacks/sc.zip"
 hash = "223dccc922c26993b1742c755b64fae0af035f82c7971d768ce71cf54ecc1feb"
+
+[[files]]
+file = "resources/resourcepacks/trinkets_resourcepack.zip"
+hash = "c2be3760457a2f8cdd46e484955faf6197b0935896fe4a11a7fd03ef39c855a3"
 
 [[files]]
 file = "resources/resourcepacks/twemojis.zip"

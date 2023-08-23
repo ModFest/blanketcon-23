@@ -1,7 +1,7 @@
 name = "electriceel"
-filename = "ElectricEel-0.3.0+1.20.jar"
+filename = "ElectricEel-0.4.0+1.20.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/HyperPigeon/ElectricEel/releases/download/v0.3.0/ElectricEel-0.3.0+1.20.jar"
+url = "https://blanketcon.b-cdn.net/HyperPigeon/ElectricEel/releases/download/v0.4.0/ElectricEel-0.4.0+1.20.jar"
 hash-format = "sha256"
-hash = "4c2ebd04cfcfc423f69592d01cf086cba9d4a769940b4fe72c77d477e98fe780"
+hash = "5e4bff85bce94bdae23b661fc9e315db5cda6c0bd15ccbeec2e03e7b4a1afbd7"

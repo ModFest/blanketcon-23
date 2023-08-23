@@ -1,7 +1,7 @@
 name = "portal-cubed"
-filename = "portal_cubed-2.3.0-rev.f609366.jar"
+filename = "portal_cubed-2.3.0-rev.33cc160.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/Fusion-Flux/Portal-Cubed/releases/download/Ex-Bc-V7/portal_cubed-2.3.0-rev.f609366.jar"
+url = "https://blanketcon.b-cdn.net/Fusion-Flux/Portal-Cubed/releases/download/Ex-Bc-V8/portal_cubed-2.3.0-rev.33cc160.jar"
 hash-format = "sha256"
-hash = "1d76cc1dbcb164bd53f892f7c025bd13d1866321f1154559ab6c1da2f1a4755b"
+hash = "336e59c2e0380c4d3e73418a8ae00ad1d664fbc4758e2b4e90052eb8fd2ae92a"
