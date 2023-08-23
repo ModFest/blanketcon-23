@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "7b11c0a934b1f13669b4856f77f83187ca076acd564a2da3daa8453e4bc9dc3d"
+hash = "053e6a61f6a5f9fa6fba7377a7e74609f89da7601e170d9091d1105128688d54"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "780aff4ca1ed8c4d54c798c6d8cec19ceb45efe7f7c89fb3990728729e7b772a"
+hash = "d48690333ca12150044dfb307cf994a10d3892f5731849545971a13657253d99"
 metafile = true
 
 [[files]]
@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "873c771408d51260a435766508a0d1dfa80551bca192ea6eee2f00e08e1618a1"
+hash = "7ba8753d5dc2d039f3d71c4cd60260bf17fbe7bf78e1fa2c5bc0d40ea3885189"
 metafile = true
 
 [[files]]
@@ -1118,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/scattered-shards.pw.toml"
-hash = "d4ef381deddc3c63a27548f0261d23b7082f7b9ebe32273182f60c4d18e3a90e"
+hash = "806fc7f408a186810d209b496a45f6ccedc796ff0744cee070a134e9237def09"
 metafile = true
 
 [[files]]
@@ -1383,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/utility-belt.pw.toml"
-hash = "9a7b6e75bb50f4582625d1aaf535e1cb9dd0dd85522e08074bc192844366b115"
+hash = "41a92ac1f41295fd9be8ee527aa335f6c5442d435b1b69de02f5e1ce4f229e42"
 metafile = true
 
 [[files]]
@@ -1403,7 +1403,7 @@ metafile = true
 
 [[files]]
 file = "mods/wahoo.pw.toml"
-hash = "a757a3dc98f10f0a081de2b9cb038c5efe64217d407b8ef0a74026b3a02e57d8"
+hash = "3ce78fae2cfddf385332a06bd31dc311f746385806e7d38863f6e219525e4c33"
 metafile = true
 
 [[files]]
@@ -1471,8 +1471,8 @@ hash = "bc0fc5ca5b31e9f56b358e07ed0954567d27177f2cdf7c18d4f6c355ba656e7d"
 metafile = true
 
 [[files]]
-file = "mods/yawp.pw.toml"
-hash = "80b543298a2387c2a98ebd07971684e2e31b5aed21fbad62b592f6171ccb9622"
+file = "mods/yttr.pw.toml"
+hash = "8e9402eee63a540efcd0c9b03081af330b293285b9c114388267a4433f375309"
 metafile = true
 
 [[files]]
@@ -1503,6 +1503,10 @@ hash = "bf68794ab5f9bed638dd5854de86260e7cfe91444b8699575a488e1fab0faf95"
 [[files]]
 file = "resources/datapacks/bovinesandbuttercups_bc23/pack.mcmeta"
 hash = "78d07e6426e499e880bc18a88f0299c64175c6b90de566e6557e5123ef43aa18"
+
+[[files]]
+file = "resources/datapacks/foxbox_create_recipes.zip"
+hash = "70d136eae63da242e62c5cf5997f96a1c46af3e2055345ac956e8f8bf80c20b8"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
@@ -1859,6 +1863,10 @@ hash = "843fc4374b0720da3d3ee8f628eb042c5b430b914099bc98be2462bf33b74761"
 [[files]]
 file = "resources/resourcepacks/Unsanded-1.1.1-custom.zip"
 hash = "2468c88fd66b9bd9ae33bb70a63e75d1de7fccd1368e6482583ebfef231bf94b"
+
+[[files]]
+file = "resources/resourcepacks/YttrCustomSounds.zip"
+hash = "dc917145eeb95d227ae0aff1c819de2288e5e67ba196399c5a21e1fe46201729"
 
 [[files]]
 file = "resources/resourcepacks/arch_ex_icon_bc23.zip"
