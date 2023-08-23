@@ -13,10 +13,11 @@
 # Exclude Mac metadata files
 .DS_Store
 
-# Exclude packwiz git hooks
+# Exclude packwiz git hooks and utils
 git
 /enable_hooks.sh
 /bunnify.sh
+/modrinth_export.sh
 
 # Exclude GitHub workflows
 .github/
