@@ -1522,6 +1522,10 @@ file = "resources/datapacks/bovinesandbuttercups_bc23/pack.mcmeta"
 hash = "78d07e6426e499e880bc18a88f0299c64175c6b90de566e6557e5123ef43aa18"
 
 [[files]]
+file = "resources/datapacks/foxbox_create_recipes.zip"
+hash = "70d136eae63da242e62c5cf5997f96a1c46af3e2055345ac956e8f8bf80c20b8"
+
+[[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
 hash = "92d533df74ad31d7b32874d49f0a6f70d3194f52cf878c2270e154f6236a1308"
 
