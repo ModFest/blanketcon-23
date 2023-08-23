@@ -1,6 +1,6 @@
 # BlanketCon 23 Pack
 
-Be sure to check the [status repo](https://docs.google.com/spreadsheets/d/1MMLm_FZjLMhQGiJhvyh3S8aU9A5CK6KZ7ss00k_z6Zo/edit#gid=0)
+Be sure to check the status repo (link in discord org channels)
 
 Color code:
 - White: untested
