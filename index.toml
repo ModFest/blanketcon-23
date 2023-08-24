@@ -13,12 +13,16 @@ file = "config/arcpocalypse.json"
 hash = "8156a914cba60f5e8284a4298c72c79fb6974082ba584c40510719be0fef1f47"
 
 [[files]]
+file = "config/armor-stand-editor/config.json"
+hash = "8235a673aa77a87cc63fa392e3a63a825ef0e44fea11d5d8257437347db5343b"
+
+[[files]]
 file = "config/betterenchantmentboosting.json"
 hash = "79bf1f99357ed19946176e730af40d74e5e49ad4a9384ae9729e3c5a55b2576a"
 
 [[files]]
 file = "config/controlify.json"
-hash = "5b38433a12b4e03ce16613da82d5d7529022a1d41765997c4b1ad0ff4e13090c"
+hash = "460f248b6f3249a0ad0f09b990e77fbdd0dd5404829e627523e53e76c925e063"
 
 [[files]]
 file = "config/create-client.toml"
@@ -75,6 +79,10 @@ hash = "75a169c23eb4099454fb64d6e8de21af1ef1cb5e034d8cabcca8ef4b8b0cddb1"
 [[files]]
 file = "config/getoffmylawn.json"
 hash = "cde31edf1815680fae188221d69ef9d103895a79f063c2f3abac0131ad4c7c6f"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "bd4cb5848d1512bb142af41adfb341db06600d898407aa08cc33c97a337d6ba4"
 
 [[files]]
 file = "config/lithium.properties"
@@ -247,18 +255,18 @@ hash = "0d2a401e3c2c06bbd8151e7a3a98c51f7f5872b9d7615e0c258cbb41a00e0521"
 metafile = true
 
 [[files]]
-file = "mods/amecs.pw.toml"
-hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
-metafile = true
-
-[[files]]
 file = "mods/apoli.pw.toml"
 hash = "7863bd1233e207feda94b738b7c77fdb3c1d768513d3c117ff87741d3560c9ba"
 metafile = true
 
 [[files]]
+file = "mods/apugli.pw.toml"
+hash = "afa41183662c60b65746e176b03694ee407a8d2dce218f1f93c2dc1ec2cc1fd3"
+metafile = true
+
+[[files]]
 file = "mods/arachne.pw.toml"
-hash = "10d3d4f04b247f6a812265584c0c8b3a4581373975b88069abac5d52a035313d"
+hash = "d74488b4714f898f33bb8c5ad2794380ffa5901179aa365e051dbe648ef10a32"
 metafile = true
 
 [[files]]
@@ -433,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "2dd090f92bdb4abcb73c82be0d26c8d33935143e1536d81e9cff7c3bd89caccb"
+hash = "32070a7ec1a9c95fb8bf692e33899e7dd4bcada13be79aa1aaa859bde9689e40"
 metafile = true
 
 [[files]]
@@ -448,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "c0ab997bb28ea28adaf81af96c8e4bf8fc37c63351e26988e16a6db1142cd765"
+hash = "9374c402322226cdb182e8c4c65f85a92e4093ba7751d8bc598cf5273a6bdf5b"
 metafile = true
 
 [[files]]
@@ -538,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/electriceel.pw.toml"
-hash = "d8e6f3ad5a2c1b1e7ee7e22e58a06ff296fabdde9377fb85577745e324e901fa"
+hash = "34c1e7696d21f88b3954f642f40cea63ecfe669f05b1a2671840bbd5ae3e3047"
 metafile = true
 
 [[files]]
@@ -623,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "ba42b9263d509a4edafa2f043a57e9026b68161792b4bb1d2d3ef643938b6c54"
+hash = "807f998526464669ce90c4741d63f99f2ab20711e5ec460086163cff2d1da533"
 metafile = true
 
 [[files]]
@@ -673,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowcase.pw.toml"
-hash = "1ce57f0915d3b377e3092340faee27ebd3d0801ca3dfe14447ec31847c140fb1"
+hash = "5c40dbb540d57617b246ed6fbaf59316b6671063f7d96e69768f08f97acb4a39"
 metafile = true
 
 [[files]]
@@ -683,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-api.pw.toml"
-hash = "7614f94faf853bed3c4794bca2eef34a18d16f9c0082818ebe0e5e8441366e3a"
+hash = "b214c6268434f39504af49167ebda6baf627e1d9db2334309bcb2bf938398c3b"
 metafile = true
 
 [[files]]
@@ -779,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/lib39.pw.toml"
 hash = "b31adee195cf953ff4e504076f33e9ddf703833142fd8486bcff88db02f785d2"
+metafile = true
+
+[[files]]
+file = "mods/libnetworkstack.pw.toml"
+hash = "f37cb3173055bf3b7c113f6960ac9f160cc5114be285ea94159d99499ce062c5"
 metafile = true
 
 [[files]]
@@ -923,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "13c96ed14229bc8b81f8dca99685a1aba1325f3206c12d147ac7760fb0ff2097"
+hash = "bff5767c5d8da01b87edc7b373b3317d94be478c8e3e8acc33f8846b414698d7"
 metafile = true
 
 [[files]]
@@ -958,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "d48690333ca12150044dfb307cf994a10d3892f5731849545971a13657253d99"
+hash = "81e28e56864c2840ef2054b8d059ffb92005f1db63e361b85ad32ac168162cc1"
 metafile = true
 
 [[files]]
@@ -968,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonochat.pw.toml"
-hash = "a6bd27e591163dceafcd352f40ca877ac01f31e0a2341a7118572d3d182e7edc"
+hash = "86f384f24eb18bf6b1d20301c6062811cedfc15cea7c2b4c8931194298af56e4"
 metafile = true
 
 [[files]]
@@ -1018,7 +1031,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollinators-paradise.pw.toml"
-hash = "70d56d9c2a37000fafc5dd71d5496be275f3b1edf4e27a458c7c070cb2ad6cf9"
+hash = "406d0789df296ddf829743eef94b96a44ddc7c4952743ca7d6066b662c195eca"
 metafile = true
 
 [[files]]
@@ -1033,12 +1046,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "0267ae57a3f7681b27641939a4a28e42abe7c6d55b78515ddd11cfd99689bb66"
+hash = "192195f5ba661ca1a9591ce5b8f494bd2af2045567e65daafa691c1182f944eb"
 metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "7ba8753d5dc2d039f3d71c4cd60260bf17fbe7bf78e1fa2c5bc0d40ea3885189"
+hash = "cce1f5406f40995492cc2006eef5e7447cc96e5c3b6162828e4a27c6b0552b85"
 metafile = true
 
 [[files]]
@@ -1083,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f0a4bd7c6c56aaa736ffdc7d8223941f2cf53da29980b1e5325bf42464ac27ff"
+hash = "f10f55a3d281a697f2d091c446aab21b67f327cc3cc55856c170ca258fbf7863"
 metafile = true
 
 [[files]]
@@ -1368,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "424f4f84715be79c8bec35b574249555789bad49b9576358d5917c38f17d6e25"
+hash = "5a71bcba1969df046578426aa599a89764dcdb58fa6293a4f4c10a7d6a32cb80"
 metafile = true
 
 [[files]]
@@ -1482,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "8e9402eee63a540efcd0c9b03081af330b293285b9c114388267a4433f375309"
+hash = "e7c9494225cab2923584dd85c771c3f7c493071b6299b81a2ead6ded75e106bb"
 metafile = true
 
 [[files]]
@@ -1492,6 +1505,10 @@ hash = "dc38bb6e7087d923e930522dd10a7dd882af985ce2cffa5eefcd85f30d1dd84e"
 [[files]]
 file = "resourcepacks/no_grass_backs_bc23.zip"
 hash = "1347fd7a346794640eea30a90b83bfe270b6f20883f8b8133f10ab154eba0120"
+
+[[files]]
+file = "resources/datapacks/CPlusBooth.zip"
+hash = "69a9a23c20a4430469fb432a4b1afc0fb57f56ce0e1e3fbe0fc1e3ae837c22fe"
 
 [[files]]
 file = "resources/datapacks/atlaslisbon-ended-data.zip"

@@ -2,6 +2,6 @@ name = "qsl"
 filename = "qfapi-6.1.1+1.20.1+hell2.jar"
 
 [download]
-url = "https://jaskarth.com/pub/mods/qfapi-6.1.1+1.20.1+hell2.jar"
+url = "https://blanketcon.b-cdn.net/jaskarth/pub/mods/qfapi-6.1.1+1.20.1+hell2.jar"
 hash-format = "sha256"
 hash = "6647f19ca4421ef61e83b677964f3064afb725b2838b9c385e0d21d4a4763461"

@@ -1,0 +1,24 @@
+{
+  "CONFIG_VERSION_DONT_TOUCH_THIS": 2,
+  "armorStandTool": "minecraft:flint",
+  "requireIsArmorStandEditorTag": true,
+  "holdingToolSpawnsParticles": true,
+  "useLegacyUiByDefault": false,
+  "blackListedBuildInPresets": [],
+  "allowedByDefault": [
+    "toggle_base",
+    "move",
+    "toggle_no_gravity",
+    "modify_pose",
+    "toggle_size",
+    "open_editor",
+    "paste",
+    "inventory",
+    "toggle_visibility",
+    "open_item_frame_editor",
+    "rename",
+    "copy",
+    "change_properties",
+    "toggle_arms"
+  ]
+}
