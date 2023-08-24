@@ -1,7 +1,7 @@
 name = "hex-casting"
-filename = "hexcasting-fabric-1.20.1-0.11.1-7+bc23-2.jar"
+filename = "hexcasting-fabric-1.20.1-0.11.1-7+bc23-3.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/Cypher121/HexMod/releases/download/bc23-2/hexcasting-fabric-1.20.1-0.11.1-7+bc23-2.jar"
+url = "https://blanketcon.b-cdn.net/Cypher121/HexMod/releases/download/bc23-3/hexcasting-fabric-1.20.1-0.11.1-7+bc23-3.jar"
 hash-format = "sha256"
-hash = "38a2b3dd5d66adbbf8745e72de97fe80011a766364bc4a67434dd8b2f3417e62"
+hash = "094fae32ce5a95db63854f76f71a560bd3a9c5b36daf0e0fa445276631931e6a"

@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "5f92ab6c221c5bcf7aa7d3d300ef89fb35d3e900267cb2d867f2b729a7c1ee4a"
+hash = "285792e1f2407b68c0a702f455b01cb02d19a531438dedaf1c95eead8a2303f6"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/electriceel.pw.toml"
-hash = "e5e2e36c7f85b9b1059528d62cc991f855cacba8212eb8265742f9c1f16a5ef7"
+hash = "d8e6f3ad5a2c1b1e7ee7e22e58a06ff296fabdde9377fb85577745e324e901fa"
 metafile = true
 
 [[files]]
@@ -629,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "053e6a61f6a5f9fa6fba7377a7e74609f89da7601e170d9091d1105128688d54"
+hash = "bb270a8c4fc0634b70977761e82b44c7ac7ab49a9251c7d35be7223e2091b89d"
 metafile = true
 
 [[files]]
@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/peculiarpieces.pw.toml"
-hash = "ed4960b0c794ea2dab8b804a448f2093dec45f57703e4de0268f54d00629d4eb"
+hash = "d4c6cc918aa4261740693da7196fee796b893b3d641c8a36001049a8a7b5fdde"
 metafile = true
 
 [[files]]
@@ -1124,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "mods/suspicious-shapes.pw.toml"
-hash = "30fb676079080ebadb04ad9d8e7b9a4807f8b8e7a26612bb4bf277de10eef34b"
+hash = "4dac760718fbac2bf909e6d31fac83b6353e3825c33737bfc3e156ca88ded292"
 metafile = true
 
 [[files]]
