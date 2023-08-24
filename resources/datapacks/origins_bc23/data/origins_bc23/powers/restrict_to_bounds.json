@@ -24,13 +24,13 @@
             {
                 "type": "origins:distance_from_coordinates",
                 "offset": {
-                    "x": 487,
+                    "x": 484,
                     "y": 0,
                     "z": -247
                 },
                 "ignore_y": true,
                 "scale_reference_to_dimension": false,
-                "compare_to": 153,
+                "compare_to": 55,
                 "comparison": ">"
             }
         ]
