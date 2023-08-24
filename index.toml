@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/fireblanket.pw.toml"
-hash = "092171b63a30aa6152925ef743f26babf672f18e5964473047361a6c02ddac72"
+hash = "ba42b9263d509a4edafa2f043a57e9026b68161792b4bb1d2d3ef643938b6c54"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowcase.pw.toml"
-hash = "f5e398242efadec260e29a2f8bf86a59dffd32ff9976abd7b9021589483ce153"
+hash = "1ce57f0915d3b377e3092340faee27ebd3d0801ca3dfe14447ec31847c140fb1"
 metafile = true
 
 [[files]]
