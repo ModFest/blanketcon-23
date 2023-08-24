@@ -1,7 +1,7 @@
 name = "teabridge"
-filename = "teabridge-1.2.2+unatweak-mc1.20.1-rev.6dda8b8.jar"
+filename = "teabridge-1.2.2+unatweak2-mc1.20.1-rev.6dda8b8.jar"
 
 [download]
-url = "https://unascribed.b-cdn.net/teabridge-1.2.2+unatweak-mc1.20.1-rev.6dda8b8.jar"
+url = "https://unascribed.b-cdn.net/teabridge-1.2.2+unatweak2-mc1.20.1-rev.6dda8b8.jar"
 hash-format = "sha256"
-hash = "b7cd53d53fa463d3ca5d3d7fe9564db903524e2c9819e8283b01db1f5a22bcee"
+hash = "53edc94a1fe237a2dddbf1f6f557cae6b1cf948fb5f3abea4adf62d4427f647c"
