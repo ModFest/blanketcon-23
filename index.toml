@@ -218,6 +218,11 @@ hash = "0d2a401e3c2c06bbd8151e7a3a98c51f7f5872b9d7615e0c258cbb41a00e0521"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
+metafile = true
+
+[[files]]
 file = "mods/apoli.pw.toml"
 hash = "7863bd1233e207feda94b738b7c77fdb3c1d768513d3c117ff87741d3560c9ba"
 metafile = true
@@ -594,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowcase.pw.toml"
-hash = "1ce57f0915d3b377e3092340faee27ebd3d0801ca3dfe14447ec31847c140fb1"
+hash = "f5e398242efadec260e29a2f8bf86a59dffd32ff9976abd7b9021589483ce153"
 metafile = true
 
 [[files]]
