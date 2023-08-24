@@ -1,7 +1,7 @@
 name = "automobility"
-filename = "automobility-0.4.2.a+1.20.1-fabric.jar"
+filename = "automobility-0.4.2.b+1.20.1-fabric.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/FoundationGames/Automobility/releases/download/0.4.2.a%2B1.20.1/automobility-0.4.2.a+1.20.1-fabric.jar"
+url = "https://blanketcon.b-cdn.net/FoundationGames/Automobility/releases/download/v0.4.2.b%2B1.20.1/automobility-0.4.2.b+1.20.1-fabric.jar"
 hash-format = "sha256"
-hash = "9508f5ca238df090c96f31d2ba53a4b8fba792f5189473e7bf60bb19902666eb"
+hash = "f8d97ff52d1c1d6b58d9206ea1c57fd685e9085413adac1d36463956690677e2"

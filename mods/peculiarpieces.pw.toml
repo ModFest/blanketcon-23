@@ -1,7 +1,7 @@
 name = "peculiarpieces"
-filename = "peculiarpieces-1.2.17+pr43.jar"
+filename = "peculiarpieces-1.2.17+nowardingsync.jar"
 
 [download]
-url = "https://unascribed.b-cdn.net/peculiarpieces-1.2.17+pr43.jar"
-hash-format = "sha1"
-hash = "1c3d7c911ec72dc113108701bcfa3ce1731b5592"
+url = "https://unascribed.b-cdn.net/peculiarpieces-1.2.17+nowardingsync.jar"
+hash-format = "sha256"
+hash = "a32c1959c9742aa578fba87e0ddd893fc87428e510da1480a2cdf0b1c7042fce"
