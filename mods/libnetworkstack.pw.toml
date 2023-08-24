@@ -1,0 +1,7 @@
+name = "libnetworkstack"
+filename = "libnetworkstack-base-0.10.0+errorless.jar"
+
+[download]
+url = "https://unascribed.b-cdn.net/libnetworkstack-base-0.10.0+errorless.jar"
+hash-format = "sha256"
+hash = "664908774286e22409c5f9f743c9007f178d24d2cd93492680cc1e31a0f6af4d"

@@ -1,12 +1,7 @@
-name = "Controlify"
-filename = "Controlify-1.6.0+1.20.jar"
+name = "controlify"
+filename = "Controlify-1.6.01.20-bc23fix.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/MSWp1Dsg/Controlify-1.6.0%2B1.20.jar"
-hash-format = "sha1"
-hash = "e275c636fcdf020f906037861a62d0614d2b0f94"
-
-[update]
-[update.modrinth]
-mod-id = "DOUdJVEm"
-version = "MSWp1Dsg"
+url = "https://cdn.discordapp.com/attachments/1127341468219080814/1144210746717245541/Controlify-1.6.01.20-bc23fix.jar"
+hash-format = "sha256"
+hash = "385b3fc6cf9e7ceacedf60d3278c6aac70c37915db36c732605d12e26c2e2194"
