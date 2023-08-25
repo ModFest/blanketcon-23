@@ -1,12 +1,12 @@
 name = "blanketCon 23"
 author = "LemmaEOF, UltraStorm"
-version = "0.1.0+1.20.1"
+version = "1.0.0+1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1cda62b09b482873d3ab621f8c56d27a7d0f0cf0b59293f2712db553bb8b6a7c"
+hash = "e001eda5f34c3167ed73dc23bf87ce605564841e2fd261e60663fa76b6d38c55"
 
 [versions]
 minecraft = "1.20.1"
