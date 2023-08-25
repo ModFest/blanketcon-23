@@ -1745,6 +1745,10 @@ file = "resources/datapacks/foxbox_create_recipes.zip"
 hash = "70d136eae63da242e62c5cf5997f96a1c46af3e2055345ac956e8f8bf80c20b8"
 
 [[files]]
+file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
+hash = "bb5673aafc7dabdd566603011944ee67c4ee22d75fa4249037d357d981849435"
+
+[[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origins/human.json"
 hash = "7ced77e502ad74736bdd95eba04196be71cf4d8cf5d074532291cd677748e5c1"
 
@@ -1794,7 +1798,7 @@ hash = "50ebc242feafd10292a7ac21734b75c5bbfc865a3e0274517d214282cff02373"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/hare.json"
-hash = "0b12967369c6f13a76e23a7a66e7c617daf9821281e5ab1126db7da76512b230"
+hash = "cf38807c84b5beef88db77ad97fbb9b8a99bc328aac119bba7cf4e5bf6479bc5"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/hisskin.json"
@@ -1806,7 +1810,7 @@ hash = "2710a257534b5f27e227d18d0cba951d2c6d15880de08834ad1ec6178ce15cf7"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/withered.json"
-hash = "77e70b6b369d184a6f2dd2994b4ff87f12346bfaf1ee9d1df77036052b0aa314"
+hash = "1f360cb4ef34c2cbf24a9f3332068f36f530fb1d4fd2d9654390da6e3bc1e8b1"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/pack.mcmeta"
