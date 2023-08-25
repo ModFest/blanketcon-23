@@ -1577,7 +1577,7 @@ hash = "1ee4fc2127dd9cc3e876e0bb492e4d909df0729d962201986d85a3f9955e5717"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_bc23/powers/restrict_to_bounds.json"
-hash = "4144f55ef31f65abccd9e81c91abcf9d899bec9e3755b4c8787ea1cc8efa27c4"
+hash = "7bca56ffe3f36937f83392f2a5dfc459a09c519cfabaafec7bd989c77b981269"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/avian.json"

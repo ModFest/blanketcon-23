@@ -1,5 +1,6 @@
 {
     "type": "origins:action_over_time",
+    "interval": 20,
     "rising_action": {
         "type": "origins:and",
         "actions": [
