@@ -1,7 +1,7 @@
 name = "portal-cubed"
-filename = "portal_cubed-2.3.0-rev.c903c14.jar"
+filename = "portal-cubed-2.3.0+jasfix1.jar"
 
 [download]
-url = "https://blanketcon.b-cdn.net/Fusion-Flux/Portal-Cubed/releases/download/Ex-Bc-V13/portal_cubed-2.3.0-rev.c903c14.jar"
-hash-format = "sha1"
-hash = "f9a9812afd400b271b63893310dcdf1d2d233909"
+url = "https://jaskarth.com/pub/mods/portal-cubed-2.3.0+jasfix1.jar"
+hash-format = "sha256"
+hash = "9ac421a7aec20d30f92f9a280937809df44347c2c01b9b410f8742043768bcc6"
