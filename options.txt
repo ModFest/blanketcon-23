@@ -23,6 +23,8 @@ key_key.pswg.toggle_patrol_posture:key.keyboard.unknown
 key_key.pswg.species_select:key.keyboard.unknown
 key_key.mightyclient.compose:key.keyboard.unknown
 key_key.mightyclient.toolmenu:key.keyboard.unknown
+key_bingbingwahoo.key.throw_cap:key.keyboard.x
+key_key.portalcubed.grab:key.keyboard.z
 key_key.push_to_talk:key.keyboard.v
 key_key.mute_microphone:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
