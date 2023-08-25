@@ -1992,3 +1992,7 @@ hash = "c2be3760457a2f8cdd46e484955faf6197b0935896fe4a11a7fd03ef39c855a3"
 [[files]]
 file = "resources/resourcepacks/twemojis.zip"
 hash = "77fd21d736e443a5418117a34e68393ee93020be42b0861e503fcc2e25382515"
+
+[[files]]
+file = "servers.dat"
+hash = "10c17f2de6cb6e8d23161f72e6d9af8fdf1e39bbe29417d517fc4eaa579ca7b0"
