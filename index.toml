@@ -1617,7 +1617,7 @@ hash = "5c3fb87b3fe4b1aedbdf551f09da1bb9fc4a672f0ea3d589a485c40021ecec2a"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/dragonborn.json"
-hash = "da557f75c1d11b0c142048f2542129b3b6fe073204998be6981b5af2979b7457"
+hash = "b9d2aa3bedfbce55bc24729c07aae43e9542549de13d6e743b1a91b53ecb0db9"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/hare.json"
@@ -1625,15 +1625,15 @@ hash = "1e7029ada62280c85ae88d060a9eb361589da31f991c70b3ee8ca29b555f9ba7"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/hisskin.json"
-hash = "27eb4a137f2bdab97d29fa015ad8e87489d84801fe09baded39572243b85a82f"
+hash = "aab782e1ec9ff6f65518a2c93ee3e7d6068e68ff0c01811e2f5a5f99cba4edb9"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/swarm.json"
-hash = "14eb5ebe31e23af9c132f2bdbc423e86ee8225909ee4312b5b426ad9a0e01be9"
+hash = "7ea98b7d7718ca5563183e016825f586a457933952a44f2e6f976c43833f0434"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/withered.json"
-hash = "218ce3c8765d8e5de7035205c81b29cbff9915d3d8ccb1b28e459d4de2c0a392"
+hash = "6daf1d8132ce54f7694c013c51224440867989b1fd0e647cbe4f91a3ac98e637"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/pack.mcmeta"

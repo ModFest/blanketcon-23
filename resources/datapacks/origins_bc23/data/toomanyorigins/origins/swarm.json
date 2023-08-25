@@ -1,4 +1,5 @@
 {
+    "loading_priority": 100,
 	"powers": [
 		"toomanyorigins:hover",
 		"toomanyorigins:pollination",
