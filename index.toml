@@ -411,11 +411,6 @@ hash = "fe250f4b6ec532f122861da3f55b6d4ed2bfde0c530b0ae7e401ef3b2ff7d916"
 metafile = true
 
 [[files]]
-file = "mods/audio-extension-for-fancymenu.pw.toml"
-hash = "2312049a9c3bc94f7d5345847d8f6736fc79e7da820037e25a9b8bdbb4088954"
-metafile = true
-
-[[files]]
 file = "mods/aurorasdecorations.pw.toml"
 hash = "b7d82cd112896a6e2c94b5c51bcbd21e7cba294c88f0e2f7b886eb382bad2353"
 metafile = true
@@ -423,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/automobility.pw.toml"
 hash = "285792e1f2407b68c0a702f455b01cb02d19a531438dedaf1c95eead8a2303f6"
-metafile = true
-
-[[files]]
-file = "mods/auudio.pw.toml"
-hash = "e8504c09fc7466033c4aa815bfc4a7002915c132c4e45d68e7d861263a13be72"
 metafile = true
 
 [[files]]
@@ -691,11 +681,6 @@ hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "2d783e03714ebcdda2d034b9b1697df388dc5b8e26f3bd0f9a610e2d062f1bab"
-metafile = true
-
-[[files]]
 file = "mods/fedicraft.pw.toml"
 hash = "37e675ff0f75ab958dac91e41a3c94172764798257041ce90190f564ad8b9a79"
 metafile = true
@@ -843,11 +828,6 @@ metafile = true
 [[files]]
 file = "mods/kettle.pw.toml"
 hash = "734cffbfe5158d1db73132eace629e39c4c61840679a620ce287e121ca52c245"
-metafile = true
-
-[[files]]
-file = "mods/konkrete.pw.toml"
-hash = "8634fda31069fb5fb246126bef5a273c01845f74b4c0ad0ba394698df815e678"
 metafile = true
 
 [[files]]
