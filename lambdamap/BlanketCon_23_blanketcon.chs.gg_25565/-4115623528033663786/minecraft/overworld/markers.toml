@@ -533,7 +533,7 @@
 	type = "banner_black"
 	z = -13
 	x = 100
-	name = "{\"text\":\"Controllify\"}"
+	name = "{\"text\":\"Controlify\"}"
 	rotation = 180.0
 	y = 0
 	source = "user"
