@@ -27,6 +27,6 @@ key_key.push_to_talk:key.keyboard.v
 key_key.mute_microphone:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.period
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.honk.honk:key.keyboard.h
