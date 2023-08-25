@@ -1541,7 +1541,7 @@ hash = "1347fd7a346794640eea30a90b83bfe270b6f20883f8b8133f10ab154eba0120"
 
 [[files]]
 file = "resources/datapacks/CPlusBooth.zip"
-hash = "69a9a23c20a4430469fb432a4b1afc0fb57f56ce0e1e3fbe0fc1e3ae837c22fe"
+hash = "1049d913989f6c3c1c610caa7caf1c12ff517b26729fb7385d1efabce7b0297d"
 
 [[files]]
 file = "resources/datapacks/atlaslisbon-ended-data.zip"
@@ -1573,7 +1573,7 @@ hash = "1ee4fc2127dd9cc3e876e0bb492e4d909df0729d962201986d85a3f9955e5717"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_bc23/powers/restrict_to_bounds.json"
-hash = "3b40e19d8ea0b623081b018d1dd60452b715e57b084a4532e6067ba106834c3c"
+hash = "a74885552be2eaf93ccb5e6730739025d149ea9a41ed0646fd2c36dcc1a05994"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/avian.json"

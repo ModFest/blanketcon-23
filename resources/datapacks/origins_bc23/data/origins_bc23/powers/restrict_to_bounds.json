@@ -20,25 +20,25 @@
             {
                 "type": "origins:distance_from_coordinates",
                 "offset": {
-                    "x": 408,
+                    "x": 442,
                     "y": 0,
-                    "z": -250
+                    "z": -248
                 },
                 "ignore_y": true,
                 "scale_reference_to_dimension": false,
-                "compare_to": 60,
+                "compare_to": 75,
                 "comparison": ">"
             },
             {
                 "type": "origins:distance_from_coordinates",
                 "offset": {
-                    "x": 491,
+                    "x": 512,
                     "y": 0,
-                    "z": -250
+                    "z": -248
                 },
                 "ignore_y": true,
                 "scale_reference_to_dimension": false,
-                "compare_to": 60,
+                "compare_to": 75,
                 "comparison": ">"
             }
         ]
