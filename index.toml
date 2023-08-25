@@ -49,6 +49,10 @@ file = "config/entityculling.json"
 hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
 [[files]]
+file = "config/event_schedule.json"
+hash = "12a64764926239e211c8758960662342217269afae3d2f7d4d8dd4a656cdf424"
+
+[[files]]
 file = "config/exordium.json"
 hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
@@ -107,6 +111,10 @@ hash = "17051dda1046e2127093c94e650e223266a310d85f795868cae7cc03820dabda"
 [[files]]
 file = "config/polydex.json"
 hash = "b89e2497f1cb1ba974aec6cfe39c41b634df93d9318b0ef945107c732492b25d"
+
+[[files]]
+file = "config/polymer/client.json"
+hash = "3825827c0ee37a298343a1975e66daeb0291d541124526d254bb4a544824daa2"
 
 [[files]]
 file = "config/polymer/common.json"
@@ -1445,6 +1453,10 @@ file = "music/AzuCrystal_Nonanotes.ogg"
 hash = "79af76345a76947bdda7ea51e5bf8b9134dea2eced49807ef4bc88cce4479ff7"
 
 [[files]]
+file = "music/Beethoven_MoonlightSonata.ogg"
+hash = "0f8c5a4a0da4fc325d2709faf8572e066e5bd68235771a8c74ec564389bb471f"
+
+[[files]]
 file = "music/BobbyCole_TranceMusicForRacingGame.ogg"
 hash = "6dff0e925c3ce476aa47f557de610ae71c2a5eb3c8277e88ee7ef9c08f89e619"
 
@@ -1505,6 +1517,10 @@ file = "music/C418_Taswell.json"
 hash = "eaeca90000fa35ca7711029c6fc7679c54f52e6e53f997f70d721598295ff8a5"
 
 [[files]]
+file = "music/Chopin_PreludeOp28No15.ogg"
+hash = "e51d017607d9aa55cde86e95457027b7c311fb03e64663297db36947725a3bc9"
+
+[[files]]
 file = "music/Faction_AnarchyMainRemix.mod.bz2"
 hash = "939d14b1cdf70a280b139dcd282d239afedd51f034c873fa77604d5792c0aacf"
 
@@ -1529,8 +1545,16 @@ file = "music/MikeMorasky_TurretWifeSerenade.ogg"
 hash = "734cc293ea62cc9182651209dfe5c46b8ef159f355f6595762c5c72145c25000"
 
 [[files]]
+file = "music/Schubert_Standchen.ogg"
+hash = "e088734d6279d65cf17e17e1850ce60cde06b5736c49e4ae4714e39b981051e9"
+
+[[files]]
 file = "music/SiivaGunner_Cat_InfdevMix.ogg"
 hash = "da25c058485102e158a4771d2e4171fbeb1e50be43c9ee30d320719cb275092f"
+
+[[files]]
+file = "music/Tchaikovsky_SwanLakeOp20.ogg"
+hash = "182cf3a304bb8af4f457f52ea20c74702b32aea7c41ce65406920dc9da015579"
 
 [[files]]
 file = "music/ThatAndyGuy_DaFunkDoYouKnowBoutChip.ogg"
@@ -1562,7 +1586,7 @@ hash = "69a9a23c20a4430469fb432a4b1afc0fb57f56ce0e1e3fbe0fc1e3ae837c22fe"
 
 [[files]]
 file = "resources/datapacks/atlaslisbon-ended-data.zip"
-hash = "96d6bf4a28e9de373a31eec70efcffe6365f0066606384b3fe913325584faec7"
+hash = "a5fc6183c4bf06c5a2e9818a6b0e069161a8552f06e6951a330be2c25afe6fa6"
 
 [[files]]
 file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/cyberpunk_mooshroom.json"
@@ -1946,7 +1970,7 @@ hash = "74ce153773b8ffd0dc4414d2be095e5c032ea49b32269bb85893ab877a317851"
 
 [[files]]
 file = "resources/resourcepacks/atlaslisbon-ended-lang.zip"
-hash = "6e76606abfd443d6c02b427eadb0ff25d015899bfed2800086684aa3756ba54a"
+hash = "dcaf7cc14b66ecce8980698cfa6d7b3cc5097d36dd0cc96cd9c57d1fff001802"
 
 [[files]]
 file = "resources/resourcepacks/betterdiscs.pw.toml"
