@@ -1,3 +1,155 @@
+[[markers]]
+	type = "target_x"
+	z = 39
+	x = 38
+	name = "{\"text\":\"City Hall\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 56
+	x = -97
+	name = "{\"text\":\"Grand Central\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = 414
+	x = -449
+	name = "{\"text\":\"Stage\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "target_x"
+	z = -294
+	x = -166
+	name = "{\"text\":\"HQ\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 182
+	x = 107
+	name = "{\"text\":\"Arrábida\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 473
+	x = -449
+	name = "{\"text\":\"Nova Graciosa\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 279
+	x = 158
+	name = "{\"text\":\"Tróia Peninsula\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 204
+	x = 272
+	name = "{\"text\":\"Estuário do Sado\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 149
+	x = 37
+	name = "{\"text\":\"Azeitão\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = 115
+	x = -172
+	name = "{\"text\":\"Lagoa de Albufeira\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = -136
+	x = -275
+	name = "{\"text\":\"Farol do Bugio\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = -355
+	x = -374
+	name = "{\"text\":\"Sintra-Cascais\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = -168
+	x = -181
+	name = "{\"text\":\"Torre de Belém\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = -224
+	x = -115
+	name = "{\"text\":\"Monstanto\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "monument"
+	z = -362
+	x = 149
+	name = "{\"text\":\"Estuário do Tejo\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "mansion"
+	z = -400
+	x = -70
+	name = "{\"text\":\"Ferris Wheel\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "mansion"
+	z = -445
+	x = -189
+	name = "{\"text\":\"Log Flume\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
 
 [[markers]]
 	type = "banner_light_blue"
@@ -36,55 +188,10 @@
 	source = "user"
 
 [[markers]]
-	type = "target_x"
-	z = 56
-	x = -97
-	name = "{\"text\":\"Grand Central Station\"}"
-	rotation = 180.0
-	y = 0
-	source = "user"
-
-[[markers]]
-	type = "target_x"
-	z = 414
-	x = -449
-	name = "{\"text\":\"Stage\"}"
-	rotation = 180.0
-	y = 0
-	source = "user"
-
-[[markers]]
-	type = "target_x"
-	z = 39
-	x = 38
-	name = "{\"text\":\"City Hall\"}"
-	rotation = 180.0
-	y = 0
-	source = "user"
-
-[[markers]]
-	type = "target_x"
-	z = -294
-	x = -166
-	name = "{\"text\":\"HQ\"}"
-	rotation = 180.0
-	y = 0
-	source = "user"
-
-[[markers]]
 	type = "banner_light_gray"
 	z = -167
 	x = 154
 	name = "{\"text\":\"Moue Milkshakes\"}"
-	rotation = 180.0
-	y = 0
-	source = "user"
-
-[[markers]]
-	type = "banner_brown"
-	z = -114
-	x = 263
-	name = "{\"text\":\"Phonos\"}"
 	rotation = 180.0
 	y = 0
 	source = "user"
@@ -414,7 +521,7 @@
 	source = "user"
 
 [[markers]]
-	type = "banner_light_blue"
+	type = "banner_cyan"
 	z = 3
 	x = 78
 	name = "{\"text\":\"FEN\"}"
@@ -552,7 +659,7 @@
 	type = "banner_light_blue"
 	z = 275
 	x = 421
-	name = "{\"text\":\"Icy Incitement\"}"
+	name = "{\"text\":\"Elysium\"}"
 	rotation = 180.0
 	y = 0
 	source = "user"
@@ -570,7 +677,7 @@
 	type = "banner_blue"
 	z = 303
 	x = 445
-	name = "{\"text\":\"Wanderer'S Catalogue\"}"
+	name = "{\"text\":\"Wanderer's Catalogue\"}"
 	rotation = 180.0
 	y = 0
 	source = "user"
@@ -589,6 +696,474 @@
 	z = -245
 	x = -300
 	name = "{\"text\":\"Hex Casting\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = 152
+	x = -63
+	name = "{\"text\":\"Image2Map\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_gray"
+	z = 167
+	x = -48
+	name = "{\"text\":\"BanHammer\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = 169
+	x = -74
+	name = "{\"text\":\"Universal Graves\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 153
+	x = -99
+	name = "{\"text\":\"ASE\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 176
+	x = -129
+	name = "{\"text\":\"Nucleoid\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = 120
+	x = -130
+	name = "{\"text\":\"Polydex\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_orange"
+	z = 114
+	x = -119
+	name = "{\"text\":\"GOML\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = 119
+	x = -92
+	name = "{\"text\":\"Universal Shops\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_cyan"
+	z = 99
+	x = -51
+	name = "{\"text\":\"PolyMC\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_magenta"
+	z = -347
+	x = -125
+	name = "{\"text\":\"Aurora's Deco\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = 40
+	x = -96
+	name = "{\"text\":\"Steam'n'Rails\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = -107
+	x = -161
+	name = "{\"text\":\"Rainglow\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = -280
+	x = -306
+	name = "{\"text\":\"HOTM\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = -244
+	x = -221
+	name = "{\"text\":\"WIAJ\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -280
+	x = -228
+	name = "{\"text\":\"ShadowsGate\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = -280
+	x = -193
+	name = "{\"text\":\"Phonos\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_magenta"
+	z = -303
+	x = -23
+	name = "{\"text\":\"Mythic Metals\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -278
+	x = -386
+	name = "{\"text\":\"Consistency+\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_cyan"
+	z = -290
+	x = -403
+	name = "{\"text\":\"Soul Ice\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = -295
+	x = -389
+	name = "{\"text\":\"WYD\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -232
+	x = -289
+	name = "{\"text\":\"Hexal\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = -235
+	x = -275
+	name = "{\"text\":\"Hexbound\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_gray"
+	z = -260
+	x = -244
+	name = "{\"text\":\"Yttr\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_gray"
+	z = -304
+	x = -284
+	name = "{\"text\":\"UPW\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = -3
+	x = 333
+	name = "{\"text\":\"Turtlematic\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_pink"
+	z = 316
+	x = 444
+	name = "{\"text\":\"Amarite\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = 335
+	x = 442
+	name = "{\"text\":\"DJA\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 337
+	x = 435
+	name = "{\"text\":\"Piercing Paxels\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_green"
+	z = 344
+	x = 423
+	name = "{\"text\":\"Befoul\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_red"
+	z = 306
+	x = 355
+	name = "{\"text\":\"V. Barriers\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 337
+	x = 355
+	name = "{\"text\":\"Peculiar Pieces\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 331
+	x = 368
+	name = "{\"text\":\"Trails&Tweaks\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = 333
+	x = 354
+	name = "{\"text\":\"DecoMod\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = 286
+	x = 363
+	name = "{\"text\":\"Icy Incitement\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = 122
+	x = 323
+	name = "{\"text\":\"Arachne\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_purple"
+	z = 128
+	x = 386
+	name = "{\"text\":\"Enchantery\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_green"
+	z = 110
+	x = 408
+	name = "{\"text\":\"PIAJ\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_red"
+	z = 69
+	x = 422
+	name = "{\"text\":\"Bing Bing Wahoo\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_red"
+	z = 10
+	x = 411
+	name = "{\"text\":\"Fedicraft\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_lime"
+	z = -39
+	x = 497
+	name = "{\"text\":\"Ecotones\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = -23
+	x = 388
+	name = "{\"text\":\"Trinkets\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_brown"
+	z = 48
+	x = 329
+	name = "{\"text\":\"Portable Tables\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = 62
+	x = 309
+	name = "{\"text\":\"WearThat\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_blue"
+	z = -135
+	x = 117
+	name = "{\"text\":\"ElectricEel\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = -129
+	x = 100
+	name = "{\"text\":\"Map Shirts\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_black"
+	z = -153
+	x = 102
+	name = "{\"text\":\"Polaroid Camera\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_gray"
+	z = 124
+	x = 209
+	name = "{\"text\":\"Gravity API\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_yellow"
+	z = -322
+	x = -202
+	name = "{\"text\":\"Endrous Edibles\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_light_blue"
+	z = -75
+	x = 73
+	name = "{\"text\":\"Blåhaj\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_white"
+	z = 217
+	x = 15
+	name = "{\"text\":\"Fabulously Optimized\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_gray"
+	z = -439
+	x = 113
+	name = "{\"text\":\"ModernFix\"}"
+	rotation = 180.0
+	y = 0
+	source = "user"
+
+[[markers]]
+	type = "banner_orange"
+	z = -329
+	x = -126
+	name = "{\"text\":\"CHS\"}"
 	rotation = 180.0
 	y = 0
 	source = "user"

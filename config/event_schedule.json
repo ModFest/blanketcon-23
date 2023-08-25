@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "name": "Server Launch",
+      "date": 1692986400,
+      "duration": 3600
+    },
+    {
+      "name": "Opening Ceremony",
+      "date": 1692990000,
+      "duration": 3600
+    },
+    {
+      "name": "Unsafe (Keynote)",
+      "date": 1693000800,
+      "duration": 3600
+    },
+    {
+      "name": "Modrinth Q&A",
+      "date": 1693008000,
+      "duration": 3600
+    },
+    {
+      "name": "How to Lie and Get Away With It (Keynote)",
+      "date": 1693015200,
+      "duration": 3600
+    },
+    {
+      "name": "Introduction to Game Design (Keynote)",
+      "date": 1693018800,
+      "duration": 3600
+    },
+    {
+      "name": "History of TeaCon (Keynote)",
+      "date": 1693026000,
+      "duration": 3600
+    },
+    {
+      "name": "fractureiser (Keynote)",
+      "date": 1693072800,
+      "duration": 3600
+    },
+    {
+      "name": "Improving on Parchment for Forge (Keynote)",
+      "date": 1693076400,
+      "duration": 3600
+    },
+    {
+      "name": "Nomenclature (Keynote)",
+      "date": 1693083600,
+      "duration": 3600
+    },
+    {
+      "name": "Rewriting Codebases (Keynote)",
+      "date": 1693087200,
+      "duration": 3600
+    },
+    {
+      "name": "Rendering at extreme distance and raytracing (Keynote)",
+      "date": 1693094400,
+      "duration": 3600
+    },
+    {
+      "name": "True Enlightenment of The Graph Form (Keynote)",
+      "date": 1693148400,
+      "duration": 3600
+    },
+    {
+      "name": "Into The Server Side Development (Keynote)",
+      "date": 1693155600,
+      "duration": 3600
+    },
+    {
+      "name": "Minigames with NucleoidMC (Minigames)",
+      "date": 1693159200,
+      "duration": 3600
+    },
+    {
+      "name": "Deeper mod interop (Keynote)",
+      "date": 1693166400,
+      "duration": 3600
+    },
+    {
+      "name": "Playing Modding Minecraft",
+      "date": 1693170000,
+      "duration": 3600
+    },
+    {
+      "name": "Mishaps, Accidents, and whoopsie daisies (Panel)",
+      "date": 1693173600,
+      "duration": 3600
+    },
+    {
+      "name": "A Hundred Players, a Month, a Mod (Keynote)",
+      "date": 1693180800,
+      "duration": 3600
+    },
+    {
+      "name": "Not reinventing the wheel VS predator (Keynote)",
+      "date": 1693188000,
+      "duration": 3600
+    },
+    {
+      "name": "Hard Wired Island (Tabletop Actual Play)",
+      "date": 1693249200,
+      "duration": 3600
+    },
+    {
+      "name": "Big Finale",
+      "date": 1693263600,
+      "duration": 3600
+    }
+  ]
+}
