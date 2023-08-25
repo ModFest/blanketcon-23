@@ -1524,6 +1524,10 @@ file = "music/Undertale_ItsShowtime.ogg"
 hash = "5818643cfc0071481745fb80f47690cf55e6e73efda5d3986cdb5086f118686e"
 
 [[files]]
+file = "options.txt"
+hash = "c6606f49553bc5364540614697c61945975dd900d66c5d5c60902255afc2424c"
+
+[[files]]
 file = "resourcepacks/mojang_mooblooms_bc23.zip"
 hash = "dc38bb6e7087d923e930522dd10a7dd882af985ce2cffa5eefcd85f30d1dd84e"
 
