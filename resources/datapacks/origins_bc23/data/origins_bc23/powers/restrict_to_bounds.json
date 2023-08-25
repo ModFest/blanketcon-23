@@ -5,11 +5,7 @@
         "actions": [
             {
                 "type": "origins:execute_command",
-                "command": "origin set @s origins_bc23:toomanyorigins origins_bc23:tmo_no_origin"
-            },
-            {
-                "type": "origins:execute_command",
-                "command": "origin set @s origins_bc23:origins_minus origins:human"
+                "command": "origin set @s origins:origin origins:human"
             }
         ]
     },
@@ -24,13 +20,25 @@
             {
                 "type": "origins:distance_from_coordinates",
                 "offset": {
-                    "x": 484,
+                    "x": 408,
                     "y": 0,
-                    "z": -247
+                    "z": -250
                 },
                 "ignore_y": true,
                 "scale_reference_to_dimension": false,
-                "compare_to": 55,
+                "compare_to": 60,
+                "comparison": ">"
+            },
+            {
+                "type": "origins:distance_from_coordinates",
+                "offset": {
+                    "x": 491,
+                    "y": 0,
+                    "z": -250
+                },
+                "ignore_y": true,
+                "scale_reference_to_dimension": false,
+                "compare_to": 60,
                 "comparison": ">"
             }
         ]

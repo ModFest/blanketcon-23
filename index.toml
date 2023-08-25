@@ -1573,7 +1573,7 @@ hash = "1ee4fc2127dd9cc3e876e0bb492e4d909df0729d962201986d85a3f9955e5717"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_bc23/powers/restrict_to_bounds.json"
-hash = "7b263f8e098cdea2deaf81d41d47d0b1643604b4f5364f6d64b632d701f58254"
+hash = "3b40e19d8ea0b623081b018d1dd60452b715e57b084a4532e6067ba106834c3c"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/avian.json"
