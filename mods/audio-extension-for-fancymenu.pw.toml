@@ -1,0 +1,13 @@
+name = "Audio Extension for FancyMenu"
+filename = "fm_audio_extension_fabric_1.1.1_MC_1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pFgXNvCD/versions/jFRvFMzy/fm_audio_extension_fabric_1.1.1_MC_1.20.jar"
+hash-format = "sha1"
+hash = "49e55f5d23e0c8a8001adb8e89e0583268715008"
+
+[update]
+[update.modrinth]
+mod-id = "pFgXNvCD"
+version = "jFRvFMzy"
