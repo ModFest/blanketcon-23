@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdamap.pw.toml"
-hash = "f254cd62cb71ae80622a86f245bb26d0ba7849138bc46274a73ddf89ed3fcf45"
+hash = "7188da0bbe2bee28186ad7fb1d08029e9e97260cd40aa5a09f9eaf1cb7aae5d4"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "7195e6bd313ef05d5df77a398633c5760de46cb9855279e1b31a530036150b03"
+hash = "4aa5bec03c653cea4e47bfa06171337a5e23bca2358ab326fc7eb0b803a89f06"
 metafile = true
 
 [[files]]
@@ -1582,11 +1582,11 @@ hash = "1347fd7a346794640eea30a90b83bfe270b6f20883f8b8133f10ab154eba0120"
 
 [[files]]
 file = "resources/datapacks/CPlusBooth.zip"
-hash = "69a9a23c20a4430469fb432a4b1afc0fb57f56ce0e1e3fbe0fc1e3ae837c22fe"
+hash = "1049d913989f6c3c1c610caa7caf1c12ff517b26729fb7385d1efabce7b0297d"
 
 [[files]]
 file = "resources/datapacks/atlaslisbon-ended-data.zip"
-hash = "a5fc6183c4bf06c5a2e9818a6b0e069161a8552f06e6951a330be2c25afe6fa6"
+hash = "6a056c39b6f4a3069f31c932ea09b3cdedb2a16f0817a72b650e0740a025805a"
 
 [[files]]
 file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/cyberpunk_mooshroom.json"
