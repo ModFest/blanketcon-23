@@ -111,9 +111,6 @@ io.github.jamalam360.jamlib.config.JamLibConfig$MidnightConfigScreen {
 org.enginehub.worldeditcui.gui.CUIConfigPanel {
 }
 
-com.unascribed.yttr.compat.modmenu.YttrConfigScreen {
-}
-
 net.minecraft.class_442 {
 }
 

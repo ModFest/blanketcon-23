@@ -66,7 +66,7 @@ hash = "84c45ef80942db3836621ff816d3079a5a420416aca0076cc1e703ecc400e3f0"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "756905c3b1ffba210b49863d7d55dc4d197e892e1eee1e9d492fcf2bdeeba7be"
+hash = "f4b94fcf1f1501b3928ead67fc2b22f16803d54f79e4ccc08ad5ebcf95f5bd96"
 
 [[files]]
 file = "config/fancymenu/customization/bc23_1.txt"
@@ -315,10 +315,6 @@ hash = "1bd95e3ed76cd6dff929ec6abc3a8af0486b5ac6f0393f53012211a8ce074d45"
 [[files]]
 file = "fancymenu_bc23/nonanotes.ogg"
 hash = "65e11fe912692d0a4e56c558b11ee22f98bbbb7c65d9e33f9a6b0c622d38289b"
-
-[[files]]
-file = "joe/setup.properties"
-hash = "10fb35adc65109a37be0b4de79849a856f7564e8ea8d8850057d512e37fa937e"
 
 [[files]]
 file = "lambdamap/BlanketCon_23_blanketcon.chs.gg_25565/-4115623528033663786/minecraft/overworld/markers.toml"
