@@ -1,0 +1,143 @@
+type = customizablemenus
+
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+dev.isxander.yacl3.gui.YACLScreen {
+}
+
+eu.midnightdust.lib.config.MidnightConfig$MidnightConfigScreen {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_440 {
+}
+
+me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI {
+}
+
+net.minecraft.class_6777 {
+}
+
+net.minecraft.class_443 {
+}
+
+net.minecraft.class_458 {
+}
+
+net.minecraft.class_4288 {
+}
+
+net.minecraft.class_6599 {
+}
+
+dev.isxander.controlify.gui.screen.ControllerCarouselScreen {
+}
+
+net.minecraft.class_426 {
+}
+
+net.minecraft.class_404 {
+}
+
+net.minecraft.class_5375 {
+}
+
+net.minecraft.class_4189 {
+}
+
+net.minecraft.class_7944 {
+}
+
+net.minecraft.class_8219 {
+}
+
+net.minecraft.class_407 {
+}
+
+net.minecraft.class_500 {
+}
+
+cc.tweaked_programs.cccbridge.client.minecraft.screen.ConfigScreen {
+}
+
+dev.emi.emi.screen.ConfigScreen {
+}
+
+pextystudios.emogg.gui.screen.SettingsScreen {
+}
+
+com.ordana.enchantery.integration.fabric.ModMenuCompat$ModConfigScreen {
+}
+
+foundationgames.enhancedblockentities.config.gui.screen.EBEConfigScreen {
+}
+
+me.shedaniel.clothconfig2.gui.ClothConfigScreen {
+}
+
+net.coderbot.iris.gui.screen.ShaderPackScreen {
+}
+
+com.terraformersmc.modmenu.gui.ModMenuOptionsScreen {
+}
+
+org.embeddedt.modernfix.screen.ModernFixConfigScreen {
+}
+
+ca.fxco.moreculling.config.cloth.MoreCullingClothConfigScreen {
+}
+
+io.wispforest.owo.config.ui.ConfigScreen {
+}
+
+io.github.foundationgames.phonos.config.PhonosClientConfigScreen {
+}
+
+io.ix0rai.rainglow.config.RainglowConfigScreen {
+}
+
+io.github.foundationgames.sandwichable.config.ConfigInABarrel$ConfigScreen {
+}
+
+com.github.reoseah.treehollows.client.TreeHollowsConfigScreen {
+}
+
+io.github.jamalam360.jamlib.config.JamLibConfig$MidnightConfigScreen {
+}
+
+org.enginehub.worldeditcui.gui.CUIConfigPanel {
+}
+
+com.unascribed.yttr.compat.modmenu.YttrConfigScreen {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.minecraft.class_434 {
+}
+
+net.minecraft.class_525 {
+}
+
+net.minecraft.class_413 {
+}
+
+net.minecraft.class_5235 {
+}
+
+net.minecraft.class_8134 {
+}
+

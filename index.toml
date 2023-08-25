@@ -61,6 +61,102 @@ file = "config/fabrication/features.ini"
 hash = "df28e2a09218bd17e3be794eba4c083f71163b65ceac9bef382ec0b8eedee2b2"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "84c45ef80942db3836621ff816d3079a5a420416aca0076cc1e703ecc400e3f0"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "756905c3b1ffba210b49863d7d55dc4d197e892e1eee1e9d492fcf2bdeeba7be"
+
+[[files]]
+file = "config/fancymenu/customization/bc23_1.txt"
+hash = "62309cfa3c254fef4362288189f853b2aced8d542122488c00756c76b4a311b0"
+
+[[files]]
+file = "config/fancymenu/customization/bc23_theme.txt"
+hash = "e0bb5e8605b5c95d260dd73f1e424d8a550a6a9a763c0eee0b0c064b9f75b3d4"
+
+[[files]]
+file = "config/fancymenu/extensions/fmaudio/config.cfg"
+hash = "f3e260206c13bf58788b0572f453f95a3b7c67066dbf85f1a1118c1126d11d62"
+
+[[files]]
+file = "config/fancymenu/extensions/fmaudio/locals/en_us.local"
+hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "eb2e3f61a900f2fdb8fd1910a557a63350a1abe402bba8033f37e8f48d8a44ca"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "480757aba027df672aae23a9c9b624b3dfa79bb28f91419ec13848d95e818143"
+
+[[files]]
+file = "config/fancymenu/panoramas/ochetgenyo_2/panorama/panorama_0.png"
+hash = "e2d081c56733ec246709958d63b8010e84758070868776e72f83eec73590ae85"
+
+[[files]]
+file = "config/fancymenu/panoramas/ochetgenyo_2/panorama/panorama_1.png"
+hash = "794554aa2e689a282ce1239867e36dfa8ca9cfbd9ab3f3edd5c8369775337c17"
+
+[[files]]
+file = "config/fancymenu/panoramas/ochetgenyo_2/panorama/panorama_2.png"
+hash = "52f49c1026e415bf896fb682f1798982c43c175e0a20d8c1eb07918ec20a77b9"
+
+[[files]]
+file = "config/fancymenu/panoramas/ochetgenyo_2/panorama/panorama_3.png"
+hash = "61b2ed153f8b94192c6f337c10a3bd882d7c757c275d5cd0cc3433d21cb0378e"
+
+[[files]]
+file = "config/fancymenu/panoramas/ochetgenyo_2/panorama/panorama_4.png"
+hash = "eded484986a178ad04e6d82a815bc73876aa42d275756c03680a8923b2514015"
+
+[[files]]
+file = "config/fancymenu/panoramas/ochetgenyo_2/panorama/panorama_5.png"
+hash = "dedb5b76cac99a773f3fc1eae4ddb47f471ff2576e7560986878c33857ffcccd"
+
+[[files]]
+file = "config/fancymenu/panoramas/ochetgenyo_2/properties.txt"
+hash = "8c910f534bf61f313a59b29320f9ff3fae0824659a0644feee97bcb8d278d3c0"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/fastload.properties"
 hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
@@ -199,6 +295,30 @@ hash = "45b56810c1c6fcabaf2c6f8fa4f7e4ae1eaccae56e19a7e8acc849054064a249"
 [[files]]
 file = "config/yttr.css"
 hash = "3d86accc8feeafc941276420b775ef2d90c4574f7ae42136d52e02c1b564f766"
+
+[[files]]
+file = "fancymenu_bc23/bc23.png"
+hash = "ddf3ccaf47e0b2d565b3ad6e59ce99b905c16e344725f371292c10193bab9a97"
+
+[[files]]
+file = "fancymenu_bc23/gradient.png"
+hash = "8f9fe1d8d5a205fe61fb616b52bfe9db6119bb4bae5cdd2874f4ff7a1d425539"
+
+[[files]]
+file = "fancymenu_bc23/minecraft_logo.png"
+hash = "002cfa4b60be1c923e3a1ea10e12a17761117e11a4105100b0f971b7a7eecc52"
+
+[[files]]
+file = "fancymenu_bc23/modfest.png"
+hash = "1bd95e3ed76cd6dff929ec6abc3a8af0486b5ac6f0393f53012211a8ce074d45"
+
+[[files]]
+file = "fancymenu_bc23/nonanotes.ogg"
+hash = "65e11fe912692d0a4e56c558b11ee22f98bbbb7c65d9e33f9a6b0c622d38289b"
+
+[[files]]
+file = "joe/setup.properties"
+hash = "10fb35adc65109a37be0b4de79849a856f7564e8ea8d8850057d512e37fa937e"
 
 [[files]]
 file = "lambdamap/BlanketCon_23_blanketcon.chs.gg_25565/-4115623528033663786/minecraft/overworld/markers.toml"
