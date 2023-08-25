@@ -1605,92 +1605,68 @@ file = "resources/datapacks/foxbox_create_recipes.zip"
 hash = "70d136eae63da242e62c5cf5997f96a1c46af3e2055345ac956e8f8bf80c20b8"
 
 [[files]]
-file = "resources/datapacks/origins_bc23/data/origins/origin_layers/origin.json"
-hash = "92d533df74ad31d7b32874d49f0a6f70d3194f52cf878c2270e154f6236a1308"
-
-[[files]]
 file = "resources/datapacks/origins_bc23/data/origins/origins/human.json"
-hash = "595cd83c4d18c55bb956b6ab90af11a719410398b7076f9066527fa6f25c6102"
+hash = "7ced77e502ad74736bdd95eba04196be71cf4d8cf5d074532291cd677748e5c1"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins/powers/nether_spawn.json"
 hash = "1ee4fc2127dd9cc3e876e0bb492e4d909df0729d962201986d85a3f9955e5717"
 
 [[files]]
-file = "resources/datapacks/origins_bc23/data/origins_bc23/origin_layers/origins_minus.json"
-hash = "c95f0783cf38c4d6fcde92ae39e7110c084f2fd7f84db1cad52bbf75e59158e5"
-
-[[files]]
-file = "resources/datapacks/origins_bc23/data/origins_bc23/origin_layers/toomanyorigins.json"
-hash = "e303dc8ce06c1846a28cbeb931bb0aa4a1b22899913e7f30edbf0d7a23b39e32"
-
-[[files]]
-file = "resources/datapacks/origins_bc23/data/origins_bc23/origins/tmo_no_origin.json"
-hash = "a2ad66eacad89346ab13ce2f90bbb88f7216b441cdaa37f2b349e4b4f8861410"
-
-[[files]]
-file = "resources/datapacks/origins_bc23/data/origins_bc23/powers/reset_minus_upon_chosen.json"
-hash = "b811cce238b670474ff1d3b4a7baba314f86796fe066db84a6715545aab861ed"
-
-[[files]]
-file = "resources/datapacks/origins_bc23/data/origins_bc23/powers/reset_tmo_upon_chosen.json"
-hash = "95a8452afb24bf15708d8a323e03062252f81e57f0db600ea74d29cfde6502ba"
-
-[[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/avian.json"
-hash = "fe15df96f158ef15c22799ecb00d667334145b1e9069343e173216e5d12668e9"
+hash = "e92c941eec015d285a54c2c11f9baf063fa743c8fefad4c72cea528d4a1ecabe"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/dryad.json"
-hash = "29ec7c61a5985967b6111523d080a4ab2a36a0411d0f1101061a468db5b1fd31"
+hash = "98c6dd7f0f6311b1d5bd5eb22c5a26914f4cbe3252dd1a0ad6fd311218e9b471"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/hellspawn.json"
-hash = "12cbb7a3fd04a95a5aa1bdb1060aec198ea5422c33ee03f143abc01443aa54d7"
+hash = "6a8c9c461b438f524f17402a5269efb070164dfff85a65ae9e50a4b4dbb41784"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/mer.json"
-hash = "a24cb7399ccfa288d6bc61be27099651854b43edd6e6b34ecf435f26600610ee"
+hash = "d16686e00e5d03f20a3e21325b3524399621fae76767662fc18cab67b901e2c7"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/sanguine.json"
-hash = "01f97f5ea1ce4c224add4cb0b691f0eb50964e50b3a7dd1002ee3adada8c4f6e"
+hash = "97e833066a034dba0099a07183efaa8bc1945a22f2240678cd337b1f2efacb11"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/steadfast.json"
-hash = "e001c5a2380e376ac79b554229b79c251b5e0b3f40a6fe4e8d3572536f1ce75b"
+hash = "a75c8549331d469789003ad8805989218506fb50ebd5475771bcb979fccc52d1"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/voidthing.json"
-hash = "4f09cab7d219ce1cb8409a291f5ed3bfdb170a5df956571156deef25cfd4bf0c"
+hash = "bb6fcdd2115d836e725b640fffa86fcc6a8c26268e1a5557818a2aac7bcf8dfe"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/weaver.json"
-hash = "0bdcf78fc495f7227a56c0ad87dda060bf32139eb0ae3243661381eebd3f10b8"
+hash = "32462a06ea1228069cee4ac4cc8a147ae818497659c3f6d0bc7be1c15aa87495"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/origins_minus/origins/wildling.json"
-hash = "a3fef2fb6064f1a2a56d8e4b2fc2890f0d86ddcdbc4d9b583a41c5dbfc0a07ea"
+hash = "0377614d959e6da3fd74870ad87d9bda0c18dc44cf2a2880faaa81dcc01dfff8"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/dragonborn.json"
-hash = "8f07f1b54835a204f9e35da35a5898302ed97fc2eae46237123637edb8a05359"
+hash = "50ebc242feafd10292a7ac21734b75c5bbfc865a3e0274517d214282cff02373"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/hare.json"
-hash = "0d5838f763e56be434a570512a1f5d42a8754045d4536a1dc5eb332d564f8c8f"
+hash = "0b12967369c6f13a76e23a7a66e7c617daf9821281e5ab1126db7da76512b230"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/hisskin.json"
-hash = "f8e759e21e25632f8380a888b5d0ad61300d2fdf6cc514b66718f515be6f0e6e"
+hash = "2dd1bfc5a8984ff8d6d0948b002ae0e6850801d6d3182d4fc805d79451e171c6"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/swarm.json"
-hash = "b0ae218850c9cce988c2f572539076a40eed425a39dd6b84460510114ef6d795"
+hash = "2710a257534b5f27e227d18d0cba951d2c6d15880de08834ad1ec6178ce15cf7"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/data/toomanyorigins/origins/withered.json"
-hash = "e5174c5c7d5210cb5a98a2359ca8f1b4e907f878b8eac527958fac6c9fd5b22b"
+hash = "77e70b6b369d184a6f2dd2994b4ff87f12346bfaf1ee9d1df77036052b0aa314"
 
 [[files]]
 file = "resources/datapacks/origins_bc23/pack.mcmeta"

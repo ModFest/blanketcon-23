@@ -5,8 +5,7 @@
     "toomanyorigins:stubby_legs",
     "toomanyorigins:conductive",
     "toomanyorigins:ailurophobia",
-    "toomanyorigins:redirect_lightning_chance",
-    "origins_bc23:reset_minus_upon_chosen"
+    "toomanyorigins:redirect_lightning_chance"
   ],
   "icon": "minecraft:gunpowder",
   "order": 556,

@@ -6,8 +6,7 @@
 		"origins_minus:blink",
 		"origins_minus:reach",
 		"origins_minus:wraparound",
-		"origins:ender_particles",
-        "origins_bc23:reset_tmo_upon_chosen"
+		"origins:ender_particles"
 	],
 	"icon": {
 		"item": "minecraft:music_disc_11"

@@ -9,8 +9,7 @@
 		"origins_minus:aqua_affinity",
 		"origins_minus:harvest_seagrass",
 		"origins_minus:edible_seagrass",
-		"origins:like_water",
-        "origins_bc23:reset_tmo_upon_chosen"
+		"origins:like_water"
 	],
 	"icon": {
 		"item": "minecraft:tube_coral"

@@ -6,8 +6,7 @@
 		"toomanyorigins:stinging_pains",
 		"toomanyorigins:unity",
 		"toomanyorigins:beekeeper",
-		"origins:arthropod",
-        "origins_bc23:reset_minus_upon_chosen"
+		"origins:arthropod"
 	],
 	"icon": "minecraft:honeycomb",
 	"order": 559,

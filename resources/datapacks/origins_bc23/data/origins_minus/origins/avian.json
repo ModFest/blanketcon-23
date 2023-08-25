@@ -5,8 +5,7 @@
 	"powers": [
 		"origins_minus:flap",
 		"origins_minus:glide",
-		"origins_minus:like_air",
-        "origins_bc23:reset_tmo_upon_chosen"
+		"origins_minus:like_air"
 	],
 	"icon": {
 		"item": "minecraft:feather"

@@ -10,8 +10,7 @@
     "toomanyorigins:small_appetite",
     "toomanyorigins:extra_step_height",
     "toomanyorigins:prevent_movement_checks",
-    "toomanyorigins:cancel_out_sprint_disable_on_hit",
-    "origins_bc23:reset_minus_upon_chosen"
+    "toomanyorigins:cancel_out_sprint_disable_on_hit"
   ],
   "icon": "minecraft:rabbit_foot",
   "order": 557,
