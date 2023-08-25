@@ -2,6 +2,6 @@ name = "portal-cubed"
 filename = "portal-cubed-2.3.0+jasfix1.jar"
 
 [download]
-url = "https://jaskarth.com/pub/mods/portal-cubed-2.3.0+jasfix1.jar"
+url = "https://blanketcon.b-cdn.net/jaskarth/pub/mods/portal-cubed-2.3.0+jasfix1.jar"
 hash-format = "sha256"
 hash = "9ac421a7aec20d30f92f9a280937809df44347c2c01b9b410f8742043768bcc6"
