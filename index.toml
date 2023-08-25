@@ -53,6 +53,10 @@ file = "config/entityculling.json"
 hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
 [[files]]
+file = "config/event_schedule.json"
+hash = "12a64764926239e211c8758960662342217269afae3d2f7d4d8dd4a656cdf424"
+
+[[files]]
 file = "config/exordium.json"
 hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
@@ -119,6 +123,10 @@ hash = "17051dda1046e2127093c94e650e223266a310d85f795868cae7cc03820dabda"
 [[files]]
 file = "config/polydex.json"
 hash = "b89e2497f1cb1ba974aec6cfe39c41b634df93d9318b0ef945107c732492b25d"
+
+[[files]]
+file = "config/polymer/client.json"
+hash = "3825827c0ee37a298343a1975e66daeb0291d541124526d254bb4a544824daa2"
 
 [[files]]
 file = "config/polymer/common.json"
@@ -1537,7 +1545,7 @@ hash = "69a9a23c20a4430469fb432a4b1afc0fb57f56ce0e1e3fbe0fc1e3ae837c22fe"
 
 [[files]]
 file = "resources/datapacks/atlaslisbon-ended-data.zip"
-hash = "96d6bf4a28e9de373a31eec70efcffe6365f0066606384b3fe913325584faec7"
+hash = "a5fc6183c4bf06c5a2e9818a6b0e069161a8552f06e6951a330be2c25afe6fa6"
 
 [[files]]
 file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/cyberpunk_mooshroom.json"
@@ -1921,7 +1929,7 @@ hash = "74ce153773b8ffd0dc4414d2be095e5c032ea49b32269bb85893ab877a317851"
 
 [[files]]
 file = "resources/resourcepacks/atlaslisbon-ended-lang.zip"
-hash = "6e76606abfd443d6c02b427eadb0ff25d015899bfed2800086684aa3756ba54a"
+hash = "dcaf7cc14b66ecce8980698cfa6d7b3cc5097d36dd0cc96cd9c57d1fff001802"
 
 [[files]]
 file = "resources/resourcepacks/betterdiscs.pw.toml"
