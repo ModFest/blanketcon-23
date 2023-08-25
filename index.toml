@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdamap.pw.toml"
-hash = "63a3011b3f877eb60972e347a869dc4245382687ef5eb046d7e0f0d34dac00fa"
+hash = "f254cd62cb71ae80622a86f245bb26d0ba7849138bc46274a73ddf89ed3fcf45"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "3fa95bc449119e5779a0acfb7138f32038833d57dc28b3e3a577dda6700baa10"
+hash = "7195e6bd313ef05d5df77a398633c5760de46cb9855279e1b31a530036150b03"
 metafile = true
 
 [[files]]
