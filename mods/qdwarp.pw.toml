@@ -1,0 +1,7 @@
+name = "qdwarp"
+filename = "qdwarp-1.4.jar"
+
+[download]
+url = "https://unascribed.b-cdn.net/qdwarp-1.4.jar"
+hash-format = "sha1"
+hash = "bbcbb57ca9284775f6e426c36d68de37687d1096"

@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/arachne.pw.toml"
-hash = "d74488b4714f898f33bb8c5ad2794380ffa5901179aa365e051dbe648ef10a32"
+hash = "cc0eec54c01b211b44056085294a618421048a26d1a2304b30d498888a7e6f43"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlaslisbon.pw.toml"
-hash = "6d5a3e113375cc6a4933fdc2c9901408b9114b5cb66c68650c61b4025d6b9342"
+hash = "fe250f4b6ec532f122861da3f55b6d4ed2bfde0c530b0ae7e401ef3b2ff7d916"
 metafile = true
 
 [[files]]
@@ -407,13 +407,13 @@ hash = "c2503c50409c00c88632b4d7d188696bfad0aa3f404aedf7e740928cf37e1289"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "9374c402322226cdb182e8c4c65f85a92e4093ba7751d8bc598cf5273a6bdf5b"
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
-file = "mods/create.pw.toml"
-hash = "3b3864b79fe83ea11b52410a52ba8ad6402b039491e11152b79e441e502a2f64"
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "9374c402322226cdb182e8c4c65f85a92e4093ba7751d8bc598cf5273a6bdf5b"
 metafile = true
 
 [[files]]
@@ -968,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "cce1f5406f40995492cc2006eef5e7447cc96e5c3b6162828e4a27c6b0552b85"
+hash = "3fa95bc449119e5779a0acfb7138f32038833d57dc28b3e3a577dda6700baa10"
 metafile = true
 
 [[files]]
@@ -1004,6 +1004,11 @@ metafile = true
 [[files]]
 file = "mods/qdresloader.pw.toml"
 hash = "f7cebb9f191593ed8d3aee3a1bd3ea8c400625702aea0fd5d6ffb9db0105b926"
+metafile = true
+
+[[files]]
+file = "mods/qdwarp.pw.toml"
+hash = "579608b678cf838b2d402045cc5639148ad644fdd0c9ddbacf7e10bb6f3ffc9d"
 metafile = true
 
 [[files]]
