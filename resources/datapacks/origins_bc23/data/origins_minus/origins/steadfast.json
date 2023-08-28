@@ -4,8 +4,7 @@
 	"description": "§oShow me an unstoppable force, then.§r",
 	"powers": [
 		"origins_minus:brace",
-		"origins_minus:rescue",
-		"origins_bc23:restrict_to_bounds"
+		"origins_minus:rescue"
 	],
 	"icon": {
 		"item": "minecraft:shield"

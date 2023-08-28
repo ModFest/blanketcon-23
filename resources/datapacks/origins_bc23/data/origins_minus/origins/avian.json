@@ -5,8 +5,7 @@
 	"powers": [
 		"origins_minus:flap",
 		"origins_minus:glide",
-		"origins_minus:like_air",
-		"origins_bc23:restrict_to_bounds"
+		"origins_minus:like_air"
 	],
 	"icon": {
 		"item": "minecraft:feather"

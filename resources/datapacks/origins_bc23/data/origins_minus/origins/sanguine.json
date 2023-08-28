@@ -6,8 +6,7 @@
 		"origins_minus:blood",
 		"origins_minus:no_hunger",
 		"origins_minus:frenzy",
-		"origins_minus:nightstalker",
-		"origins_bc23:restrict_to_bounds"
+		"origins_minus:nightstalker"
 	],
 	"icon": {
 		"item": "potion",

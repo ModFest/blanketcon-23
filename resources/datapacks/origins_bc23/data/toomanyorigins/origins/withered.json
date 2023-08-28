@@ -7,8 +7,7 @@
     "toomanyorigins:hell_raised",
     "toomanyorigins:spirit_strider",
     "toomanyorigins:deathly_digestion",
-    "toomanyorigins:unholy",
-    "origins_bc23:restrict_to_bounds"
+    "toomanyorigins:unholy"
   ],
   "icon": "minecraft:wither_rose",
   "order": 561,

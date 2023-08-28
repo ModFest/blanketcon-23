@@ -8,8 +8,7 @@
 		"origins_minus:vine_whip",
 		"origins_minus:bioluminescence",
 		"origins_minus:leaf_phasing",
-		"origins_minus:plant_fall_resistance",
-		"origins_bc23:restrict_to_bounds"
+		"origins_minus:plant_fall_resistance"
 	],
 	"icon": {
 		"item": "minecraft:vine"

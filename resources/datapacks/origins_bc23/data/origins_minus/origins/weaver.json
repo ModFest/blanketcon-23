@@ -7,8 +7,7 @@
 		"origins_minus:rappel",
 		"origins_minus:suffocation_immunity",
 		"origins_minus:web_affinity",
-		"origins:master_of_webs_no_slowdown",
-		"origins_bc23:restrict_to_bounds"
+		"origins:master_of_webs_no_slowdown"
 	],
 	"icon": {
 		"item": "minecraft:glow_lichen"
