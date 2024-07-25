@@ -1,0 +1,31 @@
+{
+	"bc23:visitor": {
+		"text_color": "#6de851",
+		"glow_color": "#00ff48",
+		"collect_particle": "minecraft:totem_of_undying",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_visitor"
+		},
+		"list_order": 1
+	},
+	
+	"bc23:challenge": {
+		"text_color": "#5174e8",
+		"glow_color": "#0026ff",
+		"collect_particle": "minecraft:glow",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 2
+	},
+	
+	"bc23:secret": {
+		"text_color": "#eb4034",
+		"glow_color": "#f08",
+		"collect_particle": "minecraft:witch",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_secret"
+		},
+		"list_order": 3
+	}
+}

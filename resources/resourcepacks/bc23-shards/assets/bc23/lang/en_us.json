@@ -1,0 +1,6 @@
+{
+  "shard_type.bc23.visitor.description": "Visitor Shard",
+  "shard_type.bc23.challenge.description": "Challenge Shard",
+  "shard_type.bc23.secret.description": "Secret Shard",
+  "shard_type.bc23.missing.description": "Missing Shard"
+}
