@@ -1,10 +1,9 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Deploy packwiz pack to github pages
 
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["trunk", "server"]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,22 +28,15 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: import trunk
+      - name: import main
         uses: actions/checkout@v3
         with:
-          ref: trunk
-          path: cdn/trunk
-          clean: false
-      - name: import trunk - clean
-        run: rm -rf cdn/trunk/.git
-      - name: import server
-        uses: actions/checkout@v3
-        with:
-          ref: server
-          path: cdn/server
-          clean: false
-      - name: import server - clean
-        run: rm -rf cdn/server/.git
+          ref: main
+          path: main
+          sparse-checkout: 'pack'
+          sparse-checkout-cone-mode: false
+      - name: import main - clean
+        run: rm -rf cdn/main/.git
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact

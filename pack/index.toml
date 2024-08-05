@@ -254,6 +254,10 @@ hash = "8422e436810d33c4c1adcfec7dc9974f3d687670418682d3aea61c08b09e3ad6"
 metafile = true
 
 [[files]]
+file = "mods/Controlify-1.6.01.20-bc23fix.jar"
+hash = "385b3fc6cf9e7ceacedf60d3278c6aac70c37915db36c732605d12e26c2e2194"
+
+[[files]]
 file = "mods/advanced-networking.pw.toml"
 hash = "50fcbe10eac3abf0b80b9a4bab9c43cee1890e796328e807c3daa5bf0b2f3e50"
 metafile = true
@@ -461,11 +465,6 @@ metafile = true
 [[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "1163602dac7aea2e98a45827d8527d7e596d9f9d72e1aa6c8aebfef39d6d73c9"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "32070a7ec1a9c95fb8bf692e33899e7dd4bcada13be79aa1aaa859bde9689e40"
 metafile = true
 
 [[files]]
@@ -1548,6 +1547,14 @@ file = "resources/datapacks/atlaslisbon-ended-data.zip"
 hash = "6a056c39b6f4a3069f31c932ea09b3cdedb2a16f0817a72b650e0740a025805a"
 
 [[files]]
+file = "resources/datapacks/bc23-shards/data/bc23/shard_type/bc23_types.json"
+hash = "7829c589ea0285e86ae9822307714ec30311c956eb5833e3f7249704fac64257"
+
+[[files]]
+file = "resources/datapacks/bc23-shards/pack.mcmeta"
+hash = "42ef53755badcfc7c802dafa51d642f0bd64aeeb87be4a95d8ee74edb7bf678d"
+
+[[files]]
 file = "resources/datapacks/bovinesandbuttercups_bc23/data/bovinesandbuttercups_bc23/bovinesandbuttercups/configured_cow_type/cyberpunk_mooshroom.json"
 hash = "0c43e889f48bde99fe7e04e74c355f3190344ebd8e59d434cdf4669dbc2b348f"
 
@@ -1906,6 +1913,62 @@ hash = "74ce153773b8ffd0dc4414d2be095e5c032ea49b32269bb85893ab877a317851"
 [[files]]
 file = "resources/resourcepacks/atlaslisbon-ended-lang.zip"
 hash = "dcaf7cc14b66ecce8980698cfa6d7b3cc5097d36dd0cc96cd9c57d1fff001802"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/lang/en_us.json"
+hash = "78cc1d278b3910af97ec3223475bc8c3632c28e530ac1831a0f52f86d761fe35"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/challenge_backing.png"
+hash = "7dbd4adb44f8d7cda51bed74f7a93e292f77f130a6850b5ee9e6807aa72de396"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/challenge_front.png"
+hash = "718ce6536fa231a73e6f557dcf3e7b016e4952e6f4a393f38d9408da5d653a66"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/challenge_mini_backing.png"
+hash = "f19538f56f1829591884c04b26e0d251e56636198c358687502da6fd88b441fc"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/challenge_mini_front.png"
+hash = "bb70b63fadf01e9b377c06cf142b74a6fad3a249d6e0dfe4940fb60e9b3baefb"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/secret_backing.png"
+hash = "3a8a3b13ec1858fa1e8c5a2ac136c32b8e53a8c6541456a94c8006c57151940f"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/secret_front.png"
+hash = "bd64d6be0ecf86fd2587f7d0c8f12c5b8922d859d4c5f7396ff42daf701105ea"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/secret_mini_backing.png"
+hash = "f45de9ac371a2a1de59d92488478b619826eae72054e2215576519074b189318"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/secret_mini_front.png"
+hash = "50e34efaec1f221f1003d5bd888cee73606ea14fda48d98a60364cecb4134dd4"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/visitor_backing.png"
+hash = "31cf806f45c93c47d1e663889551142eedc4e49808f2fa0fd35461b5d2f30598"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/visitor_front.png"
+hash = "3da2c149cd7b3abc3d18415ebb2f5c2eb930c37a48c92d1a5f4b2d4c6563ed5b"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/visitor_mini_backing.png"
+hash = "47badc0322c56e36ce01d0494640ddba1c453adbc62cd8a57c676063efd71d86"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/assets/bc23/textures/gui/shards/visitor_mini_front.png"
+hash = "0aa145cb808d233a5ceca62e69cbe3505d4e21684e0bb8196bcade3edd55797f"
+
+[[files]]
+file = "resources/resourcepacks/bc23-shards/pack.mcmeta"
+hash = "f47dc89c8f51b810e4c478174da6e437bafff86047ff9724cd5f4b541ddf1751"
 
 [[files]]
 file = "resources/resourcepacks/betterdiscs.pw.toml"

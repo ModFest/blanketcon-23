@@ -1,11 +1,4 @@
-# Exclude exported CurseForge zip files
-./*.zip
-
-# Exclude exported Modrinth modpacks
-*.mrpack
-
-# Exclude jetbrains IDE files
-.idea
-
-# Exclude Mac metadata files
+.idea/
 .DS_Store
+
+*.mrpack

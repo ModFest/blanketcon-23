@@ -1,7 +1,0 @@
-name = "controlify"
-filename = "Controlify-1.6.01.20-bc23fix.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/1127341468219080814/1144210746717245541/Controlify-1.6.01.20-bc23fix.jar"
-hash-format = "sha256"
-hash = "385b3fc6cf9e7ceacedf60d3278c6aac70c37915db36c732605d12e26c2e2194"
