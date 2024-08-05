@@ -1,0 +1,13 @@
+name = "TeaBridge"
+filename = "teabridge-1.2.3-mc1.20.1-rev.e345de2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fhtWl3kP/versions/eDlnpfHd/teabridge-1.2.3-mc1.20.1-rev.e345de2.jar"
+hash-format = "sha1"
+hash = "10be00593f4b79e4bd61c0bf047e149e0f5d4710"
+
+[update]
+[update.modrinth]
+mod-id = "fhtWl3kP"
+version = "eDlnpfHd"

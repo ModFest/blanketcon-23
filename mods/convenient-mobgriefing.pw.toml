@@ -1,0 +1,13 @@
+name = "Convenient mobGriefing"
+filename = "convenient-mobgriefing-2.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FJI3H6YI/versions/GYP5cKT7/convenient-mobgriefing-2.1.0.jar"
+hash-format = "sha1"
+hash = "bd7bc0b40fda8a145273d9da05641f5a511c0443"
+
+[update]
+[update.modrinth]
+mod-id = "FJI3H6YI"
+version = "GYP5cKT7"

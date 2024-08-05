@@ -21,3 +21,6 @@ git
 
 # Exclude GitHub workflows
 .github/
+
+# Ignore music on the server
+music/
