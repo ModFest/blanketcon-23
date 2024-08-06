@@ -18,7 +18,7 @@ This modpack contains all mods from the event - and the showcase world, packed w
 - Traverse the map by trains, trams, and cars - plus on foot with odd food, slippery shoes, and more!
 - Find and earn 298 collectible "shards", tracking booth visits, hidden secrets, and tricky challenges!
 - Revisit the world where it all went down - or just check it out for the first time!
-- Observe the crushing ennui of late-stage capitalism! (huh?)
+- Experience the crushing ennui of late-stage capitalism! (huh?)
 
 <center>
 <img width="50%" alt="closing ceremony screenshot" src="https://cdn.modrinth.com/data/pUF1Af7c/images/2f5a56559773477415fb2735d00c386dc2a67e5c.webp"/><br/>
