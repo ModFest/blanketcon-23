@@ -1915,6 +1915,122 @@ file = "resources/resourcepacks/atlaslisbon-ended-lang.zip"
 hash = "dcaf7cc14b66ecce8980698cfa6d7b3cc5097d36dd0cc96cd9c57d1fff001802"
 
 [[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/case_base.png"
+hash = "f913858fc8c93faa6fea5d3f4da46e3fb03f0a14e224574c1379e9157cec8183"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/case_base_w_corners.png"
+hash = "f2ac6cb9beeba0954620b9e25f7670eca088a0e37ba6dd0308e4a19b33eec9bd"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keys_base_full.png"
+hash = "6d46a8c1fd5d8065b1ba53d08d1bd166644d26128ccf5b4bba662d2ff3bc9cc8"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keys_base_v2.png"
+hash = "63de0c5f9178fb5998d25a1eeaab61c55c2d2c4225c890b772e143231745eb22"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/arrow_keys.png"
+hash = "7397b38fbc937307f9c2dc044435f874b8e3e6c81ffc3b2061ff1d3fc3855286"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/back_key.png"
+hash = "b1feba5c35b722e06fb3b988ebb810d0596498477d10b3f4d154ef1c11010c83"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/backslash_key.png"
+hash = "9f5cae12bc726d1b6770f714d6f04e8327db9626abcc4b83c442641025148477"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/caps_key.png"
+hash = "3017a8e898400e5c9051dca0aa5656b8fb0d393ec037428da19bb82179df44d0"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/enter_key.png"
+hash = "c8e47ff2ed7dcd934cd470cb813484e3a80d168da2269d49f2a8f42d0be4f9cc"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/esc_key.png"
+hash = "9f4d7ccac4b3145460bb1adea2b9a153ce7c4154bac26885f76967ec05dcd796"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/grave_key.png"
+hash = "a07ab5ddde302afe929e1119185ffb29338989c085f445678b9070796ecee012"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/left_fn_keys.png"
+hash = "73a8986e769c65d36d5405eaeb53291d93c6272c2924c3bd2d6ac65a2b72c07c"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/lshift.png"
+hash = "102f52dad6742b67dad58681232294557cf3ffee02ae1ab3bed215abdfa3c7dd"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/mid_fn_keys.png"
+hash = "63570f18d26452bd73c2404f16ccd6fe9e85310c9b90ddbcbe69dcbdddc32569"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/mid_side_keys.png"
+hash = "568afd43bde27d16c85ec5eb07635f2532b3142b3e247e1b57ce9bc14e71fcce"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/modifier_keys_left.png"
+hash = "5b43a466df75ce2dcc91726ff36453f7dce744a381f41207413576f9d83690f5"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/modifier_keys_right.png"
+hash = "137f396b00c9edd8a322bcff028f4207b3d03baf97ba38fa747abdc007df471f"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/most_keys.png"
+hash = "b12b3865f401e3773413f4376530eb158af74566251e1af3703bb927a285d4a7"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/num_row.png"
+hash = "82086ab30b2d535fe214a85b1ecfcf8831e1d38e9a81a9bdd64d0e62297a6bb2"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/right_fn_keys.png"
+hash = "f014c582b9e185c535bb2ef2772cfde6a27a36b9e530aefecbff00a87c620f1f"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/rshift.png"
+hash = "4a70eb7a13d239df1d5d9289928d44b2a690dd98ea325a65dd3c8040e0658619"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/screen_keys.png"
+hash = "1cb307b6d206696434526d5033d18cc393ff113dd83b2c73019427f35b8e2d40"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/space_key.png"
+hash = "141e8db5bf54adae8366e107d39b07cb99bce94c175234a65043624641107e00"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/tab_key.png"
+hash = "5232e48333510b1ded9692ff646576e51b26a09d04d2af6ba87291826082b4e3"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/top_side_keys.png"
+hash = "9de866c9d92f12d5a866d03490f7d6c8d4a713d4cdb9a5b5c5354ecfd3003aae"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/ducky-periphs/textures/block/keyboard/keyzones/wasd_keys.png"
+hash = "dcbee4f1378e0c58740ce0b891a2a6473b55d872b318e61c7cd12491452ef0c6"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/terracotta_knights/textures/item/tiny_diamond_pitchfork_model_texture.png"
+hash = "02f8c800b2c900bb7cd894724ab256c198c9efe1ee0b5a4be508fe0246b364b3"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/assets/yttr/textures/block/inred_effect/lights_glow.png"
+hash = "9677068ec2d314ba3ec91dbbe4c73c8d013d78b1979df60abe2ca0ea5d292ec1"
+
+[[files]]
+file = "resources/resourcepacks/bc23-fixes/pack.mcmeta"
+hash = "471cc1028be31647a2c1d43689de7a1bb1240a53b6c390f7845695ad8e651469"
+
+[[files]]
 file = "resources/resourcepacks/bc23-shards/assets/bc23/lang/en_us.json"
 hash = "78cc1d278b3910af97ec3223475bc8c3632c28e530ac1831a0f52f86d761fe35"
 
