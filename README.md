@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
-<center><img alt="world preview" src="https://cdn.modrinth.com/data/pUF1Af7c/images/aad4b9f99b34a4b2634138e5b0f09091ee96d0a2.png" /></center>
+<center><img alt="world preview" src="https://cdn.modrinth.com/data/pUF1Af7c/images/9f37b5e7044f05be300b8a8dc16ba7f9f05349f2.png" /></center>
 
 <center>
 Cyberpunk and Solarpunk!<br/>
@@ -21,7 +21,7 @@ This modpack contains all mods from the event - and the showcase world, packed w
 - Experience the crushing ennui of late-stage capitalism! (huh?)
 
 <center>
-<img width="50%" alt="closing ceremony screenshot" src="https://cdn.modrinth.com/data/pUF1Af7c/images/2f5a56559773477415fb2735d00c386dc2a67e5c.webp"/><br/>
+<img width="50%" alt="closing ceremony screenshot" src="https://cdn.modrinth.com/data/pUF1Af7c/images/369d8bd168e9fd77a0320e69bd58c3f4f71e4163.png"/><br/>
 <i>See you space cowboy...</i>
 </center>
 
