@@ -1,6 +1,6 @@
 name = "Disable Insecure Chat Toast"
 filename = "DisableInsecureChatToast-mc1.20-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/i090SePT/versions/UGKpfpZ6/DisableInsecureChatToast-mc1.20-1.1.0.jar"

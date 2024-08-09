@@ -1,6 +1,6 @@
 name = "Ledger"
 filename = "ledger-1.2.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/pOxgWfwI/ledger-1.2.8.jar"

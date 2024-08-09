@@ -1,6 +1,6 @@
 name = "Convenient mobGriefing"
 filename = "convenient-mobgriefing-2.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FJI3H6YI/versions/GYP5cKT7/convenient-mobgriefing-2.1.0.jar"

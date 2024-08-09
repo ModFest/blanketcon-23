@@ -1,6 +1,6 @@
 name = "Restart Server"
 filename = "restart-server-1.1.1+mc1.19.x-1.20.x.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zG0Bb7gw/versions/QfZYXGW1/restart-server-1.1.1%2Bmc1.19.x-1.20.x.jar"

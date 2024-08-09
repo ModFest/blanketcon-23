@@ -1,6 +1,6 @@
 name = "LuckPerms"
 filename = "LuckPerms-Fabric-5.4.88.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Vebnzrzj/versions/7VG8Evoq/LuckPerms-Fabric-5.4.88.jar"

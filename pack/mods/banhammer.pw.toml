@@ -1,6 +1,6 @@
 name = "BanHammer"
 filename = "banhammer-0.7.0+1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wpqg0ciI/versions/90JY9flG/banhammer-0.7.0%2B1.20.jar"
