@@ -10,7 +10,7 @@ A collaboration between 133 modders, as hosted by <a href="https://modfest.net">
 
 **BlanketCon '23** was an in-minecraft virtual event that ran from August 26th through August 29th, 2023.
 
-This modpack contains all mods from the event - and the showcase world, packed with community-made booths!
+This modpack contains all mods from the event - and the convention world, packed with community-made booths!
 
 **Key Features**:
 - Check out 137 convention "booths" built to show off mods, modpacks, and other modding projects!
