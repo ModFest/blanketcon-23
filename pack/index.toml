@@ -1243,11 +1243,6 @@ hash = "7a164fe7c2b1ebb34fc029c7634c27a831f9d31637b2416e4ea1e34c80e933a6"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
-metafile = true
-
-[[files]]
 file = "mods/stimuli.pw.toml"
 hash = "bb4da439447db38e8f290b59b91b42a7c0a4b4ff713192681f815e2ff2793cbd"
 metafile = true
