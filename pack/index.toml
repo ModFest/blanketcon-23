@@ -1522,8 +1522,192 @@ hash = "e7c9494225cab2923584dd85c771c3f7c493071b6299b81a2ead6ded75e106bb"
 metafile = true
 
 [[files]]
+file = "music/AimToHead_01_HAIL.ogg"
+hash = "a349f88cef9ada699434d7b682050ff9363d04713e573a7496a59371a62a086c"
+
+[[files]]
+file = "music/AimToHead_02_KARNAL.ogg"
+hash = "e6f811fb53e052ed5a2e78f20610819029576877e2cb2ae0226385b1039f86d6"
+
+[[files]]
+file = "music/AimToHead_03_THROB.ogg"
+hash = "fd8e3408651f0ce8d296f005fb4233c3da1d23ebfea9f94ff9c2d09649e3f057"
+
+[[files]]
+file = "music/AimToHead_04_UNLOGIC.ogg"
+hash = "2946d0722d5c14a954e3d4918b48209cc16a39c8ab28b6def213a684dd0654b0"
+
+[[files]]
+file = "music/AimToHead_05_BITE.ogg"
+hash = "2f47ce5b7c15aba1bbd61c4b3dc8839b8eee36dc778a5378407fc09495605250"
+
+[[files]]
+file = "music/AimToHead_06_MASSACRE.ogg"
+hash = "099d14eb05d534a97d016bd70fc6ff918a662d0538e75cd25d0bc08c3c487dfb"
+
+[[files]]
+file = "music/AimToHead_07_CHAINS.ogg"
+hash = "ba8394ea700387e64420ecdac15d6ad937d43688381f520c415dceb5527550ac"
+
+[[files]]
+file = "music/AimToHead_08_ANGER.ogg"
+hash = "d9ccab464a834d22372404c9035bde4dc5eab098e1afd48eae36d598117e1d81"
+
+[[files]]
+file = "music/AimToHead_09_TERRIFY.ogg"
+hash = "56e5f6d2b4a164388a0d959adc51fa7bf73e1c72a7b60c2e06f6e2c797c3be8e"
+
+[[files]]
+file = "music/AimToHead_10_FACTORY.ogg"
+hash = "1ae103b2615a7b33c1279177e8a23fe7cc56a17c7084b3adf08cfc643203753c"
+
+[[files]]
+file = "music/AimToHead_11_CRAWL.ogg"
+hash = "2dc425304b9f99381265c2299f6f1a78673a305252a23b1891f1d15a57bd3cb5"
+
+[[files]]
+file = "music/AimToHead_12_SILVER.ogg"
+hash = "616313605761f3ebf698e82c7dbeec8513c483c0a59e21f8d47373d1cc4a191e"
+
+[[files]]
+file = "music/AimToHead_13_CLOCKWORK.ogg"
+hash = "6f1e7a6d5bc604d89e8ba33ea1fe0fc9870e78ba5ec64f612bafaa199a789c68"
+
+[[files]]
+file = "music/AimToHead_14_GAUSS.ogg"
+hash = "6ae48307511a8ae257830a77386ddc29949b548bc278e766ec36740d54cfb768"
+
+[[files]]
+file = "music/Aureate_DesertHeat.xm.bz2"
+hash = "c122f3c055a9e4982c73caeda194d9c32d1b8f2508365792d027c0529b66ffa9"
+
+[[files]]
+file = "music/Aureate_Torus.xm.bz2"
+hash = "844e93df4833a4629ef40333838c10cea812ea57a5774da94bfafda0c29b95b0"
+
+[[files]]
+file = "music/AzuCrystal_Nonanotes.ogg"
+hash = "79af76345a76947bdda7ea51e5bf8b9134dea2eced49807ef4bc88cce4479ff7"
+
+[[files]]
+file = "music/Beethoven_MoonlightSonata.ogg"
+hash = "0f8c5a4a0da4fc325d2709faf8572e066e5bd68235771a8c74ec564389bb471f"
+
+[[files]]
+file = "music/BobbyCole_TranceMusicForRacingGame.ogg"
+hash = "6dff0e925c3ce476aa47f557de610ae71c2a5eb3c8277e88ee7ef9c08f89e619"
+
+[[files]]
+file = "music/C418_AriaMath.json"
+hash = "7d6fe3199d4a3a7ebacf9bfd9f179aa58bf27492cbccda1c8d6affcc86d2387f"
+
+[[files]]
+file = "music/C418_Battlemode_1.ogg"
+hash = "9c48cb013ffd3911e0e8bbb3bcb2d39a204a911f00b55f7853f273fb045e8a5b"
+
+[[files]]
+file = "music/C418_Battlemode_2.ogg"
+hash = "391c910a74849f991b5dde128649b3d61e6afe87caea7cdf34e417ecbd9f4e3c"
+
+[[files]]
+file = "music/C418_Battlemode_3.ogg"
+hash = "32766d357ce61f3311c4f7fa7cc3ade6a0230843cd84da0de16eb2dfd3c0eb92"
+
+[[files]]
+file = "music/C418_Battlemode_4.ogg"
+hash = "b0c97f4dffba70f7b2cce0f56a9bbfbbae1d111d060cecef005e984afa9c8a23"
+
+[[files]]
+file = "music/C418_Beginning2.json"
+hash = "64ce7be3ab81c96b0c581ef9f42f67bfd1769ac5788ba7ba9176ecb17327df90"
+
+[[files]]
+file = "music/C418_BiomeFest.json"
+hash = "d42226631871bcc231bd34d84a8fcf6ede7c2555e75449af683bcda8c5c6e210"
+
+[[files]]
+file = "music/C418_BlindSpots.json"
+hash = "f0cab9d6020dd86d631a7de7d69f328b84fc14a1d51c0f45f86f1a2fa99df67b"
+
+[[files]]
+file = "music/C418_Dreiton.json"
+hash = "4e13c2c51940885f9a49c469e0bb9e8c6709313363965e40f91f67c6c91dd572"
+
+[[files]]
+file = "music/C418_FloatingTrees.json"
+hash = "b8dfafe2a1f95edaa10044dd8b16b867f3d7a704d1c8aaeea4ba956b8c097aaf"
+
+[[files]]
+file = "music/C418_HauntMuskie.json"
+hash = "dd3526168b2fc7ab0c2cca4843b63370b25300732969be05dec81a7863b55bef"
+
+[[files]]
+file = "music/C418_MoogCity2.json"
+hash = "1b910df5f6ccb7977ad23fe0ba37a9fcbd00d2aba25e53b01d1a59a575ea3357"
+
+[[files]]
+file = "music/C418_Mutation.json"
+hash = "b08ff8cb6e79624a88e5ac945550e51eb659351846a251aae957ee38f95497de"
+
+[[files]]
+file = "music/C418_Taswell.json"
+hash = "eaeca90000fa35ca7711029c6fc7679c54f52e6e53f997f70d721598295ff8a5"
+
+[[files]]
+file = "music/Chopin_PreludeOp28No15.ogg"
+hash = "e51d017607d9aa55cde86e95457027b7c311fb03e64663297db36947725a3bc9"
+
+[[files]]
+file = "music/Faction_AnarchyMainRemix.mod.bz2"
+hash = "939d14b1cdf70a280b139dcd282d239afedd51f034c873fa77604d5792c0aacf"
+
+[[files]]
+file = "music/Holst_ThePlanets_Jupiter.ogg"
+hash = "196c92f391f6f8d08a417cd31e27b832bc8d986e0d83e56cece1494b9f4863ca"
+
+[[files]]
+file = "music/Jester_Elysium.mod.bz2"
+hash = "a4b44e819a97716c129e156b47dd397ce10c0b238d01534f70b7fd4ee25a8c51"
+
+[[files]]
+file = "music/MikeMorasky_MachiavellianBach.ogg"
+hash = "5661bf4b2edf99903f131f804eb1b054d58dbac1a49ebe02eef549a2988b6a06"
+
+[[files]]
+file = "music/MikeMorasky_RobotsFTW.ogg"
+hash = "2a6e81069191b9dc00257e1d8ddee67b34f1244eeb25a203dcda438960d46103"
+
+[[files]]
+file = "music/MikeMorasky_TurretWifeSerenade.ogg"
+hash = "734cc293ea62cc9182651209dfe5c46b8ef159f355f6595762c5c72145c25000"
+
+[[files]]
+file = "music/Schubert_Standchen.ogg"
+hash = "e088734d6279d65cf17e17e1850ce60cde06b5736c49e4ae4714e39b981051e9"
+
+[[files]]
+file = "music/SiivaGunner_Cat_InfdevMix.ogg"
+hash = "da25c058485102e158a4771d2e4171fbeb1e50be43c9ee30d320719cb275092f"
+
+[[files]]
+file = "music/Tchaikovsky_SwanLakeOp20.ogg"
+hash = "182cf3a304bb8af4f457f52ea20c74702b32aea7c41ce65406920dc9da015579"
+
+[[files]]
+file = "music/ThatAndyGuy_DaFunkDoYouKnowBoutChip.ogg"
+hash = "04c9591e57350b7bf94cde17db8cf5f1ec6f501e8a8f3fe5258cec6ad2f5baf5"
+
+[[files]]
+file = "music/TheConetProject_ThreeNoteOddity.ogg"
+hash = "252869457563dc88502a074c855b28371fb62c1e5f2ad8dac468d9edee96b02e"
+
+[[files]]
+file = "music/Undertale_ItsShowtime.ogg"
+hash = "5818643cfc0071481745fb80f47690cf55e6e73efda5d3986cdb5086f118686e"
+
+[[files]]
 file = "options.txt"
-hash = "a654fcff2e96f18bb400141fa77d80ecf8cabf0f77bdbd6763b43c62c8442696"
+hash = "73f652fae2c53a12daa66acb1dcc9e4de347563df8ffc8abcf926cbbd6c8dd1e"
 
 [[files]]
 file = "resourcepacks/mojang_mooblooms_bc23.zip"
@@ -2103,5 +2287,9 @@ file = "resources/resourcepacks/twemojis.zip"
 hash = "77fd21d736e443a5418117a34e68393ee93020be42b0861e503fcc2e25382515"
 
 [[files]]
-file = "servers.dat"
-hash = "10c17f2de6cb6e8d23161f72e6d9af8fdf1e39bbe29417d517fc4eaa579ca7b0"
+file = "server-icon.png"
+hash = "3ef6d8d984a91bc8c85bd3573fca6ec6f547b0bbb5eac818c7f1229e59d26f60"
+
+[[files]]
+file = "server.properties"
+hash = "e832aebe3913ee0e1292fe6f544a0759d5111eb9cd3fd6624182013c62fa8967"

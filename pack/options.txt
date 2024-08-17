@@ -1,6 +1,8 @@
 version:3465
-darkMojangStudiosBackground:true
 skipMultiplayerWarning:true
+tutorialStep:none
+autoJump:false
+darkMojangStudiosBackground:true
 joinedFirstServer:true
 key_key.advancements:key.keyboard.unknown
 key_key.affectionate.interact:key.keyboard.k
