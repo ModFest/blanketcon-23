@@ -66,7 +66,7 @@ hash = "8591ca3424b7579cb159e5a67a097335c07bd3320be81cef908a026f472993d5"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "df28e2a09218bd17e3be794eba4c083f71163b65ceac9bef382ec0b8eedee2b2"
+hash = "1a18ae45b492e857bc7cff83e955390d612f695b969ba5098d62c24792d1a51f"
 
 [[files]]
 file = "config/fastload.properties"
