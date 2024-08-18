@@ -1,6 +1,6 @@
-name = "BlanketCon 23"
-author = "LemmaEOF, UltraStorm"
-version = "2023.8.25.1"
+name = "BlanketCon '23"
+author = "ModFest"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
